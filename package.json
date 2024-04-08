@@ -1,0 +1,27 @@
+{
+	"name": "connectdata",
+	"version": "1.0.0",
+	"description": "",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon --experimental-modules --es-module-specifier-resolution=node index.js",
+		"start": "node import.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "MIT",
+	"dependencies": {
+		"body-parser": "^1.20.2",
+		"compression": "^1.7.4",
+		"cookie-parser": "^1.4.6",
+		"cors": "^2.8.5",
+		"dotenv": "^16.4.5",
+		"express": "^4.19.2",
+		"moment-timezone": "^0.5.45",
+		"mongodb": "^6.5.0",
+		"mongoose": "^8.3.0",
+		"morgan": "^1.10.0",
+		"nodemon": "^3.1.0"
+	}
+}
