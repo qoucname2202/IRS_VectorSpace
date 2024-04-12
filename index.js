@@ -50,7 +50,7 @@ const getArticlesDetails = async articleIdPairs => {
 	}
 };
 // Searching endpoint
-app.get('/search', async (req, res) => {
+app.post('/search', async (req, res) => {
 	try {
 		const { keyword } = req.body;
 		const articles = await ArticlesModel.find();
@@ -65,7 +65,7 @@ app.get('/search', async (req, res) => {
 		const articleRecommend = await getArticlesDetails(articleIdPairs);
 		res.status(200).json({
 			statusCode: 200,
-			message: 'Get ',
+			message: 'Get all news successfully!',
 			data: articleRecommend,
 			dateTime: formattedDateTime,
 		});
