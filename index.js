@@ -18,6 +18,7 @@ app.use(cookieParser());
 const url = process.env.DB_URL;
 const port = process.env.PORT;
 const host = process.env.HOST;
+const dbNews = process.env.DB_NAME_VNEXPRESS;
 
 app.use(compression());
 app.use(cors());
@@ -33,7 +34,7 @@ const formattedDateTime = nowUtc.format('DD/MM/YYYYTHH:mm:ss');
 
 // Connect mongodb
 mongoose
-	.connect(url)
+	.connect(`${url}${dbNews}`)
 	.then(() => console.log('MongoDB connected...'))
 	.catch(err => console.error('MongoDB connection error:', err));
 
