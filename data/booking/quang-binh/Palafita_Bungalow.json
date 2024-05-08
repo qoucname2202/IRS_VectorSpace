@@ -1,0 +1,2228 @@
+{
+    "name": "Palafita Bungalow",
+    "address": "Co Giang, Hung Trach commute, Bo Trach district, Phong Nha, Việt Nam",
+    "description": "Palafita Bungalow có xe đạp miễn phí, hồ bơi ngoài trời, khu vườn và phòng chờ chung ở Phong Nha. Khách sạn có sân hiên và nhìn ra thành phố, ngoài ra du khách có thể thưởng thức bữa ăn tại nhà hàng hoặc đồ uống tại quầy bar.\n\nTại khách sạn, mỗi phòng đều được thiết kế có bàn làm việc, ga trải giường và ban công với view núi. Phòng tắm riêng được trang bị vòi xịt/chậu rửa vệ sinh, đồ vệ sinh cá nhân miễn phí và máy sấy tóc. Tại Palafita Bungalow, tất cả các phòng đều có điều hòa và két an toàn.\n\nChỗ nghỉ có phục vụ bữa sáng món chay và món thuần chay hằng ngày.\n\nLeo núi và đi xe đạp là hoạt động được ưa chuộng trong khu vực. Ngoài ra, Palafita Bungalow có dịch vụ thuê ô tô.\n\nLễ tân tại khách sạn có thể cung cấp các thông tin hữu ích để giúp du khách tham quan khu vực xung quanh một cách thuận tiện.\n\nSân bay gần nhất là Sân bay Đồng Hới, cách Palafita Bungalow 33 km, đồng thời chỗ nghỉ này cũng cung cấp dịch vụ đưa đón sân bay mất phí.",
+    "rating": "9.3",
+    "total_rating": "125",
+    "evaluation_categories": {
+        "service_staff": 9.8,
+        "amenities": 9.0,
+        "cleanliness": 9.2,
+        "comfort": 9.2,
+        "value_for_money": 9.5,
+        "location": 8.8,
+        "free_wifi": 7.5
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hoài",
+                "avatar": "https://graph.facebook.com/v2.9/1944238002572579/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/03/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng đẹp , giá rẻ , có hồ bơi xinh\nnhân viên quá nhiệt tình",
+                "comment_negative": "hơi xa thành phố"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2024",
+                "rating": "Quá tuyệt vời",
+                "score": 10.0,
+                "room_type": "Bungalow Gia Đình",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/06/2023",
+                "rating": "Ok",
+                "score": 10.0,
+                "room_type": "Bungalow 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phúc vụ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "15/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 người Nhìn ra cảnh Núi non",
+                "stay_duration": "3 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhóm mình tham gia giải chạy ở QB nên có book homestay tại Palafita 4ngày 3 đêm. Tụi mình rất hài lòng trong khoảng thời gian ở đây. Homestay nằm cách trung tâm Phong Nha khoảng 5km, nên không gian yên tĩnh với view cánh đồng xanh mướt. Chị chủ cũng rất nhiệt tình hỗ trợ khi tụi mình nhờ chị book xe giùm, đặc biệt đồ ăn ở homestay rất ngon, tuy là các món thường ăn hàng ngày nhưng qua tay chị chủ thì trở nên ngon không ngờ :)",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Đoàn chúng tôi đã có một kỳ nghỉ tuyệt vời tại khu nghỉ dưỡng",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian của khu nghỉ rất yên tĩnh, hài hòa với thiên nhiên, đồng quê. Khu nghỉ dưỡng ấm cúng, sạch sẽ, đầy đủ tiện nghi. Hai bạn chủ nhà rất nhiệt tính, hiếu khách, chu đáo và thân thiện. Mọi nhu cầu của khách đều được đáp ứng đầy đủ. Khu nghỉ cung cấp dịch vụ ăn uống, tiệc BBQ, karaoke và có hồ bơi, xe đạp/xe máy cho khách thuê.\nNhóm chúng tôi đã nghỉ ở đây năm 2019 và rất hài lòng với dịch vụ của khu lưu trú nên đã quay lại nghỉ dưỡng tại đây năm 2022. KS cũng hỗ trợ mức ra rất ưu đãi cho đoàn.",
+                "comment_negative": "Vì vị trí của KS hơi xa trung tâm thị trấn, KS đã cung cấp dịch vụ cho thuê xe máy để khách tự đi lại. Với nhóm gia đình tự lái  xe như chúng tôi, đây không phải là trở ngại. Ngược lại, vị trí của khách sạn rất thoáng mát, yên tĩnh, phù hợp với nhu cầu nghỉ dưỡng của đoàn.\nKS nên có thêm một số trò chơi dân gian cho trẻ nhỏ (bập bênh, xích đu...)  như trước đây đã từng có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://lh6.googleusercontent.com/-9PCwymPmoaM/AAAAAAAAAAI/AAAAAAAAALc/lvlKtzivKvw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/08/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Vị trí ok",
+                "comment_negative": "Nhà vs hơi nhỏ,nhưng cũng ok  đủ dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hải",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "anh chị chủ thân thiện, không gian rộng rãi, thoải mái",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It was a perfect oasis to calm down after visiting vietnams busy cities. The host is super kind and made our stay wonderful.",
+                "comment_negative": "The pool was to warm to cool off during the day, but I also don’t know how to prevent that from happening when it’s over 35 degrees outside."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Courtney",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Fantastic",
+                "score": 10.0,
+                "room_type": "Bungalow Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The facilities were amazing! In a great location with amazing views of the countryside. Room was very clean. The family that own it are amazing and so kind and very helpful of you need anything. Food was amazing! Would definitely stay again",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Boris",
+                "avatar": null,
+                "country": "Slovenia"
+            },
+            "review": {
+                "date": "6/03/2024",
+                "rating": "Superb experience",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Staying at Palafita in Phong Nha was outstanding. The place near rise fields is quiet and on the other hand so near to all the attractions and the village. And Hoa is an amazing cook, fulfilling all our wishes. She gave us a lots of advises what to see and what to do and helps us to get the transportation.",
+                "comment_negative": "The bathroom (and bicycles) would need sone repairs."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoài",
+                "avatar": "https://graph.facebook.com/v2.9/1944238002572579/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/03/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng đẹp , giá rẻ , có hồ bơi xinh\nnhân viên quá nhiệt tình",
+                "comment_negative": "hơi xa thành phố"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2024",
+                "rating": "Quá tuyệt vời",
+                "score": 10.0,
+                "room_type": "Bungalow Gia Đình",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/06/2023",
+                "rating": "Ok",
+                "score": 10.0,
+                "room_type": "Bungalow 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phúc vụ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "15/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 người Nhìn ra cảnh Núi non",
+                "stay_duration": "3 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhóm mình tham gia giải chạy ở QB nên có book homestay tại Palafita 4ngày 3 đêm. Tụi mình rất hài lòng trong khoảng thời gian ở đây. Homestay nằm cách trung tâm Phong Nha khoảng 5km, nên không gian yên tĩnh với view cánh đồng xanh mướt. Chị chủ cũng rất nhiệt tình hỗ trợ khi tụi mình nhờ chị book xe giùm, đặc biệt đồ ăn ở homestay rất ngon, tuy là các món thường ăn hàng ngày nhưng qua tay chị chủ thì trở nên ngon không ngờ :)",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Đoàn chúng tôi đã có một kỳ nghỉ tuyệt vời tại khu nghỉ dưỡng",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian của khu nghỉ rất yên tĩnh, hài hòa với thiên nhiên, đồng quê. Khu nghỉ dưỡng ấm cúng, sạch sẽ, đầy đủ tiện nghi. Hai bạn chủ nhà rất nhiệt tính, hiếu khách, chu đáo và thân thiện. Mọi nhu cầu của khách đều được đáp ứng đầy đủ. Khu nghỉ cung cấp dịch vụ ăn uống, tiệc BBQ, karaoke và có hồ bơi, xe đạp/xe máy cho khách thuê.\nNhóm chúng tôi đã nghỉ ở đây năm 2019 và rất hài lòng với dịch vụ của khu lưu trú nên đã quay lại nghỉ dưỡng tại đây năm 2022. KS cũng hỗ trợ mức ra rất ưu đãi cho đoàn.",
+                "comment_negative": "Vì vị trí của KS hơi xa trung tâm thị trấn, KS đã cung cấp dịch vụ cho thuê xe máy để khách tự đi lại. Với nhóm gia đình tự lái  xe như chúng tôi, đây không phải là trở ngại. Ngược lại, vị trí của khách sạn rất thoáng mát, yên tĩnh, phù hợp với nhu cầu nghỉ dưỡng của đoàn.\nKS nên có thêm một số trò chơi dân gian cho trẻ nhỏ (bập bênh, xích đu...)  như trước đây đã từng có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://lh6.googleusercontent.com/-9PCwymPmoaM/AAAAAAAAAAI/AAAAAAAAALc/lvlKtzivKvw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/08/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Vị trí ok",
+                "comment_negative": "Nhà vs hơi nhỏ,nhưng cũng ok  đủ dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hải",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "anh chị chủ thân thiện, không gian rộng rãi, thoải mái",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It was a perfect oasis to calm down after visiting vietnams busy cities. The host is super kind and made our stay wonderful.",
+                "comment_negative": "The pool was to warm to cool off during the day, but I also don’t know how to prevent that from happening when it’s over 35 degrees outside."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Courtney",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Fantastic",
+                "score": 10.0,
+                "room_type": "Bungalow Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The facilities were amazing! In a great location with amazing views of the countryside. Room was very clean. The family that own it are amazing and so kind and very helpful of you need anything. Food was amazing! Would definitely stay again",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Boris",
+                "avatar": null,
+                "country": "Slovenia"
+            },
+            "review": {
+                "date": "6/03/2024",
+                "rating": "Superb experience",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Staying at Palafita in Phong Nha was outstanding. The place near rise fields is quiet and on the other hand so near to all the attractions and the village. And Hoa is an amazing cook, fulfilling all our wishes. She gave us a lots of advises what to see and what to do and helps us to get the transportation.",
+                "comment_negative": "The bathroom (and bicycles) would need sone repairs."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoài",
+                "avatar": "https://graph.facebook.com/v2.9/1944238002572579/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/03/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng đẹp , giá rẻ , có hồ bơi xinh\nnhân viên quá nhiệt tình",
+                "comment_negative": "hơi xa thành phố"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2024",
+                "rating": "Quá tuyệt vời",
+                "score": 10.0,
+                "room_type": "Bungalow Gia Đình",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/06/2023",
+                "rating": "Ok",
+                "score": 10.0,
+                "room_type": "Bungalow 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phúc vụ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "15/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 người Nhìn ra cảnh Núi non",
+                "stay_duration": "3 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhóm mình tham gia giải chạy ở QB nên có book homestay tại Palafita 4ngày 3 đêm. Tụi mình rất hài lòng trong khoảng thời gian ở đây. Homestay nằm cách trung tâm Phong Nha khoảng 5km, nên không gian yên tĩnh với view cánh đồng xanh mướt. Chị chủ cũng rất nhiệt tình hỗ trợ khi tụi mình nhờ chị book xe giùm, đặc biệt đồ ăn ở homestay rất ngon, tuy là các món thường ăn hàng ngày nhưng qua tay chị chủ thì trở nên ngon không ngờ :)",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Đoàn chúng tôi đã có một kỳ nghỉ tuyệt vời tại khu nghỉ dưỡng",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian của khu nghỉ rất yên tĩnh, hài hòa với thiên nhiên, đồng quê. Khu nghỉ dưỡng ấm cúng, sạch sẽ, đầy đủ tiện nghi. Hai bạn chủ nhà rất nhiệt tính, hiếu khách, chu đáo và thân thiện. Mọi nhu cầu của khách đều được đáp ứng đầy đủ. Khu nghỉ cung cấp dịch vụ ăn uống, tiệc BBQ, karaoke và có hồ bơi, xe đạp/xe máy cho khách thuê.\nNhóm chúng tôi đã nghỉ ở đây năm 2019 và rất hài lòng với dịch vụ của khu lưu trú nên đã quay lại nghỉ dưỡng tại đây năm 2022. KS cũng hỗ trợ mức ra rất ưu đãi cho đoàn.",
+                "comment_negative": "Vì vị trí của KS hơi xa trung tâm thị trấn, KS đã cung cấp dịch vụ cho thuê xe máy để khách tự đi lại. Với nhóm gia đình tự lái  xe như chúng tôi, đây không phải là trở ngại. Ngược lại, vị trí của khách sạn rất thoáng mát, yên tĩnh, phù hợp với nhu cầu nghỉ dưỡng của đoàn.\nKS nên có thêm một số trò chơi dân gian cho trẻ nhỏ (bập bênh, xích đu...)  như trước đây đã từng có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://lh6.googleusercontent.com/-9PCwymPmoaM/AAAAAAAAAAI/AAAAAAAAALc/lvlKtzivKvw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/08/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Vị trí ok",
+                "comment_negative": "Nhà vs hơi nhỏ,nhưng cũng ok  đủ dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hải",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "anh chị chủ thân thiện, không gian rộng rãi, thoải mái",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It was a perfect oasis to calm down after visiting vietnams busy cities. The host is super kind and made our stay wonderful.",
+                "comment_negative": "The pool was to warm to cool off during the day, but I also don’t know how to prevent that from happening when it’s over 35 degrees outside."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Courtney",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Fantastic",
+                "score": 10.0,
+                "room_type": "Bungalow Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The facilities were amazing! In a great location with amazing views of the countryside. Room was very clean. The family that own it are amazing and so kind and very helpful of you need anything. Food was amazing! Would definitely stay again",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Boris",
+                "avatar": null,
+                "country": "Slovenia"
+            },
+            "review": {
+                "date": "6/03/2024",
+                "rating": "Superb experience",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Staying at Palafita in Phong Nha was outstanding. The place near rise fields is quiet and on the other hand so near to all the attractions and the village. And Hoa is an amazing cook, fulfilling all our wishes. She gave us a lots of advises what to see and what to do and helps us to get the transportation.",
+                "comment_negative": "The bathroom (and bicycles) would need sone repairs."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoài",
+                "avatar": "https://graph.facebook.com/v2.9/1944238002572579/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/03/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng đẹp , giá rẻ , có hồ bơi xinh\nnhân viên quá nhiệt tình",
+                "comment_negative": "hơi xa thành phố"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2024",
+                "rating": "Quá tuyệt vời",
+                "score": 10.0,
+                "room_type": "Bungalow Gia Đình",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/06/2023",
+                "rating": "Ok",
+                "score": 10.0,
+                "room_type": "Bungalow 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phúc vụ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "15/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 người Nhìn ra cảnh Núi non",
+                "stay_duration": "3 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhóm mình tham gia giải chạy ở QB nên có book homestay tại Palafita 4ngày 3 đêm. Tụi mình rất hài lòng trong khoảng thời gian ở đây. Homestay nằm cách trung tâm Phong Nha khoảng 5km, nên không gian yên tĩnh với view cánh đồng xanh mướt. Chị chủ cũng rất nhiệt tình hỗ trợ khi tụi mình nhờ chị book xe giùm, đặc biệt đồ ăn ở homestay rất ngon, tuy là các món thường ăn hàng ngày nhưng qua tay chị chủ thì trở nên ngon không ngờ :)",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Đoàn chúng tôi đã có một kỳ nghỉ tuyệt vời tại khu nghỉ dưỡng",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian của khu nghỉ rất yên tĩnh, hài hòa với thiên nhiên, đồng quê. Khu nghỉ dưỡng ấm cúng, sạch sẽ, đầy đủ tiện nghi. Hai bạn chủ nhà rất nhiệt tính, hiếu khách, chu đáo và thân thiện. Mọi nhu cầu của khách đều được đáp ứng đầy đủ. Khu nghỉ cung cấp dịch vụ ăn uống, tiệc BBQ, karaoke và có hồ bơi, xe đạp/xe máy cho khách thuê.\nNhóm chúng tôi đã nghỉ ở đây năm 2019 và rất hài lòng với dịch vụ của khu lưu trú nên đã quay lại nghỉ dưỡng tại đây năm 2022. KS cũng hỗ trợ mức ra rất ưu đãi cho đoàn.",
+                "comment_negative": "Vì vị trí của KS hơi xa trung tâm thị trấn, KS đã cung cấp dịch vụ cho thuê xe máy để khách tự đi lại. Với nhóm gia đình tự lái  xe như chúng tôi, đây không phải là trở ngại. Ngược lại, vị trí của khách sạn rất thoáng mát, yên tĩnh, phù hợp với nhu cầu nghỉ dưỡng của đoàn.\nKS nên có thêm một số trò chơi dân gian cho trẻ nhỏ (bập bênh, xích đu...)  như trước đây đã từng có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://lh6.googleusercontent.com/-9PCwymPmoaM/AAAAAAAAAAI/AAAAAAAAALc/lvlKtzivKvw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/08/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Vị trí ok",
+                "comment_negative": "Nhà vs hơi nhỏ,nhưng cũng ok  đủ dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hải",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "anh chị chủ thân thiện, không gian rộng rãi, thoải mái",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It was a perfect oasis to calm down after visiting vietnams busy cities. The host is super kind and made our stay wonderful.",
+                "comment_negative": "The pool was to warm to cool off during the day, but I also don’t know how to prevent that from happening when it’s over 35 degrees outside."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Courtney",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Fantastic",
+                "score": 10.0,
+                "room_type": "Bungalow Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The facilities were amazing! In a great location with amazing views of the countryside. Room was very clean. The family that own it are amazing and so kind and very helpful of you need anything. Food was amazing! Would definitely stay again",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Boris",
+                "avatar": null,
+                "country": "Slovenia"
+            },
+            "review": {
+                "date": "6/03/2024",
+                "rating": "Superb experience",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Staying at Palafita in Phong Nha was outstanding. The place near rise fields is quiet and on the other hand so near to all the attractions and the village. And Hoa is an amazing cook, fulfilling all our wishes. She gave us a lots of advises what to see and what to do and helps us to get the transportation.",
+                "comment_negative": "The bathroom (and bicycles) would need sone repairs."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoài",
+                "avatar": "https://graph.facebook.com/v2.9/1944238002572579/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/03/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng đẹp , giá rẻ , có hồ bơi xinh\nnhân viên quá nhiệt tình",
+                "comment_negative": "hơi xa thành phố"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2024",
+                "rating": "Quá tuyệt vời",
+                "score": 10.0,
+                "room_type": "Bungalow Gia Đình",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/06/2023",
+                "rating": "Ok",
+                "score": 10.0,
+                "room_type": "Bungalow 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phúc vụ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "15/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 người Nhìn ra cảnh Núi non",
+                "stay_duration": "3 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhóm mình tham gia giải chạy ở QB nên có book homestay tại Palafita 4ngày 3 đêm. Tụi mình rất hài lòng trong khoảng thời gian ở đây. Homestay nằm cách trung tâm Phong Nha khoảng 5km, nên không gian yên tĩnh với view cánh đồng xanh mướt. Chị chủ cũng rất nhiệt tình hỗ trợ khi tụi mình nhờ chị book xe giùm, đặc biệt đồ ăn ở homestay rất ngon, tuy là các món thường ăn hàng ngày nhưng qua tay chị chủ thì trở nên ngon không ngờ :)",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Đoàn chúng tôi đã có một kỳ nghỉ tuyệt vời tại khu nghỉ dưỡng",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian của khu nghỉ rất yên tĩnh, hài hòa với thiên nhiên, đồng quê. Khu nghỉ dưỡng ấm cúng, sạch sẽ, đầy đủ tiện nghi. Hai bạn chủ nhà rất nhiệt tính, hiếu khách, chu đáo và thân thiện. Mọi nhu cầu của khách đều được đáp ứng đầy đủ. Khu nghỉ cung cấp dịch vụ ăn uống, tiệc BBQ, karaoke và có hồ bơi, xe đạp/xe máy cho khách thuê.\nNhóm chúng tôi đã nghỉ ở đây năm 2019 và rất hài lòng với dịch vụ của khu lưu trú nên đã quay lại nghỉ dưỡng tại đây năm 2022. KS cũng hỗ trợ mức ra rất ưu đãi cho đoàn.",
+                "comment_negative": "Vì vị trí của KS hơi xa trung tâm thị trấn, KS đã cung cấp dịch vụ cho thuê xe máy để khách tự đi lại. Với nhóm gia đình tự lái  xe như chúng tôi, đây không phải là trở ngại. Ngược lại, vị trí của khách sạn rất thoáng mát, yên tĩnh, phù hợp với nhu cầu nghỉ dưỡng của đoàn.\nKS nên có thêm một số trò chơi dân gian cho trẻ nhỏ (bập bênh, xích đu...)  như trước đây đã từng có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://lh6.googleusercontent.com/-9PCwymPmoaM/AAAAAAAAAAI/AAAAAAAAALc/lvlKtzivKvw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/08/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Vị trí ok",
+                "comment_negative": "Nhà vs hơi nhỏ,nhưng cũng ok  đủ dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hải",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "anh chị chủ thân thiện, không gian rộng rãi, thoải mái",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It was a perfect oasis to calm down after visiting vietnams busy cities. The host is super kind and made our stay wonderful.",
+                "comment_negative": "The pool was to warm to cool off during the day, but I also don’t know how to prevent that from happening when it’s over 35 degrees outside."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Courtney",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Fantastic",
+                "score": 10.0,
+                "room_type": "Bungalow Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The facilities were amazing! In a great location with amazing views of the countryside. Room was very clean. The family that own it are amazing and so kind and very helpful of you need anything. Food was amazing! Would definitely stay again",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Boris",
+                "avatar": null,
+                "country": "Slovenia"
+            },
+            "review": {
+                "date": "6/03/2024",
+                "rating": "Superb experience",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Staying at Palafita in Phong Nha was outstanding. The place near rise fields is quiet and on the other hand so near to all the attractions and the village. And Hoa is an amazing cook, fulfilling all our wishes. She gave us a lots of advises what to see and what to do and helps us to get the transportation.",
+                "comment_negative": "The bathroom (and bicycles) would need sone repairs."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoài",
+                "avatar": "https://graph.facebook.com/v2.9/1944238002572579/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/03/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng đẹp , giá rẻ , có hồ bơi xinh\nnhân viên quá nhiệt tình",
+                "comment_negative": "hơi xa thành phố"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2024",
+                "rating": "Quá tuyệt vời",
+                "score": 10.0,
+                "room_type": "Bungalow Gia Đình",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/06/2023",
+                "rating": "Ok",
+                "score": 10.0,
+                "room_type": "Bungalow 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phúc vụ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "15/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 người Nhìn ra cảnh Núi non",
+                "stay_duration": "3 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhóm mình tham gia giải chạy ở QB nên có book homestay tại Palafita 4ngày 3 đêm. Tụi mình rất hài lòng trong khoảng thời gian ở đây. Homestay nằm cách trung tâm Phong Nha khoảng 5km, nên không gian yên tĩnh với view cánh đồng xanh mướt. Chị chủ cũng rất nhiệt tình hỗ trợ khi tụi mình nhờ chị book xe giùm, đặc biệt đồ ăn ở homestay rất ngon, tuy là các món thường ăn hàng ngày nhưng qua tay chị chủ thì trở nên ngon không ngờ :)",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Đoàn chúng tôi đã có một kỳ nghỉ tuyệt vời tại khu nghỉ dưỡng",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian của khu nghỉ rất yên tĩnh, hài hòa với thiên nhiên, đồng quê. Khu nghỉ dưỡng ấm cúng, sạch sẽ, đầy đủ tiện nghi. Hai bạn chủ nhà rất nhiệt tính, hiếu khách, chu đáo và thân thiện. Mọi nhu cầu của khách đều được đáp ứng đầy đủ. Khu nghỉ cung cấp dịch vụ ăn uống, tiệc BBQ, karaoke và có hồ bơi, xe đạp/xe máy cho khách thuê.\nNhóm chúng tôi đã nghỉ ở đây năm 2019 và rất hài lòng với dịch vụ của khu lưu trú nên đã quay lại nghỉ dưỡng tại đây năm 2022. KS cũng hỗ trợ mức ra rất ưu đãi cho đoàn.",
+                "comment_negative": "Vì vị trí của KS hơi xa trung tâm thị trấn, KS đã cung cấp dịch vụ cho thuê xe máy để khách tự đi lại. Với nhóm gia đình tự lái  xe như chúng tôi, đây không phải là trở ngại. Ngược lại, vị trí của khách sạn rất thoáng mát, yên tĩnh, phù hợp với nhu cầu nghỉ dưỡng của đoàn.\nKS nên có thêm một số trò chơi dân gian cho trẻ nhỏ (bập bênh, xích đu...)  như trước đây đã từng có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://lh6.googleusercontent.com/-9PCwymPmoaM/AAAAAAAAAAI/AAAAAAAAALc/lvlKtzivKvw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/08/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Vị trí ok",
+                "comment_negative": "Nhà vs hơi nhỏ,nhưng cũng ok  đủ dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hải",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "anh chị chủ thân thiện, không gian rộng rãi, thoải mái",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It was a perfect oasis to calm down after visiting vietnams busy cities. The host is super kind and made our stay wonderful.",
+                "comment_negative": "The pool was to warm to cool off during the day, but I also don’t know how to prevent that from happening when it’s over 35 degrees outside."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Courtney",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Fantastic",
+                "score": 10.0,
+                "room_type": "Bungalow Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The facilities were amazing! In a great location with amazing views of the countryside. Room was very clean. The family that own it are amazing and so kind and very helpful of you need anything. Food was amazing! Would definitely stay again",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Boris",
+                "avatar": null,
+                "country": "Slovenia"
+            },
+            "review": {
+                "date": "6/03/2024",
+                "rating": "Superb experience",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Staying at Palafita in Phong Nha was outstanding. The place near rise fields is quiet and on the other hand so near to all the attractions and the village. And Hoa is an amazing cook, fulfilling all our wishes. She gave us a lots of advises what to see and what to do and helps us to get the transportation.",
+                "comment_negative": "The bathroom (and bicycles) would need sone repairs."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoài",
+                "avatar": "https://graph.facebook.com/v2.9/1944238002572579/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/03/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng đẹp , giá rẻ , có hồ bơi xinh\nnhân viên quá nhiệt tình",
+                "comment_negative": "hơi xa thành phố"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2024",
+                "rating": "Quá tuyệt vời",
+                "score": 10.0,
+                "room_type": "Bungalow Gia Đình",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/06/2023",
+                "rating": "Ok",
+                "score": 10.0,
+                "room_type": "Bungalow 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phúc vụ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "15/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 người Nhìn ra cảnh Núi non",
+                "stay_duration": "3 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhóm mình tham gia giải chạy ở QB nên có book homestay tại Palafita 4ngày 3 đêm. Tụi mình rất hài lòng trong khoảng thời gian ở đây. Homestay nằm cách trung tâm Phong Nha khoảng 5km, nên không gian yên tĩnh với view cánh đồng xanh mướt. Chị chủ cũng rất nhiệt tình hỗ trợ khi tụi mình nhờ chị book xe giùm, đặc biệt đồ ăn ở homestay rất ngon, tuy là các món thường ăn hàng ngày nhưng qua tay chị chủ thì trở nên ngon không ngờ :)",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Đoàn chúng tôi đã có một kỳ nghỉ tuyệt vời tại khu nghỉ dưỡng",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian của khu nghỉ rất yên tĩnh, hài hòa với thiên nhiên, đồng quê. Khu nghỉ dưỡng ấm cúng, sạch sẽ, đầy đủ tiện nghi. Hai bạn chủ nhà rất nhiệt tính, hiếu khách, chu đáo và thân thiện. Mọi nhu cầu của khách đều được đáp ứng đầy đủ. Khu nghỉ cung cấp dịch vụ ăn uống, tiệc BBQ, karaoke và có hồ bơi, xe đạp/xe máy cho khách thuê.\nNhóm chúng tôi đã nghỉ ở đây năm 2019 và rất hài lòng với dịch vụ của khu lưu trú nên đã quay lại nghỉ dưỡng tại đây năm 2022. KS cũng hỗ trợ mức ra rất ưu đãi cho đoàn.",
+                "comment_negative": "Vì vị trí của KS hơi xa trung tâm thị trấn, KS đã cung cấp dịch vụ cho thuê xe máy để khách tự đi lại. Với nhóm gia đình tự lái  xe như chúng tôi, đây không phải là trở ngại. Ngược lại, vị trí của khách sạn rất thoáng mát, yên tĩnh, phù hợp với nhu cầu nghỉ dưỡng của đoàn.\nKS nên có thêm một số trò chơi dân gian cho trẻ nhỏ (bập bênh, xích đu...)  như trước đây đã từng có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://lh6.googleusercontent.com/-9PCwymPmoaM/AAAAAAAAAAI/AAAAAAAAALc/lvlKtzivKvw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/08/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Vị trí ok",
+                "comment_negative": "Nhà vs hơi nhỏ,nhưng cũng ok  đủ dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hải",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "anh chị chủ thân thiện, không gian rộng rãi, thoải mái",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It was a perfect oasis to calm down after visiting vietnams busy cities. The host is super kind and made our stay wonderful.",
+                "comment_negative": "The pool was to warm to cool off during the day, but I also don’t know how to prevent that from happening when it’s over 35 degrees outside."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Courtney",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Fantastic",
+                "score": 10.0,
+                "room_type": "Bungalow Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The facilities were amazing! In a great location with amazing views of the countryside. Room was very clean. The family that own it are amazing and so kind and very helpful of you need anything. Food was amazing! Would definitely stay again",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Boris",
+                "avatar": null,
+                "country": "Slovenia"
+            },
+            "review": {
+                "date": "6/03/2024",
+                "rating": "Superb experience",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Staying at Palafita in Phong Nha was outstanding. The place near rise fields is quiet and on the other hand so near to all the attractions and the village. And Hoa is an amazing cook, fulfilling all our wishes. She gave us a lots of advises what to see and what to do and helps us to get the transportation.",
+                "comment_negative": "The bathroom (and bicycles) would need sone repairs."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoài",
+                "avatar": "https://graph.facebook.com/v2.9/1944238002572579/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/03/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng đẹp , giá rẻ , có hồ bơi xinh\nnhân viên quá nhiệt tình",
+                "comment_negative": "hơi xa thành phố"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2024",
+                "rating": "Quá tuyệt vời",
+                "score": 10.0,
+                "room_type": "Bungalow Gia Đình",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/06/2023",
+                "rating": "Ok",
+                "score": 10.0,
+                "room_type": "Bungalow 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phúc vụ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "15/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 người Nhìn ra cảnh Núi non",
+                "stay_duration": "3 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhóm mình tham gia giải chạy ở QB nên có book homestay tại Palafita 4ngày 3 đêm. Tụi mình rất hài lòng trong khoảng thời gian ở đây. Homestay nằm cách trung tâm Phong Nha khoảng 5km, nên không gian yên tĩnh với view cánh đồng xanh mướt. Chị chủ cũng rất nhiệt tình hỗ trợ khi tụi mình nhờ chị book xe giùm, đặc biệt đồ ăn ở homestay rất ngon, tuy là các món thường ăn hàng ngày nhưng qua tay chị chủ thì trở nên ngon không ngờ :)",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Đoàn chúng tôi đã có một kỳ nghỉ tuyệt vời tại khu nghỉ dưỡng",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian của khu nghỉ rất yên tĩnh, hài hòa với thiên nhiên, đồng quê. Khu nghỉ dưỡng ấm cúng, sạch sẽ, đầy đủ tiện nghi. Hai bạn chủ nhà rất nhiệt tính, hiếu khách, chu đáo và thân thiện. Mọi nhu cầu của khách đều được đáp ứng đầy đủ. Khu nghỉ cung cấp dịch vụ ăn uống, tiệc BBQ, karaoke và có hồ bơi, xe đạp/xe máy cho khách thuê.\nNhóm chúng tôi đã nghỉ ở đây năm 2019 và rất hài lòng với dịch vụ của khu lưu trú nên đã quay lại nghỉ dưỡng tại đây năm 2022. KS cũng hỗ trợ mức ra rất ưu đãi cho đoàn.",
+                "comment_negative": "Vì vị trí của KS hơi xa trung tâm thị trấn, KS đã cung cấp dịch vụ cho thuê xe máy để khách tự đi lại. Với nhóm gia đình tự lái  xe như chúng tôi, đây không phải là trở ngại. Ngược lại, vị trí của khách sạn rất thoáng mát, yên tĩnh, phù hợp với nhu cầu nghỉ dưỡng của đoàn.\nKS nên có thêm một số trò chơi dân gian cho trẻ nhỏ (bập bênh, xích đu...)  như trước đây đã từng có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://lh6.googleusercontent.com/-9PCwymPmoaM/AAAAAAAAAAI/AAAAAAAAALc/lvlKtzivKvw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/08/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Vị trí ok",
+                "comment_negative": "Nhà vs hơi nhỏ,nhưng cũng ok  đủ dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hải",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "anh chị chủ thân thiện, không gian rộng rãi, thoải mái",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It was a perfect oasis to calm down after visiting vietnams busy cities. The host is super kind and made our stay wonderful.",
+                "comment_negative": "The pool was to warm to cool off during the day, but I also don’t know how to prevent that from happening when it’s over 35 degrees outside."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Courtney",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Fantastic",
+                "score": 10.0,
+                "room_type": "Bungalow Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The facilities were amazing! In a great location with amazing views of the countryside. Room was very clean. The family that own it are amazing and so kind and very helpful of you need anything. Food was amazing! Would definitely stay again",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Boris",
+                "avatar": null,
+                "country": "Slovenia"
+            },
+            "review": {
+                "date": "6/03/2024",
+                "rating": "Superb experience",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Staying at Palafita in Phong Nha was outstanding. The place near rise fields is quiet and on the other hand so near to all the attractions and the village. And Hoa is an amazing cook, fulfilling all our wishes. She gave us a lots of advises what to see and what to do and helps us to get the transportation.",
+                "comment_negative": "The bathroom (and bicycles) would need sone repairs."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoài",
+                "avatar": "https://graph.facebook.com/v2.9/1944238002572579/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/03/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng đẹp , giá rẻ , có hồ bơi xinh\nnhân viên quá nhiệt tình",
+                "comment_negative": "hơi xa thành phố"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2024",
+                "rating": "Quá tuyệt vời",
+                "score": 10.0,
+                "room_type": "Bungalow Gia Đình",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/06/2023",
+                "rating": "Ok",
+                "score": 10.0,
+                "room_type": "Bungalow 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phúc vụ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "15/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 người Nhìn ra cảnh Núi non",
+                "stay_duration": "3 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhóm mình tham gia giải chạy ở QB nên có book homestay tại Palafita 4ngày 3 đêm. Tụi mình rất hài lòng trong khoảng thời gian ở đây. Homestay nằm cách trung tâm Phong Nha khoảng 5km, nên không gian yên tĩnh với view cánh đồng xanh mướt. Chị chủ cũng rất nhiệt tình hỗ trợ khi tụi mình nhờ chị book xe giùm, đặc biệt đồ ăn ở homestay rất ngon, tuy là các món thường ăn hàng ngày nhưng qua tay chị chủ thì trở nên ngon không ngờ :)",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Đoàn chúng tôi đã có một kỳ nghỉ tuyệt vời tại khu nghỉ dưỡng",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian của khu nghỉ rất yên tĩnh, hài hòa với thiên nhiên, đồng quê. Khu nghỉ dưỡng ấm cúng, sạch sẽ, đầy đủ tiện nghi. Hai bạn chủ nhà rất nhiệt tính, hiếu khách, chu đáo và thân thiện. Mọi nhu cầu của khách đều được đáp ứng đầy đủ. Khu nghỉ cung cấp dịch vụ ăn uống, tiệc BBQ, karaoke và có hồ bơi, xe đạp/xe máy cho khách thuê.\nNhóm chúng tôi đã nghỉ ở đây năm 2019 và rất hài lòng với dịch vụ của khu lưu trú nên đã quay lại nghỉ dưỡng tại đây năm 2022. KS cũng hỗ trợ mức ra rất ưu đãi cho đoàn.",
+                "comment_negative": "Vì vị trí của KS hơi xa trung tâm thị trấn, KS đã cung cấp dịch vụ cho thuê xe máy để khách tự đi lại. Với nhóm gia đình tự lái  xe như chúng tôi, đây không phải là trở ngại. Ngược lại, vị trí của khách sạn rất thoáng mát, yên tĩnh, phù hợp với nhu cầu nghỉ dưỡng của đoàn.\nKS nên có thêm một số trò chơi dân gian cho trẻ nhỏ (bập bênh, xích đu...)  như trước đây đã từng có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://lh6.googleusercontent.com/-9PCwymPmoaM/AAAAAAAAAAI/AAAAAAAAALc/lvlKtzivKvw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/08/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Vị trí ok",
+                "comment_negative": "Nhà vs hơi nhỏ,nhưng cũng ok  đủ dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hải",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "anh chị chủ thân thiện, không gian rộng rãi, thoải mái",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It was a perfect oasis to calm down after visiting vietnams busy cities. The host is super kind and made our stay wonderful.",
+                "comment_negative": "The pool was to warm to cool off during the day, but I also don’t know how to prevent that from happening when it’s over 35 degrees outside."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Courtney",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Fantastic",
+                "score": 10.0,
+                "room_type": "Bungalow Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The facilities were amazing! In a great location with amazing views of the countryside. Room was very clean. The family that own it are amazing and so kind and very helpful of you need anything. Food was amazing! Would definitely stay again",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Boris",
+                "avatar": null,
+                "country": "Slovenia"
+            },
+            "review": {
+                "date": "6/03/2024",
+                "rating": "Superb experience",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Staying at Palafita in Phong Nha was outstanding. The place near rise fields is quiet and on the other hand so near to all the attractions and the village. And Hoa is an amazing cook, fulfilling all our wishes. She gave us a lots of advises what to see and what to do and helps us to get the transportation.",
+                "comment_negative": "The bathroom (and bicycles) would need sone repairs."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoài",
+                "avatar": "https://graph.facebook.com/v2.9/1944238002572579/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/03/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng đẹp , giá rẻ , có hồ bơi xinh\nnhân viên quá nhiệt tình",
+                "comment_negative": "hơi xa thành phố"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2024",
+                "rating": "Quá tuyệt vời",
+                "score": 10.0,
+                "room_type": "Bungalow Gia Đình",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/06/2023",
+                "rating": "Ok",
+                "score": 10.0,
+                "room_type": "Bungalow 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phúc vụ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "15/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 người Nhìn ra cảnh Núi non",
+                "stay_duration": "3 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhóm mình tham gia giải chạy ở QB nên có book homestay tại Palafita 4ngày 3 đêm. Tụi mình rất hài lòng trong khoảng thời gian ở đây. Homestay nằm cách trung tâm Phong Nha khoảng 5km, nên không gian yên tĩnh với view cánh đồng xanh mướt. Chị chủ cũng rất nhiệt tình hỗ trợ khi tụi mình nhờ chị book xe giùm, đặc biệt đồ ăn ở homestay rất ngon, tuy là các món thường ăn hàng ngày nhưng qua tay chị chủ thì trở nên ngon không ngờ :)",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Đoàn chúng tôi đã có một kỳ nghỉ tuyệt vời tại khu nghỉ dưỡng",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian của khu nghỉ rất yên tĩnh, hài hòa với thiên nhiên, đồng quê. Khu nghỉ dưỡng ấm cúng, sạch sẽ, đầy đủ tiện nghi. Hai bạn chủ nhà rất nhiệt tính, hiếu khách, chu đáo và thân thiện. Mọi nhu cầu của khách đều được đáp ứng đầy đủ. Khu nghỉ cung cấp dịch vụ ăn uống, tiệc BBQ, karaoke và có hồ bơi, xe đạp/xe máy cho khách thuê.\nNhóm chúng tôi đã nghỉ ở đây năm 2019 và rất hài lòng với dịch vụ của khu lưu trú nên đã quay lại nghỉ dưỡng tại đây năm 2022. KS cũng hỗ trợ mức ra rất ưu đãi cho đoàn.",
+                "comment_negative": "Vì vị trí của KS hơi xa trung tâm thị trấn, KS đã cung cấp dịch vụ cho thuê xe máy để khách tự đi lại. Với nhóm gia đình tự lái  xe như chúng tôi, đây không phải là trở ngại. Ngược lại, vị trí của khách sạn rất thoáng mát, yên tĩnh, phù hợp với nhu cầu nghỉ dưỡng của đoàn.\nKS nên có thêm một số trò chơi dân gian cho trẻ nhỏ (bập bênh, xích đu...)  như trước đây đã từng có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://lh6.googleusercontent.com/-9PCwymPmoaM/AAAAAAAAAAI/AAAAAAAAALc/lvlKtzivKvw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/08/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Vị trí ok",
+                "comment_negative": "Nhà vs hơi nhỏ,nhưng cũng ok  đủ dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hải",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "anh chị chủ thân thiện, không gian rộng rãi, thoải mái",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It was a perfect oasis to calm down after visiting vietnams busy cities. The host is super kind and made our stay wonderful.",
+                "comment_negative": "The pool was to warm to cool off during the day, but I also don’t know how to prevent that from happening when it’s over 35 degrees outside."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Courtney",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Fantastic",
+                "score": 10.0,
+                "room_type": "Bungalow Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The facilities were amazing! In a great location with amazing views of the countryside. Room was very clean. The family that own it are amazing and so kind and very helpful of you need anything. Food was amazing! Would definitely stay again",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Boris",
+                "avatar": null,
+                "country": "Slovenia"
+            },
+            "review": {
+                "date": "6/03/2024",
+                "rating": "Superb experience",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Staying at Palafita in Phong Nha was outstanding. The place near rise fields is quiet and on the other hand so near to all the attractions and the village. And Hoa is an amazing cook, fulfilling all our wishes. She gave us a lots of advises what to see and what to do and helps us to get the transportation.",
+                "comment_negative": "The bathroom (and bicycles) would need sone repairs."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoài",
+                "avatar": "https://graph.facebook.com/v2.9/1944238002572579/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/03/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng đẹp , giá rẻ , có hồ bơi xinh\nnhân viên quá nhiệt tình",
+                "comment_negative": "hơi xa thành phố"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2024",
+                "rating": "Quá tuyệt vời",
+                "score": 10.0,
+                "room_type": "Bungalow Gia Đình",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/06/2023",
+                "rating": "Ok",
+                "score": 10.0,
+                "room_type": "Bungalow 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phúc vụ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "15/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 người Nhìn ra cảnh Núi non",
+                "stay_duration": "3 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhóm mình tham gia giải chạy ở QB nên có book homestay tại Palafita 4ngày 3 đêm. Tụi mình rất hài lòng trong khoảng thời gian ở đây. Homestay nằm cách trung tâm Phong Nha khoảng 5km, nên không gian yên tĩnh với view cánh đồng xanh mướt. Chị chủ cũng rất nhiệt tình hỗ trợ khi tụi mình nhờ chị book xe giùm, đặc biệt đồ ăn ở homestay rất ngon, tuy là các món thường ăn hàng ngày nhưng qua tay chị chủ thì trở nên ngon không ngờ :)",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Đoàn chúng tôi đã có một kỳ nghỉ tuyệt vời tại khu nghỉ dưỡng",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian của khu nghỉ rất yên tĩnh, hài hòa với thiên nhiên, đồng quê. Khu nghỉ dưỡng ấm cúng, sạch sẽ, đầy đủ tiện nghi. Hai bạn chủ nhà rất nhiệt tính, hiếu khách, chu đáo và thân thiện. Mọi nhu cầu của khách đều được đáp ứng đầy đủ. Khu nghỉ cung cấp dịch vụ ăn uống, tiệc BBQ, karaoke và có hồ bơi, xe đạp/xe máy cho khách thuê.\nNhóm chúng tôi đã nghỉ ở đây năm 2019 và rất hài lòng với dịch vụ của khu lưu trú nên đã quay lại nghỉ dưỡng tại đây năm 2022. KS cũng hỗ trợ mức ra rất ưu đãi cho đoàn.",
+                "comment_negative": "Vì vị trí của KS hơi xa trung tâm thị trấn, KS đã cung cấp dịch vụ cho thuê xe máy để khách tự đi lại. Với nhóm gia đình tự lái  xe như chúng tôi, đây không phải là trở ngại. Ngược lại, vị trí của khách sạn rất thoáng mát, yên tĩnh, phù hợp với nhu cầu nghỉ dưỡng của đoàn.\nKS nên có thêm một số trò chơi dân gian cho trẻ nhỏ (bập bênh, xích đu...)  như trước đây đã từng có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://lh6.googleusercontent.com/-9PCwymPmoaM/AAAAAAAAAAI/AAAAAAAAALc/lvlKtzivKvw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/08/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Vị trí ok",
+                "comment_negative": "Nhà vs hơi nhỏ,nhưng cũng ok  đủ dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hải",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "anh chị chủ thân thiện, không gian rộng rãi, thoải mái",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It was a perfect oasis to calm down after visiting vietnams busy cities. The host is super kind and made our stay wonderful.",
+                "comment_negative": "The pool was to warm to cool off during the day, but I also don’t know how to prevent that from happening when it’s over 35 degrees outside."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Courtney",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Fantastic",
+                "score": 10.0,
+                "room_type": "Bungalow Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The facilities were amazing! In a great location with amazing views of the countryside. Room was very clean. The family that own it are amazing and so kind and very helpful of you need anything. Food was amazing! Would definitely stay again",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Boris",
+                "avatar": null,
+                "country": "Slovenia"
+            },
+            "review": {
+                "date": "6/03/2024",
+                "rating": "Superb experience",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Staying at Palafita in Phong Nha was outstanding. The place near rise fields is quiet and on the other hand so near to all the attractions and the village. And Hoa is an amazing cook, fulfilling all our wishes. She gave us a lots of advises what to see and what to do and helps us to get the transportation.",
+                "comment_negative": "The bathroom (and bicycles) would need sone repairs."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoài",
+                "avatar": "https://graph.facebook.com/v2.9/1944238002572579/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/03/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng đẹp , giá rẻ , có hồ bơi xinh\nnhân viên quá nhiệt tình",
+                "comment_negative": "hơi xa thành phố"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2024",
+                "rating": "Quá tuyệt vời",
+                "score": 10.0,
+                "room_type": "Bungalow Gia Đình",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/06/2023",
+                "rating": "Ok",
+                "score": 10.0,
+                "room_type": "Bungalow 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phúc vụ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "15/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 người Nhìn ra cảnh Núi non",
+                "stay_duration": "3 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhóm mình tham gia giải chạy ở QB nên có book homestay tại Palafita 4ngày 3 đêm. Tụi mình rất hài lòng trong khoảng thời gian ở đây. Homestay nằm cách trung tâm Phong Nha khoảng 5km, nên không gian yên tĩnh với view cánh đồng xanh mướt. Chị chủ cũng rất nhiệt tình hỗ trợ khi tụi mình nhờ chị book xe giùm, đặc biệt đồ ăn ở homestay rất ngon, tuy là các món thường ăn hàng ngày nhưng qua tay chị chủ thì trở nên ngon không ngờ :)",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Đoàn chúng tôi đã có một kỳ nghỉ tuyệt vời tại khu nghỉ dưỡng",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian của khu nghỉ rất yên tĩnh, hài hòa với thiên nhiên, đồng quê. Khu nghỉ dưỡng ấm cúng, sạch sẽ, đầy đủ tiện nghi. Hai bạn chủ nhà rất nhiệt tính, hiếu khách, chu đáo và thân thiện. Mọi nhu cầu của khách đều được đáp ứng đầy đủ. Khu nghỉ cung cấp dịch vụ ăn uống, tiệc BBQ, karaoke và có hồ bơi, xe đạp/xe máy cho khách thuê.\nNhóm chúng tôi đã nghỉ ở đây năm 2019 và rất hài lòng với dịch vụ của khu lưu trú nên đã quay lại nghỉ dưỡng tại đây năm 2022. KS cũng hỗ trợ mức ra rất ưu đãi cho đoàn.",
+                "comment_negative": "Vì vị trí của KS hơi xa trung tâm thị trấn, KS đã cung cấp dịch vụ cho thuê xe máy để khách tự đi lại. Với nhóm gia đình tự lái  xe như chúng tôi, đây không phải là trở ngại. Ngược lại, vị trí của khách sạn rất thoáng mát, yên tĩnh, phù hợp với nhu cầu nghỉ dưỡng của đoàn.\nKS nên có thêm một số trò chơi dân gian cho trẻ nhỏ (bập bênh, xích đu...)  như trước đây đã từng có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://lh6.googleusercontent.com/-9PCwymPmoaM/AAAAAAAAAAI/AAAAAAAAALc/lvlKtzivKvw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/08/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Vị trí ok",
+                "comment_negative": "Nhà vs hơi nhỏ,nhưng cũng ok  đủ dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hải",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "anh chị chủ thân thiện, không gian rộng rãi, thoải mái",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It was a perfect oasis to calm down after visiting vietnams busy cities. The host is super kind and made our stay wonderful.",
+                "comment_negative": "The pool was to warm to cool off during the day, but I also don’t know how to prevent that from happening when it’s over 35 degrees outside."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Courtney",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Fantastic",
+                "score": 10.0,
+                "room_type": "Bungalow Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The facilities were amazing! In a great location with amazing views of the countryside. Room was very clean. The family that own it are amazing and so kind and very helpful of you need anything. Food was amazing! Would definitely stay again",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Boris",
+                "avatar": null,
+                "country": "Slovenia"
+            },
+            "review": {
+                "date": "6/03/2024",
+                "rating": "Superb experience",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Staying at Palafita in Phong Nha was outstanding. The place near rise fields is quiet and on the other hand so near to all the attractions and the village. And Hoa is an amazing cook, fulfilling all our wishes. She gave us a lots of advises what to see and what to do and helps us to get the transportation.",
+                "comment_negative": "The bathroom (and bicycles) would need sone repairs."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoài",
+                "avatar": "https://graph.facebook.com/v2.9/1944238002572579/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/03/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng đẹp , giá rẻ , có hồ bơi xinh\nnhân viên quá nhiệt tình",
+                "comment_negative": "hơi xa thành phố"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2024",
+                "rating": "Quá tuyệt vời",
+                "score": 10.0,
+                "room_type": "Bungalow Gia Đình",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/06/2023",
+                "rating": "Ok",
+                "score": 10.0,
+                "room_type": "Bungalow 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phúc vụ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "15/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 người Nhìn ra cảnh Núi non",
+                "stay_duration": "3 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhóm mình tham gia giải chạy ở QB nên có book homestay tại Palafita 4ngày 3 đêm. Tụi mình rất hài lòng trong khoảng thời gian ở đây. Homestay nằm cách trung tâm Phong Nha khoảng 5km, nên không gian yên tĩnh với view cánh đồng xanh mướt. Chị chủ cũng rất nhiệt tình hỗ trợ khi tụi mình nhờ chị book xe giùm, đặc biệt đồ ăn ở homestay rất ngon, tuy là các món thường ăn hàng ngày nhưng qua tay chị chủ thì trở nên ngon không ngờ :)",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Đoàn chúng tôi đã có một kỳ nghỉ tuyệt vời tại khu nghỉ dưỡng",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian của khu nghỉ rất yên tĩnh, hài hòa với thiên nhiên, đồng quê. Khu nghỉ dưỡng ấm cúng, sạch sẽ, đầy đủ tiện nghi. Hai bạn chủ nhà rất nhiệt tính, hiếu khách, chu đáo và thân thiện. Mọi nhu cầu của khách đều được đáp ứng đầy đủ. Khu nghỉ cung cấp dịch vụ ăn uống, tiệc BBQ, karaoke và có hồ bơi, xe đạp/xe máy cho khách thuê.\nNhóm chúng tôi đã nghỉ ở đây năm 2019 và rất hài lòng với dịch vụ của khu lưu trú nên đã quay lại nghỉ dưỡng tại đây năm 2022. KS cũng hỗ trợ mức ra rất ưu đãi cho đoàn.",
+                "comment_negative": "Vì vị trí của KS hơi xa trung tâm thị trấn, KS đã cung cấp dịch vụ cho thuê xe máy để khách tự đi lại. Với nhóm gia đình tự lái  xe như chúng tôi, đây không phải là trở ngại. Ngược lại, vị trí của khách sạn rất thoáng mát, yên tĩnh, phù hợp với nhu cầu nghỉ dưỡng của đoàn.\nKS nên có thêm một số trò chơi dân gian cho trẻ nhỏ (bập bênh, xích đu...)  như trước đây đã từng có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://lh6.googleusercontent.com/-9PCwymPmoaM/AAAAAAAAAAI/AAAAAAAAALc/lvlKtzivKvw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/08/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Vị trí ok",
+                "comment_negative": "Nhà vs hơi nhỏ,nhưng cũng ok  đủ dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hải",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "anh chị chủ thân thiện, không gian rộng rãi, thoải mái",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It was a perfect oasis to calm down after visiting vietnams busy cities. The host is super kind and made our stay wonderful.",
+                "comment_negative": "The pool was to warm to cool off during the day, but I also don’t know how to prevent that from happening when it’s over 35 degrees outside."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Courtney",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Fantastic",
+                "score": 10.0,
+                "room_type": "Bungalow Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The facilities were amazing! In a great location with amazing views of the countryside. Room was very clean. The family that own it are amazing and so kind and very helpful of you need anything. Food was amazing! Would definitely stay again",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Boris",
+                "avatar": null,
+                "country": "Slovenia"
+            },
+            "review": {
+                "date": "6/03/2024",
+                "rating": "Superb experience",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Staying at Palafita in Phong Nha was outstanding. The place near rise fields is quiet and on the other hand so near to all the attractions and the village. And Hoa is an amazing cook, fulfilling all our wishes. She gave us a lots of advises what to see and what to do and helps us to get the transportation.",
+                "comment_negative": "The bathroom (and bicycles) would need sone repairs."
+            }
+        }
+    ]
+}

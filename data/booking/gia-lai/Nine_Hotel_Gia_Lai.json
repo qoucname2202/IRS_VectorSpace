@@ -1,0 +1,137 @@
+{
+    "name": "Nine Hotel Gia Lai",
+    "address": "49A Triệu Quang Phục, Pleiku, Việt Nam",
+    "description": "Nằm ở Pleiku, cách Pleiku Stadium 3.5 km, Nine Hotel Gia Lai cung cấp chỗ nghỉ có sân hiên và chỗ đậu xe riêng miễn phí. Chỗ nghỉ này cung cấp dịch vụ phòng và quầy lễ tân 24 giờ cho khách.\n\nTất cả các phòng ở khách sạn được trang bị ấm đun nước. Tất cả các phòng có điều hòa và TV màn hình phẳng, ngoài ra một số phòng tại Nine Hotel Gia Lai có ban công. Tất cả các căn đều có minibar.\n\nSân bay gần nhất là Sân bay Pleiku, cách chỗ nghỉ 11 km.",
+    "rating": "8.1",
+    "total_rating": "7",
+    "evaluation_categories": {
+        "service_staff": 8.6,
+        "amenities": 8.2,
+        "cleanliness": 8.6,
+        "comfort": 8.2,
+        "value_for_money": 8.2,
+        "location": 7.5,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Mikhail",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/198941955.jpg?k=ff98229440ab51549b4f1e19ac0c5c1743cfd1dd3f3b2fb9201eb42f505a0604&o=",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "14/08/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Тихо и есть тактическое кресло !!!",
+                "comment_negative": "Кресло мало и теней номер"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Không tên",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Yên tĩnh",
+                "comment_negative": "Chắc vì trời mưa nên nước ko được nóng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trúc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/09/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/02/2024",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/06/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "3 đêm · tháng 6/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kyung",
+                "avatar": "https://ssl.pstatic.net/static/pwe/address/img_profile.png",
+                "country": "Hàn Quốc"
+            },
+            "review": {
+                "date": "16/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

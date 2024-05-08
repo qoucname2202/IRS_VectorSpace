@@ -1,0 +1,528 @@
+{
+    "name": "Golden Forest Homestay",
+    "address": "Phong Nha town, Son Trach commune, Bo Trach district, Quang Binh province, Phong Nha, Việt Nam",
+    "description": "Golden Forest Homestay nằm ở Phong Nha và có phòng chờ chung. Tại đây có sân hiên và khách có thể sử dụng Wi-Fi miễn phí và chỗ đậu xe riêng miễn phí.\n\nKhách tại khách sạn có thể thưởng thức bữa sáng kiểu Á.\n\nLeo núi là hoạt động được ưa chuộng trong khu vực. Ngoài ra, Golden Forest Homestay có dịch vụ thuê ô tô.\n\nThành thạo tiếng Anh và tiếng Việt, đội ngũ nhân viên tại lễ tân luôn sẵn lòng hỗ trợ khách vào bất kỳ thời điểm nào trong ngày.\n\nSân bay gần nhất là Sân bay Đồng Hới, cách chỗ nghỉ 38 km, đồng thời chỗ nghỉ có cung cấp dịch vụ đưa đón sân bay mất phí.",
+    "rating": "8.9",
+    "total_rating": "28",
+    "evaluation_categories": {
+        "service_staff": 9.4,
+        "amenities": 8.5,
+        "cleanliness": 9.1,
+        "comfort": 9.1,
+        "value_for_money": 9.4,
+        "location": 9.6,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hoàng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng mới, sạch sẽ, gia chủ nhiệt tình",
+                "comment_negative": "Chưa có chỗ đậu xe"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huyền",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Địa điểm tốt . Sạch sẽ . Chủ nhà dễ thương nhiệt tình",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/06/2022",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng 3 Người Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sạch sẽ, chủ nhà dễ thương, rất gần bến thuyền đi động Phong Nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Emma",
+                "avatar": "https://graph.facebook.com/v2.9/6100917769973996/picture?type=square&height=64&width=64",
+                "country": "Na Uy"
+            },
+            "review": {
+                "date": "8/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "It was very clean, in the middle of the city Center (if you can call it that), the host was suuper friendly and amazing- she really made our stay! My friend got food poisoned and she Asked us every day how she was feeling, said she could drive her to the hospital for free, buy or make food, or go to the Pharmacy to buy medication. She helped us with everything and was always smiling! The best host I’ve had without a doubt. She will fix anything for you. The breakfast was homemade and really good, we even got breakfast after the breakfast hour without asking, and when we took the bus early in the morning she had Made us chicken baguettes. Rooms were clean and cosy. Would stay here again!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Alanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Pleasant stay",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Có Phòng Tắm Riêng",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Really great, clean property. The owners are very kind and helpful. Did one of the tours they sold and it was great and way cheaper than online. 10/10 would stay again.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sshah27",
+                "avatar": "https://lh6.googleusercontent.com/-E5LrKo4ONrk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmh4Hs1Eh8JgCOjT0opNaq7I9pvIg/s96-c/photo.jpg",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "30/011/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 11/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Very good location...very good people..very helpful",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mia",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "26/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 9/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The room was spacious, clean and very comfortable. It had a/c and also had an electric fan on the roof which was a nice touch for when the a/c was too cold. The host was absolutely fantastic! She was so kind and very welcoming. She booked a tour of the caves for us and our bus to Hanoi both at very short notice. Our bus didn’t leave Phong Nha until late at night, but the host gave us the use of the room during the day to leave our bags and shower even after we had checked out which was amazing. We would not hesitate to stay here again.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Karishma",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "5/07/2022",
+                "rating": "Perfect little homestay to relax in after hiking in Phong Nha!",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "This little homestay in Phong Nha was perfect and very inexpensive for all the amenities it provided. It is located centrally and is within walking distance of restaurants and attractions. The bedroom and bathroom were modern and very very clean. The bed was cozy, the WiFi was strong, the air conditioner was very cooling, and the decor/lights were very relaxing. The staff were sweet, friendly, and accommodating. My overnight bus from Ninh Binh arrived at 3am and I was able to contact the staff at that hour and be immediately checked in! My bus back to Hanoi left at 9pm and I was also able to check out that late. I had tons of privacy (unlike in a hostel) which was ideal for me. I would stay here again in a heart beat and recommend it to everyone.",
+                "comment_negative": "n/a"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chelsea",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "10/03/2023",
+                "rating": "Great location",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Staff members were accommodating for early check in and check out at 4am in the morning",
+                "comment_negative": "Breakfast advertised in the description however they have not been doing this since Covid-19. Description needs updating to avoid disappointment as this hotel was booked for my friends birthday."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Styrbjorn",
+                "avatar": "https://lh3.googleusercontent.com/a/AItbvmnAtwAdJ-vXpu8WknK_TuiizCQtYEwoBwowo8Qv=s96-c",
+                "country": "Thụy Điển"
+            },
+            "review": {
+                "date": "13/07/2022",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "We thought this homestay was good but not excellent. It's a simple room with a simple bathroom but definately okay for a couple of days in Phong Nha. The owner rented us scooters for a fair price and was really happy all the time, although there was an occational language barrier. If were to choose again we might have gone with a farmstay for the experience.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng mới, sạch sẽ, gia chủ nhiệt tình",
+                "comment_negative": "Chưa có chỗ đậu xe"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huyền",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Địa điểm tốt . Sạch sẽ . Chủ nhà dễ thương nhiệt tình",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/06/2022",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng 3 Người Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sạch sẽ, chủ nhà dễ thương, rất gần bến thuyền đi động Phong Nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Emma",
+                "avatar": "https://graph.facebook.com/v2.9/6100917769973996/picture?type=square&height=64&width=64",
+                "country": "Na Uy"
+            },
+            "review": {
+                "date": "8/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "It was very clean, in the middle of the city Center (if you can call it that), the host was suuper friendly and amazing- she really made our stay! My friend got food poisoned and she Asked us every day how she was feeling, said she could drive her to the hospital for free, buy or make food, or go to the Pharmacy to buy medication. She helped us with everything and was always smiling! The best host I’ve had without a doubt. She will fix anything for you. The breakfast was homemade and really good, we even got breakfast after the breakfast hour without asking, and when we took the bus early in the morning she had Made us chicken baguettes. Rooms were clean and cosy. Would stay here again!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Alanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Pleasant stay",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Có Phòng Tắm Riêng",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Really great, clean property. The owners are very kind and helpful. Did one of the tours they sold and it was great and way cheaper than online. 10/10 would stay again.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sshah27",
+                "avatar": "https://lh6.googleusercontent.com/-E5LrKo4ONrk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmh4Hs1Eh8JgCOjT0opNaq7I9pvIg/s96-c/photo.jpg",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "30/011/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 11/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Very good location...very good people..very helpful",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mia",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "26/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 9/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The room was spacious, clean and very comfortable. It had a/c and also had an electric fan on the roof which was a nice touch for when the a/c was too cold. The host was absolutely fantastic! She was so kind and very welcoming. She booked a tour of the caves for us and our bus to Hanoi both at very short notice. Our bus didn’t leave Phong Nha until late at night, but the host gave us the use of the room during the day to leave our bags and shower even after we had checked out which was amazing. We would not hesitate to stay here again.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Karishma",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "5/07/2022",
+                "rating": "Perfect little homestay to relax in after hiking in Phong Nha!",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "This little homestay in Phong Nha was perfect and very inexpensive for all the amenities it provided. It is located centrally and is within walking distance of restaurants and attractions. The bedroom and bathroom were modern and very very clean. The bed was cozy, the WiFi was strong, the air conditioner was very cooling, and the decor/lights were very relaxing. The staff were sweet, friendly, and accommodating. My overnight bus from Ninh Binh arrived at 3am and I was able to contact the staff at that hour and be immediately checked in! My bus back to Hanoi left at 9pm and I was also able to check out that late. I had tons of privacy (unlike in a hostel) which was ideal for me. I would stay here again in a heart beat and recommend it to everyone.",
+                "comment_negative": "n/a"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chelsea",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "10/03/2023",
+                "rating": "Great location",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Staff members were accommodating for early check in and check out at 4am in the morning",
+                "comment_negative": "Breakfast advertised in the description however they have not been doing this since Covid-19. Description needs updating to avoid disappointment as this hotel was booked for my friends birthday."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Styrbjorn",
+                "avatar": "https://lh3.googleusercontent.com/a/AItbvmnAtwAdJ-vXpu8WknK_TuiizCQtYEwoBwowo8Qv=s96-c",
+                "country": "Thụy Điển"
+            },
+            "review": {
+                "date": "13/07/2022",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "We thought this homestay was good but not excellent. It's a simple room with a simple bathroom but definately okay for a couple of days in Phong Nha. The owner rented us scooters for a fair price and was really happy all the time, although there was an occational language barrier. If were to choose again we might have gone with a farmstay for the experience.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng mới, sạch sẽ, gia chủ nhiệt tình",
+                "comment_negative": "Chưa có chỗ đậu xe"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huyền",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Địa điểm tốt . Sạch sẽ . Chủ nhà dễ thương nhiệt tình",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/06/2022",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng 3 Người Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sạch sẽ, chủ nhà dễ thương, rất gần bến thuyền đi động Phong Nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Emma",
+                "avatar": "https://graph.facebook.com/v2.9/6100917769973996/picture?type=square&height=64&width=64",
+                "country": "Na Uy"
+            },
+            "review": {
+                "date": "8/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "It was very clean, in the middle of the city Center (if you can call it that), the host was suuper friendly and amazing- she really made our stay! My friend got food poisoned and she Asked us every day how she was feeling, said she could drive her to the hospital for free, buy or make food, or go to the Pharmacy to buy medication. She helped us with everything and was always smiling! The best host I’ve had without a doubt. She will fix anything for you. The breakfast was homemade and really good, we even got breakfast after the breakfast hour without asking, and when we took the bus early in the morning she had Made us chicken baguettes. Rooms were clean and cosy. Would stay here again!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Alanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Pleasant stay",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Có Phòng Tắm Riêng",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Really great, clean property. The owners are very kind and helpful. Did one of the tours they sold and it was great and way cheaper than online. 10/10 would stay again.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sshah27",
+                "avatar": "https://lh6.googleusercontent.com/-E5LrKo4ONrk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmh4Hs1Eh8JgCOjT0opNaq7I9pvIg/s96-c/photo.jpg",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "30/011/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 11/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Very good location...very good people..very helpful",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mia",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "26/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 9/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The room was spacious, clean and very comfortable. It had a/c and also had an electric fan on the roof which was a nice touch for when the a/c was too cold. The host was absolutely fantastic! She was so kind and very welcoming. She booked a tour of the caves for us and our bus to Hanoi both at very short notice. Our bus didn’t leave Phong Nha until late at night, but the host gave us the use of the room during the day to leave our bags and shower even after we had checked out which was amazing. We would not hesitate to stay here again.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Karishma",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "5/07/2022",
+                "rating": "Perfect little homestay to relax in after hiking in Phong Nha!",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "This little homestay in Phong Nha was perfect and very inexpensive for all the amenities it provided. It is located centrally and is within walking distance of restaurants and attractions. The bedroom and bathroom were modern and very very clean. The bed was cozy, the WiFi was strong, the air conditioner was very cooling, and the decor/lights were very relaxing. The staff were sweet, friendly, and accommodating. My overnight bus from Ninh Binh arrived at 3am and I was able to contact the staff at that hour and be immediately checked in! My bus back to Hanoi left at 9pm and I was also able to check out that late. I had tons of privacy (unlike in a hostel) which was ideal for me. I would stay here again in a heart beat and recommend it to everyone.",
+                "comment_negative": "n/a"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chelsea",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "10/03/2023",
+                "rating": "Great location",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Staff members were accommodating for early check in and check out at 4am in the morning",
+                "comment_negative": "Breakfast advertised in the description however they have not been doing this since Covid-19. Description needs updating to avoid disappointment as this hotel was booked for my friends birthday."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Styrbjorn",
+                "avatar": "https://lh3.googleusercontent.com/a/AItbvmnAtwAdJ-vXpu8WknK_TuiizCQtYEwoBwowo8Qv=s96-c",
+                "country": "Thụy Điển"
+            },
+            "review": {
+                "date": "13/07/2022",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "We thought this homestay was good but not excellent. It's a simple room with a simple bathroom but definately okay for a couple of days in Phong Nha. The owner rented us scooters for a fair price and was really happy all the time, although there was an occational language barrier. If were to choose again we might have gone with a farmstay for the experience.",
+                "comment_negative": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,868 @@
+{
+    "name": "Vsana Vu Son Hotel",
+    "address": "Hồ Xuân Hương, Sầm Sơn, Việt Nam",
+    "description": "Tọa lạc ở Sầm Sơn, Thanh Hóa, Vsana Vu Son Hotel nằm cách Bãi biển Sầm Sơn chỉ vài bước chân. Khách sạn 3 sao này cung cấp quầy lễ tân 24 giờ và Wi-Fi miễn phí. Ở đây có nhà hàng phục vụ món ăn Việt và chỗ đậu xe riêng miễn phí.\n\nPhòng khách được trang bị điều hòa, TV màn hình phẳng có truyền hình cáp, tủ lạnh, ấm đun nước, vòi xịt/chậu rửa vệ sinh, đồ vệ sinh cá nhân miễn phí và bàn làm việc. Ngoài phòng tắm riêng với vòi sen và máy sấy tóc, một số căn tại khách sạn cũng có view thành phố. Tại Vsana Vu Son Hotel, phòng nào cũng có ga trải giường và khăn tắm.\n\nKhách tại chỗ nghỉ có thể thưởng thức bữa sáng thực đơn à la carte.\n\nSân bay gần nhất là Sân bay Thọ Xuân, cách Vsana Vu Son Hotel 54 km.",
+    "rating": "8.5",
+    "total_rating": "46",
+    "evaluation_categories": {
+        "service_staff": 9.1,
+        "amenities": 8.5,
+        "cleanliness": 8.8,
+        "comfort": 9.0,
+        "value_for_money": 8.6,
+        "location": 9.0,
+        "free_wifi": 8.1
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Lê",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/06/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ks phục tốt có đồ ăn sáng ngon",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "2 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sạch sẽ. Nhân viên thân thiện.",
+                "comment_negative": "Hơi xa bãi tắm Sầm Sơn A B C khoảng 800m."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Có chỗ đỗ xe, ngay mặt đường, đi lại thuận tiện.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/09/2023",
+                "rating": "Thời gian này Sầm Sơn vắng khách, nắng vàng biển xanh nên đi du lịch rất thích, thoải mái!",
+                "score": 7.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần bãi biển, đi bộ qua đường là tắm biển được.\nNhà hàng bên cạnh KS cùng tên (nhưng không cùng chủ) nấu ăn rất ngon, đồ ăn tươi, đáng tiền.",
+                "comment_negative": "Mình không có sự lựa chọn phòng 1 giường đôi cho cặp đôi mà rộng rãi hơn, KS nên thiết kế thêm lựa chọn này. Vì vậy ở phòng 1 giường không gian hơi bí (không có cửa sổ nhìn nội khu hay gì đâu ạ, phòng kín bưng)\nPhòng vệ sinh không chốt được cửa và có tiếng động rè rè hơi khó chịu.\nKhông có thiết kế ổ điện gần giường nằm.\nỐp đầu giường bụi không được lau dù phòng đặt trước và ks có thgian chuẩn bị phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đào",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTteYsL6xCx_TCJUvlY2YH_5LyJlmBbb7PrDUc9PLaU8Iiw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/09/2023",
+                "rating": "Tuyệt Vời",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "3 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng view đẹp, thức ăn sáng ngon. Yên tĩnh, 1 kì nghỉ tại KS là lựa chọn hoàn hảo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hue",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/08/2023",
+                "rating": "Mọi thứ đều ổn trừ bữa sáng và phòng ko có cửa sổ nên lúc đầu vào sẽ hơi bí",
+                "score": 8.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm gần ngay biển rất tiện tắm biển. Hôm trước bị mưa nên nước hơi đục chút thôi.",
+                "comment_negative": "- Bữa sáng nên đa dạng hơn, nhà mình đi tầm thấp điểm ít khách nên chỉ có món phở chay, nước ép dưa hấu và hoa quả. Thấy bảo nếu đông khách thì có buffet chay. Mình ko rõ lắm.\n- Mình nghĩ dịch vụ và mọi thứ ổn trong tầm giá đã giảm, để giá sale nhiều khiến khách lại kỳ vọng hơi nhiều ạ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=6135366416556042&height=256&width=256&ext=1690613546&hash=AeTYLgLkT3LNEAPtCkQ",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Tiện nghi, gần biển, sạch sẽ, ăn sáng ngon",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huê",
+                "avatar": "https://graph.facebook.com/v2.9/4263549310535841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "nhân viên thân thiện - nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mr",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcb0xNjDcGwL4IL0Qhlu55SavE7A3nPbN_llp8W5g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Superior 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "cạnh biển, view đẹp, nhân viên khá nhiệt tình, chỉ có chỗ để xe thì phải đưa vào bãi để xe phía ngõ trong hơi bất tiện chút nếu trời mưa thì sẽ bị lầy, đồ ăn sáng tạm ổn",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtfleh1RU96qokIYJaSbrkdwnKMKRElbC0hmICQw2A=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí đẹp, thích hợp cả gia đình đi nghỉ dưỡng. Sẽ quay lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/06/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ks phục tốt có đồ ăn sáng ngon",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "2 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sạch sẽ. Nhân viên thân thiện.",
+                "comment_negative": "Hơi xa bãi tắm Sầm Sơn A B C khoảng 800m."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Có chỗ đỗ xe, ngay mặt đường, đi lại thuận tiện.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/09/2023",
+                "rating": "Thời gian này Sầm Sơn vắng khách, nắng vàng biển xanh nên đi du lịch rất thích, thoải mái!",
+                "score": 7.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần bãi biển, đi bộ qua đường là tắm biển được.\nNhà hàng bên cạnh KS cùng tên (nhưng không cùng chủ) nấu ăn rất ngon, đồ ăn tươi, đáng tiền.",
+                "comment_negative": "Mình không có sự lựa chọn phòng 1 giường đôi cho cặp đôi mà rộng rãi hơn, KS nên thiết kế thêm lựa chọn này. Vì vậy ở phòng 1 giường không gian hơi bí (không có cửa sổ nhìn nội khu hay gì đâu ạ, phòng kín bưng)\nPhòng vệ sinh không chốt được cửa và có tiếng động rè rè hơi khó chịu.\nKhông có thiết kế ổ điện gần giường nằm.\nỐp đầu giường bụi không được lau dù phòng đặt trước và ks có thgian chuẩn bị phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đào",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTteYsL6xCx_TCJUvlY2YH_5LyJlmBbb7PrDUc9PLaU8Iiw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/09/2023",
+                "rating": "Tuyệt Vời",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "3 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng view đẹp, thức ăn sáng ngon. Yên tĩnh, 1 kì nghỉ tại KS là lựa chọn hoàn hảo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hue",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/08/2023",
+                "rating": "Mọi thứ đều ổn trừ bữa sáng và phòng ko có cửa sổ nên lúc đầu vào sẽ hơi bí",
+                "score": 8.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm gần ngay biển rất tiện tắm biển. Hôm trước bị mưa nên nước hơi đục chút thôi.",
+                "comment_negative": "- Bữa sáng nên đa dạng hơn, nhà mình đi tầm thấp điểm ít khách nên chỉ có món phở chay, nước ép dưa hấu và hoa quả. Thấy bảo nếu đông khách thì có buffet chay. Mình ko rõ lắm.\n- Mình nghĩ dịch vụ và mọi thứ ổn trong tầm giá đã giảm, để giá sale nhiều khiến khách lại kỳ vọng hơi nhiều ạ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=6135366416556042&height=256&width=256&ext=1690613546&hash=AeTYLgLkT3LNEAPtCkQ",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Tiện nghi, gần biển, sạch sẽ, ăn sáng ngon",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huê",
+                "avatar": "https://graph.facebook.com/v2.9/4263549310535841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "nhân viên thân thiện - nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mr",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcb0xNjDcGwL4IL0Qhlu55SavE7A3nPbN_llp8W5g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Superior 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "cạnh biển, view đẹp, nhân viên khá nhiệt tình, chỉ có chỗ để xe thì phải đưa vào bãi để xe phía ngõ trong hơi bất tiện chút nếu trời mưa thì sẽ bị lầy, đồ ăn sáng tạm ổn",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtfleh1RU96qokIYJaSbrkdwnKMKRElbC0hmICQw2A=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí đẹp, thích hợp cả gia đình đi nghỉ dưỡng. Sẽ quay lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/06/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ks phục tốt có đồ ăn sáng ngon",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "2 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sạch sẽ. Nhân viên thân thiện.",
+                "comment_negative": "Hơi xa bãi tắm Sầm Sơn A B C khoảng 800m."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Có chỗ đỗ xe, ngay mặt đường, đi lại thuận tiện.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/09/2023",
+                "rating": "Thời gian này Sầm Sơn vắng khách, nắng vàng biển xanh nên đi du lịch rất thích, thoải mái!",
+                "score": 7.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần bãi biển, đi bộ qua đường là tắm biển được.\nNhà hàng bên cạnh KS cùng tên (nhưng không cùng chủ) nấu ăn rất ngon, đồ ăn tươi, đáng tiền.",
+                "comment_negative": "Mình không có sự lựa chọn phòng 1 giường đôi cho cặp đôi mà rộng rãi hơn, KS nên thiết kế thêm lựa chọn này. Vì vậy ở phòng 1 giường không gian hơi bí (không có cửa sổ nhìn nội khu hay gì đâu ạ, phòng kín bưng)\nPhòng vệ sinh không chốt được cửa và có tiếng động rè rè hơi khó chịu.\nKhông có thiết kế ổ điện gần giường nằm.\nỐp đầu giường bụi không được lau dù phòng đặt trước và ks có thgian chuẩn bị phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đào",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTteYsL6xCx_TCJUvlY2YH_5LyJlmBbb7PrDUc9PLaU8Iiw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/09/2023",
+                "rating": "Tuyệt Vời",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "3 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng view đẹp, thức ăn sáng ngon. Yên tĩnh, 1 kì nghỉ tại KS là lựa chọn hoàn hảo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hue",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/08/2023",
+                "rating": "Mọi thứ đều ổn trừ bữa sáng và phòng ko có cửa sổ nên lúc đầu vào sẽ hơi bí",
+                "score": 8.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm gần ngay biển rất tiện tắm biển. Hôm trước bị mưa nên nước hơi đục chút thôi.",
+                "comment_negative": "- Bữa sáng nên đa dạng hơn, nhà mình đi tầm thấp điểm ít khách nên chỉ có món phở chay, nước ép dưa hấu và hoa quả. Thấy bảo nếu đông khách thì có buffet chay. Mình ko rõ lắm.\n- Mình nghĩ dịch vụ và mọi thứ ổn trong tầm giá đã giảm, để giá sale nhiều khiến khách lại kỳ vọng hơi nhiều ạ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=6135366416556042&height=256&width=256&ext=1690613546&hash=AeTYLgLkT3LNEAPtCkQ",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Tiện nghi, gần biển, sạch sẽ, ăn sáng ngon",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huê",
+                "avatar": "https://graph.facebook.com/v2.9/4263549310535841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "nhân viên thân thiện - nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mr",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcb0xNjDcGwL4IL0Qhlu55SavE7A3nPbN_llp8W5g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Superior 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "cạnh biển, view đẹp, nhân viên khá nhiệt tình, chỉ có chỗ để xe thì phải đưa vào bãi để xe phía ngõ trong hơi bất tiện chút nếu trời mưa thì sẽ bị lầy, đồ ăn sáng tạm ổn",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtfleh1RU96qokIYJaSbrkdwnKMKRElbC0hmICQw2A=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí đẹp, thích hợp cả gia đình đi nghỉ dưỡng. Sẽ quay lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/06/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ks phục tốt có đồ ăn sáng ngon",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "2 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sạch sẽ. Nhân viên thân thiện.",
+                "comment_negative": "Hơi xa bãi tắm Sầm Sơn A B C khoảng 800m."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Có chỗ đỗ xe, ngay mặt đường, đi lại thuận tiện.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/09/2023",
+                "rating": "Thời gian này Sầm Sơn vắng khách, nắng vàng biển xanh nên đi du lịch rất thích, thoải mái!",
+                "score": 7.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần bãi biển, đi bộ qua đường là tắm biển được.\nNhà hàng bên cạnh KS cùng tên (nhưng không cùng chủ) nấu ăn rất ngon, đồ ăn tươi, đáng tiền.",
+                "comment_negative": "Mình không có sự lựa chọn phòng 1 giường đôi cho cặp đôi mà rộng rãi hơn, KS nên thiết kế thêm lựa chọn này. Vì vậy ở phòng 1 giường không gian hơi bí (không có cửa sổ nhìn nội khu hay gì đâu ạ, phòng kín bưng)\nPhòng vệ sinh không chốt được cửa và có tiếng động rè rè hơi khó chịu.\nKhông có thiết kế ổ điện gần giường nằm.\nỐp đầu giường bụi không được lau dù phòng đặt trước và ks có thgian chuẩn bị phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đào",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTteYsL6xCx_TCJUvlY2YH_5LyJlmBbb7PrDUc9PLaU8Iiw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/09/2023",
+                "rating": "Tuyệt Vời",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "3 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng view đẹp, thức ăn sáng ngon. Yên tĩnh, 1 kì nghỉ tại KS là lựa chọn hoàn hảo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hue",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/08/2023",
+                "rating": "Mọi thứ đều ổn trừ bữa sáng và phòng ko có cửa sổ nên lúc đầu vào sẽ hơi bí",
+                "score": 8.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm gần ngay biển rất tiện tắm biển. Hôm trước bị mưa nên nước hơi đục chút thôi.",
+                "comment_negative": "- Bữa sáng nên đa dạng hơn, nhà mình đi tầm thấp điểm ít khách nên chỉ có món phở chay, nước ép dưa hấu và hoa quả. Thấy bảo nếu đông khách thì có buffet chay. Mình ko rõ lắm.\n- Mình nghĩ dịch vụ và mọi thứ ổn trong tầm giá đã giảm, để giá sale nhiều khiến khách lại kỳ vọng hơi nhiều ạ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=6135366416556042&height=256&width=256&ext=1690613546&hash=AeTYLgLkT3LNEAPtCkQ",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Tiện nghi, gần biển, sạch sẽ, ăn sáng ngon",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huê",
+                "avatar": "https://graph.facebook.com/v2.9/4263549310535841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "nhân viên thân thiện - nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mr",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcb0xNjDcGwL4IL0Qhlu55SavE7A3nPbN_llp8W5g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Superior 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "cạnh biển, view đẹp, nhân viên khá nhiệt tình, chỉ có chỗ để xe thì phải đưa vào bãi để xe phía ngõ trong hơi bất tiện chút nếu trời mưa thì sẽ bị lầy, đồ ăn sáng tạm ổn",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtfleh1RU96qokIYJaSbrkdwnKMKRElbC0hmICQw2A=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí đẹp, thích hợp cả gia đình đi nghỉ dưỡng. Sẽ quay lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/06/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ks phục tốt có đồ ăn sáng ngon",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "2 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sạch sẽ. Nhân viên thân thiện.",
+                "comment_negative": "Hơi xa bãi tắm Sầm Sơn A B C khoảng 800m."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Có chỗ đỗ xe, ngay mặt đường, đi lại thuận tiện.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/09/2023",
+                "rating": "Thời gian này Sầm Sơn vắng khách, nắng vàng biển xanh nên đi du lịch rất thích, thoải mái!",
+                "score": 7.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần bãi biển, đi bộ qua đường là tắm biển được.\nNhà hàng bên cạnh KS cùng tên (nhưng không cùng chủ) nấu ăn rất ngon, đồ ăn tươi, đáng tiền.",
+                "comment_negative": "Mình không có sự lựa chọn phòng 1 giường đôi cho cặp đôi mà rộng rãi hơn, KS nên thiết kế thêm lựa chọn này. Vì vậy ở phòng 1 giường không gian hơi bí (không có cửa sổ nhìn nội khu hay gì đâu ạ, phòng kín bưng)\nPhòng vệ sinh không chốt được cửa và có tiếng động rè rè hơi khó chịu.\nKhông có thiết kế ổ điện gần giường nằm.\nỐp đầu giường bụi không được lau dù phòng đặt trước và ks có thgian chuẩn bị phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đào",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTteYsL6xCx_TCJUvlY2YH_5LyJlmBbb7PrDUc9PLaU8Iiw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/09/2023",
+                "rating": "Tuyệt Vời",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "3 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng view đẹp, thức ăn sáng ngon. Yên tĩnh, 1 kì nghỉ tại KS là lựa chọn hoàn hảo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hue",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/08/2023",
+                "rating": "Mọi thứ đều ổn trừ bữa sáng và phòng ko có cửa sổ nên lúc đầu vào sẽ hơi bí",
+                "score": 8.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm gần ngay biển rất tiện tắm biển. Hôm trước bị mưa nên nước hơi đục chút thôi.",
+                "comment_negative": "- Bữa sáng nên đa dạng hơn, nhà mình đi tầm thấp điểm ít khách nên chỉ có món phở chay, nước ép dưa hấu và hoa quả. Thấy bảo nếu đông khách thì có buffet chay. Mình ko rõ lắm.\n- Mình nghĩ dịch vụ và mọi thứ ổn trong tầm giá đã giảm, để giá sale nhiều khiến khách lại kỳ vọng hơi nhiều ạ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=6135366416556042&height=256&width=256&ext=1690613546&hash=AeTYLgLkT3LNEAPtCkQ",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Tiện nghi, gần biển, sạch sẽ, ăn sáng ngon",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huê",
+                "avatar": "https://graph.facebook.com/v2.9/4263549310535841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "nhân viên thân thiện - nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mr",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcb0xNjDcGwL4IL0Qhlu55SavE7A3nPbN_llp8W5g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Superior 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "cạnh biển, view đẹp, nhân viên khá nhiệt tình, chỉ có chỗ để xe thì phải đưa vào bãi để xe phía ngõ trong hơi bất tiện chút nếu trời mưa thì sẽ bị lầy, đồ ăn sáng tạm ổn",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtfleh1RU96qokIYJaSbrkdwnKMKRElbC0hmICQw2A=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí đẹp, thích hợp cả gia đình đi nghỉ dưỡng. Sẽ quay lại nếu có dịp.",
+                "comment_negative": null
+            }
+        }
+    ]
+}

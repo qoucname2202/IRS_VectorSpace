@@ -1,0 +1,358 @@
+{
+    "name": "ONE HOTEL",
+    "address": "ONE HOTEL, Vĩnh Long, Việt Nam",
+    "description": "ONE HOTEL nằm ở Vĩnh Long, cách Trung tâm thương mại Vincom Xuân Khánh 40 km và Bến Ninh Kiều 40 km. Ngoài sân hiên, khách sạn 3 sao này có các phòng được trang bị điều hòa và Wi-Fi miễn phí, trong đó mỗi phòng sẽ có phòng tắm riêng. Chỗ đậu xe riêng miễn phí có sẵn và khách sạn còn cung cấp dịch vụ thuê ô tô cho những khách muốn khám phá khu vực xung quanh.\n\nTại khách sạn, phòng nào cũng có bàn làm việc. Tại ONE HOTEL, các phòng đều có ga trải giường và khăn tắm.\n\nThành thạo tiếng Anh và tiếng Việt, đội ngũ nhân viên tại lễ tân luôn túc trực để hỗ trợ khách.\n\nChỗ nghỉ cách Vincom Plaza Hùng Vương 41 km và Vinh Long Museum 5 phút đi bộ. Sân bay gần nhất là Sân bay Quốc tế Cần Thơ, cách ONE HOTEL 49 km.",
+    "rating": "8.9",
+    "total_rating": "",
+    "evaluation_categories": {
+        "service_staff": 9.4,
+        "amenities": 8.8,
+        "cleanliness": 9.4,
+        "comfort": 9.2,
+        "value_for_money": 9.2,
+        "location": 9.5,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Vu",
+                "avatar": "https://lh4.googleusercontent.com/-1f8EGRC7SYU/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcY2uyekTEfvvCrJTvgA-3TShk_kPA/mo/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Khách sạn mới, chỗ ở vị trí trung tâm, nhân viên thân thiện",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn mới, chỗ ở vị trí trung tâm, nhân viên thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anne",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "27/012/2023",
+                "rating": "Good, clean hotel in very convenient location",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "I stayed in a Standard + room. It was a spacious room with 2 large windows. The room was clean and very comfortable with Kettle, fridge, AC & TV. The hotel was in an excellent location, directly opposite was a large supermarket, 200m to riverfront walkway, 500m to An Binh ferry. Reception was very helpful (one staff member good English)",
+                "comment_negative": "Breakfast was supposed to be included but was told ‘we don’t support breakfast’."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duy",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "New hotel, comfortable rooms and very supportive staff. The receptionist his name is Minh Quang supporting early check-in and very friendly. I'll be back here! The price is reasonable, the central location is convenient to travel and the staff is very good.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thomas",
+                "avatar": null,
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "17/012/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Decoration traditionnelle",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kurt",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Áo"
+            },
+            "review": {
+                "date": "23/010/2023",
+                "rating": "Exceptional clean and comfy hotel rooms",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Location is great, next to the main shopping center and the provincial museum. The hotel is exceptional clean. Only surprise was, that there is a massage center at the first two floors. But all in all: exceptional high value for money.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Midori",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Nhật Bản"
+            },
+            "review": {
+                "date": "15/011/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Suite Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "豪華",
+                "comment_negative": "バスタブがあったが、お湯がかなり出し続けても35度のぬるい湯しか出ない。風呂水もシャワーもトイレの床に排水するので、床が水浸しになり、滑らないか心配。"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Burkard",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-b.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Zimmer ist groß und mit allen Ansprüchen.",
+                "comment_negative": "Alles soweit in Ordnung."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ1xy7CfSf3jvK0fugZt7cG03NC2UYwOFG4JXX3VPf6IQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/011/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phuoc",
+                "avatar": "https://graph.facebook.com/v2.9/10153518966376270/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/011/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kieu",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTteSbpEaUv0p7UWf9-CGvgA7tpo42h4kegVCibKU3BHl=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/010/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vu",
+                "avatar": "https://lh4.googleusercontent.com/-1f8EGRC7SYU/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcY2uyekTEfvvCrJTvgA-3TShk_kPA/mo/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Khách sạn mới, chỗ ở vị trí trung tâm, nhân viên thân thiện",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn mới, chỗ ở vị trí trung tâm, nhân viên thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anne",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "27/012/2023",
+                "rating": "Good, clean hotel in very convenient location",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "I stayed in a Standard + room. It was a spacious room with 2 large windows. The room was clean and very comfortable with Kettle, fridge, AC & TV. The hotel was in an excellent location, directly opposite was a large supermarket, 200m to riverfront walkway, 500m to An Binh ferry. Reception was very helpful (one staff member good English)",
+                "comment_negative": "Breakfast was supposed to be included but was told ‘we don’t support breakfast’."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duy",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "New hotel, comfortable rooms and very supportive staff. The receptionist his name is Minh Quang supporting early check-in and very friendly. I'll be back here! The price is reasonable, the central location is convenient to travel and the staff is very good.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thomas",
+                "avatar": null,
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "17/012/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Decoration traditionnelle",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kurt",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Áo"
+            },
+            "review": {
+                "date": "23/010/2023",
+                "rating": "Exceptional clean and comfy hotel rooms",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Location is great, next to the main shopping center and the provincial museum. The hotel is exceptional clean. Only surprise was, that there is a massage center at the first two floors. But all in all: exceptional high value for money.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Midori",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Nhật Bản"
+            },
+            "review": {
+                "date": "15/011/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Suite Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "豪華",
+                "comment_negative": "バスタブがあったが、お湯がかなり出し続けても35度のぬるい湯しか出ない。風呂水もシャワーもトイレの床に排水するので、床が水浸しになり、滑らないか心配。"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Burkard",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-b.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Zimmer ist groß und mit allen Ansprüchen.",
+                "comment_negative": "Alles soweit in Ordnung."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ1xy7CfSf3jvK0fugZt7cG03NC2UYwOFG4JXX3VPf6IQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/011/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phuoc",
+                "avatar": "https://graph.facebook.com/v2.9/10153518966376270/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/011/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kieu",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTteSbpEaUv0p7UWf9-CGvgA7tpo42h4kegVCibKU3BHl=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/010/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

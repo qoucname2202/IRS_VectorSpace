@@ -1,0 +1,358 @@
+{
+    "name": "Phúc Thuận Hotel",
+    "address": "Yên Ninh, Phan Rang, Việt Nam",
+    "description": "Nằm ở Phan Rang, cách Bãi biển Ninh Chữ chỉ vài bước chân, Phúc Thuận Hotel cung cấp chỗ nghỉ có hồ bơi ngoài trời, chỗ đậu xe riêng miễn phí, sân hiên và khu vực bãi biển riêng. Khách sạn 2 sao này có quầy lễ tân 24 giờ. Đây là chỗ nghỉ không gây dị ứng và tọa lạc cách Bãi biển Bình Sơn 1.9 km.\n\nCác căn đi kèm điều hòa, TV màn hình phẳng có truyền hình cáp, tủ lạnh, ấm đun nước, vòi sen, đồ vệ sinh cá nhân miễn phí và bàn làm việc. Với phòng tắm riêng được trang bị bồn tắm và máy sấy tóc, các phòng tại khách sạn cũng có Wi-Fi miễn phí, trong đó một số phòng có view biển. Tại Phúc Thuận Hotel, tất cả các phòng có ga trải giường và khăn tắm.\n\nSân bay gần nhất là Sân bay Liên Khương, cách chỗ nghỉ 117 km.",
+    "rating": "8.3",
+    "total_rating": "19",
+    "evaluation_categories": {
+        "service_staff": 8.4,
+        "amenities": 8.2,
+        "cleanliness": 8.2,
+        "comfort": 8.4,
+        "value_for_money": 8.6,
+        "location": 8.6,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn mới, nội thất tốt, nhân viên thân thiện nhiệt tình. Rất hài lòng. Cạnh bên khách sạn là các quán ăn hải sản rất ngon, giá cả hợp lý. Bể bơi rất thoải mái. Sát biển vài bước chân.",
+                "comment_negative": "Hoàn toàn hài lòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": "https://lh3.googleusercontent.com/-_-t3drJS6bY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn170Bx4bnx8MIbvh9SHeHWpgs_bA/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Gia đình",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luyen",
+                "avatar": "https://lh4.googleusercontent.com/-LmntGxacj1Y/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rczwbFh4uhQxUze5okVL7IwpWQ4Kw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/01/2024",
+                "rating": "KHÁCH SẠN SÁT BIỂN, GIÁ CẢ BÌNH DÂN NHƯNG ĐẦY ĐỦ TIỆN ÍCH",
+                "score": 8.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Ks ngay bãi biển, rất tiện, có hồ bơi nhỏ. biển sạch, có trồng nhiều dừa tránh nắng",
+                "comment_negative": "đi dịp lễ nhiều khách đoàn, khách mượn chỗ ăn uống xong không đem rác đi dọn ngay nên có mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "La",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJzNxBVi5W4nPi-q-4BieGuPkKfBQit7poiToWesKce=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/03/2024",
+                "rating": "Rất hài lòng! Sẽ giới thiệu tới nhiều bạn bè hơn.",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn nằm gần chỗ mình làm việc nên di chuyển thuận tiện nè. Các bạn nhân viên hỗ trợ mình trong quá trình ở khá chuyên nghiệp, thân thiện. Có dịp sẽ quay lại ủng hộ khách sạn. Mình ngủ ngon nên rất thích.",
+                "comment_negative": "Không có điều gì khiến tôi không hài lòng về khách sạn cả."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hồ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gj7jz60UuY6Nr7IxLcbFcHmSL5zeeJYP-KaIDryUw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/03/2024",
+                "rating": "Đáng nhớ",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian đẹp, trang trọng, nhân viên hỗ trợ mình rất tốt.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocInGcSH4y8tgIAPoPMFIqC2WBT2DS0pyXgvBGMma19PbQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian mát mẻ thoáng và sạch dễ chịu",
+                "comment_negative": "Khách sạn trang trí khá đặc biệt và thu hút"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Tốt, sẽ quay lại nếu book được mức giá tương tự.",
+                "score": 6.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng mới, rộng rãi. Có bãi đậu xe thoải mái. Nội thất đẹp. Chất lượng tốt hơn mức giá.  (hình như book phòng lúc được giảm giá). Gần đấy có các quán ăn sáng với bánh xèo, bánh khọt hải sản rất tươi. Phong cảnh nơi ăn sáng khá đẹp, gần gũi người địa phương. Người bán quán ăn cũng hiếu khách, dễ mến.",
+                "comment_negative": "Hơi xa quốc lộ và thành phố 1 chút. Nhưng cũng ok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/012/2023",
+                "rating": "Thất vọng",
+                "score": 4.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần biển",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tomas",
+                "avatar": "https://graph.facebook.com/v2.9/10157858016012258/picture?type=square&height=64&width=64",
+                "country": "Cộng hoà Séc"
+            },
+            "review": {
+                "date": "29/01/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": "Leaking water under bathtub\nCoackroach in bathtub\nNon EN speaking staff"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sen",
+                "avatar": "https://lh4.googleusercontent.com/-1rxypf-paz8/AAAAAAAAAAI/AAAAAAAAAGM/AMdttCHQ0tk/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/01/2024",
+                "rating": "We had an enjoyable time at Phuc Thuan hotel and Ninh Chu Beach",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Hotel location is right at beachfront, Ninh Chu beach is peaceful for swimming, very beautiful sunset. local vendors offer very fresh and yummy grapes, apples from Ninh Thuan farms with cheap price.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn mới, nội thất tốt, nhân viên thân thiện nhiệt tình. Rất hài lòng. Cạnh bên khách sạn là các quán ăn hải sản rất ngon, giá cả hợp lý. Bể bơi rất thoải mái. Sát biển vài bước chân.",
+                "comment_negative": "Hoàn toàn hài lòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": "https://lh3.googleusercontent.com/-_-t3drJS6bY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn170Bx4bnx8MIbvh9SHeHWpgs_bA/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Gia đình",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luyen",
+                "avatar": "https://lh4.googleusercontent.com/-LmntGxacj1Y/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rczwbFh4uhQxUze5okVL7IwpWQ4Kw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/01/2024",
+                "rating": "KHÁCH SẠN SÁT BIỂN, GIÁ CẢ BÌNH DÂN NHƯNG ĐẦY ĐỦ TIỆN ÍCH",
+                "score": 8.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Ks ngay bãi biển, rất tiện, có hồ bơi nhỏ. biển sạch, có trồng nhiều dừa tránh nắng",
+                "comment_negative": "đi dịp lễ nhiều khách đoàn, khách mượn chỗ ăn uống xong không đem rác đi dọn ngay nên có mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "La",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJzNxBVi5W4nPi-q-4BieGuPkKfBQit7poiToWesKce=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/03/2024",
+                "rating": "Rất hài lòng! Sẽ giới thiệu tới nhiều bạn bè hơn.",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn nằm gần chỗ mình làm việc nên di chuyển thuận tiện nè. Các bạn nhân viên hỗ trợ mình trong quá trình ở khá chuyên nghiệp, thân thiện. Có dịp sẽ quay lại ủng hộ khách sạn. Mình ngủ ngon nên rất thích.",
+                "comment_negative": "Không có điều gì khiến tôi không hài lòng về khách sạn cả."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hồ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gj7jz60UuY6Nr7IxLcbFcHmSL5zeeJYP-KaIDryUw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/03/2024",
+                "rating": "Đáng nhớ",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian đẹp, trang trọng, nhân viên hỗ trợ mình rất tốt.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocInGcSH4y8tgIAPoPMFIqC2WBT2DS0pyXgvBGMma19PbQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian mát mẻ thoáng và sạch dễ chịu",
+                "comment_negative": "Khách sạn trang trí khá đặc biệt và thu hút"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Tốt, sẽ quay lại nếu book được mức giá tương tự.",
+                "score": 6.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng mới, rộng rãi. Có bãi đậu xe thoải mái. Nội thất đẹp. Chất lượng tốt hơn mức giá.  (hình như book phòng lúc được giảm giá). Gần đấy có các quán ăn sáng với bánh xèo, bánh khọt hải sản rất tươi. Phong cảnh nơi ăn sáng khá đẹp, gần gũi người địa phương. Người bán quán ăn cũng hiếu khách, dễ mến.",
+                "comment_negative": "Hơi xa quốc lộ và thành phố 1 chút. Nhưng cũng ok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/012/2023",
+                "rating": "Thất vọng",
+                "score": 4.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần biển",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tomas",
+                "avatar": "https://graph.facebook.com/v2.9/10157858016012258/picture?type=square&height=64&width=64",
+                "country": "Cộng hoà Séc"
+            },
+            "review": {
+                "date": "29/01/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": "Leaking water under bathtub\nCoackroach in bathtub\nNon EN speaking staff"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sen",
+                "avatar": "https://lh4.googleusercontent.com/-1rxypf-paz8/AAAAAAAAAAI/AAAAAAAAAGM/AMdttCHQ0tk/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/01/2024",
+                "rating": "We had an enjoyable time at Phuc Thuan hotel and Ninh Chu Beach",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Hotel location is right at beachfront, Ninh Chu beach is peaceful for swimming, very beautiful sunset. local vendors offer very fresh and yummy grapes, apples from Ninh Thuan farms with cheap price.",
+                "comment_negative": null
+            }
+        }
+    ]
+}

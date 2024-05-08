@@ -1,0 +1,1888 @@
+{
+    "name": "Starlet Hotel Phong Nha",
+    "address": "Đường 20, Phong Nha, Việt Nam",
+    "description": "Tọa lạc ở Phong Nha, Starlet Hotel Phong Nha có khu vườn, phòng chờ chung, sân hiên, cùng Wi-Fi miễn phí. Chỗ nghỉ có chỗ đậu xe riêng miễn phí và có cả dịch vụ đưa đón sân bay mất phí.\n\nTại khách sạn, tất cả các phòng đều được thiết kế có bàn làm việc. Với phòng tắm riêng được trang bị vòi xịt/chậu rửa vệ sinh và đồ vệ sinh cá nhân miễn phí, tất cả các căn tại Starlet Hotel Phong Nha có TV màn hình phẳng và điều hòa, trong đó một số phòng có sân trong. Tất cả các phòng có phòng tắm chung, dép đi trong phòng và ga trải giường.\n\nChỗ nghỉ có phục vụ bữa sáng mỗi sáng, gồm các lựa chọn kiểu Mỹ, kiểu Á và món chay.\n\nĐi xe đạp là hoạt động được ưa chuộng trong khu vực. Ngoài ra, chỗ nghỉ có dịch vụ thuê xe đạp và dịch vụ thuê ô tô.\n\nThành thạo tiếng Anh và tiếng Việt, đội ngũ nhân viên luôn túc trực 24/7 tại lễ tân.\n\nSân bay gần nhất là Sân bay Đồng Hới, cách Starlet Hotel Phong Nha 37 km.",
+    "rating": "8.5",
+    "total_rating": "108",
+    "evaluation_categories": {
+        "service_staff": 9.3,
+        "amenities": 8.2,
+        "cleanliness": 8.7,
+        "comfort": 8.5,
+        "value_for_money": 9.1,
+        "location": 9.4,
+        "free_wifi": 10.0
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "3 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "giá rẻ mà chỗ thoải mái, cô chủ rất nhiệt tình, còn cho bắp ngô ăn nữa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nên thêm các giá treo áo quần, và nên có dép đi trong nhà",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tùng",
+                "avatar": "https://graph.facebook.com/v2.9/1849748382054129/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Nói chung là hài lòng",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng thoáng sạch sẽ",
+                "comment_negative": "Hơi thất vọng vì phòng k trang bị tivi nhưng khi đặt phòng nv k báo tại đi gđ coa trẻ nhỏ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/07/2023",
+                "rating": "Khách sạn tốt, giá hợp lý.",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí ở trung tâm nên rất tiện lợi, chị chủ khách sạn chủ động gọi cho mình trước và tư vấn tham quan rất nhiệt tình.",
+                "comment_negative": "Ks có bao gồm đồ ăn sáng nhưng là phục vụ mì gói nha mn. Các hàng quán xung quanh đều niêm yết giá nhưng giá hơi cao 1 xíu (vd bánh mì thịt giá 25k)."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/1484014741705309/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Bạn chủ nhà dễ mến, vị trí ngay gần bến thuyền Phong Nha.",
+                "comment_negative": "Khách sạn có vẻ chưa được bổ sung đầy đủ thiết bị như tủ quần áo, mình phải để đồ đạc, balo dưới đất, cửa phòng bị vênh rất khó để khoá,…"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hau",
+                "avatar": "https://graph.facebook.com/v2.9/327566880989700/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/05/2023",
+                "rating": "ngay trung tâm , phòng sạch , nhân viên thân thiện , giá như vậy là quá rẻ rồi",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "phù hợp để dừng chân",
+                "score": 9.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "địa điểm thuận lợi để đi thăm động phong nha, phỏng ở mức phù hợp với giá tiền.",
+                "comment_negative": "TT Phong Nha không có nhiều hoạt động vui chơi, chủ yếu là quán bar, phù hợp với giới trẻ đi chơi tiệc tùng, đi gai đình thì không có chỗ để giải trí."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2023",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên thân thiện, dễ thương, support nhiều",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chau",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ nhân viên nhiệt tình, giá cả hợp lý bao ăn sáng",
+                "comment_negative": "ko còn gì để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": "https://graph.facebook.com/v2.9/1671014253019512/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/06/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "sạch sẽ, thoải mái, chủ nhiệt tình",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "3 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "giá rẻ mà chỗ thoải mái, cô chủ rất nhiệt tình, còn cho bắp ngô ăn nữa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nên thêm các giá treo áo quần, và nên có dép đi trong nhà",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tùng",
+                "avatar": "https://graph.facebook.com/v2.9/1849748382054129/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Nói chung là hài lòng",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng thoáng sạch sẽ",
+                "comment_negative": "Hơi thất vọng vì phòng k trang bị tivi nhưng khi đặt phòng nv k báo tại đi gđ coa trẻ nhỏ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/07/2023",
+                "rating": "Khách sạn tốt, giá hợp lý.",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí ở trung tâm nên rất tiện lợi, chị chủ khách sạn chủ động gọi cho mình trước và tư vấn tham quan rất nhiệt tình.",
+                "comment_negative": "Ks có bao gồm đồ ăn sáng nhưng là phục vụ mì gói nha mn. Các hàng quán xung quanh đều niêm yết giá nhưng giá hơi cao 1 xíu (vd bánh mì thịt giá 25k)."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/1484014741705309/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Bạn chủ nhà dễ mến, vị trí ngay gần bến thuyền Phong Nha.",
+                "comment_negative": "Khách sạn có vẻ chưa được bổ sung đầy đủ thiết bị như tủ quần áo, mình phải để đồ đạc, balo dưới đất, cửa phòng bị vênh rất khó để khoá,…"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hau",
+                "avatar": "https://graph.facebook.com/v2.9/327566880989700/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/05/2023",
+                "rating": "ngay trung tâm , phòng sạch , nhân viên thân thiện , giá như vậy là quá rẻ rồi",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "phù hợp để dừng chân",
+                "score": 9.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "địa điểm thuận lợi để đi thăm động phong nha, phỏng ở mức phù hợp với giá tiền.",
+                "comment_negative": "TT Phong Nha không có nhiều hoạt động vui chơi, chủ yếu là quán bar, phù hợp với giới trẻ đi chơi tiệc tùng, đi gai đình thì không có chỗ để giải trí."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2023",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên thân thiện, dễ thương, support nhiều",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chau",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ nhân viên nhiệt tình, giá cả hợp lý bao ăn sáng",
+                "comment_negative": "ko còn gì để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": "https://graph.facebook.com/v2.9/1671014253019512/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/06/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "sạch sẽ, thoải mái, chủ nhiệt tình",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "3 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "giá rẻ mà chỗ thoải mái, cô chủ rất nhiệt tình, còn cho bắp ngô ăn nữa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nên thêm các giá treo áo quần, và nên có dép đi trong nhà",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tùng",
+                "avatar": "https://graph.facebook.com/v2.9/1849748382054129/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Nói chung là hài lòng",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng thoáng sạch sẽ",
+                "comment_negative": "Hơi thất vọng vì phòng k trang bị tivi nhưng khi đặt phòng nv k báo tại đi gđ coa trẻ nhỏ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/07/2023",
+                "rating": "Khách sạn tốt, giá hợp lý.",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí ở trung tâm nên rất tiện lợi, chị chủ khách sạn chủ động gọi cho mình trước và tư vấn tham quan rất nhiệt tình.",
+                "comment_negative": "Ks có bao gồm đồ ăn sáng nhưng là phục vụ mì gói nha mn. Các hàng quán xung quanh đều niêm yết giá nhưng giá hơi cao 1 xíu (vd bánh mì thịt giá 25k)."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/1484014741705309/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Bạn chủ nhà dễ mến, vị trí ngay gần bến thuyền Phong Nha.",
+                "comment_negative": "Khách sạn có vẻ chưa được bổ sung đầy đủ thiết bị như tủ quần áo, mình phải để đồ đạc, balo dưới đất, cửa phòng bị vênh rất khó để khoá,…"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hau",
+                "avatar": "https://graph.facebook.com/v2.9/327566880989700/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/05/2023",
+                "rating": "ngay trung tâm , phòng sạch , nhân viên thân thiện , giá như vậy là quá rẻ rồi",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "phù hợp để dừng chân",
+                "score": 9.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "địa điểm thuận lợi để đi thăm động phong nha, phỏng ở mức phù hợp với giá tiền.",
+                "comment_negative": "TT Phong Nha không có nhiều hoạt động vui chơi, chủ yếu là quán bar, phù hợp với giới trẻ đi chơi tiệc tùng, đi gai đình thì không có chỗ để giải trí."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2023",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên thân thiện, dễ thương, support nhiều",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chau",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ nhân viên nhiệt tình, giá cả hợp lý bao ăn sáng",
+                "comment_negative": "ko còn gì để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": "https://graph.facebook.com/v2.9/1671014253019512/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/06/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "sạch sẽ, thoải mái, chủ nhiệt tình",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "3 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "giá rẻ mà chỗ thoải mái, cô chủ rất nhiệt tình, còn cho bắp ngô ăn nữa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nên thêm các giá treo áo quần, và nên có dép đi trong nhà",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tùng",
+                "avatar": "https://graph.facebook.com/v2.9/1849748382054129/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Nói chung là hài lòng",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng thoáng sạch sẽ",
+                "comment_negative": "Hơi thất vọng vì phòng k trang bị tivi nhưng khi đặt phòng nv k báo tại đi gđ coa trẻ nhỏ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/07/2023",
+                "rating": "Khách sạn tốt, giá hợp lý.",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí ở trung tâm nên rất tiện lợi, chị chủ khách sạn chủ động gọi cho mình trước và tư vấn tham quan rất nhiệt tình.",
+                "comment_negative": "Ks có bao gồm đồ ăn sáng nhưng là phục vụ mì gói nha mn. Các hàng quán xung quanh đều niêm yết giá nhưng giá hơi cao 1 xíu (vd bánh mì thịt giá 25k)."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/1484014741705309/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Bạn chủ nhà dễ mến, vị trí ngay gần bến thuyền Phong Nha.",
+                "comment_negative": "Khách sạn có vẻ chưa được bổ sung đầy đủ thiết bị như tủ quần áo, mình phải để đồ đạc, balo dưới đất, cửa phòng bị vênh rất khó để khoá,…"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hau",
+                "avatar": "https://graph.facebook.com/v2.9/327566880989700/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/05/2023",
+                "rating": "ngay trung tâm , phòng sạch , nhân viên thân thiện , giá như vậy là quá rẻ rồi",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "phù hợp để dừng chân",
+                "score": 9.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "địa điểm thuận lợi để đi thăm động phong nha, phỏng ở mức phù hợp với giá tiền.",
+                "comment_negative": "TT Phong Nha không có nhiều hoạt động vui chơi, chủ yếu là quán bar, phù hợp với giới trẻ đi chơi tiệc tùng, đi gai đình thì không có chỗ để giải trí."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2023",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên thân thiện, dễ thương, support nhiều",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chau",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ nhân viên nhiệt tình, giá cả hợp lý bao ăn sáng",
+                "comment_negative": "ko còn gì để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": "https://graph.facebook.com/v2.9/1671014253019512/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/06/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "sạch sẽ, thoải mái, chủ nhiệt tình",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "3 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "giá rẻ mà chỗ thoải mái, cô chủ rất nhiệt tình, còn cho bắp ngô ăn nữa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nên thêm các giá treo áo quần, và nên có dép đi trong nhà",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tùng",
+                "avatar": "https://graph.facebook.com/v2.9/1849748382054129/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Nói chung là hài lòng",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng thoáng sạch sẽ",
+                "comment_negative": "Hơi thất vọng vì phòng k trang bị tivi nhưng khi đặt phòng nv k báo tại đi gđ coa trẻ nhỏ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/07/2023",
+                "rating": "Khách sạn tốt, giá hợp lý.",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí ở trung tâm nên rất tiện lợi, chị chủ khách sạn chủ động gọi cho mình trước và tư vấn tham quan rất nhiệt tình.",
+                "comment_negative": "Ks có bao gồm đồ ăn sáng nhưng là phục vụ mì gói nha mn. Các hàng quán xung quanh đều niêm yết giá nhưng giá hơi cao 1 xíu (vd bánh mì thịt giá 25k)."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/1484014741705309/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Bạn chủ nhà dễ mến, vị trí ngay gần bến thuyền Phong Nha.",
+                "comment_negative": "Khách sạn có vẻ chưa được bổ sung đầy đủ thiết bị như tủ quần áo, mình phải để đồ đạc, balo dưới đất, cửa phòng bị vênh rất khó để khoá,…"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hau",
+                "avatar": "https://graph.facebook.com/v2.9/327566880989700/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/05/2023",
+                "rating": "ngay trung tâm , phòng sạch , nhân viên thân thiện , giá như vậy là quá rẻ rồi",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "phù hợp để dừng chân",
+                "score": 9.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "địa điểm thuận lợi để đi thăm động phong nha, phỏng ở mức phù hợp với giá tiền.",
+                "comment_negative": "TT Phong Nha không có nhiều hoạt động vui chơi, chủ yếu là quán bar, phù hợp với giới trẻ đi chơi tiệc tùng, đi gai đình thì không có chỗ để giải trí."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2023",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên thân thiện, dễ thương, support nhiều",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chau",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ nhân viên nhiệt tình, giá cả hợp lý bao ăn sáng",
+                "comment_negative": "ko còn gì để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": "https://graph.facebook.com/v2.9/1671014253019512/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/06/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "sạch sẽ, thoải mái, chủ nhiệt tình",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "3 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "giá rẻ mà chỗ thoải mái, cô chủ rất nhiệt tình, còn cho bắp ngô ăn nữa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nên thêm các giá treo áo quần, và nên có dép đi trong nhà",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tùng",
+                "avatar": "https://graph.facebook.com/v2.9/1849748382054129/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Nói chung là hài lòng",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng thoáng sạch sẽ",
+                "comment_negative": "Hơi thất vọng vì phòng k trang bị tivi nhưng khi đặt phòng nv k báo tại đi gđ coa trẻ nhỏ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/07/2023",
+                "rating": "Khách sạn tốt, giá hợp lý.",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí ở trung tâm nên rất tiện lợi, chị chủ khách sạn chủ động gọi cho mình trước và tư vấn tham quan rất nhiệt tình.",
+                "comment_negative": "Ks có bao gồm đồ ăn sáng nhưng là phục vụ mì gói nha mn. Các hàng quán xung quanh đều niêm yết giá nhưng giá hơi cao 1 xíu (vd bánh mì thịt giá 25k)."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/1484014741705309/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Bạn chủ nhà dễ mến, vị trí ngay gần bến thuyền Phong Nha.",
+                "comment_negative": "Khách sạn có vẻ chưa được bổ sung đầy đủ thiết bị như tủ quần áo, mình phải để đồ đạc, balo dưới đất, cửa phòng bị vênh rất khó để khoá,…"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hau",
+                "avatar": "https://graph.facebook.com/v2.9/327566880989700/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/05/2023",
+                "rating": "ngay trung tâm , phòng sạch , nhân viên thân thiện , giá như vậy là quá rẻ rồi",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "phù hợp để dừng chân",
+                "score": 9.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "địa điểm thuận lợi để đi thăm động phong nha, phỏng ở mức phù hợp với giá tiền.",
+                "comment_negative": "TT Phong Nha không có nhiều hoạt động vui chơi, chủ yếu là quán bar, phù hợp với giới trẻ đi chơi tiệc tùng, đi gai đình thì không có chỗ để giải trí."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2023",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên thân thiện, dễ thương, support nhiều",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chau",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ nhân viên nhiệt tình, giá cả hợp lý bao ăn sáng",
+                "comment_negative": "ko còn gì để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": "https://graph.facebook.com/v2.9/1671014253019512/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/06/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "sạch sẽ, thoải mái, chủ nhiệt tình",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "3 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "giá rẻ mà chỗ thoải mái, cô chủ rất nhiệt tình, còn cho bắp ngô ăn nữa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nên thêm các giá treo áo quần, và nên có dép đi trong nhà",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tùng",
+                "avatar": "https://graph.facebook.com/v2.9/1849748382054129/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Nói chung là hài lòng",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng thoáng sạch sẽ",
+                "comment_negative": "Hơi thất vọng vì phòng k trang bị tivi nhưng khi đặt phòng nv k báo tại đi gđ coa trẻ nhỏ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/07/2023",
+                "rating": "Khách sạn tốt, giá hợp lý.",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí ở trung tâm nên rất tiện lợi, chị chủ khách sạn chủ động gọi cho mình trước và tư vấn tham quan rất nhiệt tình.",
+                "comment_negative": "Ks có bao gồm đồ ăn sáng nhưng là phục vụ mì gói nha mn. Các hàng quán xung quanh đều niêm yết giá nhưng giá hơi cao 1 xíu (vd bánh mì thịt giá 25k)."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/1484014741705309/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Bạn chủ nhà dễ mến, vị trí ngay gần bến thuyền Phong Nha.",
+                "comment_negative": "Khách sạn có vẻ chưa được bổ sung đầy đủ thiết bị như tủ quần áo, mình phải để đồ đạc, balo dưới đất, cửa phòng bị vênh rất khó để khoá,…"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hau",
+                "avatar": "https://graph.facebook.com/v2.9/327566880989700/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/05/2023",
+                "rating": "ngay trung tâm , phòng sạch , nhân viên thân thiện , giá như vậy là quá rẻ rồi",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "phù hợp để dừng chân",
+                "score": 9.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "địa điểm thuận lợi để đi thăm động phong nha, phỏng ở mức phù hợp với giá tiền.",
+                "comment_negative": "TT Phong Nha không có nhiều hoạt động vui chơi, chủ yếu là quán bar, phù hợp với giới trẻ đi chơi tiệc tùng, đi gai đình thì không có chỗ để giải trí."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2023",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên thân thiện, dễ thương, support nhiều",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chau",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ nhân viên nhiệt tình, giá cả hợp lý bao ăn sáng",
+                "comment_negative": "ko còn gì để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": "https://graph.facebook.com/v2.9/1671014253019512/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/06/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "sạch sẽ, thoải mái, chủ nhiệt tình",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "3 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "giá rẻ mà chỗ thoải mái, cô chủ rất nhiệt tình, còn cho bắp ngô ăn nữa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nên thêm các giá treo áo quần, và nên có dép đi trong nhà",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tùng",
+                "avatar": "https://graph.facebook.com/v2.9/1849748382054129/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Nói chung là hài lòng",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng thoáng sạch sẽ",
+                "comment_negative": "Hơi thất vọng vì phòng k trang bị tivi nhưng khi đặt phòng nv k báo tại đi gđ coa trẻ nhỏ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/07/2023",
+                "rating": "Khách sạn tốt, giá hợp lý.",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí ở trung tâm nên rất tiện lợi, chị chủ khách sạn chủ động gọi cho mình trước và tư vấn tham quan rất nhiệt tình.",
+                "comment_negative": "Ks có bao gồm đồ ăn sáng nhưng là phục vụ mì gói nha mn. Các hàng quán xung quanh đều niêm yết giá nhưng giá hơi cao 1 xíu (vd bánh mì thịt giá 25k)."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/1484014741705309/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Bạn chủ nhà dễ mến, vị trí ngay gần bến thuyền Phong Nha.",
+                "comment_negative": "Khách sạn có vẻ chưa được bổ sung đầy đủ thiết bị như tủ quần áo, mình phải để đồ đạc, balo dưới đất, cửa phòng bị vênh rất khó để khoá,…"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hau",
+                "avatar": "https://graph.facebook.com/v2.9/327566880989700/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/05/2023",
+                "rating": "ngay trung tâm , phòng sạch , nhân viên thân thiện , giá như vậy là quá rẻ rồi",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "phù hợp để dừng chân",
+                "score": 9.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "địa điểm thuận lợi để đi thăm động phong nha, phỏng ở mức phù hợp với giá tiền.",
+                "comment_negative": "TT Phong Nha không có nhiều hoạt động vui chơi, chủ yếu là quán bar, phù hợp với giới trẻ đi chơi tiệc tùng, đi gai đình thì không có chỗ để giải trí."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2023",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên thân thiện, dễ thương, support nhiều",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chau",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ nhân viên nhiệt tình, giá cả hợp lý bao ăn sáng",
+                "comment_negative": "ko còn gì để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": "https://graph.facebook.com/v2.9/1671014253019512/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/06/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "sạch sẽ, thoải mái, chủ nhiệt tình",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "3 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "giá rẻ mà chỗ thoải mái, cô chủ rất nhiệt tình, còn cho bắp ngô ăn nữa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nên thêm các giá treo áo quần, và nên có dép đi trong nhà",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tùng",
+                "avatar": "https://graph.facebook.com/v2.9/1849748382054129/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Nói chung là hài lòng",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng thoáng sạch sẽ",
+                "comment_negative": "Hơi thất vọng vì phòng k trang bị tivi nhưng khi đặt phòng nv k báo tại đi gđ coa trẻ nhỏ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/07/2023",
+                "rating": "Khách sạn tốt, giá hợp lý.",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí ở trung tâm nên rất tiện lợi, chị chủ khách sạn chủ động gọi cho mình trước và tư vấn tham quan rất nhiệt tình.",
+                "comment_negative": "Ks có bao gồm đồ ăn sáng nhưng là phục vụ mì gói nha mn. Các hàng quán xung quanh đều niêm yết giá nhưng giá hơi cao 1 xíu (vd bánh mì thịt giá 25k)."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/1484014741705309/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Bạn chủ nhà dễ mến, vị trí ngay gần bến thuyền Phong Nha.",
+                "comment_negative": "Khách sạn có vẻ chưa được bổ sung đầy đủ thiết bị như tủ quần áo, mình phải để đồ đạc, balo dưới đất, cửa phòng bị vênh rất khó để khoá,…"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hau",
+                "avatar": "https://graph.facebook.com/v2.9/327566880989700/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/05/2023",
+                "rating": "ngay trung tâm , phòng sạch , nhân viên thân thiện , giá như vậy là quá rẻ rồi",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "phù hợp để dừng chân",
+                "score": 9.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "địa điểm thuận lợi để đi thăm động phong nha, phỏng ở mức phù hợp với giá tiền.",
+                "comment_negative": "TT Phong Nha không có nhiều hoạt động vui chơi, chủ yếu là quán bar, phù hợp với giới trẻ đi chơi tiệc tùng, đi gai đình thì không có chỗ để giải trí."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2023",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên thân thiện, dễ thương, support nhiều",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chau",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ nhân viên nhiệt tình, giá cả hợp lý bao ăn sáng",
+                "comment_negative": "ko còn gì để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": "https://graph.facebook.com/v2.9/1671014253019512/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/06/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "sạch sẽ, thoải mái, chủ nhiệt tình",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "3 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "giá rẻ mà chỗ thoải mái, cô chủ rất nhiệt tình, còn cho bắp ngô ăn nữa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nên thêm các giá treo áo quần, và nên có dép đi trong nhà",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tùng",
+                "avatar": "https://graph.facebook.com/v2.9/1849748382054129/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Nói chung là hài lòng",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng thoáng sạch sẽ",
+                "comment_negative": "Hơi thất vọng vì phòng k trang bị tivi nhưng khi đặt phòng nv k báo tại đi gđ coa trẻ nhỏ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/07/2023",
+                "rating": "Khách sạn tốt, giá hợp lý.",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí ở trung tâm nên rất tiện lợi, chị chủ khách sạn chủ động gọi cho mình trước và tư vấn tham quan rất nhiệt tình.",
+                "comment_negative": "Ks có bao gồm đồ ăn sáng nhưng là phục vụ mì gói nha mn. Các hàng quán xung quanh đều niêm yết giá nhưng giá hơi cao 1 xíu (vd bánh mì thịt giá 25k)."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/1484014741705309/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Bạn chủ nhà dễ mến, vị trí ngay gần bến thuyền Phong Nha.",
+                "comment_negative": "Khách sạn có vẻ chưa được bổ sung đầy đủ thiết bị như tủ quần áo, mình phải để đồ đạc, balo dưới đất, cửa phòng bị vênh rất khó để khoá,…"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hau",
+                "avatar": "https://graph.facebook.com/v2.9/327566880989700/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/05/2023",
+                "rating": "ngay trung tâm , phòng sạch , nhân viên thân thiện , giá như vậy là quá rẻ rồi",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "phù hợp để dừng chân",
+                "score": 9.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "địa điểm thuận lợi để đi thăm động phong nha, phỏng ở mức phù hợp với giá tiền.",
+                "comment_negative": "TT Phong Nha không có nhiều hoạt động vui chơi, chủ yếu là quán bar, phù hợp với giới trẻ đi chơi tiệc tùng, đi gai đình thì không có chỗ để giải trí."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2023",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên thân thiện, dễ thương, support nhiều",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chau",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ nhân viên nhiệt tình, giá cả hợp lý bao ăn sáng",
+                "comment_negative": "ko còn gì để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": "https://graph.facebook.com/v2.9/1671014253019512/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/06/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "sạch sẽ, thoải mái, chủ nhiệt tình",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "3 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "giá rẻ mà chỗ thoải mái, cô chủ rất nhiệt tình, còn cho bắp ngô ăn nữa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nên thêm các giá treo áo quần, và nên có dép đi trong nhà",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tùng",
+                "avatar": "https://graph.facebook.com/v2.9/1849748382054129/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Nói chung là hài lòng",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng thoáng sạch sẽ",
+                "comment_negative": "Hơi thất vọng vì phòng k trang bị tivi nhưng khi đặt phòng nv k báo tại đi gđ coa trẻ nhỏ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/07/2023",
+                "rating": "Khách sạn tốt, giá hợp lý.",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí ở trung tâm nên rất tiện lợi, chị chủ khách sạn chủ động gọi cho mình trước và tư vấn tham quan rất nhiệt tình.",
+                "comment_negative": "Ks có bao gồm đồ ăn sáng nhưng là phục vụ mì gói nha mn. Các hàng quán xung quanh đều niêm yết giá nhưng giá hơi cao 1 xíu (vd bánh mì thịt giá 25k)."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/1484014741705309/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Bạn chủ nhà dễ mến, vị trí ngay gần bến thuyền Phong Nha.",
+                "comment_negative": "Khách sạn có vẻ chưa được bổ sung đầy đủ thiết bị như tủ quần áo, mình phải để đồ đạc, balo dưới đất, cửa phòng bị vênh rất khó để khoá,…"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hau",
+                "avatar": "https://graph.facebook.com/v2.9/327566880989700/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/05/2023",
+                "rating": "ngay trung tâm , phòng sạch , nhân viên thân thiện , giá như vậy là quá rẻ rồi",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "phù hợp để dừng chân",
+                "score": 9.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "địa điểm thuận lợi để đi thăm động phong nha, phỏng ở mức phù hợp với giá tiền.",
+                "comment_negative": "TT Phong Nha không có nhiều hoạt động vui chơi, chủ yếu là quán bar, phù hợp với giới trẻ đi chơi tiệc tùng, đi gai đình thì không có chỗ để giải trí."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2023",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên thân thiện, dễ thương, support nhiều",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chau",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ nhân viên nhiệt tình, giá cả hợp lý bao ăn sáng",
+                "comment_negative": "ko còn gì để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": "https://graph.facebook.com/v2.9/1671014253019512/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/06/2022",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "sạch sẽ, thoải mái, chủ nhiệt tình",
+                "comment_negative": "Ko"
+            }
+        }
+    ]
+}

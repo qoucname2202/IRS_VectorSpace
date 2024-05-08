@@ -1,0 +1,528 @@
+{
+    "name": "LI SA GREEN HOTEL",
+    "address": "Đường Lê Thánh Tôn, Quận 1, TP. Hồ Chí Minh, Việt Nam",
+    "description": "Nằm tại vị trí thuận tiện ở Quận 1, TP. Hồ Chí Minh, LI SA GREEN HOTEL tọa lạc cách Công viên Tao Đàn 6 phút đi bộ, Bảo tàng Mỹ thuật 700 m và Trung tâm mua sắm Takashimaya Việt Nam 8 phút đi bộ. Khách sạn 2 sao này cung cấp dịch vụ phòng, quầy lễ tân 24 giờ và Wi-Fi miễn phí. Chỗ nghỉ này cách Chợ Bến Thành 4 phút đi bộ và trung tâm thành phố 200 m.\n\nCác điểm tham quan nổi tiếng gần khách sạn bao gồm Bảo tàng Thành phố Hồ Chí Minh, Trung tâm Thương mại Vincom Center A và Ủy ban nhân dân Thành phố Hồ Chí Minh. Sân bay gần nhất là Sân bay Quốc tế Tân Sơn Nhất, cách LI SA GREEN HOTEL 6 km.",
+    "rating": "9.7",
+    "total_rating": "25",
+    "evaluation_categories": {
+        "service_staff": 10.0,
+        "amenities": 9.8,
+        "cleanliness": 10.0,
+        "comfort": 10.0,
+        "value_for_money": 9.6,
+        "location": 9.4,
+        "free_wifi": 10.0
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Yen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-y.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "2/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "This Hotel was beautiful and in the middle of all the best things to do.\n\nVery central location, one street from Ben Thanh Markets. Easy walk to Ben Nghe street food market and both walking streets. Staff were very friendly and professional and everything was spotless with very comfy beds. Included breakfast was very good with lots of choices. Highly recommended.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Koch",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mCH-ECWGpq3L4HGv6F5YbS9AwmANKTv3LOCHDJj",
+                "country": "New Zealand"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Pathak",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mDSm2PDJSjXH4ZsjxDzS5fjmJiVLhjEXMg6MXoA",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "England",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mB0kHrJI5n_tz6b_4XFc4R0_ImpEofoITM9HcJE",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Levin",
+                "avatar": "https://lh3.googleusercontent.com/-ftf_E5pflHc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcdn_N1YX1p-6UAe2f8sghm2mEkoQ/photo.jpg",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ledner",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mCameTuy7X5z-HVHPBMuJsN7LtLXBYiw_H7pKV_",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Stevens",
+                "avatar": "https://lh5.googleusercontent.com/-Pm4nAehR6hA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfqHWajkk3sPC4nuyxAjmHY0op_Sw/photo.jpg",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hackett",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mCveAfjXnc0-A7GLouyHMzPfDTlCbdcY9NyN_xR",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ethan",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/83819575.jpg?k=c17fc1e14d119e7054d563f4f57450db9820efd507ff41666f5973c0e6829af4&o=",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lombardo",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mC690KVc_RpuF6o3i_cukkubXqbMq3RJFv2gMBX",
+                "country": "Ý"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Yen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-y.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "2/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "This Hotel was beautiful and in the middle of all the best things to do.\n\nVery central location, one street from Ben Thanh Markets. Easy walk to Ben Nghe street food market and both walking streets. Staff were very friendly and professional and everything was spotless with very comfy beds. Included breakfast was very good with lots of choices. Highly recommended.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Koch",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mCH-ECWGpq3L4HGv6F5YbS9AwmANKTv3LOCHDJj",
+                "country": "New Zealand"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Pathak",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mDSm2PDJSjXH4ZsjxDzS5fjmJiVLhjEXMg6MXoA",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "England",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mB0kHrJI5n_tz6b_4XFc4R0_ImpEofoITM9HcJE",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Levin",
+                "avatar": "https://lh3.googleusercontent.com/-ftf_E5pflHc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcdn_N1YX1p-6UAe2f8sghm2mEkoQ/photo.jpg",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ledner",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mCameTuy7X5z-HVHPBMuJsN7LtLXBYiw_H7pKV_",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Stevens",
+                "avatar": "https://lh5.googleusercontent.com/-Pm4nAehR6hA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfqHWajkk3sPC4nuyxAjmHY0op_Sw/photo.jpg",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hackett",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mCveAfjXnc0-A7GLouyHMzPfDTlCbdcY9NyN_xR",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ethan",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/83819575.jpg?k=c17fc1e14d119e7054d563f4f57450db9820efd507ff41666f5973c0e6829af4&o=",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lombardo",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mC690KVc_RpuF6o3i_cukkubXqbMq3RJFv2gMBX",
+                "country": "Ý"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Yen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-y.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "2/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "This Hotel was beautiful and in the middle of all the best things to do.\n\nVery central location, one street from Ben Thanh Markets. Easy walk to Ben Nghe street food market and both walking streets. Staff were very friendly and professional and everything was spotless with very comfy beds. Included breakfast was very good with lots of choices. Highly recommended.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Koch",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mCH-ECWGpq3L4HGv6F5YbS9AwmANKTv3LOCHDJj",
+                "country": "New Zealand"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Pathak",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mDSm2PDJSjXH4ZsjxDzS5fjmJiVLhjEXMg6MXoA",
+                "country": "Ấn Độ"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "England",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mB0kHrJI5n_tz6b_4XFc4R0_ImpEofoITM9HcJE",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Levin",
+                "avatar": "https://lh3.googleusercontent.com/-ftf_E5pflHc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcdn_N1YX1p-6UAe2f8sghm2mEkoQ/photo.jpg",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ledner",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mCameTuy7X5z-HVHPBMuJsN7LtLXBYiw_H7pKV_",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Stevens",
+                "avatar": "https://lh5.googleusercontent.com/-Pm4nAehR6hA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfqHWajkk3sPC4nuyxAjmHY0op_Sw/photo.jpg",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hackett",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mCveAfjXnc0-A7GLouyHMzPfDTlCbdcY9NyN_xR",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ethan",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/83819575.jpg?k=c17fc1e14d119e7054d563f4f57450db9820efd507ff41666f5973c0e6829af4&o=",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lombardo",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mC690KVc_RpuF6o3i_cukkubXqbMq3RJFv2gMBX",
+                "country": "Ý"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

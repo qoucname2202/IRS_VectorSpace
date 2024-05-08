@@ -1,0 +1,120 @@
+{
+    "name": "Suly's Village Phan Thiết",
+    "address": "135 Lạc Long Quân, Phan Thiết, Việt Nam",
+    "description": "Nằm ở Phan Thiết, cách Ga xe lửa Phan Thiết 15 km, Suly's Village Phan Thiết cung cấp chỗ nghỉ có khu vườn, chỗ đậu xe riêng miễn phí, phòng chờ chung và quầy bar. Khách sạn 3 sao này cung cấp bếp chung, quầy lễ tân 24 giờ và Wi-Fi miễn phí. Du khách có thể thưởng thức đồ uống tại bar thức ăn nhẹ.\n\nTại khách sạn, tất cả các phòng đều có ga trải giường và khăn tắm.\n\nSuly's Village Phan Thiết cách Bến xe buýt Bình Thuận 17 km và Sân Golf Sea Link 17 km.",
+    "rating": "9.5",
+    "total_rating": "6",
+    "evaluation_categories": {
+        "service_staff": 10.0,
+        "amenities": 9.5,
+        "cleanliness": 10.0,
+        "comfort": 9.5,
+        "value_for_money": 10.0,
+        "location": 10.0,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Kieu",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtduVbp5niiQeBEh4ea-VF2dmhrbUuab24MKQ4fyZuDonA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian đẹp, sạch sẽ, yên tĩnh, thích hợp nghỉ dưỡng, nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://lh3.googleusercontent.com/a/AEdFTp7u0fEsFBKaI_EFPcKWrfosa0tOE0zXcjLhz-jYmA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian đẹp, thoáng, nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dương",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJE9Lw5WtbKPKXHn-1tjX-Z7DXqcWRkARSxBwLQRDwa_Q=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Lều",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đài",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtem3BB_8AQIrlF-am05kDKuG1xafEnJdm0dhCo3=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtf05Zm6nomXwVyXimA5nV5c7mTJks85nK2Rp_nu=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tín",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTteEPjnd_Zu5jfpw7HEohTWRutmbcMMAEoDCWy2mrlGEQ3o=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

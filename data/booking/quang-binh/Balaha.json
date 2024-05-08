@@ -1,0 +1,1888 @@
+{
+    "name": "Balaha",
+    "address": "26 Nguyễn Thị Định Xã Bảo Ninh, Ðồng Hới, Việt Nam",
+    "description": "Tọa lạc ở Ðồng Hới, Balaha cung cấp chỗ nghỉ giáp biển cách Bãi biển Nhật Lệ 8 phút đi bộ, cung cấp nhiều tiện nghi như hồ bơi ngoài trời theo mùa, khu vườn và sân hiên. Ngoài dịch vụ phòng, chỗ nghỉ này còn có BBQ. Khách sạn có phòng gia đình.\n\nCác phòng ở khách sạn được trang bị TV màn hình phẳng. Mỗi phòng đều có phòng tắm riêng với vòi xịt/chậu rửa vệ sinh, đồ vệ sinh cá nhân miễn phí và máy sấy tóc. Tại Balaha, các phòng đều có ga trải giường và khăn tắm.\n\nSân bay gần nhất là Sân bay Đồng Hới, cách chỗ nghỉ 7 km.",
+    "rating": "8.7",
+    "total_rating": "104",
+    "evaluation_categories": {
+        "service_staff": 9.7,
+        "amenities": 8.6,
+        "cleanliness": 8.6,
+        "comfort": 8.6,
+        "value_for_money": 9.0,
+        "location": 8.3,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/08/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gia đình anh chủ rất thân thiện, chu đáo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI7hm6WApXOHORdc8l46JxEYMZTWOunEucKkut1nH04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Danh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJbJzo3M3Y8Yva65VUOHP27Lc_1QALi5GGLOS2Bl7b0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/03/2024",
+                "rating": "Mọi người nên thử",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ nhà thân thiện, nhiệt tình lắm nhen. Phòng sạch sẽ, thơm tho, trần nhà hơi bị đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Perfect",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị quản lý rất nhiệt tình, phòng thoải mái đủ tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://graph.facebook.com/v2.9/550037993492137/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/02/2024",
+                "rating": "Là một điểm nghỉ chân tuyệt vời trên hành trình của tôi",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí gần biển và anh chị chủ rất thân thiện. Phòng đầy đủ tiện nghi và trần nhà được decor khá ấn tượng, với bầu trời đêm đầy sao rất thích ❤️❤️",
+                "comment_negative": "Không có điều gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": "https://lh4.googleusercontent.com/-Ty41hE_A1Gw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reA4YFIj1uTT3a4pVLQY6TjZoIPfw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng đẹp, rộng rãi thoải mái, tiện ích đầy đủ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diệp",
+                "avatar": "https://lh6.googleusercontent.com/-ClFPP5JlKig/AAAAAAAAAAI/AAAAAAAAG28/I0OSN-Vz9H8/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2023",
+                "rating": "Nơi ở phù hợp với giá tiền, thoải mái",
+                "score": 9.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng đẹp như hình, rộng rãi, sạch sẽ, anh chị chủ nhiệt tình",
+                "comment_negative": "Chưa có xà phòng rửa tay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hai",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần các điểm vui chơi giải trí, cách biển 5p đi bộ. Anh chủ thân thiện",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/08/2023",
+                "rating": "tạm được",
+                "score": 8.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "vị trí khá gần biển 300m\nqua cầu Nhật Lệ là đến trung tâm",
+                "comment_negative": "hình ảnh bên ngoài của homestay giống khu nhà trọ, không bắt mắt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huỳnh",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcmdeBFI2SZRlxVVC1F_YO-cKfdAuzkojFb7_iAu82TKYU=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chị chủ nhiệt tình mến khách 🥰",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/08/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gia đình anh chủ rất thân thiện, chu đáo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI7hm6WApXOHORdc8l46JxEYMZTWOunEucKkut1nH04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Danh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJbJzo3M3Y8Yva65VUOHP27Lc_1QALi5GGLOS2Bl7b0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/03/2024",
+                "rating": "Mọi người nên thử",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ nhà thân thiện, nhiệt tình lắm nhen. Phòng sạch sẽ, thơm tho, trần nhà hơi bị đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Perfect",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị quản lý rất nhiệt tình, phòng thoải mái đủ tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://graph.facebook.com/v2.9/550037993492137/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/02/2024",
+                "rating": "Là một điểm nghỉ chân tuyệt vời trên hành trình của tôi",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí gần biển và anh chị chủ rất thân thiện. Phòng đầy đủ tiện nghi và trần nhà được decor khá ấn tượng, với bầu trời đêm đầy sao rất thích ❤️❤️",
+                "comment_negative": "Không có điều gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": "https://lh4.googleusercontent.com/-Ty41hE_A1Gw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reA4YFIj1uTT3a4pVLQY6TjZoIPfw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng đẹp, rộng rãi thoải mái, tiện ích đầy đủ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diệp",
+                "avatar": "https://lh6.googleusercontent.com/-ClFPP5JlKig/AAAAAAAAAAI/AAAAAAAAG28/I0OSN-Vz9H8/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2023",
+                "rating": "Nơi ở phù hợp với giá tiền, thoải mái",
+                "score": 9.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng đẹp như hình, rộng rãi, sạch sẽ, anh chị chủ nhiệt tình",
+                "comment_negative": "Chưa có xà phòng rửa tay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hai",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần các điểm vui chơi giải trí, cách biển 5p đi bộ. Anh chủ thân thiện",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/08/2023",
+                "rating": "tạm được",
+                "score": 8.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "vị trí khá gần biển 300m\nqua cầu Nhật Lệ là đến trung tâm",
+                "comment_negative": "hình ảnh bên ngoài của homestay giống khu nhà trọ, không bắt mắt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huỳnh",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcmdeBFI2SZRlxVVC1F_YO-cKfdAuzkojFb7_iAu82TKYU=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chị chủ nhiệt tình mến khách 🥰",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/08/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gia đình anh chủ rất thân thiện, chu đáo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI7hm6WApXOHORdc8l46JxEYMZTWOunEucKkut1nH04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Danh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJbJzo3M3Y8Yva65VUOHP27Lc_1QALi5GGLOS2Bl7b0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/03/2024",
+                "rating": "Mọi người nên thử",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ nhà thân thiện, nhiệt tình lắm nhen. Phòng sạch sẽ, thơm tho, trần nhà hơi bị đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Perfect",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị quản lý rất nhiệt tình, phòng thoải mái đủ tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://graph.facebook.com/v2.9/550037993492137/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/02/2024",
+                "rating": "Là một điểm nghỉ chân tuyệt vời trên hành trình của tôi",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí gần biển và anh chị chủ rất thân thiện. Phòng đầy đủ tiện nghi và trần nhà được decor khá ấn tượng, với bầu trời đêm đầy sao rất thích ❤️❤️",
+                "comment_negative": "Không có điều gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": "https://lh4.googleusercontent.com/-Ty41hE_A1Gw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reA4YFIj1uTT3a4pVLQY6TjZoIPfw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng đẹp, rộng rãi thoải mái, tiện ích đầy đủ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diệp",
+                "avatar": "https://lh6.googleusercontent.com/-ClFPP5JlKig/AAAAAAAAAAI/AAAAAAAAG28/I0OSN-Vz9H8/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2023",
+                "rating": "Nơi ở phù hợp với giá tiền, thoải mái",
+                "score": 9.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng đẹp như hình, rộng rãi, sạch sẽ, anh chị chủ nhiệt tình",
+                "comment_negative": "Chưa có xà phòng rửa tay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hai",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần các điểm vui chơi giải trí, cách biển 5p đi bộ. Anh chủ thân thiện",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/08/2023",
+                "rating": "tạm được",
+                "score": 8.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "vị trí khá gần biển 300m\nqua cầu Nhật Lệ là đến trung tâm",
+                "comment_negative": "hình ảnh bên ngoài của homestay giống khu nhà trọ, không bắt mắt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huỳnh",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcmdeBFI2SZRlxVVC1F_YO-cKfdAuzkojFb7_iAu82TKYU=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chị chủ nhiệt tình mến khách 🥰",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/08/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gia đình anh chủ rất thân thiện, chu đáo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI7hm6WApXOHORdc8l46JxEYMZTWOunEucKkut1nH04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Danh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJbJzo3M3Y8Yva65VUOHP27Lc_1QALi5GGLOS2Bl7b0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/03/2024",
+                "rating": "Mọi người nên thử",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ nhà thân thiện, nhiệt tình lắm nhen. Phòng sạch sẽ, thơm tho, trần nhà hơi bị đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Perfect",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị quản lý rất nhiệt tình, phòng thoải mái đủ tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://graph.facebook.com/v2.9/550037993492137/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/02/2024",
+                "rating": "Là một điểm nghỉ chân tuyệt vời trên hành trình của tôi",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí gần biển và anh chị chủ rất thân thiện. Phòng đầy đủ tiện nghi và trần nhà được decor khá ấn tượng, với bầu trời đêm đầy sao rất thích ❤️❤️",
+                "comment_negative": "Không có điều gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": "https://lh4.googleusercontent.com/-Ty41hE_A1Gw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reA4YFIj1uTT3a4pVLQY6TjZoIPfw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng đẹp, rộng rãi thoải mái, tiện ích đầy đủ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diệp",
+                "avatar": "https://lh6.googleusercontent.com/-ClFPP5JlKig/AAAAAAAAAAI/AAAAAAAAG28/I0OSN-Vz9H8/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2023",
+                "rating": "Nơi ở phù hợp với giá tiền, thoải mái",
+                "score": 9.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng đẹp như hình, rộng rãi, sạch sẽ, anh chị chủ nhiệt tình",
+                "comment_negative": "Chưa có xà phòng rửa tay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hai",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần các điểm vui chơi giải trí, cách biển 5p đi bộ. Anh chủ thân thiện",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/08/2023",
+                "rating": "tạm được",
+                "score": 8.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "vị trí khá gần biển 300m\nqua cầu Nhật Lệ là đến trung tâm",
+                "comment_negative": "hình ảnh bên ngoài của homestay giống khu nhà trọ, không bắt mắt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huỳnh",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcmdeBFI2SZRlxVVC1F_YO-cKfdAuzkojFb7_iAu82TKYU=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chị chủ nhiệt tình mến khách 🥰",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/08/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gia đình anh chủ rất thân thiện, chu đáo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI7hm6WApXOHORdc8l46JxEYMZTWOunEucKkut1nH04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Danh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJbJzo3M3Y8Yva65VUOHP27Lc_1QALi5GGLOS2Bl7b0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/03/2024",
+                "rating": "Mọi người nên thử",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ nhà thân thiện, nhiệt tình lắm nhen. Phòng sạch sẽ, thơm tho, trần nhà hơi bị đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Perfect",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị quản lý rất nhiệt tình, phòng thoải mái đủ tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://graph.facebook.com/v2.9/550037993492137/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/02/2024",
+                "rating": "Là một điểm nghỉ chân tuyệt vời trên hành trình của tôi",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí gần biển và anh chị chủ rất thân thiện. Phòng đầy đủ tiện nghi và trần nhà được decor khá ấn tượng, với bầu trời đêm đầy sao rất thích ❤️❤️",
+                "comment_negative": "Không có điều gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": "https://lh4.googleusercontent.com/-Ty41hE_A1Gw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reA4YFIj1uTT3a4pVLQY6TjZoIPfw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng đẹp, rộng rãi thoải mái, tiện ích đầy đủ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diệp",
+                "avatar": "https://lh6.googleusercontent.com/-ClFPP5JlKig/AAAAAAAAAAI/AAAAAAAAG28/I0OSN-Vz9H8/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2023",
+                "rating": "Nơi ở phù hợp với giá tiền, thoải mái",
+                "score": 9.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng đẹp như hình, rộng rãi, sạch sẽ, anh chị chủ nhiệt tình",
+                "comment_negative": "Chưa có xà phòng rửa tay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hai",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần các điểm vui chơi giải trí, cách biển 5p đi bộ. Anh chủ thân thiện",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/08/2023",
+                "rating": "tạm được",
+                "score": 8.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "vị trí khá gần biển 300m\nqua cầu Nhật Lệ là đến trung tâm",
+                "comment_negative": "hình ảnh bên ngoài của homestay giống khu nhà trọ, không bắt mắt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huỳnh",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcmdeBFI2SZRlxVVC1F_YO-cKfdAuzkojFb7_iAu82TKYU=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chị chủ nhiệt tình mến khách 🥰",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/08/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gia đình anh chủ rất thân thiện, chu đáo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI7hm6WApXOHORdc8l46JxEYMZTWOunEucKkut1nH04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Danh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJbJzo3M3Y8Yva65VUOHP27Lc_1QALi5GGLOS2Bl7b0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/03/2024",
+                "rating": "Mọi người nên thử",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ nhà thân thiện, nhiệt tình lắm nhen. Phòng sạch sẽ, thơm tho, trần nhà hơi bị đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Perfect",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị quản lý rất nhiệt tình, phòng thoải mái đủ tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://graph.facebook.com/v2.9/550037993492137/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/02/2024",
+                "rating": "Là một điểm nghỉ chân tuyệt vời trên hành trình của tôi",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí gần biển và anh chị chủ rất thân thiện. Phòng đầy đủ tiện nghi và trần nhà được decor khá ấn tượng, với bầu trời đêm đầy sao rất thích ❤️❤️",
+                "comment_negative": "Không có điều gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": "https://lh4.googleusercontent.com/-Ty41hE_A1Gw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reA4YFIj1uTT3a4pVLQY6TjZoIPfw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng đẹp, rộng rãi thoải mái, tiện ích đầy đủ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diệp",
+                "avatar": "https://lh6.googleusercontent.com/-ClFPP5JlKig/AAAAAAAAAAI/AAAAAAAAG28/I0OSN-Vz9H8/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2023",
+                "rating": "Nơi ở phù hợp với giá tiền, thoải mái",
+                "score": 9.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng đẹp như hình, rộng rãi, sạch sẽ, anh chị chủ nhiệt tình",
+                "comment_negative": "Chưa có xà phòng rửa tay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hai",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần các điểm vui chơi giải trí, cách biển 5p đi bộ. Anh chủ thân thiện",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/08/2023",
+                "rating": "tạm được",
+                "score": 8.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "vị trí khá gần biển 300m\nqua cầu Nhật Lệ là đến trung tâm",
+                "comment_negative": "hình ảnh bên ngoài của homestay giống khu nhà trọ, không bắt mắt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huỳnh",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcmdeBFI2SZRlxVVC1F_YO-cKfdAuzkojFb7_iAu82TKYU=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chị chủ nhiệt tình mến khách 🥰",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/08/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gia đình anh chủ rất thân thiện, chu đáo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI7hm6WApXOHORdc8l46JxEYMZTWOunEucKkut1nH04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Danh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJbJzo3M3Y8Yva65VUOHP27Lc_1QALi5GGLOS2Bl7b0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/03/2024",
+                "rating": "Mọi người nên thử",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ nhà thân thiện, nhiệt tình lắm nhen. Phòng sạch sẽ, thơm tho, trần nhà hơi bị đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Perfect",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị quản lý rất nhiệt tình, phòng thoải mái đủ tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://graph.facebook.com/v2.9/550037993492137/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/02/2024",
+                "rating": "Là một điểm nghỉ chân tuyệt vời trên hành trình của tôi",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí gần biển và anh chị chủ rất thân thiện. Phòng đầy đủ tiện nghi và trần nhà được decor khá ấn tượng, với bầu trời đêm đầy sao rất thích ❤️❤️",
+                "comment_negative": "Không có điều gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": "https://lh4.googleusercontent.com/-Ty41hE_A1Gw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reA4YFIj1uTT3a4pVLQY6TjZoIPfw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng đẹp, rộng rãi thoải mái, tiện ích đầy đủ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diệp",
+                "avatar": "https://lh6.googleusercontent.com/-ClFPP5JlKig/AAAAAAAAAAI/AAAAAAAAG28/I0OSN-Vz9H8/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2023",
+                "rating": "Nơi ở phù hợp với giá tiền, thoải mái",
+                "score": 9.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng đẹp như hình, rộng rãi, sạch sẽ, anh chị chủ nhiệt tình",
+                "comment_negative": "Chưa có xà phòng rửa tay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hai",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần các điểm vui chơi giải trí, cách biển 5p đi bộ. Anh chủ thân thiện",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/08/2023",
+                "rating": "tạm được",
+                "score": 8.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "vị trí khá gần biển 300m\nqua cầu Nhật Lệ là đến trung tâm",
+                "comment_negative": "hình ảnh bên ngoài của homestay giống khu nhà trọ, không bắt mắt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huỳnh",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcmdeBFI2SZRlxVVC1F_YO-cKfdAuzkojFb7_iAu82TKYU=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chị chủ nhiệt tình mến khách 🥰",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/08/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gia đình anh chủ rất thân thiện, chu đáo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI7hm6WApXOHORdc8l46JxEYMZTWOunEucKkut1nH04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Danh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJbJzo3M3Y8Yva65VUOHP27Lc_1QALi5GGLOS2Bl7b0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/03/2024",
+                "rating": "Mọi người nên thử",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ nhà thân thiện, nhiệt tình lắm nhen. Phòng sạch sẽ, thơm tho, trần nhà hơi bị đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Perfect",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị quản lý rất nhiệt tình, phòng thoải mái đủ tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://graph.facebook.com/v2.9/550037993492137/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/02/2024",
+                "rating": "Là một điểm nghỉ chân tuyệt vời trên hành trình của tôi",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí gần biển và anh chị chủ rất thân thiện. Phòng đầy đủ tiện nghi và trần nhà được decor khá ấn tượng, với bầu trời đêm đầy sao rất thích ❤️❤️",
+                "comment_negative": "Không có điều gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": "https://lh4.googleusercontent.com/-Ty41hE_A1Gw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reA4YFIj1uTT3a4pVLQY6TjZoIPfw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng đẹp, rộng rãi thoải mái, tiện ích đầy đủ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diệp",
+                "avatar": "https://lh6.googleusercontent.com/-ClFPP5JlKig/AAAAAAAAAAI/AAAAAAAAG28/I0OSN-Vz9H8/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2023",
+                "rating": "Nơi ở phù hợp với giá tiền, thoải mái",
+                "score": 9.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng đẹp như hình, rộng rãi, sạch sẽ, anh chị chủ nhiệt tình",
+                "comment_negative": "Chưa có xà phòng rửa tay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hai",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần các điểm vui chơi giải trí, cách biển 5p đi bộ. Anh chủ thân thiện",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/08/2023",
+                "rating": "tạm được",
+                "score": 8.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "vị trí khá gần biển 300m\nqua cầu Nhật Lệ là đến trung tâm",
+                "comment_negative": "hình ảnh bên ngoài của homestay giống khu nhà trọ, không bắt mắt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huỳnh",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcmdeBFI2SZRlxVVC1F_YO-cKfdAuzkojFb7_iAu82TKYU=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chị chủ nhiệt tình mến khách 🥰",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/08/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gia đình anh chủ rất thân thiện, chu đáo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI7hm6WApXOHORdc8l46JxEYMZTWOunEucKkut1nH04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Danh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJbJzo3M3Y8Yva65VUOHP27Lc_1QALi5GGLOS2Bl7b0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/03/2024",
+                "rating": "Mọi người nên thử",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ nhà thân thiện, nhiệt tình lắm nhen. Phòng sạch sẽ, thơm tho, trần nhà hơi bị đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Perfect",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị quản lý rất nhiệt tình, phòng thoải mái đủ tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://graph.facebook.com/v2.9/550037993492137/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/02/2024",
+                "rating": "Là một điểm nghỉ chân tuyệt vời trên hành trình của tôi",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí gần biển và anh chị chủ rất thân thiện. Phòng đầy đủ tiện nghi và trần nhà được decor khá ấn tượng, với bầu trời đêm đầy sao rất thích ❤️❤️",
+                "comment_negative": "Không có điều gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": "https://lh4.googleusercontent.com/-Ty41hE_A1Gw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reA4YFIj1uTT3a4pVLQY6TjZoIPfw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng đẹp, rộng rãi thoải mái, tiện ích đầy đủ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diệp",
+                "avatar": "https://lh6.googleusercontent.com/-ClFPP5JlKig/AAAAAAAAAAI/AAAAAAAAG28/I0OSN-Vz9H8/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2023",
+                "rating": "Nơi ở phù hợp với giá tiền, thoải mái",
+                "score": 9.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng đẹp như hình, rộng rãi, sạch sẽ, anh chị chủ nhiệt tình",
+                "comment_negative": "Chưa có xà phòng rửa tay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hai",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần các điểm vui chơi giải trí, cách biển 5p đi bộ. Anh chủ thân thiện",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/08/2023",
+                "rating": "tạm được",
+                "score": 8.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "vị trí khá gần biển 300m\nqua cầu Nhật Lệ là đến trung tâm",
+                "comment_negative": "hình ảnh bên ngoài của homestay giống khu nhà trọ, không bắt mắt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huỳnh",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcmdeBFI2SZRlxVVC1F_YO-cKfdAuzkojFb7_iAu82TKYU=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chị chủ nhiệt tình mến khách 🥰",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/08/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gia đình anh chủ rất thân thiện, chu đáo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI7hm6WApXOHORdc8l46JxEYMZTWOunEucKkut1nH04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Danh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJbJzo3M3Y8Yva65VUOHP27Lc_1QALi5GGLOS2Bl7b0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/03/2024",
+                "rating": "Mọi người nên thử",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ nhà thân thiện, nhiệt tình lắm nhen. Phòng sạch sẽ, thơm tho, trần nhà hơi bị đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Perfect",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị quản lý rất nhiệt tình, phòng thoải mái đủ tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://graph.facebook.com/v2.9/550037993492137/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/02/2024",
+                "rating": "Là một điểm nghỉ chân tuyệt vời trên hành trình của tôi",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí gần biển và anh chị chủ rất thân thiện. Phòng đầy đủ tiện nghi và trần nhà được decor khá ấn tượng, với bầu trời đêm đầy sao rất thích ❤️❤️",
+                "comment_negative": "Không có điều gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": "https://lh4.googleusercontent.com/-Ty41hE_A1Gw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reA4YFIj1uTT3a4pVLQY6TjZoIPfw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng đẹp, rộng rãi thoải mái, tiện ích đầy đủ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diệp",
+                "avatar": "https://lh6.googleusercontent.com/-ClFPP5JlKig/AAAAAAAAAAI/AAAAAAAAG28/I0OSN-Vz9H8/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2023",
+                "rating": "Nơi ở phù hợp với giá tiền, thoải mái",
+                "score": 9.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng đẹp như hình, rộng rãi, sạch sẽ, anh chị chủ nhiệt tình",
+                "comment_negative": "Chưa có xà phòng rửa tay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hai",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần các điểm vui chơi giải trí, cách biển 5p đi bộ. Anh chủ thân thiện",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/08/2023",
+                "rating": "tạm được",
+                "score": 8.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "vị trí khá gần biển 300m\nqua cầu Nhật Lệ là đến trung tâm",
+                "comment_negative": "hình ảnh bên ngoài của homestay giống khu nhà trọ, không bắt mắt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huỳnh",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcmdeBFI2SZRlxVVC1F_YO-cKfdAuzkojFb7_iAu82TKYU=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chị chủ nhiệt tình mến khách 🥰",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/08/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gia đình anh chủ rất thân thiện, chu đáo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI7hm6WApXOHORdc8l46JxEYMZTWOunEucKkut1nH04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Danh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJbJzo3M3Y8Yva65VUOHP27Lc_1QALi5GGLOS2Bl7b0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/03/2024",
+                "rating": "Mọi người nên thử",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ nhà thân thiện, nhiệt tình lắm nhen. Phòng sạch sẽ, thơm tho, trần nhà hơi bị đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Perfect",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị quản lý rất nhiệt tình, phòng thoải mái đủ tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://graph.facebook.com/v2.9/550037993492137/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/02/2024",
+                "rating": "Là một điểm nghỉ chân tuyệt vời trên hành trình của tôi",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí gần biển và anh chị chủ rất thân thiện. Phòng đầy đủ tiện nghi và trần nhà được decor khá ấn tượng, với bầu trời đêm đầy sao rất thích ❤️❤️",
+                "comment_negative": "Không có điều gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": "https://lh4.googleusercontent.com/-Ty41hE_A1Gw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reA4YFIj1uTT3a4pVLQY6TjZoIPfw/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng đẹp, rộng rãi thoải mái, tiện ích đầy đủ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diệp",
+                "avatar": "https://lh6.googleusercontent.com/-ClFPP5JlKig/AAAAAAAAAAI/AAAAAAAAG28/I0OSN-Vz9H8/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2023",
+                "rating": "Nơi ở phù hợp với giá tiền, thoải mái",
+                "score": 9.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng đẹp như hình, rộng rãi, sạch sẽ, anh chị chủ nhiệt tình",
+                "comment_negative": "Chưa có xà phòng rửa tay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hai",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần các điểm vui chơi giải trí, cách biển 5p đi bộ. Anh chủ thân thiện",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/08/2023",
+                "rating": "tạm được",
+                "score": 8.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "vị trí khá gần biển 300m\nqua cầu Nhật Lệ là đến trung tâm",
+                "comment_negative": "hình ảnh bên ngoài của homestay giống khu nhà trọ, không bắt mắt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huỳnh",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcmdeBFI2SZRlxVVC1F_YO-cKfdAuzkojFb7_iAu82TKYU=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chị chủ nhiệt tình mến khách 🥰",
+                "comment_negative": null
+            }
+        }
+    ]
+}

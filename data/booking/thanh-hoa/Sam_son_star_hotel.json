@@ -1,0 +1,137 @@
+{
+    "name": "Sầm sơn star hotel",
+    "address": "15 Bà Triệu Bắc sơn sầm sơn Thanh hoá, Sầm Sơn, Việt Nam",
+    "description": "Sầm sơn star hotel nằm ở Sầm Sơn, cách Bãi biển Sầm Sơn 2 phút đi bộ và Bãi biển Trường Lệ 2.6 km. Chỗ nghỉ này cung cấp dịch vụ phòng và quầy lễ tân 24 giờ cho khách.\n\nTại khách sạn, mỗi phòng đều có ban công. Tại Sầm sơn star hotel, các phòng đều có điều hòa và TV màn hình phẳng.\n\nSân bay gần nhất là Sân bay Thọ Xuân, cách chỗ nghỉ 52 km.",
+    "rating": "6.3",
+    "total_rating": "7",
+    "evaluation_categories": {
+        "service_staff": 7.5,
+        "amenities": 6.8,
+        "cleanliness": 7.5,
+        "comfort": 6.4,
+        "value_for_money": 6.8,
+        "location": 7.5,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Quả",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/06/2023",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Tốt- gần biển",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/08/2023",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKY1tRSjlTkGgOxtfRVtJg0FF5Olq6IGNa_sbhQlUH8OYo=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/010/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "2 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Raz",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/07/2023",
+                "rating": "Kém",
+                "score": 3.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/06/2023",
+                "rating": "Cực kỳ tệ",
+                "score": 1.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://graph.facebook.com/v2.9/1465317273819798/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

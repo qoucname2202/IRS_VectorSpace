@@ -1,0 +1,86 @@
+{
+    "name": "Golden Light Hotel",
+    "address": "157A Hồ Nghinh, Đà Nẵng, Việt Nam",
+    "description": "Golden Light Hotel nằm giáp biển ở Đà Nẵng, cách Bãi biển Mỹ Khê 5 phút đi bộ và Bãi biển Bắc Mỹ An 2.9 km. Ngoài nhà hàng, khách sạn 4 sao này có các phòng được trang bị điều hòa và Wi-Fi miễn phí, trong đó mỗi phòng sẽ có phòng tắm riêng. Chỗ nghỉ này cung cấp quầy lễ tân 24 giờ, bàn bán tour và dịch vụ thu đổi ngoại tệ cho khách.\n\nTất cả các căn đi kèm TV màn hình phẳng có truyền hình vệ tinh, minibar, ấm đun nước, vòi sen, đồ vệ sinh cá nhân miễn phí và tủ quần áo. Tại khách sạn, tất cả các phòng có ga trải giường và khăn tắm.\n\nHằng ngày, chỗ nghỉ có các lựa chọn thực đơn buffet, thực đơn à la carte hoặc kiểu lục địa cho bữa sáng.\n\nGolden Light Hotel cách Cầu sông Hàn 2 km và Cầu khóa Tình yêu Đà Nẵng 2.2 km. Sân bay gần nhất là Sân bay Quốc tế Đà Nẵng, cách chỗ nghỉ 5 km.",
+    "rating": "9.4",
+    "total_rating": "9",
+    "evaluation_categories": {
+        "service_staff": 9.4,
+        "amenities": 8.8,
+        "cleanliness": 8.8,
+        "comfort": 9.4,
+        "value_for_money": 9.4,
+        "location": 10.0,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Huu",
+                "avatar": "https://graph.facebook.com/v2.9/2357823664466051/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Giá cả quá rẻ so với chất lượng",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Joan",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "You get what you pay for. Pay more for a better bed and a lot more choices at breakfast.",
+                "score": 6.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Great location only a few blocks to the beach. Lots of restaurants and corner stores nearby.",
+                "comment_negative": "The bed was extremely hard. The breakfast was not hot and not a lot of choices."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Yoshida",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/322200888.jpg?k=b9f3e481ab8d36cee2dcfc05139b06d18c550498e544869f704e75fe2cee264f&o=",
+                "country": "Nhật Bản"
+            },
+            "review": {
+                "date": "17/04/2024",
+                "rating": "食事付きで予約したのに？",
+                "score": 9.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "2 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "全て良かった。",
+                "comment_negative": "朝食が6時30分の説明だったがツアー客は6時から食べているみたいで30分に食べに行くとフォーやミルクがなく追加もしてくれない。こんなのはじめて！！！"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

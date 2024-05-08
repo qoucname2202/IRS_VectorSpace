@@ -1,0 +1,698 @@
+{
+    "name": "Sorrento Beach Club & Kite Village",
+    "address": "Đường 702 My Hoa, Phan Rang, Việt Nam",
+    "description": "Sorrento Beach Club & Kite Village có hồ bơi ngoài trời, khu vườn, nhà hàng và quầy bar ở Phan Rang. Tất cả các phòng đều có sân trong.\n\nTại khách sạn, các phòng đều có tủ quần áo, ga trải giường và sân hiên với view vườn. Với phòng tắm riêng được trang bị vòi xịt/chậu rửa vệ sinh và đồ vệ sinh cá nhân miễn phí, các phòng tại Sorrento Beach Club & Kite Village cũng có Wi-Fi miễn phí, trong đó một số phòng có view biển. Tại chỗ nghỉ, phòng nào cũng có khu vực ghế ngồi.\n\nSân bay gần nhất là Sân bay Liên Khương, cách Sorrento Beach Club & Kite Village 132 km, đồng thời chỗ nghỉ có cung cấp dịch vụ đưa đón sân bay mất phí.",
+    "rating": "8.7",
+    "total_rating": "38",
+    "evaluation_categories": {
+        "service_staff": 9.5,
+        "amenities": 8.9,
+        "cleanliness": 8.9,
+        "comfort": 8.8,
+        "value_for_money": 8.2,
+        "location": 9.0,
+        "free_wifi": 10.0
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://lh5.googleusercontent.com/-l9SI2MtgH3E/AAAAAAAAAAI/AAAAAAAAADk/-2OdgH3YvIc/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/05/2022",
+                "rating": "Nghỉ tại Soreento rất thoải mái",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian yên tĩnh và đẹp, phong cách trang trí có gu, nhân viên thân thiện, nhiệt tình. Đồ ăn Âu ngon",
+                "comment_negative": "Hơi nhiều mũi và vị trí không thuận tiện lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Suite 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, thoáng mát và rất yên bình",
+                "comment_negative": "có nhiều muỗi và hồ bơi chưa được sạch"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tố",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/07/2022",
+                "rating": "nên xem kỹ lại trước khi đặt phòng nơi này bãi biển không tắm được",
+                "score": 4.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "3 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": "không xuất hoá không chấp nhận thẻ thanh toán"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dinh",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GjSkUlnkEV8PiwGn_YRzfPUUY--dWaqt30JB7MM4g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/02/2022",
+                "rating": "Tàm tạm",
+                "score": 5.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian gần gũi thiên nhiên",
+                "comment_negative": "Xa quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Peter",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Trung Quốc"
+            },
+            "review": {
+                "date": "3/03/2024",
+                "rating": "Perfect stay if you want to go for kiteboarding and don’t want to care anything else.",
+                "score": 9.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "6 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Perfect location to do kiteboarding",
+                "comment_negative": "Besides kiteboarding the location is quite remote from everywhere."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bonnie",
+                "avatar": null,
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "8/02/2024",
+                "rating": "A magical spot for enjoying life, kiting, and meeting interesting people.",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Delicious food, welcoming staff, and gorgeous property.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Malgorzata",
+                "avatar": "https://graph.facebook.com/v2.9/1270556416/picture?type=square&height=64&width=64",
+                "country": "Thụy Sỹ"
+            },
+            "review": {
+                "date": "29/01/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Lớn",
+                "stay_duration": "5 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Great location and fantastic vibes. Great place to hang out and the best spot for kiteing.",
+                "comment_negative": "The property is a little worn out and needs renovation. The room price is on a high side compared to other ones in the area and breakfast is not included in the rate. Food is a bit too expensive for Vietnam."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Rebecca",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-r.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/010/2023",
+                "rating": "Best surprise holiday I’ve had in ages",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi có Ban công và Nhìn ra Biển",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Spectacular food  at the restaurant",
+                "comment_negative": "Need to have coiffed and tea in the room - just basic stuff, nothing fancy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Johan",
+                "avatar": "https://graph.facebook.com/v2.9/10153303409221759/picture?type=square&height=64&width=64",
+                "country": "Na Uy"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "Lovely getaway from the citylife.",
+                "score": 10.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Beautifull garden area and nice swimming pools. Good food, coffee and cakes.",
+                "comment_negative": "Some noisy karaoke from outside of the property area, and unfortunately this seem difficult to escape from in Vietnam."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Svetlin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Bulgaria"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Great place for a quiet kitesurfing escape",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi có Ban công và Nhìn ra Biển",
+                "stay_duration": "5 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Everything - staff is really polite, the whole complex is put together with care and attention to the details. It’s perfect for a quiet kitesurfing week.",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://lh5.googleusercontent.com/-l9SI2MtgH3E/AAAAAAAAAAI/AAAAAAAAADk/-2OdgH3YvIc/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/05/2022",
+                "rating": "Nghỉ tại Soreento rất thoải mái",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian yên tĩnh và đẹp, phong cách trang trí có gu, nhân viên thân thiện, nhiệt tình. Đồ ăn Âu ngon",
+                "comment_negative": "Hơi nhiều mũi và vị trí không thuận tiện lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Suite 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, thoáng mát và rất yên bình",
+                "comment_negative": "có nhiều muỗi và hồ bơi chưa được sạch"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tố",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/07/2022",
+                "rating": "nên xem kỹ lại trước khi đặt phòng nơi này bãi biển không tắm được",
+                "score": 4.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "3 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": "không xuất hoá không chấp nhận thẻ thanh toán"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dinh",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GjSkUlnkEV8PiwGn_YRzfPUUY--dWaqt30JB7MM4g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/02/2022",
+                "rating": "Tàm tạm",
+                "score": 5.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian gần gũi thiên nhiên",
+                "comment_negative": "Xa quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Peter",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Trung Quốc"
+            },
+            "review": {
+                "date": "3/03/2024",
+                "rating": "Perfect stay if you want to go for kiteboarding and don’t want to care anything else.",
+                "score": 9.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "6 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Perfect location to do kiteboarding",
+                "comment_negative": "Besides kiteboarding the location is quite remote from everywhere."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bonnie",
+                "avatar": null,
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "8/02/2024",
+                "rating": "A magical spot for enjoying life, kiting, and meeting interesting people.",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Delicious food, welcoming staff, and gorgeous property.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Malgorzata",
+                "avatar": "https://graph.facebook.com/v2.9/1270556416/picture?type=square&height=64&width=64",
+                "country": "Thụy Sỹ"
+            },
+            "review": {
+                "date": "29/01/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Lớn",
+                "stay_duration": "5 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Great location and fantastic vibes. Great place to hang out and the best spot for kiteing.",
+                "comment_negative": "The property is a little worn out and needs renovation. The room price is on a high side compared to other ones in the area and breakfast is not included in the rate. Food is a bit too expensive for Vietnam."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Rebecca",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-r.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/010/2023",
+                "rating": "Best surprise holiday I’ve had in ages",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi có Ban công và Nhìn ra Biển",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Spectacular food  at the restaurant",
+                "comment_negative": "Need to have coiffed and tea in the room - just basic stuff, nothing fancy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Johan",
+                "avatar": "https://graph.facebook.com/v2.9/10153303409221759/picture?type=square&height=64&width=64",
+                "country": "Na Uy"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "Lovely getaway from the citylife.",
+                "score": 10.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Beautifull garden area and nice swimming pools. Good food, coffee and cakes.",
+                "comment_negative": "Some noisy karaoke from outside of the property area, and unfortunately this seem difficult to escape from in Vietnam."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Svetlin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Bulgaria"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Great place for a quiet kitesurfing escape",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi có Ban công và Nhìn ra Biển",
+                "stay_duration": "5 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Everything - staff is really polite, the whole complex is put together with care and attention to the details. It’s perfect for a quiet kitesurfing week.",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://lh5.googleusercontent.com/-l9SI2MtgH3E/AAAAAAAAAAI/AAAAAAAAADk/-2OdgH3YvIc/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/05/2022",
+                "rating": "Nghỉ tại Soreento rất thoải mái",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian yên tĩnh và đẹp, phong cách trang trí có gu, nhân viên thân thiện, nhiệt tình. Đồ ăn Âu ngon",
+                "comment_negative": "Hơi nhiều mũi và vị trí không thuận tiện lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Suite 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, thoáng mát và rất yên bình",
+                "comment_negative": "có nhiều muỗi và hồ bơi chưa được sạch"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tố",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/07/2022",
+                "rating": "nên xem kỹ lại trước khi đặt phòng nơi này bãi biển không tắm được",
+                "score": 4.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "3 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": "không xuất hoá không chấp nhận thẻ thanh toán"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dinh",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GjSkUlnkEV8PiwGn_YRzfPUUY--dWaqt30JB7MM4g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/02/2022",
+                "rating": "Tàm tạm",
+                "score": 5.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian gần gũi thiên nhiên",
+                "comment_negative": "Xa quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Peter",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Trung Quốc"
+            },
+            "review": {
+                "date": "3/03/2024",
+                "rating": "Perfect stay if you want to go for kiteboarding and don’t want to care anything else.",
+                "score": 9.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "6 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Perfect location to do kiteboarding",
+                "comment_negative": "Besides kiteboarding the location is quite remote from everywhere."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bonnie",
+                "avatar": null,
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "8/02/2024",
+                "rating": "A magical spot for enjoying life, kiting, and meeting interesting people.",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Delicious food, welcoming staff, and gorgeous property.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Malgorzata",
+                "avatar": "https://graph.facebook.com/v2.9/1270556416/picture?type=square&height=64&width=64",
+                "country": "Thụy Sỹ"
+            },
+            "review": {
+                "date": "29/01/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Lớn",
+                "stay_duration": "5 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Great location and fantastic vibes. Great place to hang out and the best spot for kiteing.",
+                "comment_negative": "The property is a little worn out and needs renovation. The room price is on a high side compared to other ones in the area and breakfast is not included in the rate. Food is a bit too expensive for Vietnam."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Rebecca",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-r.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/010/2023",
+                "rating": "Best surprise holiday I’ve had in ages",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi có Ban công và Nhìn ra Biển",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Spectacular food  at the restaurant",
+                "comment_negative": "Need to have coiffed and tea in the room - just basic stuff, nothing fancy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Johan",
+                "avatar": "https://graph.facebook.com/v2.9/10153303409221759/picture?type=square&height=64&width=64",
+                "country": "Na Uy"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "Lovely getaway from the citylife.",
+                "score": 10.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Beautifull garden area and nice swimming pools. Good food, coffee and cakes.",
+                "comment_negative": "Some noisy karaoke from outside of the property area, and unfortunately this seem difficult to escape from in Vietnam."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Svetlin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Bulgaria"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Great place for a quiet kitesurfing escape",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi có Ban công và Nhìn ra Biển",
+                "stay_duration": "5 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Everything - staff is really polite, the whole complex is put together with care and attention to the details. It’s perfect for a quiet kitesurfing week.",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://lh5.googleusercontent.com/-l9SI2MtgH3E/AAAAAAAAAAI/AAAAAAAAADk/-2OdgH3YvIc/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/05/2022",
+                "rating": "Nghỉ tại Soreento rất thoải mái",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian yên tĩnh và đẹp, phong cách trang trí có gu, nhân viên thân thiện, nhiệt tình. Đồ ăn Âu ngon",
+                "comment_negative": "Hơi nhiều mũi và vị trí không thuận tiện lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Suite 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, thoáng mát và rất yên bình",
+                "comment_negative": "có nhiều muỗi và hồ bơi chưa được sạch"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tố",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/07/2022",
+                "rating": "nên xem kỹ lại trước khi đặt phòng nơi này bãi biển không tắm được",
+                "score": 4.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "3 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": "không xuất hoá không chấp nhận thẻ thanh toán"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dinh",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GjSkUlnkEV8PiwGn_YRzfPUUY--dWaqt30JB7MM4g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/02/2022",
+                "rating": "Tàm tạm",
+                "score": 5.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian gần gũi thiên nhiên",
+                "comment_negative": "Xa quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Peter",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Trung Quốc"
+            },
+            "review": {
+                "date": "3/03/2024",
+                "rating": "Perfect stay if you want to go for kiteboarding and don’t want to care anything else.",
+                "score": 9.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "6 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Perfect location to do kiteboarding",
+                "comment_negative": "Besides kiteboarding the location is quite remote from everywhere."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bonnie",
+                "avatar": null,
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "8/02/2024",
+                "rating": "A magical spot for enjoying life, kiting, and meeting interesting people.",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Delicious food, welcoming staff, and gorgeous property.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Malgorzata",
+                "avatar": "https://graph.facebook.com/v2.9/1270556416/picture?type=square&height=64&width=64",
+                "country": "Thụy Sỹ"
+            },
+            "review": {
+                "date": "29/01/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Lớn",
+                "stay_duration": "5 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Great location and fantastic vibes. Great place to hang out and the best spot for kiteing.",
+                "comment_negative": "The property is a little worn out and needs renovation. The room price is on a high side compared to other ones in the area and breakfast is not included in the rate. Food is a bit too expensive for Vietnam."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Rebecca",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-r.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/010/2023",
+                "rating": "Best surprise holiday I’ve had in ages",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi có Ban công và Nhìn ra Biển",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Spectacular food  at the restaurant",
+                "comment_negative": "Need to have coiffed and tea in the room - just basic stuff, nothing fancy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Johan",
+                "avatar": "https://graph.facebook.com/v2.9/10153303409221759/picture?type=square&height=64&width=64",
+                "country": "Na Uy"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "Lovely getaway from the citylife.",
+                "score": 10.0,
+                "room_type": "Phòng Superior 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Beautifull garden area and nice swimming pools. Good food, coffee and cakes.",
+                "comment_negative": "Some noisy karaoke from outside of the property area, and unfortunately this seem difficult to escape from in Vietnam."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Svetlin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Bulgaria"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Great place for a quiet kitesurfing escape",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi có Ban công và Nhìn ra Biển",
+                "stay_duration": "5 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Everything - staff is really polite, the whole complex is put together with care and attention to the details. It’s perfect for a quiet kitesurfing week.",
+                "comment_negative": "nothing"
+            }
+        }
+    ]
+}

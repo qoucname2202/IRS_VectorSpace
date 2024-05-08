@@ -1,0 +1,52 @@
+{
+    "name": "Hotel Hoàng My",
+    "address": "91 Nguyễn Tất Thành, Pleiku, Việt Nam",
+    "description": "Nằm ở Pleiku, cách Pleiku Stadium chưa đến 1 km và Bishop's House of Kontum 48 km, Hotel Hoàng My cung cấp chỗ nghỉ có sân hiên và chỗ đậu xe riêng miễn phícho khách lái xe. Chỗ nghỉ này cung cấp dịch vụ phòng, quầy lễ tân 24 giờ và dịch vụ thu đổi ngoại tệ cho khách.\n\nSân bay gần nhất là Sân bay Pleiku, cách khách sạn 5 km, đồng thời chỗ nghỉ có cung cấp dịch vụ đưa đón sân bay mất phí.",
+    "rating": "8",
+    "total_rating": "2",
+    "evaluation_categories": {
+        "service_staff": 7.5,
+        "amenities": 7.5,
+        "cleanliness": 7.5,
+        "comfort": 7.5,
+        "value_for_money": 7.5,
+        "location": 7.5,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Ảo",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKe3Jv8Kzc58Vc_RB8y1u7nC-J1CljPzm4initaz84Eyu4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/03/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ly",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/011/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

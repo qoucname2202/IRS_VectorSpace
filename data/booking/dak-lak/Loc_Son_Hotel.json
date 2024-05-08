@@ -1,0 +1,358 @@
+{
+    "name": "Lộc Sơn Hotel",
+    "address": "10 Phan Đăng Lưu, Buôn Ma Thuột, Việt Nam",
+    "description": "Nằm ở Buôn Ma Thuột, Đắc Lắc, Lộc Sơn Hotel tọa lạc cách Trung tâm thương mại Vincom Plaza Buôn Ma Thuột 3.5 km. Khách sạn 2 sao này có dịch vụ tiền sảnh và bàn bán tour. Chỗ nghỉ cung cấp lễ tân 24/24, dịch vụ đưa đón sân bay, dịch vụ phòng và Wi-Fi miễn phí ở toàn bộ chỗ nghỉ.\n\nSân bay gần nhất là Sân bay Buôn Ma Thuột, cách khách sạn 6 km.",
+    "rating": "9.6",
+    "total_rating": "14",
+    "evaluation_categories": {
+        "service_staff": 9.6,
+        "amenities": 9.6,
+        "cleanliness": 9.8,
+        "comfort": 9.8,
+        "value_for_money": 9.8,
+        "location": 9.6,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Andy",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/012/2023",
+                "rating": "KHÁCH SẠN MỚI VÀ SẠCH SẼ",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đơn",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mình đi công tác ở Daklak và được người quen giới thiệu cho khách sạn này. Khách sạn rất mới mọi thứ đều sạch sẽ, gần trung tâm và nhiều tiện tích xung quanh. Nhất định sẽ ủng hộ khi có cơ hội công tác tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diệp",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Quá tuyệt vời <33",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng siêu sạch sẽ, nhân viên ở khách sạn cutie, cần gì thì cứ hỏi mấy chị hehe",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tường",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng rất sạch, thoải mái, đầy đủ tiện nghi, tivi internet, nhân viên thân thiện, vị trí cũng ok, có dịp quay lại BMT sẽ ghé ủng hộ tiếp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh3.googleusercontent.com/a/AATXAJyfsJvszgX4kBAkMpyNGkZmO8iarjti5CZz7yZ_=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn mới có chỗ để xe hơi rộng, gần mega mall, coop mart rất tiện. Trang bị trong phòng toàn gỗ mới, nệm cao su kiểu kimdan, gối êm lắm nha.\n\nThuê xe 150k, nên dặn trước xe gì để khách sạn sắp xếp đúng ý mình. Ở đây cũng gần các nhà xe họ trung chuyển dễ dàng, ra sân bay khoảng 10km đổ lại.\n\nBonus: gợi ý vài món ăn có thể thử tại BMT: bún chìa, bún đỏ Thu(phan đình giót xưa), bánh canh và các quán cafe.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bùi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2024",
+                "rating": "Phù hợp cho kỳ ghỉ ngắn ngày , qua đêm",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn sạch sẽ , giá cả phải chăng",
+                "comment_negative": "Bố trí phòng chưa dc hợp lý"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Glenn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-g.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "12 out of 10",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "6 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sensational little place, spotlessly clean, staff made you feel very welcome. Close to everything you need yet quiet for good  ights sleep. If I could give it a 12 I would. Best value for money property that I have ever stayed in.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Pluchart",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "2/03/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chambre propre spacieuse rue calme lit confortable",
+                "comment_negative": "Loin de tout bien 15 a 20 minutes de marche centre ville il faut payer les bouteilles d'eau,  les stick de café"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lionel",
+                "avatar": null,
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "25/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Hôtel clean personnel sympathique lit confortable chambre spacieuse\nTop",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/03/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Andy",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/012/2023",
+                "rating": "KHÁCH SẠN MỚI VÀ SẠCH SẼ",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đơn",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mình đi công tác ở Daklak và được người quen giới thiệu cho khách sạn này. Khách sạn rất mới mọi thứ đều sạch sẽ, gần trung tâm và nhiều tiện tích xung quanh. Nhất định sẽ ủng hộ khi có cơ hội công tác tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diệp",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Quá tuyệt vời <33",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng siêu sạch sẽ, nhân viên ở khách sạn cutie, cần gì thì cứ hỏi mấy chị hehe",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tường",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng rất sạch, thoải mái, đầy đủ tiện nghi, tivi internet, nhân viên thân thiện, vị trí cũng ok, có dịp quay lại BMT sẽ ghé ủng hộ tiếp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh3.googleusercontent.com/a/AATXAJyfsJvszgX4kBAkMpyNGkZmO8iarjti5CZz7yZ_=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn mới có chỗ để xe hơi rộng, gần mega mall, coop mart rất tiện. Trang bị trong phòng toàn gỗ mới, nệm cao su kiểu kimdan, gối êm lắm nha.\n\nThuê xe 150k, nên dặn trước xe gì để khách sạn sắp xếp đúng ý mình. Ở đây cũng gần các nhà xe họ trung chuyển dễ dàng, ra sân bay khoảng 10km đổ lại.\n\nBonus: gợi ý vài món ăn có thể thử tại BMT: bún chìa, bún đỏ Thu(phan đình giót xưa), bánh canh và các quán cafe.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bùi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2024",
+                "rating": "Phù hợp cho kỳ ghỉ ngắn ngày , qua đêm",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn sạch sẽ , giá cả phải chăng",
+                "comment_negative": "Bố trí phòng chưa dc hợp lý"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Glenn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-g.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "12 out of 10",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "6 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sensational little place, spotlessly clean, staff made you feel very welcome. Close to everything you need yet quiet for good  ights sleep. If I could give it a 12 I would. Best value for money property that I have ever stayed in.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Pluchart",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "2/03/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chambre propre spacieuse rue calme lit confortable",
+                "comment_negative": "Loin de tout bien 15 a 20 minutes de marche centre ville il faut payer les bouteilles d'eau,  les stick de café"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lionel",
+                "avatar": null,
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "25/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Hôtel clean personnel sympathique lit confortable chambre spacieuse\nTop",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/03/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,1888 @@
+{
+    "name": "The Green House - Serviced Apartment",
+    "address": "68 D8 Street, Chanh Nghia Ward, Thu Dau Mot, Thủ Dầu Một, Việt Nam",
+    "description": "Nằm ở Thủ Dầu Một, cách Trung tâm mua sắm AEON MALL Bình Dương Canary 10 km và Trung tâm thương mại Vincom Thủ Đức 21 km, The Green House - Serviced Apartment cung cấp chỗ nghỉ có xe đạp miễn phí và Wi-Fi miễn phí cũng như chỗ đậu xe riêng miễn phí cho khách lái xe. Chỗ nghỉ này tọa lạc cách Công viên văn hóa Suối Tiên 26 km, Bảo tàng lịch sử Việt Nam 27 km và Trung Tâm Thương Mại Diamond Plaza 28 km. Chỗ nghỉ này cung cấp dịch vụ phòng và quầy lễ tân 24 giờ cho khách.\n\nTất cả các phòng ở khách sạn được trang bị điều hòa, khu vực ghế ngồi, TV màn hình phẳng có truyền hình vệ tinh, bếp nhỏ, khu vực ăn uống, phòng tắm riêng, đồ vệ sinh cá nhân miễn phí, vòi xịt/chậu rửa vệ sinh và vòi sen. Phòng nào cũng có ấm đun nước, trong đó một số phòng có ban công và một số khác thì nhìn ra thành phố. Tại The Green House - Serviced Apartment, các phòng đều có ga trải giường và khăn tắm.\n\nChỗ nghỉ có sân hiên phơi nắng.\n\nThe Green House - Serviced Apartment cách Bưu điện Trung tâm 28 km và Chợ Tân Định 28 km. Sân bay gần nhất là Sân bay Quốc tế Tân Sơn Nhất, cách khách sạn 28 km, đồng thời chỗ nghỉ này cũng cung cấp dịch vụ đưa đón sân bay mất phí.",
+    "rating": "8.7",
+    "total_rating": "105",
+    "evaluation_categories": {
+        "service_staff": 8.3,
+        "amenities": 8.8,
+        "cleanliness": 8.6,
+        "comfort": 8.8,
+        "value_for_money": 8.5,
+        "location": 8.9,
+        "free_wifi": 7.5
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/05/2021",
+                "rating": "Kỳ nghỉ tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở sạch sẽ, decor phòng hợp mắt rất đẹp, nhân viên rất thân thiệt. Rất nên đến ở",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://graph.facebook.com/v2.9/122104466054061168/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/010/2023",
+                "rating": "Rất tuyệt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rộng rãi thoáng mát, yên tĩnh",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dung",
+                "avatar": "https://lh5.googleusercontent.com/-smocVfmxJas/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdF0Oy96jqVcTeMHk_8ilnOdmRLpQ/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/09/2023",
+                "rating": "good",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi, thoải mái, sạch sẽ, nhân viên thân thiện",
+                "comment_negative": "vòi sen trong phòng tắm loại cũ nên dùng không tốt lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/01/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 12/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ gần trung tâm",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/011/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 10/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nước mạnh, tiện nghi ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tâm",
+                "avatar": "https://graph.facebook.com/v2.9/360730429309986/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://graph.facebook.com/v2.9/1748529551825156/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn hộ Tiêu chuẩn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khôi",
+                "avatar": "https://graph.facebook.com/v2.9/1721436891375025/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/01/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 1/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, Đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/05/2021",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ, rộng rãi. Có tủ lạnh to, smart tv, phòng có riêng 1 bộ phát wifi, điều hòa mát nhanh chạy êm. Xung quanh khách sạn có rất nhiều nhà hàng, quán cafe tiện cho việc ăn uống.",
+                "comment_negative": "Phòng cách âm chưa tốt, đêm vẫn nghe thấy tiếng xe đi ngoài đường vọng vào. Vòi hoa sen treo hơi cao, khi tắm nước chảy thẳng vào mặt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/05/2021",
+                "rating": "Rất tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ..gối và giường rất êm..mọi thứ rất tuyệt..có cả 2 chai xà bông tắm và gội dove..vị trí trung tâm",
+                "comment_negative": "Nên gắn thêm gương soi full body trong phòng.."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/05/2021",
+                "rating": "Kỳ nghỉ tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở sạch sẽ, decor phòng hợp mắt rất đẹp, nhân viên rất thân thiệt. Rất nên đến ở",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://graph.facebook.com/v2.9/122104466054061168/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/010/2023",
+                "rating": "Rất tuyệt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rộng rãi thoáng mát, yên tĩnh",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dung",
+                "avatar": "https://lh5.googleusercontent.com/-smocVfmxJas/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdF0Oy96jqVcTeMHk_8ilnOdmRLpQ/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/09/2023",
+                "rating": "good",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi, thoải mái, sạch sẽ, nhân viên thân thiện",
+                "comment_negative": "vòi sen trong phòng tắm loại cũ nên dùng không tốt lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/01/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 12/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ gần trung tâm",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/011/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 10/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nước mạnh, tiện nghi ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tâm",
+                "avatar": "https://graph.facebook.com/v2.9/360730429309986/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://graph.facebook.com/v2.9/1748529551825156/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn hộ Tiêu chuẩn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khôi",
+                "avatar": "https://graph.facebook.com/v2.9/1721436891375025/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/01/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 1/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, Đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/05/2021",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ, rộng rãi. Có tủ lạnh to, smart tv, phòng có riêng 1 bộ phát wifi, điều hòa mát nhanh chạy êm. Xung quanh khách sạn có rất nhiều nhà hàng, quán cafe tiện cho việc ăn uống.",
+                "comment_negative": "Phòng cách âm chưa tốt, đêm vẫn nghe thấy tiếng xe đi ngoài đường vọng vào. Vòi hoa sen treo hơi cao, khi tắm nước chảy thẳng vào mặt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/05/2021",
+                "rating": "Rất tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ..gối và giường rất êm..mọi thứ rất tuyệt..có cả 2 chai xà bông tắm và gội dove..vị trí trung tâm",
+                "comment_negative": "Nên gắn thêm gương soi full body trong phòng.."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/05/2021",
+                "rating": "Kỳ nghỉ tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở sạch sẽ, decor phòng hợp mắt rất đẹp, nhân viên rất thân thiệt. Rất nên đến ở",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://graph.facebook.com/v2.9/122104466054061168/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/010/2023",
+                "rating": "Rất tuyệt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rộng rãi thoáng mát, yên tĩnh",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dung",
+                "avatar": "https://lh5.googleusercontent.com/-smocVfmxJas/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdF0Oy96jqVcTeMHk_8ilnOdmRLpQ/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/09/2023",
+                "rating": "good",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi, thoải mái, sạch sẽ, nhân viên thân thiện",
+                "comment_negative": "vòi sen trong phòng tắm loại cũ nên dùng không tốt lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/01/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 12/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ gần trung tâm",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/011/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 10/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nước mạnh, tiện nghi ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tâm",
+                "avatar": "https://graph.facebook.com/v2.9/360730429309986/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://graph.facebook.com/v2.9/1748529551825156/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn hộ Tiêu chuẩn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khôi",
+                "avatar": "https://graph.facebook.com/v2.9/1721436891375025/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/01/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 1/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, Đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/05/2021",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ, rộng rãi. Có tủ lạnh to, smart tv, phòng có riêng 1 bộ phát wifi, điều hòa mát nhanh chạy êm. Xung quanh khách sạn có rất nhiều nhà hàng, quán cafe tiện cho việc ăn uống.",
+                "comment_negative": "Phòng cách âm chưa tốt, đêm vẫn nghe thấy tiếng xe đi ngoài đường vọng vào. Vòi hoa sen treo hơi cao, khi tắm nước chảy thẳng vào mặt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/05/2021",
+                "rating": "Rất tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ..gối và giường rất êm..mọi thứ rất tuyệt..có cả 2 chai xà bông tắm và gội dove..vị trí trung tâm",
+                "comment_negative": "Nên gắn thêm gương soi full body trong phòng.."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/05/2021",
+                "rating": "Kỳ nghỉ tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở sạch sẽ, decor phòng hợp mắt rất đẹp, nhân viên rất thân thiệt. Rất nên đến ở",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://graph.facebook.com/v2.9/122104466054061168/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/010/2023",
+                "rating": "Rất tuyệt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rộng rãi thoáng mát, yên tĩnh",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dung",
+                "avatar": "https://lh5.googleusercontent.com/-smocVfmxJas/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdF0Oy96jqVcTeMHk_8ilnOdmRLpQ/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/09/2023",
+                "rating": "good",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi, thoải mái, sạch sẽ, nhân viên thân thiện",
+                "comment_negative": "vòi sen trong phòng tắm loại cũ nên dùng không tốt lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/01/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 12/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ gần trung tâm",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/011/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 10/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nước mạnh, tiện nghi ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tâm",
+                "avatar": "https://graph.facebook.com/v2.9/360730429309986/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://graph.facebook.com/v2.9/1748529551825156/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn hộ Tiêu chuẩn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khôi",
+                "avatar": "https://graph.facebook.com/v2.9/1721436891375025/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/01/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 1/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, Đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/05/2021",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ, rộng rãi. Có tủ lạnh to, smart tv, phòng có riêng 1 bộ phát wifi, điều hòa mát nhanh chạy êm. Xung quanh khách sạn có rất nhiều nhà hàng, quán cafe tiện cho việc ăn uống.",
+                "comment_negative": "Phòng cách âm chưa tốt, đêm vẫn nghe thấy tiếng xe đi ngoài đường vọng vào. Vòi hoa sen treo hơi cao, khi tắm nước chảy thẳng vào mặt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/05/2021",
+                "rating": "Rất tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ..gối và giường rất êm..mọi thứ rất tuyệt..có cả 2 chai xà bông tắm và gội dove..vị trí trung tâm",
+                "comment_negative": "Nên gắn thêm gương soi full body trong phòng.."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/05/2021",
+                "rating": "Kỳ nghỉ tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở sạch sẽ, decor phòng hợp mắt rất đẹp, nhân viên rất thân thiệt. Rất nên đến ở",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://graph.facebook.com/v2.9/122104466054061168/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/010/2023",
+                "rating": "Rất tuyệt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rộng rãi thoáng mát, yên tĩnh",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dung",
+                "avatar": "https://lh5.googleusercontent.com/-smocVfmxJas/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdF0Oy96jqVcTeMHk_8ilnOdmRLpQ/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/09/2023",
+                "rating": "good",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi, thoải mái, sạch sẽ, nhân viên thân thiện",
+                "comment_negative": "vòi sen trong phòng tắm loại cũ nên dùng không tốt lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/01/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 12/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ gần trung tâm",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/011/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 10/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nước mạnh, tiện nghi ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tâm",
+                "avatar": "https://graph.facebook.com/v2.9/360730429309986/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://graph.facebook.com/v2.9/1748529551825156/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn hộ Tiêu chuẩn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khôi",
+                "avatar": "https://graph.facebook.com/v2.9/1721436891375025/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/01/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 1/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, Đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/05/2021",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ, rộng rãi. Có tủ lạnh to, smart tv, phòng có riêng 1 bộ phát wifi, điều hòa mát nhanh chạy êm. Xung quanh khách sạn có rất nhiều nhà hàng, quán cafe tiện cho việc ăn uống.",
+                "comment_negative": "Phòng cách âm chưa tốt, đêm vẫn nghe thấy tiếng xe đi ngoài đường vọng vào. Vòi hoa sen treo hơi cao, khi tắm nước chảy thẳng vào mặt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/05/2021",
+                "rating": "Rất tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ..gối và giường rất êm..mọi thứ rất tuyệt..có cả 2 chai xà bông tắm và gội dove..vị trí trung tâm",
+                "comment_negative": "Nên gắn thêm gương soi full body trong phòng.."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/05/2021",
+                "rating": "Kỳ nghỉ tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở sạch sẽ, decor phòng hợp mắt rất đẹp, nhân viên rất thân thiệt. Rất nên đến ở",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://graph.facebook.com/v2.9/122104466054061168/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/010/2023",
+                "rating": "Rất tuyệt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rộng rãi thoáng mát, yên tĩnh",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dung",
+                "avatar": "https://lh5.googleusercontent.com/-smocVfmxJas/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdF0Oy96jqVcTeMHk_8ilnOdmRLpQ/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/09/2023",
+                "rating": "good",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi, thoải mái, sạch sẽ, nhân viên thân thiện",
+                "comment_negative": "vòi sen trong phòng tắm loại cũ nên dùng không tốt lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/01/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 12/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ gần trung tâm",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/011/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 10/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nước mạnh, tiện nghi ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tâm",
+                "avatar": "https://graph.facebook.com/v2.9/360730429309986/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://graph.facebook.com/v2.9/1748529551825156/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn hộ Tiêu chuẩn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khôi",
+                "avatar": "https://graph.facebook.com/v2.9/1721436891375025/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/01/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 1/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, Đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/05/2021",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ, rộng rãi. Có tủ lạnh to, smart tv, phòng có riêng 1 bộ phát wifi, điều hòa mát nhanh chạy êm. Xung quanh khách sạn có rất nhiều nhà hàng, quán cafe tiện cho việc ăn uống.",
+                "comment_negative": "Phòng cách âm chưa tốt, đêm vẫn nghe thấy tiếng xe đi ngoài đường vọng vào. Vòi hoa sen treo hơi cao, khi tắm nước chảy thẳng vào mặt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/05/2021",
+                "rating": "Rất tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ..gối và giường rất êm..mọi thứ rất tuyệt..có cả 2 chai xà bông tắm và gội dove..vị trí trung tâm",
+                "comment_negative": "Nên gắn thêm gương soi full body trong phòng.."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/05/2021",
+                "rating": "Kỳ nghỉ tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở sạch sẽ, decor phòng hợp mắt rất đẹp, nhân viên rất thân thiệt. Rất nên đến ở",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://graph.facebook.com/v2.9/122104466054061168/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/010/2023",
+                "rating": "Rất tuyệt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rộng rãi thoáng mát, yên tĩnh",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dung",
+                "avatar": "https://lh5.googleusercontent.com/-smocVfmxJas/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdF0Oy96jqVcTeMHk_8ilnOdmRLpQ/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/09/2023",
+                "rating": "good",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi, thoải mái, sạch sẽ, nhân viên thân thiện",
+                "comment_negative": "vòi sen trong phòng tắm loại cũ nên dùng không tốt lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/01/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 12/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ gần trung tâm",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/011/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 10/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nước mạnh, tiện nghi ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tâm",
+                "avatar": "https://graph.facebook.com/v2.9/360730429309986/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://graph.facebook.com/v2.9/1748529551825156/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn hộ Tiêu chuẩn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khôi",
+                "avatar": "https://graph.facebook.com/v2.9/1721436891375025/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/01/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 1/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, Đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/05/2021",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ, rộng rãi. Có tủ lạnh to, smart tv, phòng có riêng 1 bộ phát wifi, điều hòa mát nhanh chạy êm. Xung quanh khách sạn có rất nhiều nhà hàng, quán cafe tiện cho việc ăn uống.",
+                "comment_negative": "Phòng cách âm chưa tốt, đêm vẫn nghe thấy tiếng xe đi ngoài đường vọng vào. Vòi hoa sen treo hơi cao, khi tắm nước chảy thẳng vào mặt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/05/2021",
+                "rating": "Rất tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ..gối và giường rất êm..mọi thứ rất tuyệt..có cả 2 chai xà bông tắm và gội dove..vị trí trung tâm",
+                "comment_negative": "Nên gắn thêm gương soi full body trong phòng.."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/05/2021",
+                "rating": "Kỳ nghỉ tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở sạch sẽ, decor phòng hợp mắt rất đẹp, nhân viên rất thân thiệt. Rất nên đến ở",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://graph.facebook.com/v2.9/122104466054061168/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/010/2023",
+                "rating": "Rất tuyệt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rộng rãi thoáng mát, yên tĩnh",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dung",
+                "avatar": "https://lh5.googleusercontent.com/-smocVfmxJas/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdF0Oy96jqVcTeMHk_8ilnOdmRLpQ/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/09/2023",
+                "rating": "good",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi, thoải mái, sạch sẽ, nhân viên thân thiện",
+                "comment_negative": "vòi sen trong phòng tắm loại cũ nên dùng không tốt lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/01/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 12/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ gần trung tâm",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/011/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 10/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nước mạnh, tiện nghi ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tâm",
+                "avatar": "https://graph.facebook.com/v2.9/360730429309986/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://graph.facebook.com/v2.9/1748529551825156/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn hộ Tiêu chuẩn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khôi",
+                "avatar": "https://graph.facebook.com/v2.9/1721436891375025/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/01/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 1/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, Đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/05/2021",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ, rộng rãi. Có tủ lạnh to, smart tv, phòng có riêng 1 bộ phát wifi, điều hòa mát nhanh chạy êm. Xung quanh khách sạn có rất nhiều nhà hàng, quán cafe tiện cho việc ăn uống.",
+                "comment_negative": "Phòng cách âm chưa tốt, đêm vẫn nghe thấy tiếng xe đi ngoài đường vọng vào. Vòi hoa sen treo hơi cao, khi tắm nước chảy thẳng vào mặt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/05/2021",
+                "rating": "Rất tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ..gối và giường rất êm..mọi thứ rất tuyệt..có cả 2 chai xà bông tắm và gội dove..vị trí trung tâm",
+                "comment_negative": "Nên gắn thêm gương soi full body trong phòng.."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/05/2021",
+                "rating": "Kỳ nghỉ tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở sạch sẽ, decor phòng hợp mắt rất đẹp, nhân viên rất thân thiệt. Rất nên đến ở",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://graph.facebook.com/v2.9/122104466054061168/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/010/2023",
+                "rating": "Rất tuyệt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rộng rãi thoáng mát, yên tĩnh",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dung",
+                "avatar": "https://lh5.googleusercontent.com/-smocVfmxJas/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdF0Oy96jqVcTeMHk_8ilnOdmRLpQ/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/09/2023",
+                "rating": "good",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi, thoải mái, sạch sẽ, nhân viên thân thiện",
+                "comment_negative": "vòi sen trong phòng tắm loại cũ nên dùng không tốt lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/01/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 12/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ gần trung tâm",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/011/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 10/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nước mạnh, tiện nghi ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tâm",
+                "avatar": "https://graph.facebook.com/v2.9/360730429309986/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://graph.facebook.com/v2.9/1748529551825156/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn hộ Tiêu chuẩn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khôi",
+                "avatar": "https://graph.facebook.com/v2.9/1721436891375025/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/01/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 1/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, Đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/05/2021",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ, rộng rãi. Có tủ lạnh to, smart tv, phòng có riêng 1 bộ phát wifi, điều hòa mát nhanh chạy êm. Xung quanh khách sạn có rất nhiều nhà hàng, quán cafe tiện cho việc ăn uống.",
+                "comment_negative": "Phòng cách âm chưa tốt, đêm vẫn nghe thấy tiếng xe đi ngoài đường vọng vào. Vòi hoa sen treo hơi cao, khi tắm nước chảy thẳng vào mặt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/05/2021",
+                "rating": "Rất tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ..gối và giường rất êm..mọi thứ rất tuyệt..có cả 2 chai xà bông tắm và gội dove..vị trí trung tâm",
+                "comment_negative": "Nên gắn thêm gương soi full body trong phòng.."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/05/2021",
+                "rating": "Kỳ nghỉ tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở sạch sẽ, decor phòng hợp mắt rất đẹp, nhân viên rất thân thiệt. Rất nên đến ở",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://graph.facebook.com/v2.9/122104466054061168/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/010/2023",
+                "rating": "Rất tuyệt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rộng rãi thoáng mát, yên tĩnh",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dung",
+                "avatar": "https://lh5.googleusercontent.com/-smocVfmxJas/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdF0Oy96jqVcTeMHk_8ilnOdmRLpQ/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/09/2023",
+                "rating": "good",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi, thoải mái, sạch sẽ, nhân viên thân thiện",
+                "comment_negative": "vòi sen trong phòng tắm loại cũ nên dùng không tốt lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/01/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 12/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ gần trung tâm",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/011/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 10/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nước mạnh, tiện nghi ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tâm",
+                "avatar": "https://graph.facebook.com/v2.9/360730429309986/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://graph.facebook.com/v2.9/1748529551825156/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn hộ Tiêu chuẩn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khôi",
+                "avatar": "https://graph.facebook.com/v2.9/1721436891375025/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/01/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 1/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, Đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/05/2021",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ, rộng rãi. Có tủ lạnh to, smart tv, phòng có riêng 1 bộ phát wifi, điều hòa mát nhanh chạy êm. Xung quanh khách sạn có rất nhiều nhà hàng, quán cafe tiện cho việc ăn uống.",
+                "comment_negative": "Phòng cách âm chưa tốt, đêm vẫn nghe thấy tiếng xe đi ngoài đường vọng vào. Vòi hoa sen treo hơi cao, khi tắm nước chảy thẳng vào mặt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/05/2021",
+                "rating": "Rất tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ..gối và giường rất êm..mọi thứ rất tuyệt..có cả 2 chai xà bông tắm và gội dove..vị trí trung tâm",
+                "comment_negative": "Nên gắn thêm gương soi full body trong phòng.."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/05/2021",
+                "rating": "Kỳ nghỉ tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở sạch sẽ, decor phòng hợp mắt rất đẹp, nhân viên rất thân thiệt. Rất nên đến ở",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://graph.facebook.com/v2.9/122104466054061168/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/010/2023",
+                "rating": "Rất tuyệt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rộng rãi thoáng mát, yên tĩnh",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dung",
+                "avatar": "https://lh5.googleusercontent.com/-smocVfmxJas/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdF0Oy96jqVcTeMHk_8ilnOdmRLpQ/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/09/2023",
+                "rating": "good",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "phòng rộng rãi, thoải mái, sạch sẽ, nhân viên thân thiện",
+                "comment_negative": "vòi sen trong phòng tắm loại cũ nên dùng không tốt lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/01/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 12/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ gần trung tâm",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/011/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 10/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nước mạnh, tiện nghi ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tâm",
+                "avatar": "https://graph.facebook.com/v2.9/360730429309986/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://graph.facebook.com/v2.9/1748529551825156/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn hộ Tiêu chuẩn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khôi",
+                "avatar": "https://graph.facebook.com/v2.9/1721436891375025/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/01/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "2 đêm · tháng 1/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, Đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/05/2021",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ, rộng rãi. Có tủ lạnh to, smart tv, phòng có riêng 1 bộ phát wifi, điều hòa mát nhanh chạy êm. Xung quanh khách sạn có rất nhiều nhà hàng, quán cafe tiện cho việc ăn uống.",
+                "comment_negative": "Phòng cách âm chưa tốt, đêm vẫn nghe thấy tiếng xe đi ngoài đường vọng vào. Vòi hoa sen treo hơi cao, khi tắm nước chảy thẳng vào mặt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/05/2021",
+                "rating": "Rất tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ Studio",
+                "stay_duration": "3 đêm · tháng 5/2021",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ..gối và giường rất êm..mọi thứ rất tuyệt..có cả 2 chai xà bông tắm và gội dove..vị trí trung tâm",
+                "comment_negative": "Nên gắn thêm gương soi full body trong phòng.."
+            }
+        }
+    ]
+}

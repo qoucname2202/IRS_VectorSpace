@@ -1,0 +1,528 @@
+{
+    "name": "Khách sạn Sớm Phú Quý - Ninh Thuận",
+    "address": "Quốc lộ 1A, Phan Rang, Việt Nam",
+    "description": "Khách sạn Sớm Phú Quý - Ninh Thuận có khu vườn, sân hiên, nhà hàng và quầy bar ở Phan Rang. Chỗ nghỉ có chỗ đậu xe riêng miễn phí và có cả dịch vụ đưa đón sân bay mất phí.\n\nVới phòng tắm riêng được trang bị vòi xịt/chậu rửa vệ sinh và đồ vệ sinh cá nhân miễn phí, các phòng tại khách sạn có TV màn hình phẳng và điều hòa, trong đó một số phòng có ban công. Tại Khách sạn Sớm Phú Quý - Ninh Thuận, mỗi phòng đều có ga trải giường và khăn tắm.\n\nĐội ngũ nhân viên lễ tân giao tiếp thành thạo bằng tiếng Anh và tiếng Việt.\n\nSân bay gần nhất là Sân bay Liên Khương, cách chỗ nghỉ 115 km.",
+    "rating": "8.9",
+    "total_rating": "",
+    "evaluation_categories": {
+        "service_staff": 9.5,
+        "amenities": 8.8,
+        "cleanliness": 9.2,
+        "comfort": 8.9,
+        "value_for_money": 8.6,
+        "location": 8.1,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Tu",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiN4JAAT-TtjugcgRAiwUmrsjQlZeoqfhrKoOltoQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng sạch sẽ , đầy đủ tiện nghi, rất thích",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Giá cả phải chăng, phòng sạch sẽ, đầy đủ tiện nghi.",
+                "comment_negative": "Gần QL nên có hơi ồn."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng và sảnh rất sạch sẽ",
+                "comment_negative": "Phòng vệ sinh thiếu hút mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vietphong",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/02/2023",
+                "rating": "OK",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "comfort",
+                "comment_negative": "No"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gjl4Qx4RmWveuIdSK2Y39qb7NAtW8OiqvmzHfSUNA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/011/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 11/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhat",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Nhật Bản"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Saạh sẽ, gọn gàng, nhân viên thân thiện",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chi",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GhZoF9JY0pMss6OTey_sQYTkmLtGitqSVfZW9vH2J4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/07/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": "https://lh3.googleusercontent.com/a/AATXAJwNOb1hFIA1N2mKym9ENWtf2jM8UyUzFp_XSpeb=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/07/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "3 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bằng",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgipSTQA7DAF3uWRPDravca4zoR0OReYd4tMKB4ew=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/07/2022",
+                "rating": "ks nhiệt tình. phòng thoáng mát",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tu",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiN4JAAT-TtjugcgRAiwUmrsjQlZeoqfhrKoOltoQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng sạch sẽ , đầy đủ tiện nghi, rất thích",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Giá cả phải chăng, phòng sạch sẽ, đầy đủ tiện nghi.",
+                "comment_negative": "Gần QL nên có hơi ồn."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng và sảnh rất sạch sẽ",
+                "comment_negative": "Phòng vệ sinh thiếu hút mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vietphong",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/02/2023",
+                "rating": "OK",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "comfort",
+                "comment_negative": "No"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gjl4Qx4RmWveuIdSK2Y39qb7NAtW8OiqvmzHfSUNA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/011/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 11/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhat",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Nhật Bản"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Saạh sẽ, gọn gàng, nhân viên thân thiện",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chi",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GhZoF9JY0pMss6OTey_sQYTkmLtGitqSVfZW9vH2J4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/07/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": "https://lh3.googleusercontent.com/a/AATXAJwNOb1hFIA1N2mKym9ENWtf2jM8UyUzFp_XSpeb=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/07/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "3 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bằng",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgipSTQA7DAF3uWRPDravca4zoR0OReYd4tMKB4ew=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/07/2022",
+                "rating": "ks nhiệt tình. phòng thoáng mát",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tu",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiN4JAAT-TtjugcgRAiwUmrsjQlZeoqfhrKoOltoQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng sạch sẽ , đầy đủ tiện nghi, rất thích",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Giá cả phải chăng, phòng sạch sẽ, đầy đủ tiện nghi.",
+                "comment_negative": "Gần QL nên có hơi ồn."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/09/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng và sảnh rất sạch sẽ",
+                "comment_negative": "Phòng vệ sinh thiếu hút mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vietphong",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/02/2023",
+                "rating": "OK",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "comfort",
+                "comment_negative": "No"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gjl4Qx4RmWveuIdSK2Y39qb7NAtW8OiqvmzHfSUNA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/011/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 11/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhat",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Nhật Bản"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Saạh sẽ, gọn gàng, nhân viên thân thiện",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chi",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GhZoF9JY0pMss6OTey_sQYTkmLtGitqSVfZW9vH2J4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/07/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": "https://lh3.googleusercontent.com/a/AATXAJwNOb1hFIA1N2mKym9ENWtf2jM8UyUzFp_XSpeb=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/07/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "3 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bằng",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgipSTQA7DAF3uWRPDravca4zoR0OReYd4tMKB4ew=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/07/2022",
+                "rating": "ks nhiệt tình. phòng thoáng mát",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

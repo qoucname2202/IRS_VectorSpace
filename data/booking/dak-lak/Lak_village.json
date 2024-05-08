@@ -1,0 +1,698 @@
+{
+    "name": "Lak village",
+    "address": "70 Y Jut, Liên Sơn, Việt Nam",
+    "description": "Tọa lạc ở Liên Sơn, Lak village có sân hiên và nhà hàng. Chỗ nghỉ cung cấp lễ tân 24/24, dịch vụ đưa đón sân bay, dịch vụ phòng và Wi-Fi miễn phí ở toàn bộ chỗ nghỉ.\n\nTại khách sạn, mỗi phòng đều có điều hòa, bàn làm việc, TV màn hình phẳng, phòng tắm riêng, ga trải giường, khăn tắm và ban công với view hồ. Các phòng có tủ quần áo.\n\nKhách tại Lak village có thể thưởng thức bữa sáng kiểu Á.\n\nSân bay gần nhất là Sân bay Buôn Ma Thuột, cách chỗ nghỉ 45 km.",
+    "rating": "9.3",
+    "total_rating": "32",
+    "evaluation_categories": {
+        "service_staff": 9.8,
+        "amenities": 9.2,
+        "cleanliness": 9.5,
+        "comfort": 9.5,
+        "value_for_money": 9.5,
+        "location": 9.8,
+        "free_wifi": 10.0
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Daniel",
+                "avatar": "https://graph.facebook.com/v2.9/10155643640588691/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Great location and comfortable room. Great view of the lake from the window and balcony.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anne",
+                "avatar": "https://graph.facebook.com/v2.9/10200619311003186/picture?type=square&height=64&width=64",
+                "country": "Ireland (Ai Len)"
+            },
+            "review": {
+                "date": "20/02/2024",
+                "rating": "Had a fabulous 4 days with Hong and his family. Hotel is clean, a/c good, food excellent. Hong's wife I so a gre",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "4 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Clean and modern best bed yet in VNm",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Daniel",
+                "avatar": "https://graph.facebook.com/v2.9/10155643640588691/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Spacious rooms and great view of the lake. Great location.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Elliott",
+                "avatar": "https://lh6.googleusercontent.com/-hFBsY7QipRo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmlmOrREDFaQhyw-Gcm6fm43NLZ3Q/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Clean, quiet and excellent dinner and breakfast! Excellent value for the money on the lakefront.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chloe",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLuuD7OTgPvx0WAzpsEzPg2Xadm_1qQdlAuL1KAGRYz=s96-c",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "28/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Clean and big bedrooms, common balcony with beautiful view on rice fields. I think some rooms have lake view. The hosts don't speak English but are very nice and prepare excellent food. They also rent scooters and bikes.",
+                "comment_negative": "Maybe one tiny thing that could be better is a kettle on the rooms."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Benoit",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GinlWIqRHRI5TqUwQBN-iNhIkoUOzsdpNu-AA2QKw=s96-c",
+                "country": "Bỉ"
+            },
+            "review": {
+                "date": "25/01/2024",
+                "rating": "Excellent stay that we would highly recommend",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Very good and well run family hotel. The owners are very nice and helpful. The hotel offers clean rooms, beautiful lake views and good food for a very good price. We can highly recommend it.",
+                "comment_negative": "Nothing."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Carola",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Thụy Sỹ"
+            },
+            "review": {
+                "date": "12/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Amazing hosts and food (dinner was delicious)!",
+                "comment_negative": "-Too much light during mornings in the room"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Steven",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/57035862.jpg?k=a02a49a7b7128b55c9e236fdf0cc316c32ed6b42afa4b27a0439f267eb56c494&o=",
+                "country": "Bulgaria"
+            },
+            "review": {
+                "date": "22/012/2023",
+                "rating": "A great stay to break up our long journey",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Spotlessly clean, friendly villagers, little dog that is entertaining. The evening meal was superb. My wife and I throughly enjoyed our relaxing stay .",
+                "comment_negative": "Don’t care for wild birds in tiny cages."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Patrice",
+                "avatar": "https://graph.facebook.com/v2.9/742856752552693/picture?type=square&height=64&width=64",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "10/04/2024",
+                "rating": "génial",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "l 'accueil très bon et beaucoup de prestations et d'aides pour nous rendre le séjour le plus agréable possible, merci",
+                "comment_negative": "le manque de temps, j aurais aimé rester plus longtemps"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bruno",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-b.png",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "7/04/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Même s il ne parle pas anglais les propriétaires sont très aidant et efficaces. J avais oublié ma tablette dans le bus qui m amenait à Lien Son et continuait sur Buon Ma Thot. Ils s en sont occupés. Le lendemain matin ma tablette était là.\nTrès bons repas, parfois trop copieux",
+                "comment_negative": "Équipement de la chambre très basique. Pas de prise de courant dans la salle de bains"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Daniel",
+                "avatar": "https://graph.facebook.com/v2.9/10155643640588691/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Great location and comfortable room. Great view of the lake from the window and balcony.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anne",
+                "avatar": "https://graph.facebook.com/v2.9/10200619311003186/picture?type=square&height=64&width=64",
+                "country": "Ireland (Ai Len)"
+            },
+            "review": {
+                "date": "20/02/2024",
+                "rating": "Had a fabulous 4 days with Hong and his family. Hotel is clean, a/c good, food excellent. Hong's wife I so a gre",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "4 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Clean and modern best bed yet in VNm",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Daniel",
+                "avatar": "https://graph.facebook.com/v2.9/10155643640588691/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Spacious rooms and great view of the lake. Great location.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Elliott",
+                "avatar": "https://lh6.googleusercontent.com/-hFBsY7QipRo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmlmOrREDFaQhyw-Gcm6fm43NLZ3Q/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Clean, quiet and excellent dinner and breakfast! Excellent value for the money on the lakefront.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chloe",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLuuD7OTgPvx0WAzpsEzPg2Xadm_1qQdlAuL1KAGRYz=s96-c",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "28/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Clean and big bedrooms, common balcony with beautiful view on rice fields. I think some rooms have lake view. The hosts don't speak English but are very nice and prepare excellent food. They also rent scooters and bikes.",
+                "comment_negative": "Maybe one tiny thing that could be better is a kettle on the rooms."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Benoit",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GinlWIqRHRI5TqUwQBN-iNhIkoUOzsdpNu-AA2QKw=s96-c",
+                "country": "Bỉ"
+            },
+            "review": {
+                "date": "25/01/2024",
+                "rating": "Excellent stay that we would highly recommend",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Very good and well run family hotel. The owners are very nice and helpful. The hotel offers clean rooms, beautiful lake views and good food for a very good price. We can highly recommend it.",
+                "comment_negative": "Nothing."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Carola",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Thụy Sỹ"
+            },
+            "review": {
+                "date": "12/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Amazing hosts and food (dinner was delicious)!",
+                "comment_negative": "-Too much light during mornings in the room"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Steven",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/57035862.jpg?k=a02a49a7b7128b55c9e236fdf0cc316c32ed6b42afa4b27a0439f267eb56c494&o=",
+                "country": "Bulgaria"
+            },
+            "review": {
+                "date": "22/012/2023",
+                "rating": "A great stay to break up our long journey",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Spotlessly clean, friendly villagers, little dog that is entertaining. The evening meal was superb. My wife and I throughly enjoyed our relaxing stay .",
+                "comment_negative": "Don’t care for wild birds in tiny cages."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Patrice",
+                "avatar": "https://graph.facebook.com/v2.9/742856752552693/picture?type=square&height=64&width=64",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "10/04/2024",
+                "rating": "génial",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "l 'accueil très bon et beaucoup de prestations et d'aides pour nous rendre le séjour le plus agréable possible, merci",
+                "comment_negative": "le manque de temps, j aurais aimé rester plus longtemps"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bruno",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-b.png",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "7/04/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Même s il ne parle pas anglais les propriétaires sont très aidant et efficaces. J avais oublié ma tablette dans le bus qui m amenait à Lien Son et continuait sur Buon Ma Thot. Ils s en sont occupés. Le lendemain matin ma tablette était là.\nTrès bons repas, parfois trop copieux",
+                "comment_negative": "Équipement de la chambre très basique. Pas de prise de courant dans la salle de bains"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Daniel",
+                "avatar": "https://graph.facebook.com/v2.9/10155643640588691/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Great location and comfortable room. Great view of the lake from the window and balcony.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anne",
+                "avatar": "https://graph.facebook.com/v2.9/10200619311003186/picture?type=square&height=64&width=64",
+                "country": "Ireland (Ai Len)"
+            },
+            "review": {
+                "date": "20/02/2024",
+                "rating": "Had a fabulous 4 days with Hong and his family. Hotel is clean, a/c good, food excellent. Hong's wife I so a gre",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "4 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Clean and modern best bed yet in VNm",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Daniel",
+                "avatar": "https://graph.facebook.com/v2.9/10155643640588691/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Spacious rooms and great view of the lake. Great location.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Elliott",
+                "avatar": "https://lh6.googleusercontent.com/-hFBsY7QipRo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmlmOrREDFaQhyw-Gcm6fm43NLZ3Q/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Clean, quiet and excellent dinner and breakfast! Excellent value for the money on the lakefront.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chloe",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLuuD7OTgPvx0WAzpsEzPg2Xadm_1qQdlAuL1KAGRYz=s96-c",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "28/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Clean and big bedrooms, common balcony with beautiful view on rice fields. I think some rooms have lake view. The hosts don't speak English but are very nice and prepare excellent food. They also rent scooters and bikes.",
+                "comment_negative": "Maybe one tiny thing that could be better is a kettle on the rooms."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Benoit",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GinlWIqRHRI5TqUwQBN-iNhIkoUOzsdpNu-AA2QKw=s96-c",
+                "country": "Bỉ"
+            },
+            "review": {
+                "date": "25/01/2024",
+                "rating": "Excellent stay that we would highly recommend",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Very good and well run family hotel. The owners are very nice and helpful. The hotel offers clean rooms, beautiful lake views and good food for a very good price. We can highly recommend it.",
+                "comment_negative": "Nothing."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Carola",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Thụy Sỹ"
+            },
+            "review": {
+                "date": "12/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Amazing hosts and food (dinner was delicious)!",
+                "comment_negative": "-Too much light during mornings in the room"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Steven",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/57035862.jpg?k=a02a49a7b7128b55c9e236fdf0cc316c32ed6b42afa4b27a0439f267eb56c494&o=",
+                "country": "Bulgaria"
+            },
+            "review": {
+                "date": "22/012/2023",
+                "rating": "A great stay to break up our long journey",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Spotlessly clean, friendly villagers, little dog that is entertaining. The evening meal was superb. My wife and I throughly enjoyed our relaxing stay .",
+                "comment_negative": "Don’t care for wild birds in tiny cages."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Patrice",
+                "avatar": "https://graph.facebook.com/v2.9/742856752552693/picture?type=square&height=64&width=64",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "10/04/2024",
+                "rating": "génial",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "l 'accueil très bon et beaucoup de prestations et d'aides pour nous rendre le séjour le plus agréable possible, merci",
+                "comment_negative": "le manque de temps, j aurais aimé rester plus longtemps"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bruno",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-b.png",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "7/04/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Même s il ne parle pas anglais les propriétaires sont très aidant et efficaces. J avais oublié ma tablette dans le bus qui m amenait à Lien Son et continuait sur Buon Ma Thot. Ils s en sont occupés. Le lendemain matin ma tablette était là.\nTrès bons repas, parfois trop copieux",
+                "comment_negative": "Équipement de la chambre très basique. Pas de prise de courant dans la salle de bains"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Daniel",
+                "avatar": "https://graph.facebook.com/v2.9/10155643640588691/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Great location and comfortable room. Great view of the lake from the window and balcony.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anne",
+                "avatar": "https://graph.facebook.com/v2.9/10200619311003186/picture?type=square&height=64&width=64",
+                "country": "Ireland (Ai Len)"
+            },
+            "review": {
+                "date": "20/02/2024",
+                "rating": "Had a fabulous 4 days with Hong and his family. Hotel is clean, a/c good, food excellent. Hong's wife I so a gre",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "4 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Clean and modern best bed yet in VNm",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Daniel",
+                "avatar": "https://graph.facebook.com/v2.9/10155643640588691/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Spacious rooms and great view of the lake. Great location.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Elliott",
+                "avatar": "https://lh6.googleusercontent.com/-hFBsY7QipRo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmlmOrREDFaQhyw-Gcm6fm43NLZ3Q/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Clean, quiet and excellent dinner and breakfast! Excellent value for the money on the lakefront.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chloe",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLuuD7OTgPvx0WAzpsEzPg2Xadm_1qQdlAuL1KAGRYz=s96-c",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "28/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Clean and big bedrooms, common balcony with beautiful view on rice fields. I think some rooms have lake view. The hosts don't speak English but are very nice and prepare excellent food. They also rent scooters and bikes.",
+                "comment_negative": "Maybe one tiny thing that could be better is a kettle on the rooms."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Benoit",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GinlWIqRHRI5TqUwQBN-iNhIkoUOzsdpNu-AA2QKw=s96-c",
+                "country": "Bỉ"
+            },
+            "review": {
+                "date": "25/01/2024",
+                "rating": "Excellent stay that we would highly recommend",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Very good and well run family hotel. The owners are very nice and helpful. The hotel offers clean rooms, beautiful lake views and good food for a very good price. We can highly recommend it.",
+                "comment_negative": "Nothing."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Carola",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Thụy Sỹ"
+            },
+            "review": {
+                "date": "12/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Amazing hosts and food (dinner was delicious)!",
+                "comment_negative": "-Too much light during mornings in the room"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Steven",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/57035862.jpg?k=a02a49a7b7128b55c9e236fdf0cc316c32ed6b42afa4b27a0439f267eb56c494&o=",
+                "country": "Bulgaria"
+            },
+            "review": {
+                "date": "22/012/2023",
+                "rating": "A great stay to break up our long journey",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Spotlessly clean, friendly villagers, little dog that is entertaining. The evening meal was superb. My wife and I throughly enjoyed our relaxing stay .",
+                "comment_negative": "Don’t care for wild birds in tiny cages."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Patrice",
+                "avatar": "https://graph.facebook.com/v2.9/742856752552693/picture?type=square&height=64&width=64",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "10/04/2024",
+                "rating": "génial",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "l 'accueil très bon et beaucoup de prestations et d'aides pour nous rendre le séjour le plus agréable possible, merci",
+                "comment_negative": "le manque de temps, j aurais aimé rester plus longtemps"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bruno",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-b.png",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "7/04/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Même s il ne parle pas anglais les propriétaires sont très aidant et efficaces. J avais oublié ma tablette dans le bus qui m amenait à Lien Son et continuait sur Buon Ma Thot. Ils s en sont occupés. Le lendemain matin ma tablette était là.\nTrès bons repas, parfois trop copieux",
+                "comment_negative": "Équipement de la chambre très basique. Pas de prise de courant dans la salle de bains"
+            }
+        }
+    ]
+}

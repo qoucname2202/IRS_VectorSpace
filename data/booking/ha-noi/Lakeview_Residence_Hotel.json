@@ -1,0 +1,358 @@
+{
+    "name": "Lakeview Residence Hotel",
+    "address": "51 Phố Trích Sài, Quận Tây Hồ, Hà Nội, Việt Nam",
+    "description": "Nằm tại vị trí thuận tiện ở Quận Tây Hồ, Hà Nội, Lakeview Residence Hotel tọa lạc cách Lăng Chủ tịch Hồ Chí Minh 2.6 km, Chùa Một Cột 2.7 km và Trung tâm thương mại Vincom Nguyễn Chí Thanh 2.9 km. Chỗ nghỉ cách Bảo tàng dân tộc học Việt Nam khoảng 3 km, Đền Quán Thánh 3.3 km và Hồ Tây 3.7 km. Chỗ nghỉ cung cấp lễ tân 24/24, dịch vụ đưa đón sân bay, dịch vụ phòng và Wi-Fi miễn phí ở toàn bộ chỗ nghỉ.\n\nVới phòng tắm riêng được trang bị vòi xịt/chậu rửa vệ sinh và máy sấy tóc, các phòng tại khách sạn có TV màn hình phẳng và điều hòa, trong đó một số phòng có ban công. Các căn đều có tủ quần áo và ấm đun nước để khách sử dụng.\n\nLakeview Residence Hotel cách Hoàng thành Huế 3.9 km và Hoàng thành Huế 3.9 km. Sân bay gần nhất là Sân bay Quốc tế Nội Bài, cách chỗ nghỉ 22 km.",
+    "rating": "8.7",
+    "total_rating": "13",
+    "evaluation_categories": {
+        "service_staff": 9.6,
+        "amenities": 9.0,
+        "cleanliness": 9.0,
+        "comfort": 8.3,
+        "value_for_money": 8.5,
+        "location": 9.2,
+        "free_wifi": 9.2
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Đặng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "không vui",
+                "score": 3.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "nhân viên nhiệt tình dễ thương",
+                "comment_negative": "nhận phòng không được như mong đợi.phòng tắm rất tệ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/04/2024",
+                "rating": "Kém",
+                "score": 3.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "nhà vệ sinh không sạch sẽ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anna",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLDQ9s7QeQkNGiWdu6ELJjaCBou5OQcpUHMzdM6Qx4mQQ=s96-c",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "17/04/2024",
+                "rating": "great value and comfort for the price",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "large rooms, comfortable bed, 24/7 reception, very helpful reception staff",
+                "comment_negative": "little bit hard to find at first"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Gibcuts",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ8gcA-ugdkMH2g8sq8ZWVBEcDK6SBjyjaW3GRkYr_6=s96-c",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "8/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "\"My stay in the standard room at this hotel was excellent. The room was clean, comfortable, and well-equipped with modern amenities. The bed was cozy, and the linens were soft and inviting. The bathroom was spotless, with a spacious shower and high-quality toiletries provided. The hotel staff was friendly and accommodating, providing excellent service throughout my stay. The location was convenient, with easy access to nearby attractions and restaurants. Overall, a fantastic experience that I would highly recommend to others.\"",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thudoaf",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL3vf909ag96UHLNcKVBMxuicF348mP0UcDQ7jZwpFb=s96-c",
+                "country": "Thái Lan"
+            },
+            "review": {
+                "date": "18/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "The standard room's efficient layout was a standout feature. Every inch was thoughtfully utilized, creating a well-organized space that felt more spacious than expected.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Deerkler",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKIU7oBZb1nBVE_p5HzvFu-pwAgcqSP-A4ci4XKVtg2=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The standard room's efficient layout was a standout feature. Every inch was thoughtfully utilized, creating a well-organized space that felt more spacious than expected.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hookworm",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJv0PL4jznuHZwXpGbl8XIUzRwzoWKmt5eeTuv0ediM=s96-c",
+                "country": "Ukraine"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "The standard room embodied modern simplicity. Its clean and contemporary design aesthetic appealed to guests seeking a minimalist yet stylish accommodation option.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mongplun",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL470iuPpelfJc8YHEfAJpUTaxyp0yL09qax7PTHVh5=s96-c",
+                "country": "Hàn Quốc"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Comfort was delivered with efficiency in the standard room. Every aspect of the room, from the bedding to the bathroom amenities, was designed to prioritize guest comfort and satisfaction.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Wallfuentes",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIxbmOhd9Il8outtwczbW8QTBgbs3TLC-nb5hSj4fPC=s96-c",
+                "country": "Đan Mạch"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Staying in the Standard Room at lake view hotel was an aqua adventure. The incorporation of aquatic elements, refreshing blue tones, and beachy decor created a standard stay reminiscent of a seaside escape.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Marshallbates",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL7KdATs2ipHIQho7eEMLzoJXQrCRHIko5hhwTtx_Xy=s96-c",
+                "country": "Đài Loan"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "everything is new. \nThe view iss really good with lake view\ni will come back next time",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "không vui",
+                "score": 3.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "nhân viên nhiệt tình dễ thương",
+                "comment_negative": "nhận phòng không được như mong đợi.phòng tắm rất tệ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/04/2024",
+                "rating": "Kém",
+                "score": 3.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "nhà vệ sinh không sạch sẽ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anna",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLDQ9s7QeQkNGiWdu6ELJjaCBou5OQcpUHMzdM6Qx4mQQ=s96-c",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "17/04/2024",
+                "rating": "great value and comfort for the price",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "large rooms, comfortable bed, 24/7 reception, very helpful reception staff",
+                "comment_negative": "little bit hard to find at first"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Gibcuts",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ8gcA-ugdkMH2g8sq8ZWVBEcDK6SBjyjaW3GRkYr_6=s96-c",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "8/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "\"My stay in the standard room at this hotel was excellent. The room was clean, comfortable, and well-equipped with modern amenities. The bed was cozy, and the linens were soft and inviting. The bathroom was spotless, with a spacious shower and high-quality toiletries provided. The hotel staff was friendly and accommodating, providing excellent service throughout my stay. The location was convenient, with easy access to nearby attractions and restaurants. Overall, a fantastic experience that I would highly recommend to others.\"",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thudoaf",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL3vf909ag96UHLNcKVBMxuicF348mP0UcDQ7jZwpFb=s96-c",
+                "country": "Thái Lan"
+            },
+            "review": {
+                "date": "18/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "The standard room's efficient layout was a standout feature. Every inch was thoughtfully utilized, creating a well-organized space that felt more spacious than expected.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Deerkler",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKIU7oBZb1nBVE_p5HzvFu-pwAgcqSP-A4ci4XKVtg2=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The standard room's efficient layout was a standout feature. Every inch was thoughtfully utilized, creating a well-organized space that felt more spacious than expected.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hookworm",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJv0PL4jznuHZwXpGbl8XIUzRwzoWKmt5eeTuv0ediM=s96-c",
+                "country": "Ukraine"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "The standard room embodied modern simplicity. Its clean and contemporary design aesthetic appealed to guests seeking a minimalist yet stylish accommodation option.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mongplun",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL470iuPpelfJc8YHEfAJpUTaxyp0yL09qax7PTHVh5=s96-c",
+                "country": "Hàn Quốc"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Comfort was delivered with efficiency in the standard room. Every aspect of the room, from the bedding to the bathroom amenities, was designed to prioritize guest comfort and satisfaction.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Wallfuentes",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIxbmOhd9Il8outtwczbW8QTBgbs3TLC-nb5hSj4fPC=s96-c",
+                "country": "Đan Mạch"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Staying in the Standard Room at lake view hotel was an aqua adventure. The incorporation of aquatic elements, refreshing blue tones, and beachy decor created a standard stay reminiscent of a seaside escape.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Marshallbates",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL7KdATs2ipHIQho7eEMLzoJXQrCRHIko5hhwTtx_Xy=s96-c",
+                "country": "Đài Loan"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "everything is new. \nThe view iss really good with lake view\ni will come back next time",
+                "comment_negative": null
+            }
+        }
+    ]
+}

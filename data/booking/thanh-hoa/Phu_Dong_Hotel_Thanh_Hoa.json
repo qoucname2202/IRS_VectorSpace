@@ -1,0 +1,137 @@
+{
+    "name": "Phù Đổng Hotel Thanh Hóa",
+    "address": "68 Dương Đình Nghệ, Đông Thọ, Thanh Hóa, Việt Nam",
+    "description": "Phù Đổng Hotel Thanh Hóa cung cấp Wi-Fi miễn phí ở toàn bộ chỗ nghỉ và các phòng điều hòa ở Thanh Hóa. Ở đây có nhà hàng phục vụ món ăn Việt và chỗ đậu xe riêng miễn phí.\n\nTại khách sạn, các phòng đều đi kèm với bàn làm việc, TV màn hình phẳng, phòng tắm riêng, ga trải giường và khăn tắm. Tất cả các phòng đều có tủ lạnh.\n\nThành thạo cả tiếng Anh và tiếng Việt, đội ngũ nhân viên tại lễ tân luôn sẵn lòng hỗ trợ khách lên kế hoạch cho kỳ nghỉ.\n\nSân bay gần nhất là Sân bay Thọ Xuân, cách Phù Đổng Hotel Thanh Hóa 37 km.",
+    "rating": "8.1",
+    "total_rating": "7",
+    "evaluation_categories": {
+        "service_staff": 9.3,
+        "amenities": 10.0,
+        "cleanliness": 8.6,
+        "comfort": 9.3,
+        "value_for_money": 9.3,
+        "location": 9.6,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtd3UU4lZa0NITAwE-qGgkR0dbFZqeNlCgCKYa2Gp7bS=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Khách sạn rất lớn, nằm trung tâm rất tiện đi lại, phòng mình nằm tầng cao mát mẻ, nhân viên rất nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Vị trí tốt, dễ tìm kiếm, dịch vụ tại khách sạn mình rất ưng ý",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLT8TvKurBBiernMfBiyt63lWQ41eRqS_aT-Qv64bRc=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Nhân viên thân thiện nhiệt tình, giá phòng tầm giá, rất tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hyosung",
+                "avatar": null,
+                "country": "Hàn Quốc"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "저렴하지만 깨끗하지 않음",
+                "score": 3.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "저렴한 숙박비, 위치",
+                "comment_negative": "깨끗하지 않음. 시설이 노후"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mỹ",
+                "avatar": "https://graph.facebook.com/v2.9/2912901855510124/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/04/2024",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

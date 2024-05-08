@@ -1,0 +1,35 @@
+{
+    "name": "Khách Sạn The One Hotel 2",
+    "address": "MG1-01-02-03-04, Khu đô thị Vincom, Phường 1, Cà Mau, Cà Mau, Việt Nam, Cà Mau, Việt Nam",
+    "description": "Khách Sạn The One Hotel 2 có khu vườn, sân hiên, nhà hàng và quầy bar ở Cà Mau. Ngoài Wi-Fi miễn phí, khách sạn 3 sao này còn cung cấp dịch vụ phòng và quầy lễ tân 24 giờ.\n\nTại khách sạn, mỗi phòng đều có bàn làm việc. Với phòng tắm riêng được trang bị vòi xịt/chậu rửa vệ sinh và đồ vệ sinh cá nhân miễn phí, các phòng tại Khách Sạn The One Hotel 2 có TV màn hình phẳng và điều hòa, trong đó một số phòng có ban công. Tại chỗ nghỉ, tất cả các phòng đều được thiết kế có ga trải giường và khăn tắm.\n\nKhách tại Khách Sạn The One Hotel 2 có thể thưởng thức bữa sáng kiểu Á.\n\nSân bay gần nhất là Sân bay Cà Mau, cách khách sạn 5 km.",
+    "rating": "8",
+    "total_rating": "1",
+    "evaluation_categories": {
+        "service_staff": 7.5,
+        "amenities": 10.0,
+        "cleanliness": 10.0,
+        "comfort": 7.5,
+        "value_for_money": 7.5,
+        "location": 10.0,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Pham",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

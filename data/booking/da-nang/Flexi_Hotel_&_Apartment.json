@@ -1,0 +1,1038 @@
+{
+    "name": "Flexi Hotel & Apartment",
+    "address": "35 Thái Phiên, Đà Nẵng, Việt Nam",
+    "description": "Flexi Hotel & Apartment cung cấp chỗ nghỉ tọa lạc cách trung tâm Đà Nẵng 1.9 km với khu vườn và quầy bar. WiFi miễn phí có sẵn.\n\nChỗ nghỉ có điều hòa, bếp đầy đủ tiện nghi với khu vực ăn uống, TV, cũng như phòng tắm riêng với vòi sen, đồ vệ sinh cá nhân miễn phí và máy sấy tóc. Tủ lạnh, lò nướng và lò vi sóng, cũng như ấm đun nước đều được cung cấp.\n\nCác điểm tham quan nổi tiếng gần căn hộ bao gồm Bảo tàng điêu khắc Chăm, Trung tâm thương mại Indochina Riverside và Cầu sông Hàn. Sân bay gần nhất là Sân bay Quốc tế Đà Nẵng, cách Flexi Hotel & Apartment 3 km, đồng thời chỗ nghỉ có cung cấp dịch vụ đưa đón sân bay mất phí.",
+    "rating": "9.5",
+    "total_rating": "58",
+    "evaluation_categories": {
+        "service_staff": 9.9,
+        "amenities": 9.8,
+        "cleanliness": 9.8,
+        "comfort": 9.8,
+        "value_for_money": 9.7,
+        "location": 9.8,
+        "free_wifi": 9.2
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "26/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng ngủ và phòng tắm đầy đủ tiện nghi và đẹp. Nhân viên thân thiện và vô cùng nhiệt tình. Giá cả hợp lí và vị trí khách sạn rất tiện đi lại.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoa",
+                "avatar": "https://graph.facebook.com/v2.9/783901065102153/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/03/2024",
+                "rating": "Tuyệt vời",
+                "score": 8.0,
+                "room_type": "Căn Hộ 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rộng rãi. Tiện nghi. Tiện giao thông!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "4 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên ks rất dễ thương, mấy chú bảo vệ rất thân thiện😊, ks sạch sẽ, sát bên cầu rồng, gần ks có nhiều món ăn ngon, mọi nhu cầu của mình ks đều đáp ứng rất tốt♥️",
+                "comment_negative": "Phòng mình k có máy sấy, ổ khoá tolet bị hư, có complaint nhưng chưa thấy ai sửa, phòng cách âm kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chi",
+                "avatar": "https://graph.facebook.com/v2.9/2125128127758784/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/06/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn hộ Tiêu chuẩn",
+                "stay_duration": "2 đêm · tháng 6/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ nghỉ rất sạch sẽ, phòng rộng, thoải mái, khoá từ, két sắt, đầy đủ tiện nghi. Gần sông Hàn, Cầu Rồng, các quán ăn xung quanh. Nhân viên thân thiện, nhiệt tình. Gia đình rất thích, nếu có dịp đi Đà Nẵng sẽ lưu trú nơi này.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "1/06/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Dịch vụ rất tốt, sạch sẽ, self check-in/out luôn. Nhắn tin thường xuyên hỏi thăm khách có gặp vấn đề gì ko.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Singapore"
+            },
+            "review": {
+                "date": "31/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên cực kì nhiệt tình. phòng đẹp và rộng rãi. vị trí trung tâm rất thuận tiện. 10 điểm từ chất lượng phòng, không gian phòng, view, đồ đạc, và 10 điểm có lẽ không đủ dành cho sự tuyệt vời về phong thái phục vụ.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "30/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng đơn giản, đẹp, thiết kế lạ mắt. Phù hợp với giá tiền và quan trọng là vị trí rất đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "20/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn mới nên khá sạch sẽ, nhân viên nhiệt tình hỗ trợ. Phòng rộng rãi. Khách sạn gần cầu sông hàn nên khá tiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn nằm ở vị trí đẹp, dễ tìm. Mình cực kỳ ấn tượng với sảnh, và khu bên ngoài khách sạn,  nhìn rất sang mà mang dấu ấn riêng",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "18/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch đẹp như quảng cáo, đồ dùng mới, tivi hiện đại có kết nối điện thoại dc, lê tân lịch sự nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "26/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng ngủ và phòng tắm đầy đủ tiện nghi và đẹp. Nhân viên thân thiện và vô cùng nhiệt tình. Giá cả hợp lí và vị trí khách sạn rất tiện đi lại.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoa",
+                "avatar": "https://graph.facebook.com/v2.9/783901065102153/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/03/2024",
+                "rating": "Tuyệt vời",
+                "score": 8.0,
+                "room_type": "Căn Hộ 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rộng rãi. Tiện nghi. Tiện giao thông!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "4 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên ks rất dễ thương, mấy chú bảo vệ rất thân thiện😊, ks sạch sẽ, sát bên cầu rồng, gần ks có nhiều món ăn ngon, mọi nhu cầu của mình ks đều đáp ứng rất tốt♥️",
+                "comment_negative": "Phòng mình k có máy sấy, ổ khoá tolet bị hư, có complaint nhưng chưa thấy ai sửa, phòng cách âm kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chi",
+                "avatar": "https://graph.facebook.com/v2.9/2125128127758784/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/06/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn hộ Tiêu chuẩn",
+                "stay_duration": "2 đêm · tháng 6/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ nghỉ rất sạch sẽ, phòng rộng, thoải mái, khoá từ, két sắt, đầy đủ tiện nghi. Gần sông Hàn, Cầu Rồng, các quán ăn xung quanh. Nhân viên thân thiện, nhiệt tình. Gia đình rất thích, nếu có dịp đi Đà Nẵng sẽ lưu trú nơi này.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "1/06/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Dịch vụ rất tốt, sạch sẽ, self check-in/out luôn. Nhắn tin thường xuyên hỏi thăm khách có gặp vấn đề gì ko.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Singapore"
+            },
+            "review": {
+                "date": "31/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên cực kì nhiệt tình. phòng đẹp và rộng rãi. vị trí trung tâm rất thuận tiện. 10 điểm từ chất lượng phòng, không gian phòng, view, đồ đạc, và 10 điểm có lẽ không đủ dành cho sự tuyệt vời về phong thái phục vụ.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "30/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng đơn giản, đẹp, thiết kế lạ mắt. Phù hợp với giá tiền và quan trọng là vị trí rất đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "20/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn mới nên khá sạch sẽ, nhân viên nhiệt tình hỗ trợ. Phòng rộng rãi. Khách sạn gần cầu sông hàn nên khá tiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn nằm ở vị trí đẹp, dễ tìm. Mình cực kỳ ấn tượng với sảnh, và khu bên ngoài khách sạn,  nhìn rất sang mà mang dấu ấn riêng",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "18/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch đẹp như quảng cáo, đồ dùng mới, tivi hiện đại có kết nối điện thoại dc, lê tân lịch sự nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "26/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng ngủ và phòng tắm đầy đủ tiện nghi và đẹp. Nhân viên thân thiện và vô cùng nhiệt tình. Giá cả hợp lí và vị trí khách sạn rất tiện đi lại.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoa",
+                "avatar": "https://graph.facebook.com/v2.9/783901065102153/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/03/2024",
+                "rating": "Tuyệt vời",
+                "score": 8.0,
+                "room_type": "Căn Hộ 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rộng rãi. Tiện nghi. Tiện giao thông!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "4 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên ks rất dễ thương, mấy chú bảo vệ rất thân thiện😊, ks sạch sẽ, sát bên cầu rồng, gần ks có nhiều món ăn ngon, mọi nhu cầu của mình ks đều đáp ứng rất tốt♥️",
+                "comment_negative": "Phòng mình k có máy sấy, ổ khoá tolet bị hư, có complaint nhưng chưa thấy ai sửa, phòng cách âm kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chi",
+                "avatar": "https://graph.facebook.com/v2.9/2125128127758784/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/06/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn hộ Tiêu chuẩn",
+                "stay_duration": "2 đêm · tháng 6/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ nghỉ rất sạch sẽ, phòng rộng, thoải mái, khoá từ, két sắt, đầy đủ tiện nghi. Gần sông Hàn, Cầu Rồng, các quán ăn xung quanh. Nhân viên thân thiện, nhiệt tình. Gia đình rất thích, nếu có dịp đi Đà Nẵng sẽ lưu trú nơi này.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "1/06/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Dịch vụ rất tốt, sạch sẽ, self check-in/out luôn. Nhắn tin thường xuyên hỏi thăm khách có gặp vấn đề gì ko.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Singapore"
+            },
+            "review": {
+                "date": "31/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên cực kì nhiệt tình. phòng đẹp và rộng rãi. vị trí trung tâm rất thuận tiện. 10 điểm từ chất lượng phòng, không gian phòng, view, đồ đạc, và 10 điểm có lẽ không đủ dành cho sự tuyệt vời về phong thái phục vụ.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "30/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng đơn giản, đẹp, thiết kế lạ mắt. Phù hợp với giá tiền và quan trọng là vị trí rất đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "20/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn mới nên khá sạch sẽ, nhân viên nhiệt tình hỗ trợ. Phòng rộng rãi. Khách sạn gần cầu sông hàn nên khá tiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn nằm ở vị trí đẹp, dễ tìm. Mình cực kỳ ấn tượng với sảnh, và khu bên ngoài khách sạn,  nhìn rất sang mà mang dấu ấn riêng",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "18/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch đẹp như quảng cáo, đồ dùng mới, tivi hiện đại có kết nối điện thoại dc, lê tân lịch sự nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "26/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng ngủ và phòng tắm đầy đủ tiện nghi và đẹp. Nhân viên thân thiện và vô cùng nhiệt tình. Giá cả hợp lí và vị trí khách sạn rất tiện đi lại.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoa",
+                "avatar": "https://graph.facebook.com/v2.9/783901065102153/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/03/2024",
+                "rating": "Tuyệt vời",
+                "score": 8.0,
+                "room_type": "Căn Hộ 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rộng rãi. Tiện nghi. Tiện giao thông!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "4 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên ks rất dễ thương, mấy chú bảo vệ rất thân thiện😊, ks sạch sẽ, sát bên cầu rồng, gần ks có nhiều món ăn ngon, mọi nhu cầu của mình ks đều đáp ứng rất tốt♥️",
+                "comment_negative": "Phòng mình k có máy sấy, ổ khoá tolet bị hư, có complaint nhưng chưa thấy ai sửa, phòng cách âm kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chi",
+                "avatar": "https://graph.facebook.com/v2.9/2125128127758784/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/06/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn hộ Tiêu chuẩn",
+                "stay_duration": "2 đêm · tháng 6/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ nghỉ rất sạch sẽ, phòng rộng, thoải mái, khoá từ, két sắt, đầy đủ tiện nghi. Gần sông Hàn, Cầu Rồng, các quán ăn xung quanh. Nhân viên thân thiện, nhiệt tình. Gia đình rất thích, nếu có dịp đi Đà Nẵng sẽ lưu trú nơi này.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "1/06/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Dịch vụ rất tốt, sạch sẽ, self check-in/out luôn. Nhắn tin thường xuyên hỏi thăm khách có gặp vấn đề gì ko.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Singapore"
+            },
+            "review": {
+                "date": "31/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên cực kì nhiệt tình. phòng đẹp và rộng rãi. vị trí trung tâm rất thuận tiện. 10 điểm từ chất lượng phòng, không gian phòng, view, đồ đạc, và 10 điểm có lẽ không đủ dành cho sự tuyệt vời về phong thái phục vụ.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "30/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng đơn giản, đẹp, thiết kế lạ mắt. Phù hợp với giá tiền và quan trọng là vị trí rất đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "20/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn mới nên khá sạch sẽ, nhân viên nhiệt tình hỗ trợ. Phòng rộng rãi. Khách sạn gần cầu sông hàn nên khá tiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn nằm ở vị trí đẹp, dễ tìm. Mình cực kỳ ấn tượng với sảnh, và khu bên ngoài khách sạn,  nhìn rất sang mà mang dấu ấn riêng",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "18/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch đẹp như quảng cáo, đồ dùng mới, tivi hiện đại có kết nối điện thoại dc, lê tân lịch sự nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "26/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng ngủ và phòng tắm đầy đủ tiện nghi và đẹp. Nhân viên thân thiện và vô cùng nhiệt tình. Giá cả hợp lí và vị trí khách sạn rất tiện đi lại.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoa",
+                "avatar": "https://graph.facebook.com/v2.9/783901065102153/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/03/2024",
+                "rating": "Tuyệt vời",
+                "score": 8.0,
+                "room_type": "Căn Hộ 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rộng rãi. Tiện nghi. Tiện giao thông!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "4 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên ks rất dễ thương, mấy chú bảo vệ rất thân thiện😊, ks sạch sẽ, sát bên cầu rồng, gần ks có nhiều món ăn ngon, mọi nhu cầu của mình ks đều đáp ứng rất tốt♥️",
+                "comment_negative": "Phòng mình k có máy sấy, ổ khoá tolet bị hư, có complaint nhưng chưa thấy ai sửa, phòng cách âm kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chi",
+                "avatar": "https://graph.facebook.com/v2.9/2125128127758784/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/06/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn hộ Tiêu chuẩn",
+                "stay_duration": "2 đêm · tháng 6/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ nghỉ rất sạch sẽ, phòng rộng, thoải mái, khoá từ, két sắt, đầy đủ tiện nghi. Gần sông Hàn, Cầu Rồng, các quán ăn xung quanh. Nhân viên thân thiện, nhiệt tình. Gia đình rất thích, nếu có dịp đi Đà Nẵng sẽ lưu trú nơi này.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "1/06/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Dịch vụ rất tốt, sạch sẽ, self check-in/out luôn. Nhắn tin thường xuyên hỏi thăm khách có gặp vấn đề gì ko.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Singapore"
+            },
+            "review": {
+                "date": "31/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên cực kì nhiệt tình. phòng đẹp và rộng rãi. vị trí trung tâm rất thuận tiện. 10 điểm từ chất lượng phòng, không gian phòng, view, đồ đạc, và 10 điểm có lẽ không đủ dành cho sự tuyệt vời về phong thái phục vụ.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "30/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng đơn giản, đẹp, thiết kế lạ mắt. Phù hợp với giá tiền và quan trọng là vị trí rất đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "20/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn mới nên khá sạch sẽ, nhân viên nhiệt tình hỗ trợ. Phòng rộng rãi. Khách sạn gần cầu sông hàn nên khá tiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn nằm ở vị trí đẹp, dễ tìm. Mình cực kỳ ấn tượng với sảnh, và khu bên ngoài khách sạn,  nhìn rất sang mà mang dấu ấn riêng",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "18/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch đẹp như quảng cáo, đồ dùng mới, tivi hiện đại có kết nối điện thoại dc, lê tân lịch sự nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "26/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng ngủ và phòng tắm đầy đủ tiện nghi và đẹp. Nhân viên thân thiện và vô cùng nhiệt tình. Giá cả hợp lí và vị trí khách sạn rất tiện đi lại.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoa",
+                "avatar": "https://graph.facebook.com/v2.9/783901065102153/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/03/2024",
+                "rating": "Tuyệt vời",
+                "score": 8.0,
+                "room_type": "Căn Hộ 1 Phòng Ngủ",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rộng rãi. Tiện nghi. Tiện giao thông!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "4 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên ks rất dễ thương, mấy chú bảo vệ rất thân thiện😊, ks sạch sẽ, sát bên cầu rồng, gần ks có nhiều món ăn ngon, mọi nhu cầu của mình ks đều đáp ứng rất tốt♥️",
+                "comment_negative": "Phòng mình k có máy sấy, ổ khoá tolet bị hư, có complaint nhưng chưa thấy ai sửa, phòng cách âm kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chi",
+                "avatar": "https://graph.facebook.com/v2.9/2125128127758784/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/06/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Căn hộ Tiêu chuẩn",
+                "stay_duration": "2 đêm · tháng 6/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ nghỉ rất sạch sẽ, phòng rộng, thoải mái, khoá từ, két sắt, đầy đủ tiện nghi. Gần sông Hàn, Cầu Rồng, các quán ăn xung quanh. Nhân viên thân thiện, nhiệt tình. Gia đình rất thích, nếu có dịp đi Đà Nẵng sẽ lưu trú nơi này.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "1/06/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Dịch vụ rất tốt, sạch sẽ, self check-in/out luôn. Nhắn tin thường xuyên hỏi thăm khách có gặp vấn đề gì ko.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Singapore"
+            },
+            "review": {
+                "date": "31/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhân viên cực kì nhiệt tình. phòng đẹp và rộng rãi. vị trí trung tâm rất thuận tiện. 10 điểm từ chất lượng phòng, không gian phòng, view, đồ đạc, và 10 điểm có lẽ không đủ dành cho sự tuyệt vời về phong thái phục vụ.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "30/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng đơn giản, đẹp, thiết kế lạ mắt. Phù hợp với giá tiền và quan trọng là vị trí rất đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "20/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn mới nên khá sạch sẽ, nhân viên nhiệt tình hỗ trợ. Phòng rộng rãi. Khách sạn gần cầu sông hàn nên khá tiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn nằm ở vị trí đẹp, dễ tìm. Mình cực kỳ ấn tượng với sảnh, và khu bên ngoài khách sạn,  nhìn rất sang mà mang dấu ấn riêng",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "18/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch đẹp như quảng cáo, đồ dùng mới, tivi hiện đại có kết nối điện thoại dc, lê tân lịch sự nhiệt tình",
+                "comment_negative": null
+            }
+        }
+    ]
+}

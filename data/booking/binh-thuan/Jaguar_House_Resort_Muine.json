@@ -1,0 +1,2908 @@
+{
+    "name": "Jaguar House Resort Muine",
+    "address": "123 Nguyễn Đình Chiểu, Mũi Né, Việt Nam",
+    "description": "Tọa lạc ở Mũi Né, cách Bãi biển Hàm Tiến chỉ vài bước chân, Jaguar House Resort Muine cung cấp chỗ nghỉ có hồ bơi ngoài trời, chỗ đậu xe riêng miễn phí, khu vườn và sân hiên. Ngoài nhà hàng, khách sạn 3 sao này còn có các phòng với điều hòa được trang bị Wi-Fi miễn phí, trong đó mỗi phòng đều có phòng tắm riêng. Chỗ nghỉ này cung cấp dịch vụ phòng, quầy lễ tân 24 giờ và dịch vụ thu đổi ngoại tệ cho khách.\n\nPhòng khách được trang bị TV màn hình phẳng có truyền hình cáp, minibar, ấm đun nước, vòi sen, đồ vệ sinh cá nhân miễn phí và tủ quần áo. Tại khách sạn, mỗi phòng đều được thiết kế có ga trải giường và khăn tắm.\n\nJaguar House Resort Muine cách Suối Tiên 5 km và Sân Golf Sea Link 13 km. Sân bay gần nhất là Sân bay Liên Khương, cách chỗ nghỉ 134 km.",
+    "rating": "8.2",
+    "total_rating": "162",
+    "evaluation_categories": {
+        "service_staff": 9.0,
+        "amenities": 8.2,
+        "cleanliness": 8.4,
+        "comfort": 8.3,
+        "value_for_money": 8.3,
+        "location": 8.7,
+        "free_wifi": 9.2
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Rất thích",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "hồ bơi, nhân viên rất thân thiện, thức ăn ngon.",
+                "comment_negative": "không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ08j51A6Dv-rRIIo8X3YIu4QHSzdWZwDr8--ZVPv04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá tốt",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh6.googleusercontent.com/-hSfgUOUxrI4/AAAAAAAAAAI/AAAAAAAABtk/2tpMYDBWLj8/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Thời gian checkin theo quy định là 15h, theo mình thì giờ đó hơi trễ, và buộc khách phải checkout lúc 11h\nTrong phòng tắm không có xà phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người có Sân hiên",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian yên tĩnh, thư giãn.\nBữa sáng vừa đủ, nhưng nếu menu phong phú hơn thì càng tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng ngon,đa dạng.View đẹp,phòng nghĩ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiên nhiên gần gũi, vị trí tốt, khá sạch sẽ thoáng mát, vibe phù hợp với ng thích yên tĩnh, ko xô bồ. Phục vụ thân thiện",
+                "comment_negative": "Nhân viên quá gắt gạo về tiền. Booking ko yêu cầu thành toán nhưng lại gọi điện yêu cầu cọc 30% ko thì ko cam kết giữ phòng. Yêu cầu thành toán trước mọi khoản dù rất nhỏ. Mình có 5 ng ngày 1, 4 người ngày 2 vì 1 ng về sớm nhưng, bắt mua phiếu ăn sáng trước cho 2 ngày và ko hoàn tiền vé nên mình bị mua dư 1 vé ăn ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcAL0cBHihEmiBJ80Dsbaojm3924OcFxUhB5FS1=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tốt, an toàn",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận tiện. Gần nhiều quán cà phê, quán ăn",
+                "comment_negative": "Không có bãi biển riêng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2023",
+                "rating": "hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Đồ ăn rất ngon",
+                "comment_negative": "Muỗi nhiều quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/16851633.jpg?k=5333e430de313b4534a171c3b25b3877a1ce3634cab811b8c52ed58d07d0c37c&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tạm được",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, ngay trung tâm Mũi Né, gần bờ kè, nhiều quán ăn, nhà hàng, mart",
+                "comment_negative": "Resort hơi cũ:\n- bể bơi xuống cấp (bể gạch nhiều chỗ),\n- máy lạnh cũ (ko đủ mát),\n- phòng bungalow nhưng cửa sổ ko mở được (chỉ 2/3 cửa có thể mở),\n- phục vụ thức ăn hạn chế, giá cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiDC3id0RsCfzT-VaZSM0FwkD1TcE4Fn49V9B5h=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở ngay trung tâm Mũi Né, xung quanh có nhiều quán cafe để chill. Chỉ cần bước sang bên kia đường là thấy đc biển\nNhân viên cực kỳ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Rất thích",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "hồ bơi, nhân viên rất thân thiện, thức ăn ngon.",
+                "comment_negative": "không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ08j51A6Dv-rRIIo8X3YIu4QHSzdWZwDr8--ZVPv04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá tốt",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh6.googleusercontent.com/-hSfgUOUxrI4/AAAAAAAAAAI/AAAAAAAABtk/2tpMYDBWLj8/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Thời gian checkin theo quy định là 15h, theo mình thì giờ đó hơi trễ, và buộc khách phải checkout lúc 11h\nTrong phòng tắm không có xà phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người có Sân hiên",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian yên tĩnh, thư giãn.\nBữa sáng vừa đủ, nhưng nếu menu phong phú hơn thì càng tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng ngon,đa dạng.View đẹp,phòng nghĩ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiên nhiên gần gũi, vị trí tốt, khá sạch sẽ thoáng mát, vibe phù hợp với ng thích yên tĩnh, ko xô bồ. Phục vụ thân thiện",
+                "comment_negative": "Nhân viên quá gắt gạo về tiền. Booking ko yêu cầu thành toán nhưng lại gọi điện yêu cầu cọc 30% ko thì ko cam kết giữ phòng. Yêu cầu thành toán trước mọi khoản dù rất nhỏ. Mình có 5 ng ngày 1, 4 người ngày 2 vì 1 ng về sớm nhưng, bắt mua phiếu ăn sáng trước cho 2 ngày và ko hoàn tiền vé nên mình bị mua dư 1 vé ăn ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcAL0cBHihEmiBJ80Dsbaojm3924OcFxUhB5FS1=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tốt, an toàn",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận tiện. Gần nhiều quán cà phê, quán ăn",
+                "comment_negative": "Không có bãi biển riêng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2023",
+                "rating": "hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Đồ ăn rất ngon",
+                "comment_negative": "Muỗi nhiều quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/16851633.jpg?k=5333e430de313b4534a171c3b25b3877a1ce3634cab811b8c52ed58d07d0c37c&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tạm được",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, ngay trung tâm Mũi Né, gần bờ kè, nhiều quán ăn, nhà hàng, mart",
+                "comment_negative": "Resort hơi cũ:\n- bể bơi xuống cấp (bể gạch nhiều chỗ),\n- máy lạnh cũ (ko đủ mát),\n- phòng bungalow nhưng cửa sổ ko mở được (chỉ 2/3 cửa có thể mở),\n- phục vụ thức ăn hạn chế, giá cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiDC3id0RsCfzT-VaZSM0FwkD1TcE4Fn49V9B5h=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở ngay trung tâm Mũi Né, xung quanh có nhiều quán cafe để chill. Chỉ cần bước sang bên kia đường là thấy đc biển\nNhân viên cực kỳ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Rất thích",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "hồ bơi, nhân viên rất thân thiện, thức ăn ngon.",
+                "comment_negative": "không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ08j51A6Dv-rRIIo8X3YIu4QHSzdWZwDr8--ZVPv04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá tốt",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh6.googleusercontent.com/-hSfgUOUxrI4/AAAAAAAAAAI/AAAAAAAABtk/2tpMYDBWLj8/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Thời gian checkin theo quy định là 15h, theo mình thì giờ đó hơi trễ, và buộc khách phải checkout lúc 11h\nTrong phòng tắm không có xà phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người có Sân hiên",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian yên tĩnh, thư giãn.\nBữa sáng vừa đủ, nhưng nếu menu phong phú hơn thì càng tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng ngon,đa dạng.View đẹp,phòng nghĩ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiên nhiên gần gũi, vị trí tốt, khá sạch sẽ thoáng mát, vibe phù hợp với ng thích yên tĩnh, ko xô bồ. Phục vụ thân thiện",
+                "comment_negative": "Nhân viên quá gắt gạo về tiền. Booking ko yêu cầu thành toán nhưng lại gọi điện yêu cầu cọc 30% ko thì ko cam kết giữ phòng. Yêu cầu thành toán trước mọi khoản dù rất nhỏ. Mình có 5 ng ngày 1, 4 người ngày 2 vì 1 ng về sớm nhưng, bắt mua phiếu ăn sáng trước cho 2 ngày và ko hoàn tiền vé nên mình bị mua dư 1 vé ăn ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcAL0cBHihEmiBJ80Dsbaojm3924OcFxUhB5FS1=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tốt, an toàn",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận tiện. Gần nhiều quán cà phê, quán ăn",
+                "comment_negative": "Không có bãi biển riêng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2023",
+                "rating": "hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Đồ ăn rất ngon",
+                "comment_negative": "Muỗi nhiều quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/16851633.jpg?k=5333e430de313b4534a171c3b25b3877a1ce3634cab811b8c52ed58d07d0c37c&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tạm được",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, ngay trung tâm Mũi Né, gần bờ kè, nhiều quán ăn, nhà hàng, mart",
+                "comment_negative": "Resort hơi cũ:\n- bể bơi xuống cấp (bể gạch nhiều chỗ),\n- máy lạnh cũ (ko đủ mát),\n- phòng bungalow nhưng cửa sổ ko mở được (chỉ 2/3 cửa có thể mở),\n- phục vụ thức ăn hạn chế, giá cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiDC3id0RsCfzT-VaZSM0FwkD1TcE4Fn49V9B5h=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở ngay trung tâm Mũi Né, xung quanh có nhiều quán cafe để chill. Chỉ cần bước sang bên kia đường là thấy đc biển\nNhân viên cực kỳ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Rất thích",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "hồ bơi, nhân viên rất thân thiện, thức ăn ngon.",
+                "comment_negative": "không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ08j51A6Dv-rRIIo8X3YIu4QHSzdWZwDr8--ZVPv04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá tốt",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh6.googleusercontent.com/-hSfgUOUxrI4/AAAAAAAAAAI/AAAAAAAABtk/2tpMYDBWLj8/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Thời gian checkin theo quy định là 15h, theo mình thì giờ đó hơi trễ, và buộc khách phải checkout lúc 11h\nTrong phòng tắm không có xà phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người có Sân hiên",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian yên tĩnh, thư giãn.\nBữa sáng vừa đủ, nhưng nếu menu phong phú hơn thì càng tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng ngon,đa dạng.View đẹp,phòng nghĩ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiên nhiên gần gũi, vị trí tốt, khá sạch sẽ thoáng mát, vibe phù hợp với ng thích yên tĩnh, ko xô bồ. Phục vụ thân thiện",
+                "comment_negative": "Nhân viên quá gắt gạo về tiền. Booking ko yêu cầu thành toán nhưng lại gọi điện yêu cầu cọc 30% ko thì ko cam kết giữ phòng. Yêu cầu thành toán trước mọi khoản dù rất nhỏ. Mình có 5 ng ngày 1, 4 người ngày 2 vì 1 ng về sớm nhưng, bắt mua phiếu ăn sáng trước cho 2 ngày và ko hoàn tiền vé nên mình bị mua dư 1 vé ăn ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcAL0cBHihEmiBJ80Dsbaojm3924OcFxUhB5FS1=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tốt, an toàn",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận tiện. Gần nhiều quán cà phê, quán ăn",
+                "comment_negative": "Không có bãi biển riêng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2023",
+                "rating": "hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Đồ ăn rất ngon",
+                "comment_negative": "Muỗi nhiều quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/16851633.jpg?k=5333e430de313b4534a171c3b25b3877a1ce3634cab811b8c52ed58d07d0c37c&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tạm được",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, ngay trung tâm Mũi Né, gần bờ kè, nhiều quán ăn, nhà hàng, mart",
+                "comment_negative": "Resort hơi cũ:\n- bể bơi xuống cấp (bể gạch nhiều chỗ),\n- máy lạnh cũ (ko đủ mát),\n- phòng bungalow nhưng cửa sổ ko mở được (chỉ 2/3 cửa có thể mở),\n- phục vụ thức ăn hạn chế, giá cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiDC3id0RsCfzT-VaZSM0FwkD1TcE4Fn49V9B5h=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở ngay trung tâm Mũi Né, xung quanh có nhiều quán cafe để chill. Chỉ cần bước sang bên kia đường là thấy đc biển\nNhân viên cực kỳ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Rất thích",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "hồ bơi, nhân viên rất thân thiện, thức ăn ngon.",
+                "comment_negative": "không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ08j51A6Dv-rRIIo8X3YIu4QHSzdWZwDr8--ZVPv04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá tốt",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh6.googleusercontent.com/-hSfgUOUxrI4/AAAAAAAAAAI/AAAAAAAABtk/2tpMYDBWLj8/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Thời gian checkin theo quy định là 15h, theo mình thì giờ đó hơi trễ, và buộc khách phải checkout lúc 11h\nTrong phòng tắm không có xà phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người có Sân hiên",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian yên tĩnh, thư giãn.\nBữa sáng vừa đủ, nhưng nếu menu phong phú hơn thì càng tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng ngon,đa dạng.View đẹp,phòng nghĩ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiên nhiên gần gũi, vị trí tốt, khá sạch sẽ thoáng mát, vibe phù hợp với ng thích yên tĩnh, ko xô bồ. Phục vụ thân thiện",
+                "comment_negative": "Nhân viên quá gắt gạo về tiền. Booking ko yêu cầu thành toán nhưng lại gọi điện yêu cầu cọc 30% ko thì ko cam kết giữ phòng. Yêu cầu thành toán trước mọi khoản dù rất nhỏ. Mình có 5 ng ngày 1, 4 người ngày 2 vì 1 ng về sớm nhưng, bắt mua phiếu ăn sáng trước cho 2 ngày và ko hoàn tiền vé nên mình bị mua dư 1 vé ăn ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcAL0cBHihEmiBJ80Dsbaojm3924OcFxUhB5FS1=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tốt, an toàn",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận tiện. Gần nhiều quán cà phê, quán ăn",
+                "comment_negative": "Không có bãi biển riêng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2023",
+                "rating": "hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Đồ ăn rất ngon",
+                "comment_negative": "Muỗi nhiều quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/16851633.jpg?k=5333e430de313b4534a171c3b25b3877a1ce3634cab811b8c52ed58d07d0c37c&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tạm được",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, ngay trung tâm Mũi Né, gần bờ kè, nhiều quán ăn, nhà hàng, mart",
+                "comment_negative": "Resort hơi cũ:\n- bể bơi xuống cấp (bể gạch nhiều chỗ),\n- máy lạnh cũ (ko đủ mát),\n- phòng bungalow nhưng cửa sổ ko mở được (chỉ 2/3 cửa có thể mở),\n- phục vụ thức ăn hạn chế, giá cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiDC3id0RsCfzT-VaZSM0FwkD1TcE4Fn49V9B5h=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở ngay trung tâm Mũi Né, xung quanh có nhiều quán cafe để chill. Chỉ cần bước sang bên kia đường là thấy đc biển\nNhân viên cực kỳ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Rất thích",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "hồ bơi, nhân viên rất thân thiện, thức ăn ngon.",
+                "comment_negative": "không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ08j51A6Dv-rRIIo8X3YIu4QHSzdWZwDr8--ZVPv04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá tốt",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh6.googleusercontent.com/-hSfgUOUxrI4/AAAAAAAAAAI/AAAAAAAABtk/2tpMYDBWLj8/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Thời gian checkin theo quy định là 15h, theo mình thì giờ đó hơi trễ, và buộc khách phải checkout lúc 11h\nTrong phòng tắm không có xà phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người có Sân hiên",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian yên tĩnh, thư giãn.\nBữa sáng vừa đủ, nhưng nếu menu phong phú hơn thì càng tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng ngon,đa dạng.View đẹp,phòng nghĩ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiên nhiên gần gũi, vị trí tốt, khá sạch sẽ thoáng mát, vibe phù hợp với ng thích yên tĩnh, ko xô bồ. Phục vụ thân thiện",
+                "comment_negative": "Nhân viên quá gắt gạo về tiền. Booking ko yêu cầu thành toán nhưng lại gọi điện yêu cầu cọc 30% ko thì ko cam kết giữ phòng. Yêu cầu thành toán trước mọi khoản dù rất nhỏ. Mình có 5 ng ngày 1, 4 người ngày 2 vì 1 ng về sớm nhưng, bắt mua phiếu ăn sáng trước cho 2 ngày và ko hoàn tiền vé nên mình bị mua dư 1 vé ăn ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcAL0cBHihEmiBJ80Dsbaojm3924OcFxUhB5FS1=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tốt, an toàn",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận tiện. Gần nhiều quán cà phê, quán ăn",
+                "comment_negative": "Không có bãi biển riêng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2023",
+                "rating": "hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Đồ ăn rất ngon",
+                "comment_negative": "Muỗi nhiều quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/16851633.jpg?k=5333e430de313b4534a171c3b25b3877a1ce3634cab811b8c52ed58d07d0c37c&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tạm được",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, ngay trung tâm Mũi Né, gần bờ kè, nhiều quán ăn, nhà hàng, mart",
+                "comment_negative": "Resort hơi cũ:\n- bể bơi xuống cấp (bể gạch nhiều chỗ),\n- máy lạnh cũ (ko đủ mát),\n- phòng bungalow nhưng cửa sổ ko mở được (chỉ 2/3 cửa có thể mở),\n- phục vụ thức ăn hạn chế, giá cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiDC3id0RsCfzT-VaZSM0FwkD1TcE4Fn49V9B5h=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở ngay trung tâm Mũi Né, xung quanh có nhiều quán cafe để chill. Chỉ cần bước sang bên kia đường là thấy đc biển\nNhân viên cực kỳ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Rất thích",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "hồ bơi, nhân viên rất thân thiện, thức ăn ngon.",
+                "comment_negative": "không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ08j51A6Dv-rRIIo8X3YIu4QHSzdWZwDr8--ZVPv04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá tốt",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh6.googleusercontent.com/-hSfgUOUxrI4/AAAAAAAAAAI/AAAAAAAABtk/2tpMYDBWLj8/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Thời gian checkin theo quy định là 15h, theo mình thì giờ đó hơi trễ, và buộc khách phải checkout lúc 11h\nTrong phòng tắm không có xà phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người có Sân hiên",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian yên tĩnh, thư giãn.\nBữa sáng vừa đủ, nhưng nếu menu phong phú hơn thì càng tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng ngon,đa dạng.View đẹp,phòng nghĩ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiên nhiên gần gũi, vị trí tốt, khá sạch sẽ thoáng mát, vibe phù hợp với ng thích yên tĩnh, ko xô bồ. Phục vụ thân thiện",
+                "comment_negative": "Nhân viên quá gắt gạo về tiền. Booking ko yêu cầu thành toán nhưng lại gọi điện yêu cầu cọc 30% ko thì ko cam kết giữ phòng. Yêu cầu thành toán trước mọi khoản dù rất nhỏ. Mình có 5 ng ngày 1, 4 người ngày 2 vì 1 ng về sớm nhưng, bắt mua phiếu ăn sáng trước cho 2 ngày và ko hoàn tiền vé nên mình bị mua dư 1 vé ăn ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcAL0cBHihEmiBJ80Dsbaojm3924OcFxUhB5FS1=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tốt, an toàn",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận tiện. Gần nhiều quán cà phê, quán ăn",
+                "comment_negative": "Không có bãi biển riêng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2023",
+                "rating": "hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Đồ ăn rất ngon",
+                "comment_negative": "Muỗi nhiều quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/16851633.jpg?k=5333e430de313b4534a171c3b25b3877a1ce3634cab811b8c52ed58d07d0c37c&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tạm được",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, ngay trung tâm Mũi Né, gần bờ kè, nhiều quán ăn, nhà hàng, mart",
+                "comment_negative": "Resort hơi cũ:\n- bể bơi xuống cấp (bể gạch nhiều chỗ),\n- máy lạnh cũ (ko đủ mát),\n- phòng bungalow nhưng cửa sổ ko mở được (chỉ 2/3 cửa có thể mở),\n- phục vụ thức ăn hạn chế, giá cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiDC3id0RsCfzT-VaZSM0FwkD1TcE4Fn49V9B5h=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở ngay trung tâm Mũi Né, xung quanh có nhiều quán cafe để chill. Chỉ cần bước sang bên kia đường là thấy đc biển\nNhân viên cực kỳ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Rất thích",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "hồ bơi, nhân viên rất thân thiện, thức ăn ngon.",
+                "comment_negative": "không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ08j51A6Dv-rRIIo8X3YIu4QHSzdWZwDr8--ZVPv04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá tốt",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh6.googleusercontent.com/-hSfgUOUxrI4/AAAAAAAAAAI/AAAAAAAABtk/2tpMYDBWLj8/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Thời gian checkin theo quy định là 15h, theo mình thì giờ đó hơi trễ, và buộc khách phải checkout lúc 11h\nTrong phòng tắm không có xà phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người có Sân hiên",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian yên tĩnh, thư giãn.\nBữa sáng vừa đủ, nhưng nếu menu phong phú hơn thì càng tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng ngon,đa dạng.View đẹp,phòng nghĩ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiên nhiên gần gũi, vị trí tốt, khá sạch sẽ thoáng mát, vibe phù hợp với ng thích yên tĩnh, ko xô bồ. Phục vụ thân thiện",
+                "comment_negative": "Nhân viên quá gắt gạo về tiền. Booking ko yêu cầu thành toán nhưng lại gọi điện yêu cầu cọc 30% ko thì ko cam kết giữ phòng. Yêu cầu thành toán trước mọi khoản dù rất nhỏ. Mình có 5 ng ngày 1, 4 người ngày 2 vì 1 ng về sớm nhưng, bắt mua phiếu ăn sáng trước cho 2 ngày và ko hoàn tiền vé nên mình bị mua dư 1 vé ăn ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcAL0cBHihEmiBJ80Dsbaojm3924OcFxUhB5FS1=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tốt, an toàn",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận tiện. Gần nhiều quán cà phê, quán ăn",
+                "comment_negative": "Không có bãi biển riêng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2023",
+                "rating": "hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Đồ ăn rất ngon",
+                "comment_negative": "Muỗi nhiều quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/16851633.jpg?k=5333e430de313b4534a171c3b25b3877a1ce3634cab811b8c52ed58d07d0c37c&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tạm được",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, ngay trung tâm Mũi Né, gần bờ kè, nhiều quán ăn, nhà hàng, mart",
+                "comment_negative": "Resort hơi cũ:\n- bể bơi xuống cấp (bể gạch nhiều chỗ),\n- máy lạnh cũ (ko đủ mát),\n- phòng bungalow nhưng cửa sổ ko mở được (chỉ 2/3 cửa có thể mở),\n- phục vụ thức ăn hạn chế, giá cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiDC3id0RsCfzT-VaZSM0FwkD1TcE4Fn49V9B5h=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở ngay trung tâm Mũi Né, xung quanh có nhiều quán cafe để chill. Chỉ cần bước sang bên kia đường là thấy đc biển\nNhân viên cực kỳ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Rất thích",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "hồ bơi, nhân viên rất thân thiện, thức ăn ngon.",
+                "comment_negative": "không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ08j51A6Dv-rRIIo8X3YIu4QHSzdWZwDr8--ZVPv04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá tốt",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh6.googleusercontent.com/-hSfgUOUxrI4/AAAAAAAAAAI/AAAAAAAABtk/2tpMYDBWLj8/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Thời gian checkin theo quy định là 15h, theo mình thì giờ đó hơi trễ, và buộc khách phải checkout lúc 11h\nTrong phòng tắm không có xà phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người có Sân hiên",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian yên tĩnh, thư giãn.\nBữa sáng vừa đủ, nhưng nếu menu phong phú hơn thì càng tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng ngon,đa dạng.View đẹp,phòng nghĩ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiên nhiên gần gũi, vị trí tốt, khá sạch sẽ thoáng mát, vibe phù hợp với ng thích yên tĩnh, ko xô bồ. Phục vụ thân thiện",
+                "comment_negative": "Nhân viên quá gắt gạo về tiền. Booking ko yêu cầu thành toán nhưng lại gọi điện yêu cầu cọc 30% ko thì ko cam kết giữ phòng. Yêu cầu thành toán trước mọi khoản dù rất nhỏ. Mình có 5 ng ngày 1, 4 người ngày 2 vì 1 ng về sớm nhưng, bắt mua phiếu ăn sáng trước cho 2 ngày và ko hoàn tiền vé nên mình bị mua dư 1 vé ăn ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcAL0cBHihEmiBJ80Dsbaojm3924OcFxUhB5FS1=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tốt, an toàn",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận tiện. Gần nhiều quán cà phê, quán ăn",
+                "comment_negative": "Không có bãi biển riêng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2023",
+                "rating": "hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Đồ ăn rất ngon",
+                "comment_negative": "Muỗi nhiều quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/16851633.jpg?k=5333e430de313b4534a171c3b25b3877a1ce3634cab811b8c52ed58d07d0c37c&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tạm được",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, ngay trung tâm Mũi Né, gần bờ kè, nhiều quán ăn, nhà hàng, mart",
+                "comment_negative": "Resort hơi cũ:\n- bể bơi xuống cấp (bể gạch nhiều chỗ),\n- máy lạnh cũ (ko đủ mát),\n- phòng bungalow nhưng cửa sổ ko mở được (chỉ 2/3 cửa có thể mở),\n- phục vụ thức ăn hạn chế, giá cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiDC3id0RsCfzT-VaZSM0FwkD1TcE4Fn49V9B5h=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở ngay trung tâm Mũi Né, xung quanh có nhiều quán cafe để chill. Chỉ cần bước sang bên kia đường là thấy đc biển\nNhân viên cực kỳ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Rất thích",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "hồ bơi, nhân viên rất thân thiện, thức ăn ngon.",
+                "comment_negative": "không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ08j51A6Dv-rRIIo8X3YIu4QHSzdWZwDr8--ZVPv04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá tốt",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh6.googleusercontent.com/-hSfgUOUxrI4/AAAAAAAAAAI/AAAAAAAABtk/2tpMYDBWLj8/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Thời gian checkin theo quy định là 15h, theo mình thì giờ đó hơi trễ, và buộc khách phải checkout lúc 11h\nTrong phòng tắm không có xà phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người có Sân hiên",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian yên tĩnh, thư giãn.\nBữa sáng vừa đủ, nhưng nếu menu phong phú hơn thì càng tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng ngon,đa dạng.View đẹp,phòng nghĩ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiên nhiên gần gũi, vị trí tốt, khá sạch sẽ thoáng mát, vibe phù hợp với ng thích yên tĩnh, ko xô bồ. Phục vụ thân thiện",
+                "comment_negative": "Nhân viên quá gắt gạo về tiền. Booking ko yêu cầu thành toán nhưng lại gọi điện yêu cầu cọc 30% ko thì ko cam kết giữ phòng. Yêu cầu thành toán trước mọi khoản dù rất nhỏ. Mình có 5 ng ngày 1, 4 người ngày 2 vì 1 ng về sớm nhưng, bắt mua phiếu ăn sáng trước cho 2 ngày và ko hoàn tiền vé nên mình bị mua dư 1 vé ăn ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcAL0cBHihEmiBJ80Dsbaojm3924OcFxUhB5FS1=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tốt, an toàn",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận tiện. Gần nhiều quán cà phê, quán ăn",
+                "comment_negative": "Không có bãi biển riêng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2023",
+                "rating": "hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Đồ ăn rất ngon",
+                "comment_negative": "Muỗi nhiều quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/16851633.jpg?k=5333e430de313b4534a171c3b25b3877a1ce3634cab811b8c52ed58d07d0c37c&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tạm được",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, ngay trung tâm Mũi Né, gần bờ kè, nhiều quán ăn, nhà hàng, mart",
+                "comment_negative": "Resort hơi cũ:\n- bể bơi xuống cấp (bể gạch nhiều chỗ),\n- máy lạnh cũ (ko đủ mát),\n- phòng bungalow nhưng cửa sổ ko mở được (chỉ 2/3 cửa có thể mở),\n- phục vụ thức ăn hạn chế, giá cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiDC3id0RsCfzT-VaZSM0FwkD1TcE4Fn49V9B5h=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở ngay trung tâm Mũi Né, xung quanh có nhiều quán cafe để chill. Chỉ cần bước sang bên kia đường là thấy đc biển\nNhân viên cực kỳ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Rất thích",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "hồ bơi, nhân viên rất thân thiện, thức ăn ngon.",
+                "comment_negative": "không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ08j51A6Dv-rRIIo8X3YIu4QHSzdWZwDr8--ZVPv04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá tốt",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh6.googleusercontent.com/-hSfgUOUxrI4/AAAAAAAAAAI/AAAAAAAABtk/2tpMYDBWLj8/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Thời gian checkin theo quy định là 15h, theo mình thì giờ đó hơi trễ, và buộc khách phải checkout lúc 11h\nTrong phòng tắm không có xà phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người có Sân hiên",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian yên tĩnh, thư giãn.\nBữa sáng vừa đủ, nhưng nếu menu phong phú hơn thì càng tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng ngon,đa dạng.View đẹp,phòng nghĩ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiên nhiên gần gũi, vị trí tốt, khá sạch sẽ thoáng mát, vibe phù hợp với ng thích yên tĩnh, ko xô bồ. Phục vụ thân thiện",
+                "comment_negative": "Nhân viên quá gắt gạo về tiền. Booking ko yêu cầu thành toán nhưng lại gọi điện yêu cầu cọc 30% ko thì ko cam kết giữ phòng. Yêu cầu thành toán trước mọi khoản dù rất nhỏ. Mình có 5 ng ngày 1, 4 người ngày 2 vì 1 ng về sớm nhưng, bắt mua phiếu ăn sáng trước cho 2 ngày và ko hoàn tiền vé nên mình bị mua dư 1 vé ăn ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcAL0cBHihEmiBJ80Dsbaojm3924OcFxUhB5FS1=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tốt, an toàn",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận tiện. Gần nhiều quán cà phê, quán ăn",
+                "comment_negative": "Không có bãi biển riêng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2023",
+                "rating": "hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Đồ ăn rất ngon",
+                "comment_negative": "Muỗi nhiều quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/16851633.jpg?k=5333e430de313b4534a171c3b25b3877a1ce3634cab811b8c52ed58d07d0c37c&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tạm được",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, ngay trung tâm Mũi Né, gần bờ kè, nhiều quán ăn, nhà hàng, mart",
+                "comment_negative": "Resort hơi cũ:\n- bể bơi xuống cấp (bể gạch nhiều chỗ),\n- máy lạnh cũ (ko đủ mát),\n- phòng bungalow nhưng cửa sổ ko mở được (chỉ 2/3 cửa có thể mở),\n- phục vụ thức ăn hạn chế, giá cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiDC3id0RsCfzT-VaZSM0FwkD1TcE4Fn49V9B5h=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở ngay trung tâm Mũi Né, xung quanh có nhiều quán cafe để chill. Chỉ cần bước sang bên kia đường là thấy đc biển\nNhân viên cực kỳ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Rất thích",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "hồ bơi, nhân viên rất thân thiện, thức ăn ngon.",
+                "comment_negative": "không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ08j51A6Dv-rRIIo8X3YIu4QHSzdWZwDr8--ZVPv04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá tốt",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh6.googleusercontent.com/-hSfgUOUxrI4/AAAAAAAAAAI/AAAAAAAABtk/2tpMYDBWLj8/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Thời gian checkin theo quy định là 15h, theo mình thì giờ đó hơi trễ, và buộc khách phải checkout lúc 11h\nTrong phòng tắm không có xà phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người có Sân hiên",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian yên tĩnh, thư giãn.\nBữa sáng vừa đủ, nhưng nếu menu phong phú hơn thì càng tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng ngon,đa dạng.View đẹp,phòng nghĩ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiên nhiên gần gũi, vị trí tốt, khá sạch sẽ thoáng mát, vibe phù hợp với ng thích yên tĩnh, ko xô bồ. Phục vụ thân thiện",
+                "comment_negative": "Nhân viên quá gắt gạo về tiền. Booking ko yêu cầu thành toán nhưng lại gọi điện yêu cầu cọc 30% ko thì ko cam kết giữ phòng. Yêu cầu thành toán trước mọi khoản dù rất nhỏ. Mình có 5 ng ngày 1, 4 người ngày 2 vì 1 ng về sớm nhưng, bắt mua phiếu ăn sáng trước cho 2 ngày và ko hoàn tiền vé nên mình bị mua dư 1 vé ăn ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcAL0cBHihEmiBJ80Dsbaojm3924OcFxUhB5FS1=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tốt, an toàn",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận tiện. Gần nhiều quán cà phê, quán ăn",
+                "comment_negative": "Không có bãi biển riêng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2023",
+                "rating": "hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Đồ ăn rất ngon",
+                "comment_negative": "Muỗi nhiều quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/16851633.jpg?k=5333e430de313b4534a171c3b25b3877a1ce3634cab811b8c52ed58d07d0c37c&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tạm được",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, ngay trung tâm Mũi Né, gần bờ kè, nhiều quán ăn, nhà hàng, mart",
+                "comment_negative": "Resort hơi cũ:\n- bể bơi xuống cấp (bể gạch nhiều chỗ),\n- máy lạnh cũ (ko đủ mát),\n- phòng bungalow nhưng cửa sổ ko mở được (chỉ 2/3 cửa có thể mở),\n- phục vụ thức ăn hạn chế, giá cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiDC3id0RsCfzT-VaZSM0FwkD1TcE4Fn49V9B5h=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở ngay trung tâm Mũi Né, xung quanh có nhiều quán cafe để chill. Chỉ cần bước sang bên kia đường là thấy đc biển\nNhân viên cực kỳ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Rất thích",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "hồ bơi, nhân viên rất thân thiện, thức ăn ngon.",
+                "comment_negative": "không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ08j51A6Dv-rRIIo8X3YIu4QHSzdWZwDr8--ZVPv04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá tốt",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh6.googleusercontent.com/-hSfgUOUxrI4/AAAAAAAAAAI/AAAAAAAABtk/2tpMYDBWLj8/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Thời gian checkin theo quy định là 15h, theo mình thì giờ đó hơi trễ, và buộc khách phải checkout lúc 11h\nTrong phòng tắm không có xà phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người có Sân hiên",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian yên tĩnh, thư giãn.\nBữa sáng vừa đủ, nhưng nếu menu phong phú hơn thì càng tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng ngon,đa dạng.View đẹp,phòng nghĩ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiên nhiên gần gũi, vị trí tốt, khá sạch sẽ thoáng mát, vibe phù hợp với ng thích yên tĩnh, ko xô bồ. Phục vụ thân thiện",
+                "comment_negative": "Nhân viên quá gắt gạo về tiền. Booking ko yêu cầu thành toán nhưng lại gọi điện yêu cầu cọc 30% ko thì ko cam kết giữ phòng. Yêu cầu thành toán trước mọi khoản dù rất nhỏ. Mình có 5 ng ngày 1, 4 người ngày 2 vì 1 ng về sớm nhưng, bắt mua phiếu ăn sáng trước cho 2 ngày và ko hoàn tiền vé nên mình bị mua dư 1 vé ăn ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcAL0cBHihEmiBJ80Dsbaojm3924OcFxUhB5FS1=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tốt, an toàn",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận tiện. Gần nhiều quán cà phê, quán ăn",
+                "comment_negative": "Không có bãi biển riêng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2023",
+                "rating": "hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Đồ ăn rất ngon",
+                "comment_negative": "Muỗi nhiều quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/16851633.jpg?k=5333e430de313b4534a171c3b25b3877a1ce3634cab811b8c52ed58d07d0c37c&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tạm được",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, ngay trung tâm Mũi Né, gần bờ kè, nhiều quán ăn, nhà hàng, mart",
+                "comment_negative": "Resort hơi cũ:\n- bể bơi xuống cấp (bể gạch nhiều chỗ),\n- máy lạnh cũ (ko đủ mát),\n- phòng bungalow nhưng cửa sổ ko mở được (chỉ 2/3 cửa có thể mở),\n- phục vụ thức ăn hạn chế, giá cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiDC3id0RsCfzT-VaZSM0FwkD1TcE4Fn49V9B5h=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở ngay trung tâm Mũi Né, xung quanh có nhiều quán cafe để chill. Chỉ cần bước sang bên kia đường là thấy đc biển\nNhân viên cực kỳ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Rất thích",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "hồ bơi, nhân viên rất thân thiện, thức ăn ngon.",
+                "comment_negative": "không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ08j51A6Dv-rRIIo8X3YIu4QHSzdWZwDr8--ZVPv04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá tốt",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh6.googleusercontent.com/-hSfgUOUxrI4/AAAAAAAAAAI/AAAAAAAABtk/2tpMYDBWLj8/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Thời gian checkin theo quy định là 15h, theo mình thì giờ đó hơi trễ, và buộc khách phải checkout lúc 11h\nTrong phòng tắm không có xà phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người có Sân hiên",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian yên tĩnh, thư giãn.\nBữa sáng vừa đủ, nhưng nếu menu phong phú hơn thì càng tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng ngon,đa dạng.View đẹp,phòng nghĩ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiên nhiên gần gũi, vị trí tốt, khá sạch sẽ thoáng mát, vibe phù hợp với ng thích yên tĩnh, ko xô bồ. Phục vụ thân thiện",
+                "comment_negative": "Nhân viên quá gắt gạo về tiền. Booking ko yêu cầu thành toán nhưng lại gọi điện yêu cầu cọc 30% ko thì ko cam kết giữ phòng. Yêu cầu thành toán trước mọi khoản dù rất nhỏ. Mình có 5 ng ngày 1, 4 người ngày 2 vì 1 ng về sớm nhưng, bắt mua phiếu ăn sáng trước cho 2 ngày và ko hoàn tiền vé nên mình bị mua dư 1 vé ăn ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcAL0cBHihEmiBJ80Dsbaojm3924OcFxUhB5FS1=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tốt, an toàn",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận tiện. Gần nhiều quán cà phê, quán ăn",
+                "comment_negative": "Không có bãi biển riêng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2023",
+                "rating": "hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Đồ ăn rất ngon",
+                "comment_negative": "Muỗi nhiều quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/16851633.jpg?k=5333e430de313b4534a171c3b25b3877a1ce3634cab811b8c52ed58d07d0c37c&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tạm được",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, ngay trung tâm Mũi Né, gần bờ kè, nhiều quán ăn, nhà hàng, mart",
+                "comment_negative": "Resort hơi cũ:\n- bể bơi xuống cấp (bể gạch nhiều chỗ),\n- máy lạnh cũ (ko đủ mát),\n- phòng bungalow nhưng cửa sổ ko mở được (chỉ 2/3 cửa có thể mở),\n- phục vụ thức ăn hạn chế, giá cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiDC3id0RsCfzT-VaZSM0FwkD1TcE4Fn49V9B5h=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở ngay trung tâm Mũi Né, xung quanh có nhiều quán cafe để chill. Chỉ cần bước sang bên kia đường là thấy đc biển\nNhân viên cực kỳ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Rất thích",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "hồ bơi, nhân viên rất thân thiện, thức ăn ngon.",
+                "comment_negative": "không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ08j51A6Dv-rRIIo8X3YIu4QHSzdWZwDr8--ZVPv04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá tốt",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh6.googleusercontent.com/-hSfgUOUxrI4/AAAAAAAAAAI/AAAAAAAABtk/2tpMYDBWLj8/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Thời gian checkin theo quy định là 15h, theo mình thì giờ đó hơi trễ, và buộc khách phải checkout lúc 11h\nTrong phòng tắm không có xà phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người có Sân hiên",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian yên tĩnh, thư giãn.\nBữa sáng vừa đủ, nhưng nếu menu phong phú hơn thì càng tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng ngon,đa dạng.View đẹp,phòng nghĩ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiên nhiên gần gũi, vị trí tốt, khá sạch sẽ thoáng mát, vibe phù hợp với ng thích yên tĩnh, ko xô bồ. Phục vụ thân thiện",
+                "comment_negative": "Nhân viên quá gắt gạo về tiền. Booking ko yêu cầu thành toán nhưng lại gọi điện yêu cầu cọc 30% ko thì ko cam kết giữ phòng. Yêu cầu thành toán trước mọi khoản dù rất nhỏ. Mình có 5 ng ngày 1, 4 người ngày 2 vì 1 ng về sớm nhưng, bắt mua phiếu ăn sáng trước cho 2 ngày và ko hoàn tiền vé nên mình bị mua dư 1 vé ăn ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcAL0cBHihEmiBJ80Dsbaojm3924OcFxUhB5FS1=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tốt, an toàn",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận tiện. Gần nhiều quán cà phê, quán ăn",
+                "comment_negative": "Không có bãi biển riêng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2023",
+                "rating": "hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Đồ ăn rất ngon",
+                "comment_negative": "Muỗi nhiều quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/16851633.jpg?k=5333e430de313b4534a171c3b25b3877a1ce3634cab811b8c52ed58d07d0c37c&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tạm được",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, ngay trung tâm Mũi Né, gần bờ kè, nhiều quán ăn, nhà hàng, mart",
+                "comment_negative": "Resort hơi cũ:\n- bể bơi xuống cấp (bể gạch nhiều chỗ),\n- máy lạnh cũ (ko đủ mát),\n- phòng bungalow nhưng cửa sổ ko mở được (chỉ 2/3 cửa có thể mở),\n- phục vụ thức ăn hạn chế, giá cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiDC3id0RsCfzT-VaZSM0FwkD1TcE4Fn49V9B5h=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở ngay trung tâm Mũi Né, xung quanh có nhiều quán cafe để chill. Chỉ cần bước sang bên kia đường là thấy đc biển\nNhân viên cực kỳ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Rất thích",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "hồ bơi, nhân viên rất thân thiện, thức ăn ngon.",
+                "comment_negative": "không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ08j51A6Dv-rRIIo8X3YIu4QHSzdWZwDr8--ZVPv04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá tốt",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh6.googleusercontent.com/-hSfgUOUxrI4/AAAAAAAAAAI/AAAAAAAABtk/2tpMYDBWLj8/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Thời gian checkin theo quy định là 15h, theo mình thì giờ đó hơi trễ, và buộc khách phải checkout lúc 11h\nTrong phòng tắm không có xà phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người có Sân hiên",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian yên tĩnh, thư giãn.\nBữa sáng vừa đủ, nhưng nếu menu phong phú hơn thì càng tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng ngon,đa dạng.View đẹp,phòng nghĩ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiên nhiên gần gũi, vị trí tốt, khá sạch sẽ thoáng mát, vibe phù hợp với ng thích yên tĩnh, ko xô bồ. Phục vụ thân thiện",
+                "comment_negative": "Nhân viên quá gắt gạo về tiền. Booking ko yêu cầu thành toán nhưng lại gọi điện yêu cầu cọc 30% ko thì ko cam kết giữ phòng. Yêu cầu thành toán trước mọi khoản dù rất nhỏ. Mình có 5 ng ngày 1, 4 người ngày 2 vì 1 ng về sớm nhưng, bắt mua phiếu ăn sáng trước cho 2 ngày và ko hoàn tiền vé nên mình bị mua dư 1 vé ăn ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcAL0cBHihEmiBJ80Dsbaojm3924OcFxUhB5FS1=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tốt, an toàn",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận tiện. Gần nhiều quán cà phê, quán ăn",
+                "comment_negative": "Không có bãi biển riêng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2023",
+                "rating": "hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Đồ ăn rất ngon",
+                "comment_negative": "Muỗi nhiều quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/16851633.jpg?k=5333e430de313b4534a171c3b25b3877a1ce3634cab811b8c52ed58d07d0c37c&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tạm được",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, ngay trung tâm Mũi Né, gần bờ kè, nhiều quán ăn, nhà hàng, mart",
+                "comment_negative": "Resort hơi cũ:\n- bể bơi xuống cấp (bể gạch nhiều chỗ),\n- máy lạnh cũ (ko đủ mát),\n- phòng bungalow nhưng cửa sổ ko mở được (chỉ 2/3 cửa có thể mở),\n- phục vụ thức ăn hạn chế, giá cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiDC3id0RsCfzT-VaZSM0FwkD1TcE4Fn49V9B5h=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở ngay trung tâm Mũi Né, xung quanh có nhiều quán cafe để chill. Chỉ cần bước sang bên kia đường là thấy đc biển\nNhân viên cực kỳ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Rất thích",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "hồ bơi, nhân viên rất thân thiện, thức ăn ngon.",
+                "comment_negative": "không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ08j51A6Dv-rRIIo8X3YIu4QHSzdWZwDr8--ZVPv04=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá tốt",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh6.googleusercontent.com/-hSfgUOUxrI4/AAAAAAAAAAI/AAAAAAAABtk/2tpMYDBWLj8/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Thời gian checkin theo quy định là 15h, theo mình thì giờ đó hơi trễ, và buộc khách phải checkout lúc 11h\nTrong phòng tắm không có xà phòng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người có Sân hiên",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian yên tĩnh, thư giãn.\nBữa sáng vừa đủ, nhưng nếu menu phong phú hơn thì càng tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng ngon,đa dạng.View đẹp,phòng nghĩ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiên nhiên gần gũi, vị trí tốt, khá sạch sẽ thoáng mát, vibe phù hợp với ng thích yên tĩnh, ko xô bồ. Phục vụ thân thiện",
+                "comment_negative": "Nhân viên quá gắt gạo về tiền. Booking ko yêu cầu thành toán nhưng lại gọi điện yêu cầu cọc 30% ko thì ko cam kết giữ phòng. Yêu cầu thành toán trước mọi khoản dù rất nhỏ. Mình có 5 ng ngày 1, 4 người ngày 2 vì 1 ng về sớm nhưng, bắt mua phiếu ăn sáng trước cho 2 ngày và ko hoàn tiền vé nên mình bị mua dư 1 vé ăn ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtcAL0cBHihEmiBJ80Dsbaojm3924OcFxUhB5FS1=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tốt, an toàn",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận tiện. Gần nhiều quán cà phê, quán ăn",
+                "comment_negative": "Không có bãi biển riêng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2023",
+                "rating": "hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Đồ ăn rất ngon",
+                "comment_negative": "Muỗi nhiều quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/16851633.jpg?k=5333e430de313b4534a171c3b25b3877a1ce3634cab811b8c52ed58d07d0c37c&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tạm được",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, ngay trung tâm Mũi Né, gần bờ kè, nhiều quán ăn, nhà hàng, mart",
+                "comment_negative": "Resort hơi cũ:\n- bể bơi xuống cấp (bể gạch nhiều chỗ),\n- máy lạnh cũ (ko đủ mát),\n- phòng bungalow nhưng cửa sổ ko mở được (chỉ 2/3 cửa có thể mở),\n- phục vụ thức ăn hạn chế, giá cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiDC3id0RsCfzT-VaZSM0FwkD1TcE4Fn49V9B5h=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Bungalow với Sân hiên",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ ở ngay trung tâm Mũi Né, xung quanh có nhiều quán cafe để chill. Chỉ cần bước sang bên kia đường là thấy đc biển\nNhân viên cực kỳ dễ thương",
+                "comment_negative": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,528 @@
+{
+    "name": "Hotel Vũng Găng",
+    "address": "thôn Vĩnh Hy , xã Vĩnh Hải, Huyện Ninh Hải, tỉnh NInh Thuận 2 tầng, Vịnh Vĩnh Hy, Việt Nam",
+    "description": "Hotel Vũng Găng cung cấp chỗ nghỉ giáp biển ở Vịnh Vĩnh Hy. Ngoài dịch vụ tiền sảnh, chỗ nghỉ này còn có sân hiên. Chỗ nghỉ cung cấp lễ tân 24/24, dịch vụ đưa đón sân bay, dịch vụ phòng và Wi-Fi miễn phí ở toàn bộ chỗ nghỉ.\n\nSân bay gần nhất là Sân bay Liên Khương, cách khách sạn 148 km.",
+    "rating": "9.4",
+    "total_rating": "30",
+    "evaluation_categories": {
+        "service_staff": 9.8,
+        "amenities": 9.2,
+        "cleanliness": 9.5,
+        "comfort": 9.5,
+        "value_for_money": 9.6,
+        "location": 9.9,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI8pH5cwGmwTtZIITgPtfskdLPEAfMZR6iroF-QnTKj4OZA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/03/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sát biển rất đẹp, chị chủ dễ thương , thoải mái . Tóm lại 10đ ko có nhưng",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đào",
+                "avatar": "https://graph.facebook.com/v2.9/2348325781974462/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Tiện nghi, sạch sẽ chị chủ và nhân viên dễ thương. Hỗ trợ nhanh chóng, máy lạnh phòng mát, thiết bị sử dụng tốt. Nên ở khi ra đây nhaaa !",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hùng",
+                "avatar": "https://lh3.googleusercontent.com/-qntNwF4UjGE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNJ_chd4yXhW7sIL873TCjFD1h0tQ/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/03/2024",
+                "rating": "Tuyệt vời ...",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ngay bờ kè sát biển ,dễ tìm .Ngay khu tập trung nhiều quán xá ,view đẹp",
+                "comment_negative": "Có thêm tủ lạnh mini sẽ tiện hơn ..."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quế",
+                "avatar": "https://graph.facebook.com/v2.9/3523919211255024/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chổ ở sạch sẽ chị chủ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Tuyệt vời , đáng giá tiền",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lâm",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2UVvInL0_0iEthSYdZ8RI_oWvxUoAB3RlIqGa3dSg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Tuyệt vời hơn cả mong đại",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoan",
+                "avatar": "https://graph.facebook.com/v2.9/1729986307505485/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/012/2023",
+                "rating": "Cặp đôi du lịch",
+                "score": 10.0,
+                "room_type": "Phòng Giường đôi Deluxe (2 Người lớn + 1 Trẻ em)",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rất vừa ý, ks mới, phòng cực sạch sẻ và thơm thoa , mình đặt view biển nhung hết phòng , phòng view núi cũng có ban công sau rát chill và đẹp. Chị chủ nhiệt tình thân thiện. Lần sau có đến Vĩnh Hy nhất định phải ghé lại ở đây mới được. Giá rẻ so với các phòng view biển khác. \nĐặt biệt KS còn có sân thượng ngắm bình minh cực chill",
+                "comment_negative": "Vị trí đẹp, sạch sẻ, giá rẻ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/012/2023",
+                "rating": "10 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi có Ban công và Nhìn ra Biển",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng siêu sạch sẽ, hiện đại, thơm. View nhìn ra vĩnh rất đẹp luôn. Chủ khách sạn siêu nhiệt tình và dễ thương luôn ý. Giá cả phòng cũng phải chăng. Nếu có dịp nhất định sẽ ghé nữa :3",
+                "comment_negative": "Ở ngay vĩnh biển nên gió thổi hơi to hơi sợ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt vời, nếu có dịp. Sẽ quay lại ks Vũng Găng",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi có Ban công và Nhìn ra Biển",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sân thượng hướng biện, rất là chill",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngo",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ0lvXsV4b6xNVp_B-lgfUE-PlEPLD5tcjRDeBNAr6l=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi có Ban công và Nhìn ra Biển",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất thân thiện, dễ thương, nhiệt tình. Phòng view nhìn ra vịnh rất đẹp. Phòng diện tích vừa phải mà đầy đủ đồ dùng, sạch sẽ mình rất hài lòng",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI8pH5cwGmwTtZIITgPtfskdLPEAfMZR6iroF-QnTKj4OZA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/03/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sát biển rất đẹp, chị chủ dễ thương , thoải mái . Tóm lại 10đ ko có nhưng",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đào",
+                "avatar": "https://graph.facebook.com/v2.9/2348325781974462/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Tiện nghi, sạch sẽ chị chủ và nhân viên dễ thương. Hỗ trợ nhanh chóng, máy lạnh phòng mát, thiết bị sử dụng tốt. Nên ở khi ra đây nhaaa !",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hùng",
+                "avatar": "https://lh3.googleusercontent.com/-qntNwF4UjGE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNJ_chd4yXhW7sIL873TCjFD1h0tQ/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/03/2024",
+                "rating": "Tuyệt vời ...",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ngay bờ kè sát biển ,dễ tìm .Ngay khu tập trung nhiều quán xá ,view đẹp",
+                "comment_negative": "Có thêm tủ lạnh mini sẽ tiện hơn ..."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quế",
+                "avatar": "https://graph.facebook.com/v2.9/3523919211255024/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chổ ở sạch sẽ chị chủ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Tuyệt vời , đáng giá tiền",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lâm",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2UVvInL0_0iEthSYdZ8RI_oWvxUoAB3RlIqGa3dSg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Tuyệt vời hơn cả mong đại",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoan",
+                "avatar": "https://graph.facebook.com/v2.9/1729986307505485/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/012/2023",
+                "rating": "Cặp đôi du lịch",
+                "score": 10.0,
+                "room_type": "Phòng Giường đôi Deluxe (2 Người lớn + 1 Trẻ em)",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rất vừa ý, ks mới, phòng cực sạch sẻ và thơm thoa , mình đặt view biển nhung hết phòng , phòng view núi cũng có ban công sau rát chill và đẹp. Chị chủ nhiệt tình thân thiện. Lần sau có đến Vĩnh Hy nhất định phải ghé lại ở đây mới được. Giá rẻ so với các phòng view biển khác. \nĐặt biệt KS còn có sân thượng ngắm bình minh cực chill",
+                "comment_negative": "Vị trí đẹp, sạch sẻ, giá rẻ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/012/2023",
+                "rating": "10 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi có Ban công và Nhìn ra Biển",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng siêu sạch sẽ, hiện đại, thơm. View nhìn ra vĩnh rất đẹp luôn. Chủ khách sạn siêu nhiệt tình và dễ thương luôn ý. Giá cả phòng cũng phải chăng. Nếu có dịp nhất định sẽ ghé nữa :3",
+                "comment_negative": "Ở ngay vĩnh biển nên gió thổi hơi to hơi sợ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt vời, nếu có dịp. Sẽ quay lại ks Vũng Găng",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi có Ban công và Nhìn ra Biển",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sân thượng hướng biện, rất là chill",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngo",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ0lvXsV4b6xNVp_B-lgfUE-PlEPLD5tcjRDeBNAr6l=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi có Ban công và Nhìn ra Biển",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất thân thiện, dễ thương, nhiệt tình. Phòng view nhìn ra vịnh rất đẹp. Phòng diện tích vừa phải mà đầy đủ đồ dùng, sạch sẽ mình rất hài lòng",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocI8pH5cwGmwTtZIITgPtfskdLPEAfMZR6iroF-QnTKj4OZA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/03/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sát biển rất đẹp, chị chủ dễ thương , thoải mái . Tóm lại 10đ ko có nhưng",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đào",
+                "avatar": "https://graph.facebook.com/v2.9/2348325781974462/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Tiện nghi, sạch sẽ chị chủ và nhân viên dễ thương. Hỗ trợ nhanh chóng, máy lạnh phòng mát, thiết bị sử dụng tốt. Nên ở khi ra đây nhaaa !",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hùng",
+                "avatar": "https://lh3.googleusercontent.com/-qntNwF4UjGE/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNJ_chd4yXhW7sIL873TCjFD1h0tQ/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/03/2024",
+                "rating": "Tuyệt vời ...",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ngay bờ kè sát biển ,dễ tìm .Ngay khu tập trung nhiều quán xá ,view đẹp",
+                "comment_negative": "Có thêm tủ lạnh mini sẽ tiện hơn ..."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quế",
+                "avatar": "https://graph.facebook.com/v2.9/3523919211255024/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chổ ở sạch sẽ chị chủ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Tuyệt vời , đáng giá tiền",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lâm",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocL2UVvInL0_0iEthSYdZ8RI_oWvxUoAB3RlIqGa3dSg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Tuyệt vời hơn cả mong đại",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoan",
+                "avatar": "https://graph.facebook.com/v2.9/1729986307505485/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/012/2023",
+                "rating": "Cặp đôi du lịch",
+                "score": 10.0,
+                "room_type": "Phòng Giường đôi Deluxe (2 Người lớn + 1 Trẻ em)",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rất vừa ý, ks mới, phòng cực sạch sẻ và thơm thoa , mình đặt view biển nhung hết phòng , phòng view núi cũng có ban công sau rát chill và đẹp. Chị chủ nhiệt tình thân thiện. Lần sau có đến Vĩnh Hy nhất định phải ghé lại ở đây mới được. Giá rẻ so với các phòng view biển khác. \nĐặt biệt KS còn có sân thượng ngắm bình minh cực chill",
+                "comment_negative": "Vị trí đẹp, sạch sẻ, giá rẻ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/012/2023",
+                "rating": "10 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi có Ban công và Nhìn ra Biển",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng siêu sạch sẽ, hiện đại, thơm. View nhìn ra vĩnh rất đẹp luôn. Chủ khách sạn siêu nhiệt tình và dễ thương luôn ý. Giá cả phòng cũng phải chăng. Nếu có dịp nhất định sẽ ghé nữa :3",
+                "comment_negative": "Ở ngay vĩnh biển nên gió thổi hơi to hơi sợ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt vời, nếu có dịp. Sẽ quay lại ks Vũng Găng",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi có Ban công và Nhìn ra Biển",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sân thượng hướng biện, rất là chill",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngo",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ0lvXsV4b6xNVp_B-lgfUE-PlEPLD5tcjRDeBNAr6l=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi có Ban công và Nhìn ra Biển",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất thân thiện, dễ thương, nhiệt tình. Phòng view nhìn ra vịnh rất đẹp. Phòng diện tích vừa phải mà đầy đủ đồ dùng, sạch sẽ mình rất hài lòng",
+                "comment_negative": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,4438 @@
+{
+    "name": "Hugo Homestay",
+    "address": "Thôn 1, Sơn Trạch, Bố Trạch, Quảng Bình, Phong Nha, Việt Nam",
+    "description": "Hugo Homestay cung cấp chỗ nghỉ đạt chuẩn 3 sao có tiện nghi chơi thể thao dưới nước, xe máy miễn phí, hồ bơi ngoài trời, lễ tân 24 giờ, nhà hàng và WiFi miễn phí nằm tại khu vực Phong Nha.\n\nChỗ nghỉ này phục vụ bữa sáng kiểu Á.\n\nKhách nghỉ tại Hugo Homestay có thể thư giãn trên sân hiên hoặc tham gia các hoạt động trong và xung quanh khu vực Phong Nha, như đi xe đạp.\n\nSân bay Đồng Hới cách đó 42 km.",
+    "rating": "9",
+    "total_rating": "257",
+    "evaluation_categories": {
+        "service_staff": 9.5,
+        "amenities": 9.1,
+        "cleanliness": 9.3,
+        "comfort": 9.4,
+        "value_for_money": 9.5,
+        "location": 8.7,
+        "free_wifi": 9.2
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/08/2022",
+                "rating": "Chỗ ở có hồ bơi , khá thuận tiện , phòng rộng , giá rẻ , nhưng mình khôgn thích thuê xe máy ở đây",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng khá đơn giản , nhưng ổn",
+                "comment_negative": "vấn đề thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Gia đình chủ nhà rất thân thiện và hiếu khách. Phòng sạch sẽ. Đồ ăn rất tươi, nấu rất ngon.",
+                "comment_negative": "Nhà vệ sinh còn hơi mùi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/08/2023",
+                "rating": "9+",
+                "score": 9.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Không gian chill chill, rộng rãi thoáng mát, phòng dorm 10 giường cực rộng, sạch sẽ và dễ chịu. Gia đình anh chị chủ thì dễ tính, thoải mái lắm ạ. Mình thích yên tĩnh, nghĩ ngơi nên kỳ nghỉ ở Hugo homestay với mình rất tuyệt!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "Tuyệt vời!",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Anh chị chủ nhiệt tình, chu đáo, phòng ốc sạch sẽ!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng siêu rộng, thoáng",
+                "comment_negative": "hoàn hảo"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Giường Tầng Trong Phòng Ngủ Tập Thể Cho Nam Và Nữ",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Anh chị chủ niềm nở nhiệt tình \nKhông gian ấm áp dễ chịu phòng sạch thơm tho\nSẽ ủng hộ 1 ngày ko xa",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/012/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ nhà nhiệt tình, niềm nở và đặc biệt nấu ăn rất ngon. Cả nhà tôi đều rất hài lòng với thời gian lưu trú tại đây.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2022",
+                "rating": "Phải nói trên cả tuyệt với",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phục vụ tốt chủ thân thiện mọi thứ điều tốt từ giá tiền đến tiện nghi",
+                "comment_negative": "có lẽ là ko có điều gì ko thích"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện, phòng rộng sạch sẽ, giá phòng rẻ",
+                "comment_negative": "Chưa chăm sóc kỹ về vật dụng cơ bản, (dầu gội đầu bị thiếu, nước hồ bơi không thực sự sạch)"
+            }
+        }
+    ]
+}

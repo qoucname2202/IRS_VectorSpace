@@ -1,0 +1,137 @@
+{
+    "name": "Hoang Ngoc Boutique Hotel",
+    "address": "Đường 1/4 Trung Tâm Cat Ba, Đảo Cát Bà, Việt Nam",
+    "description": "Hoang Ngoc Boutique Hotel nằm ở Đảo Cát Bà, cách Cannon Fort 17 phút đi bộ và Ben Beo Harbour 1.8 km. Ngoài quầy bar, khách sạn 3 sao này có các phòng được trang bị điều hòa và Wi-Fi miễn phí, trong đó mỗi phòng sẽ có phòng tắm riêng. Chỗ nghỉ này cung cấp dịch vụ phòng và quầy lễ tân 24 giờ cho khách.\n\nChỗ nghỉ có phục vụ bữa sáng kiểu Anh/ Ai-len, kiểu Á hoặc món chay mỗi sáng.\n\nCác điểm tham quan nổi tiếng gần khách sạn bao gồm Bãi biển Cat Co 1, Bãi biển Cat Co 3 và Bãi biển Cát Cò 2. Sân bay gần nhất là Sân bay Quốc tế Cát Bi, cách Hoang Ngoc Boutique Hotel 50 km, đồng thời chỗ nghỉ có cung cấp dịch vụ đưa đón sân bay mất phí.",
+    "rating": "10",
+    "total_rating": "7",
+    "evaluation_categories": {
+        "service_staff": 10.0,
+        "amenities": 10.0,
+        "cleanliness": 10.0,
+        "comfort": 10.0,
+        "value_for_money": 10.0,
+        "location": 10.0,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Đạt",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Khách sạn ngay trung tâm cát bà, vài phút đi bô ra biễn, view biển rất đẹp. Nhận viên thân thiện. Sẽ quay lại",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Bỉ"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Kì nghỉ tuyệt vời, giá hợp lý ngày trung tâm đi bộ ra bờ biển \nSẽ quay lại khách sạn này và giới thiệu bạn bè",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tomlee33",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gjc5fPKM5e03el8BFKikxCAF5qFgzvonbldjzGg2w=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Thanks for your service we will back here when next holiday!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Martin",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtf8iETGPcRvDRNW31uR28YbN2B9ls580djKaySfywca=s96-c",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Good location, great service",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "The room was nice and spacious and the bathroom was big and clean. The food was good and the us into town in the evening was also a great addition. They also helped with onward travel.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bere",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-b.png",
+                "country": "Áo"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Li",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Ba Lan"
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

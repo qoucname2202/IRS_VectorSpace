@@ -1,0 +1,3928 @@
+{
+    "name": "Thien Thanh Hotel",
+    "address": "Provincial highway 20 Son Trach, Phong Nha, Việt Nam",
+    "description": "Thien Thanh Hotel có khu vườn, phòng chờ chung, sân hiên và nhà hàng ở Phong Nha. Chỗ nghỉ cung cấp lễ tân 24/24, dịch vụ đưa đón sân bay, dịch vụ phòng và Wi-Fi miễn phí.\n\nMỗi phòng đều có điều hòa, ngoài ra một số căn tại khách sạn có ban công.\n\nLeo núi và đi xe đạp là hoạt động được ưa chuộng trong khu vực. Ngoài ra, khách sạn 2 sao này có dịch vụ thuê xe đạp.\n\nSân bay gần nhất là Sân bay Đồng Hới, cách Thien Thanh Hotel 37 km.",
+    "rating": "9",
+    "total_rating": "222",
+    "evaluation_categories": {
+        "service_staff": 9.5,
+        "amenities": 8.8,
+        "cleanliness": 9.1,
+        "comfort": 9.1,
+        "value_for_money": 9.4,
+        "location": 9.7,
+        "free_wifi": 8.2
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn có bể bơi sạch sẽ, view sau khách sạn siêu đẹp luôn. Anh chị chủ thân thiện, thoải mái, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/4530872321598778/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn ở vị trí trung tâm, xung quanh có nhiều hàng quán, cách động Phong Nha chỉ 1km đổ lại. Khách sạn không có thang máy, có người xách vali lên nhưng phải tự xách vali xuống. Chủ khách sạn thân thiện, nhiệt tình giúp đỡ khách hàng, chị chủ đã giới thiệu cho chúng tôi một nhà hàng rất ngon, giá cả hợp lí nhưng tôi quên tên rồi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/010/2023",
+                "rating": "Nhiệt tình, chu đáo, có tâm",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chị chủ rất nhiệt tình chào đón. Đi chơi ở đâu đẹp, thế nào cho tiết kiệm đều được tư vấn rõ ràng. Dù chỉ ở lại một đêm nhưng mình vẫn được phục vụ chu đáo. Phòng ốc rộng rãi, thoải mái, đầy đủ tiện nghi, có bao bữa sáng.\nKhách sạn cực kỳ gần động Phong Nha nên đi tham quan cũng tiện, cách động Thiên Đường khoảng 40p chạy xe máy nhưng đường tương đối dễ đi, chủ yếu là đường nhựa.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phục vụ nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm tuyệt vời. Cô chủ rất thân thiện và nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": "https://graph.facebook.com/v2.9/7808013252543841/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/06/2023",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình Nhìn ra Khu vườn",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chị chủ nhiệt tình, vui vẻ. chỗ ở sạch sẽ. sẽ quay lại nếu đi phong nha",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "300m gần bến đò đi Động Phong Nha. vị trí rất thuận lợi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Muoi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/01/2023",
+                "rating": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ, có dịp sẽ quay lại chỗ này",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ thoải mái, gần trung tâm, nhân viên dễ thương vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2022",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngon miệng",
+                "comment_negative": "Ko"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Leo",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Nga"
+            },
+            "review": {
+                "date": "10/08/2022",
+                "rating": "100 điểm",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu chuẩn Giường Đôi với Ban công",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Chị chủ rất thân thiện, luôn cười tươi với chất giọng miền trung đặc trưng. Bể bơi rất sạch, mình hầu như không ngửi thấy mùi nước tẩy, 100 điểm. Khách sạn có rất nhiều không gian mở, sát núi. Giá phòng rất rẻ nếu so với các tiện ích đem lại!",
+                "comment_negative": "Ngày mình đi khách sạn gần kín phòng nên wifi hơi kém."
+            }
+        }
+    ]
+}

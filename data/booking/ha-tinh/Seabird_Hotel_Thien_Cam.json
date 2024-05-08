@@ -1,0 +1,528 @@
+{
+    "name": "Seabird Hotel Thien Cam",
+    "address": "Thien Cam Beach Cam Xuyen District, Hà Tĩnh, Việt Nam",
+    "description": "Nằm giáp biển, Seabird Hotel Thien Cam cung cấp chỗ nghỉ 4 sao ở Hà Tĩnh, đồng thời có hồ bơi ngoài trời, khu vườn và sân hiên. Chỗ nghỉ này có các tiện nghi như nhà hàng, câu lạc bộ trẻ em và dịch vụ phòng, cùng với Wi-Fi miễn phí ở toàn bộ chỗ nghỉ. Chỗ nghỉ này cung cấp quầy lễ tân 24 giờ, dịch vụ tiền sảnh và dịch vụ thu đổi ngoại tệ cho khách.\n\nTất cả các căn tại khách sạn được trang bị điều hòa, khu vực ghế ngồi, TV màn hình phẳng có truyền hình cáp, két an toàn, phòng tắm riêng, vòi xịt/chậu rửa vệ sinh, đồ vệ sinh cá nhân miễn phí và máy sấy tóc. Tại Seabird Hotel Thien Cam, tất cả các phòng đều được thiết kế có ga trải giường và khăn tắm.\n\nSân bay gần nhất là Sân bay quốc tế Vinh, cách chỗ nghỉ 81 km.",
+    "rating": "8.5",
+    "total_rating": "26",
+    "evaluation_categories": {
+        "service_staff": 8.8,
+        "amenities": 8.9,
+        "cleanliness": 8.9,
+        "comfort": 9.0,
+        "value_for_money": 8.1,
+        "location": 8.3,
+        "free_wifi": 8.8
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Lần đầu tiên lái xe ô tô xuống tận Thiên Cầm nhưng thực sự mình vô cùng hài lòng khi được nghỉ ngơi trong không gian thoải mái và tiện nghi của khách sạn Seabird. Cửa sổ phòng nhìn ra biển thật tuyệt vời. Đồ ăn rất ngon và đa dạng. Xứng đáng là điểm dừng chân lý tưởng sau 1 quãng đường di chuyển khá dài từ HN xuống.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Pham",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng chưa được phong phú, trứng chiên bị vỡ, nước phở quá mặn, rau sống rửa chưa sạch, nước xốt dùng cho salad không được phong phú",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vi",
+                "avatar": "https://lh5.googleusercontent.com/-okE6G11EoAE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl2zYvKdZT_5lweyeTo5WcL7JPJAQ/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/09/2023",
+                "rating": "Tốt, có dịp sẽ quay lại!",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn đẹp, nội thất chất lượng tốt!",
+                "comment_negative": "Bữa sáng hơi nguội, bàn ăn bằng đá để lại nhiều vết nhìn rất mất thẩm mỹ!"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuyết",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/08/2023",
+                "rating": "Kỳ nghỉ khá tuyệt. Biển Thiên Cầm rất đẹp đặc biệt vào sáng sớm",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 3 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng connecting rất đẹp. Khách sạn view biển đẹp tiện nghi.",
+                "comment_negative": "Bữa sáng không được ngon miệng. Phòng ăn sáng hơi chật chội vào cao điểm. Lễ Tân phục vụ check in check out hơi chậm ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe 3 Người Nhìn Ra Biển",
+                "stay_duration": "3 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng nghỉ rất được, đồ ăn cần được cải thiện về chất lượng và giá cả.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ha",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/02/2024",
+                "rating": "Thất vọng",
+                "score": 4.0,
+                "room_type": "Phòng Deluxe 3 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": "Nhân viên không thân thiện, bữa sáng 250.000 mà chỉ có phở gà.\nKhách sạn đưa giá phòng bao gồm ăn sáng 250.000/người. Tuy nhiên lúc đến nhận phòng lễ tân thômg báo do mùa thấp điểm nên ăn sáng chỉ có phở gà. Nên hôm sau gia đình tôi bỏ bữa ăn sáng ở KS\nKhông có nhân viên hỗ trợ chuyển hành lý"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Steven",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/57035862.jpg?k=a02a49a7b7128b55c9e236fdf0cc316c32ed6b42afa4b27a0439f267eb56c494&o=",
+                "country": "Bulgaria"
+            },
+            "review": {
+                "date": "22/01/2024",
+                "rating": "This is a superb hotel",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Everything you could require.",
+                "comment_negative": "The whole surrounding area and in close vicinity was totally derelict and decaying."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Philippe",
+                "avatar": "https://graph.facebook.com/v2.9/102029605809677487649/picture?type=square&height=64&width=64",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "24/010/2023",
+                "rating": "Good choice",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Location. Freedom. Helpful. Kind",
+                "comment_negative": "To be awaken at 10 am to clean the room"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2023",
+                "rating": "Goodq",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 3 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Good location, newly-built facilities",
+                "comment_negative": "I had late breakfast at 8h45. Several dishes were empty. I requested for refill, but no action was made."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "David",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Campuchia"
+            },
+            "review": {
+                "date": "30/06/2023",
+                "rating": "I had a nice pleasant stay in this  new hotel and the staff were very friendly and helpful .",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Breakfast was great a good variety of food. Staff very friendly and helpful. I liked the beach across the road just like Australian beaches. Great sea views and i had a nice comfy bed. I  will come back again to this hotel.",
+                "comment_negative": "Found everything fine all good"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Lần đầu tiên lái xe ô tô xuống tận Thiên Cầm nhưng thực sự mình vô cùng hài lòng khi được nghỉ ngơi trong không gian thoải mái và tiện nghi của khách sạn Seabird. Cửa sổ phòng nhìn ra biển thật tuyệt vời. Đồ ăn rất ngon và đa dạng. Xứng đáng là điểm dừng chân lý tưởng sau 1 quãng đường di chuyển khá dài từ HN xuống.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Pham",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng chưa được phong phú, trứng chiên bị vỡ, nước phở quá mặn, rau sống rửa chưa sạch, nước xốt dùng cho salad không được phong phú",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vi",
+                "avatar": "https://lh5.googleusercontent.com/-okE6G11EoAE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl2zYvKdZT_5lweyeTo5WcL7JPJAQ/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/09/2023",
+                "rating": "Tốt, có dịp sẽ quay lại!",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn đẹp, nội thất chất lượng tốt!",
+                "comment_negative": "Bữa sáng hơi nguội, bàn ăn bằng đá để lại nhiều vết nhìn rất mất thẩm mỹ!"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuyết",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/08/2023",
+                "rating": "Kỳ nghỉ khá tuyệt. Biển Thiên Cầm rất đẹp đặc biệt vào sáng sớm",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 3 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng connecting rất đẹp. Khách sạn view biển đẹp tiện nghi.",
+                "comment_negative": "Bữa sáng không được ngon miệng. Phòng ăn sáng hơi chật chội vào cao điểm. Lễ Tân phục vụ check in check out hơi chậm ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe 3 Người Nhìn Ra Biển",
+                "stay_duration": "3 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng nghỉ rất được, đồ ăn cần được cải thiện về chất lượng và giá cả.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ha",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/02/2024",
+                "rating": "Thất vọng",
+                "score": 4.0,
+                "room_type": "Phòng Deluxe 3 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": "Nhân viên không thân thiện, bữa sáng 250.000 mà chỉ có phở gà.\nKhách sạn đưa giá phòng bao gồm ăn sáng 250.000/người. Tuy nhiên lúc đến nhận phòng lễ tân thômg báo do mùa thấp điểm nên ăn sáng chỉ có phở gà. Nên hôm sau gia đình tôi bỏ bữa ăn sáng ở KS\nKhông có nhân viên hỗ trợ chuyển hành lý"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Steven",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/57035862.jpg?k=a02a49a7b7128b55c9e236fdf0cc316c32ed6b42afa4b27a0439f267eb56c494&o=",
+                "country": "Bulgaria"
+            },
+            "review": {
+                "date": "22/01/2024",
+                "rating": "This is a superb hotel",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Everything you could require.",
+                "comment_negative": "The whole surrounding area and in close vicinity was totally derelict and decaying."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Philippe",
+                "avatar": "https://graph.facebook.com/v2.9/102029605809677487649/picture?type=square&height=64&width=64",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "24/010/2023",
+                "rating": "Good choice",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Location. Freedom. Helpful. Kind",
+                "comment_negative": "To be awaken at 10 am to clean the room"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2023",
+                "rating": "Goodq",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 3 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Good location, newly-built facilities",
+                "comment_negative": "I had late breakfast at 8h45. Several dishes were empty. I requested for refill, but no action was made."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "David",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Campuchia"
+            },
+            "review": {
+                "date": "30/06/2023",
+                "rating": "I had a nice pleasant stay in this  new hotel and the staff were very friendly and helpful .",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Breakfast was great a good variety of food. Staff very friendly and helpful. I liked the beach across the road just like Australian beaches. Great sea views and i had a nice comfy bed. I  will come back again to this hotel.",
+                "comment_negative": "Found everything fine all good"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Lần đầu tiên lái xe ô tô xuống tận Thiên Cầm nhưng thực sự mình vô cùng hài lòng khi được nghỉ ngơi trong không gian thoải mái và tiện nghi của khách sạn Seabird. Cửa sổ phòng nhìn ra biển thật tuyệt vời. Đồ ăn rất ngon và đa dạng. Xứng đáng là điểm dừng chân lý tưởng sau 1 quãng đường di chuyển khá dài từ HN xuống.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Pham",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng chưa được phong phú, trứng chiên bị vỡ, nước phở quá mặn, rau sống rửa chưa sạch, nước xốt dùng cho salad không được phong phú",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vi",
+                "avatar": "https://lh5.googleusercontent.com/-okE6G11EoAE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl2zYvKdZT_5lweyeTo5WcL7JPJAQ/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/09/2023",
+                "rating": "Tốt, có dịp sẽ quay lại!",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn đẹp, nội thất chất lượng tốt!",
+                "comment_negative": "Bữa sáng hơi nguội, bàn ăn bằng đá để lại nhiều vết nhìn rất mất thẩm mỹ!"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuyết",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/08/2023",
+                "rating": "Kỳ nghỉ khá tuyệt. Biển Thiên Cầm rất đẹp đặc biệt vào sáng sớm",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 3 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng connecting rất đẹp. Khách sạn view biển đẹp tiện nghi.",
+                "comment_negative": "Bữa sáng không được ngon miệng. Phòng ăn sáng hơi chật chội vào cao điểm. Lễ Tân phục vụ check in check out hơi chậm ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe 3 Người Nhìn Ra Biển",
+                "stay_duration": "3 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng nghỉ rất được, đồ ăn cần được cải thiện về chất lượng và giá cả.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ha",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/02/2024",
+                "rating": "Thất vọng",
+                "score": 4.0,
+                "room_type": "Phòng Deluxe 3 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": "Nhân viên không thân thiện, bữa sáng 250.000 mà chỉ có phở gà.\nKhách sạn đưa giá phòng bao gồm ăn sáng 250.000/người. Tuy nhiên lúc đến nhận phòng lễ tân thômg báo do mùa thấp điểm nên ăn sáng chỉ có phở gà. Nên hôm sau gia đình tôi bỏ bữa ăn sáng ở KS\nKhông có nhân viên hỗ trợ chuyển hành lý"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Steven",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/57035862.jpg?k=a02a49a7b7128b55c9e236fdf0cc316c32ed6b42afa4b27a0439f267eb56c494&o=",
+                "country": "Bulgaria"
+            },
+            "review": {
+                "date": "22/01/2024",
+                "rating": "This is a superb hotel",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Everything you could require.",
+                "comment_negative": "The whole surrounding area and in close vicinity was totally derelict and decaying."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Philippe",
+                "avatar": "https://graph.facebook.com/v2.9/102029605809677487649/picture?type=square&height=64&width=64",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "24/010/2023",
+                "rating": "Good choice",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Location. Freedom. Helpful. Kind",
+                "comment_negative": "To be awaken at 10 am to clean the room"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Van",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/07/2023",
+                "rating": "Goodq",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 3 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Good location, newly-built facilities",
+                "comment_negative": "I had late breakfast at 8h45. Several dishes were empty. I requested for refill, but no action was made."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "David",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Campuchia"
+            },
+            "review": {
+                "date": "30/06/2023",
+                "rating": "I had a nice pleasant stay in this  new hotel and the staff were very friendly and helpful .",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi/2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Breakfast was great a good variety of food. Staff very friendly and helpful. I liked the beach across the road just like Australian beaches. Great sea views and i had a nice comfy bed. I  will come back again to this hotel.",
+                "comment_negative": "Found everything fine all good"
+            }
+        }
+    ]
+}

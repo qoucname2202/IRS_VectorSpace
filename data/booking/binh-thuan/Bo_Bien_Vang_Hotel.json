@@ -1,0 +1,528 @@
+{
+    "name": "Bờ Biển Vàng Hotel",
+    "address": "Lạc Long Quân, Thôn Thuận Thành, Thuận Quý,, Kê Gà, Việt Nam",
+    "description": "Nằm ở Kê Gà, cách Bãi biển Thuận Quý chỉ vài bước chân, Bờ Biển Vàng Hotel cung cấp chỗ nghỉ có hồ bơi ngoài trời, chỗ đậu xe riêng miễn phí, khu vườn và sân hiên. Chỗ nghỉ này có các tiện nghi như nhà hàng, dịch vụ phòng và quầy lễ tân 24 giờ, cùng với Wi-Fi miễn phí ở toàn bộ chỗ nghỉ. Đây là chỗ nghỉ không hút thuốc và tọa lạc cách Hải đăng Mũi Kê Gà 8.7 km.\n\nTại khách sạn, tất cả các phòng có điều hòa, bàn làm việc, ban công với view vườn, phòng tắm riêng, TV màn hình phẳng, ga trải giường và khăn tắm. Các phòng đều có ấm đun nước, trong đó một số phòng có sân trong và một số khác thì nhìn ra biển. Tất cả các căn có tủ quần áo.\n\nBờ Biển Vàng Hotel có phục vụ bữa sáng thực đơn buffet hoặc thực đơn à la carte.\n\nChỗ nghỉ cách Ga xe lửa Phan Thiết 24 km và Bến xe buýt Bình Thuận 25 km. Sân bay gần nhất là Sân bay Liên Khương, cách Bờ Biển Vàng Hotel 156 km.",
+    "rating": "8.9",
+    "total_rating": "27",
+    "evaluation_categories": {
+        "service_staff": 8.9,
+        "amenities": 8.8,
+        "cleanliness": 9.0,
+        "comfort": 9.3,
+        "value_for_money": 9.2,
+        "location": 8.7,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Vĩnh",
+                "avatar": "https://lh4.googleusercontent.com/-SttFS-s5eWk/AAAAAAAAAAI/AAAAAAAAADo/_JlEAQLLwqI/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn rất sạch sẽ và đầy đủ tiện nghi, từ sảnh lên đến phòng ở đều rất mới và sang. Phòng rộng, có view biển siêu đẹp luôn, nhà vệ sinh cũng rất rộng rãi thoải mái, đầy đủ đồ dùng. Lễ tân rất lịch sự và niềm nở, nhân viên khách sạn cũng rất thân thiện. Mình và gia đình siêu hài lòng luôn, chắc chắn sẽ quay lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bobby",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/03/2024",
+                "rating": "2 ngày là đáp ứng cho cá nhân tôi!",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Núi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Do khách ít nên ks ko tổ chức buftet sáng, đáng tiếc!",
+                "comment_negative": "Bãi đậu ô tô hướng nắng chính diện nên rất nóng nên thiết kế thêm lưới hoặc mái che để khách yên tâm!"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phong",
+                "avatar": "https://lh3.googleusercontent.com/a/AATXAJzk-IoMzUeGmYQ6wR6-WhFhFcxML_C12cbC04s5=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng đơn giản : các món cơm, món nước, bún/mì xào\nĐịa điểm : cách xa trung tâm, nhưng đây là đặc tính địa lý\nKhách sạn mới xây dựng nên mọi thứ đều mới, phòng sạch sẽ\nCó bãi biển riêng, hồ bơi cho trẻ em và cả người lớn",
+                "comment_negative": "Bữa sáng có ít sự lựa chọn\nDo khách sạn mới nên nhân viên chưa chuyên nghiệp, số lượng ít"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trido1986",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Núi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Tất cả Nhân viên dễ thương \nSach sẽ\nView đẹp\nĐồ ăn ngon rẻ",
+                "comment_negative": "Bãi biễn hơi dơ,tắm hơi khó dó địa hình"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tư",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIWXw8jjSwmSsZxiMhFtD6cTdFvUX_jdh39BC5t0lOEIlg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gần biển, hồ bơi sạch, phòng mới",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung",
+                "avatar": "https://graph.facebook.com/v2.9/113459343287171795824/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": "Biển nhiều rác"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJdKRyMNbJnOnBO97sqR_PGnJle7dxNQQ9hj2Dow8ep=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ ở gần novaworld tầm 20p đi xe, phù hợp để nghĩ dưỡng, gần đó có quán ăn hải sản cũng ổn, nói chung là hài lòng",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quân",
+                "avatar": "https://lh3.googleusercontent.com/a/AATXAJyn-n5Ax0Mrk-I278BOlZKKE-FcFj-Y2DcYbPMZ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/02/2024",
+                "rating": "Hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng view biển đẹp",
+                "comment_negative": "Bải biển ko được sạch cho lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lương",
+                "avatar": "https://lh3.googleusercontent.com/a/AATXAJxQaIpUSM1tR0cv8dvoaiVwJsdXQlfzAw6027Gd=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian tuyệt vời.",
+                "comment_negative": "Khách hàng nhiều, lễ tân khá bận rộn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linda",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "The manager was very helpful and made us breakfast super early in the morning because we were leaving early.  He did not have to do that.  We had a lovely room with a beautiful view of the ocean.",
+                "comment_negative": "There was fly paper on the lobby tables and dead flies everywhere in the lobby.  They closed the restaurant due to the flies and we needed to find dinner elsewhere."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vĩnh",
+                "avatar": "https://lh4.googleusercontent.com/-SttFS-s5eWk/AAAAAAAAAAI/AAAAAAAAADo/_JlEAQLLwqI/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn rất sạch sẽ và đầy đủ tiện nghi, từ sảnh lên đến phòng ở đều rất mới và sang. Phòng rộng, có view biển siêu đẹp luôn, nhà vệ sinh cũng rất rộng rãi thoải mái, đầy đủ đồ dùng. Lễ tân rất lịch sự và niềm nở, nhân viên khách sạn cũng rất thân thiện. Mình và gia đình siêu hài lòng luôn, chắc chắn sẽ quay lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bobby",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/03/2024",
+                "rating": "2 ngày là đáp ứng cho cá nhân tôi!",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Núi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Do khách ít nên ks ko tổ chức buftet sáng, đáng tiếc!",
+                "comment_negative": "Bãi đậu ô tô hướng nắng chính diện nên rất nóng nên thiết kế thêm lưới hoặc mái che để khách yên tâm!"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phong",
+                "avatar": "https://lh3.googleusercontent.com/a/AATXAJzk-IoMzUeGmYQ6wR6-WhFhFcxML_C12cbC04s5=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng đơn giản : các món cơm, món nước, bún/mì xào\nĐịa điểm : cách xa trung tâm, nhưng đây là đặc tính địa lý\nKhách sạn mới xây dựng nên mọi thứ đều mới, phòng sạch sẽ\nCó bãi biển riêng, hồ bơi cho trẻ em và cả người lớn",
+                "comment_negative": "Bữa sáng có ít sự lựa chọn\nDo khách sạn mới nên nhân viên chưa chuyên nghiệp, số lượng ít"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trido1986",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Núi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Tất cả Nhân viên dễ thương \nSach sẽ\nView đẹp\nĐồ ăn ngon rẻ",
+                "comment_negative": "Bãi biễn hơi dơ,tắm hơi khó dó địa hình"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tư",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIWXw8jjSwmSsZxiMhFtD6cTdFvUX_jdh39BC5t0lOEIlg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gần biển, hồ bơi sạch, phòng mới",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung",
+                "avatar": "https://graph.facebook.com/v2.9/113459343287171795824/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": "Biển nhiều rác"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJdKRyMNbJnOnBO97sqR_PGnJle7dxNQQ9hj2Dow8ep=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ ở gần novaworld tầm 20p đi xe, phù hợp để nghĩ dưỡng, gần đó có quán ăn hải sản cũng ổn, nói chung là hài lòng",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quân",
+                "avatar": "https://lh3.googleusercontent.com/a/AATXAJyn-n5Ax0Mrk-I278BOlZKKE-FcFj-Y2DcYbPMZ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/02/2024",
+                "rating": "Hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng view biển đẹp",
+                "comment_negative": "Bải biển ko được sạch cho lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lương",
+                "avatar": "https://lh3.googleusercontent.com/a/AATXAJxQaIpUSM1tR0cv8dvoaiVwJsdXQlfzAw6027Gd=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian tuyệt vời.",
+                "comment_negative": "Khách hàng nhiều, lễ tân khá bận rộn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linda",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "The manager was very helpful and made us breakfast super early in the morning because we were leaving early.  He did not have to do that.  We had a lovely room with a beautiful view of the ocean.",
+                "comment_negative": "There was fly paper on the lobby tables and dead flies everywhere in the lobby.  They closed the restaurant due to the flies and we needed to find dinner elsewhere."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vĩnh",
+                "avatar": "https://lh4.googleusercontent.com/-SttFS-s5eWk/AAAAAAAAAAI/AAAAAAAAADo/_JlEAQLLwqI/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn rất sạch sẽ và đầy đủ tiện nghi, từ sảnh lên đến phòng ở đều rất mới và sang. Phòng rộng, có view biển siêu đẹp luôn, nhà vệ sinh cũng rất rộng rãi thoải mái, đầy đủ đồ dùng. Lễ tân rất lịch sự và niềm nở, nhân viên khách sạn cũng rất thân thiện. Mình và gia đình siêu hài lòng luôn, chắc chắn sẽ quay lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bobby",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/03/2024",
+                "rating": "2 ngày là đáp ứng cho cá nhân tôi!",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Núi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Do khách ít nên ks ko tổ chức buftet sáng, đáng tiếc!",
+                "comment_negative": "Bãi đậu ô tô hướng nắng chính diện nên rất nóng nên thiết kế thêm lưới hoặc mái che để khách yên tâm!"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phong",
+                "avatar": "https://lh3.googleusercontent.com/a/AATXAJzk-IoMzUeGmYQ6wR6-WhFhFcxML_C12cbC04s5=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bữa sáng đơn giản : các món cơm, món nước, bún/mì xào\nĐịa điểm : cách xa trung tâm, nhưng đây là đặc tính địa lý\nKhách sạn mới xây dựng nên mọi thứ đều mới, phòng sạch sẽ\nCó bãi biển riêng, hồ bơi cho trẻ em và cả người lớn",
+                "comment_negative": "Bữa sáng có ít sự lựa chọn\nDo khách sạn mới nên nhân viên chưa chuyên nghiệp, số lượng ít"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trido1986",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Nhìn Ra Núi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Tất cả Nhân viên dễ thương \nSach sẽ\nView đẹp\nĐồ ăn ngon rẻ",
+                "comment_negative": "Bãi biễn hơi dơ,tắm hơi khó dó địa hình"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tư",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIWXw8jjSwmSsZxiMhFtD6cTdFvUX_jdh39BC5t0lOEIlg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gần biển, hồ bơi sạch, phòng mới",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung",
+                "avatar": "https://graph.facebook.com/v2.9/113459343287171795824/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": "Biển nhiều rác"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJdKRyMNbJnOnBO97sqR_PGnJle7dxNQQ9hj2Dow8ep=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ ở gần novaworld tầm 20p đi xe, phù hợp để nghĩ dưỡng, gần đó có quán ăn hải sản cũng ổn, nói chung là hài lòng",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quân",
+                "avatar": "https://lh3.googleusercontent.com/a/AATXAJyn-n5Ax0Mrk-I278BOlZKKE-FcFj-Y2DcYbPMZ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/02/2024",
+                "rating": "Hài lòng",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng view biển đẹp",
+                "comment_negative": "Bải biển ko được sạch cho lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lương",
+                "avatar": "https://lh3.googleusercontent.com/a/AATXAJxQaIpUSM1tR0cv8dvoaiVwJsdXQlfzAw6027Gd=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian tuyệt vời.",
+                "comment_negative": "Khách hàng nhiều, lễ tân khá bận rộn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linda",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "The manager was very helpful and made us breakfast super early in the morning because we were leaving early.  He did not have to do that.  We had a lovely room with a beautiful view of the ocean.",
+                "comment_negative": "There was fly paper on the lobby tables and dead flies everywhere in the lobby.  They closed the restaurant due to the flies and we needed to find dinner elsewhere."
+            }
+        }
+    ]
+}

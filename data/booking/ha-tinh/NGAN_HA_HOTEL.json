@@ -1,0 +1,698 @@
+{
+    "name": "NGAN HA HOTEL",
+    "address": "158 Trần Phú, Ðại Tiêt, Việt Nam",
+    "description": "NGAN HA HOTEL cung cấp quầy bar và nằm ở Ðại Tiêt. Ngoài khu vườn, khách sạn 3 sao này có các phòng được trang bị điều hòa và Wi-Fi miễn phí, trong đó mỗi phòng sẽ có phòng tắm riêng. Ở đây có nhà hàng phục vụ món ăn Á và chỗ đậu xe riêng miễn phí.\n\nTại khách sạn, tất cả các phòng đều được thiết kế có ban công. Tất cả các phòng đều có TV màn hình phẳng, ngoài ra một số phòng tại NGAN HA HOTEL có sân hiên.\n\nĐội ngũ nhân viên của chỗ nghỉ luôn túc trực tại lễ tân 24/24 để cung cấp thông tin cho du khách.\n\nSân bay gần nhất là Sân bay quốc tế Vinh, cách NGAN HA HOTEL 53 km.",
+    "rating": "7.8",
+    "total_rating": "",
+    "evaluation_categories": {
+        "service_staff": 8.6,
+        "amenities": 7.8,
+        "cleanliness": 8.2,
+        "comfort": 8.4,
+        "value_for_money": 8.4,
+        "location": 8.6,
+        "free_wifi": 10.0
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh4.googleusercontent.com/-orShD2jaaF4/AAAAAAAAAAI/AAAAAAAAHVg/08Y_14RzJXc/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn rộng có chỗ để xe",
+                "comment_negative": "Tivi cũ quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://lh5.googleusercontent.com/-7_gDNDM30j8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_skpAH3f62wpv1sBIqTwAKGp4yA/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/08/2022",
+                "rating": "Tàm tạm",
+                "score": 5.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "vị trí tiện lợi",
+                "comment_negative": "ăn sáng đóng lúc 8h sáng là quá sớm. \nkhông kết nối được wifi (gần 10 tên wifi khác nhau)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/05/2022",
+                "rating": "Tạm hài lòng",
+                "score": 5.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm trung tâm, thuận tiện",
+                "comment_negative": "Phòng ở hôi và hơi bẩn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Joy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/09/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "4 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The staff were helpful. The place was near to shops and restaurants.",
+                "comment_negative": "The first room they gave us was very hot. The air conditioner doesn't work. We asked them about it and they gave us 2 electric fans but i asked again on the 3rd night that it is not worth it. So they transferred us in another room which is good and comfortable."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "14/011/2022",
+                "rating": "pleasant",
+                "score": 8.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 11/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "situated on the main road, accessible to public transportation.",
+                "comment_negative": "breakfast service time is too short (6:00-8:00am); should be extended to 10:00am."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": null,
+                "country": "Nhật Bản"
+            },
+            "review": {
+                "date": "23/010/2022",
+                "rating": "It is quite good stay, nice staff, great location, and good breakfast!",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 10/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Location is really great! It has a large lobby and parking area, at the T-conjunction of Tran Phu street. The hotel offers a diverse menu for breakfast. However, if you have a breakfast late, some food is run out.",
+                "comment_negative": "The window cannot close tight so some mosquito can enter your room. The smell is also."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sơn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/010/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 10/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "great location and parking area. Everything is worth it.",
+                "comment_negative": "Our breakfast was quite basic but not a big matter to us."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Không tên",
+                "avatar": null,
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "22/05/2022",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "it was a place to stay on route",
+                "comment_negative": "noisy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thavong",
+                "avatar": "https://lh4.googleusercontent.com/-GBVvjEYt5To/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmzbbLh1jBt1i9PIuFYx9LssQn3VA/s96-c/photo.jpg",
+                "country": "Thái Lan"
+            },
+            "review": {
+                "date": "27/03/2023",
+                "rating": "คุ้มค่ากับเงิน",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "อาหารเช้ามีให้เลือก\nห้องกว้าง เตียงนอนสบาย",
+                "comment_negative": "มีการซ่อมแซมห้อง ช่วงกลางวัน มีเสียงดัง"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh4.googleusercontent.com/-orShD2jaaF4/AAAAAAAAAAI/AAAAAAAAHVg/08Y_14RzJXc/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn rộng có chỗ để xe",
+                "comment_negative": "Tivi cũ quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://lh5.googleusercontent.com/-7_gDNDM30j8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_skpAH3f62wpv1sBIqTwAKGp4yA/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/08/2022",
+                "rating": "Tàm tạm",
+                "score": 5.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "vị trí tiện lợi",
+                "comment_negative": "ăn sáng đóng lúc 8h sáng là quá sớm. \nkhông kết nối được wifi (gần 10 tên wifi khác nhau)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/05/2022",
+                "rating": "Tạm hài lòng",
+                "score": 5.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm trung tâm, thuận tiện",
+                "comment_negative": "Phòng ở hôi và hơi bẩn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Joy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/09/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "4 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The staff were helpful. The place was near to shops and restaurants.",
+                "comment_negative": "The first room they gave us was very hot. The air conditioner doesn't work. We asked them about it and they gave us 2 electric fans but i asked again on the 3rd night that it is not worth it. So they transferred us in another room which is good and comfortable."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "14/011/2022",
+                "rating": "pleasant",
+                "score": 8.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 11/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "situated on the main road, accessible to public transportation.",
+                "comment_negative": "breakfast service time is too short (6:00-8:00am); should be extended to 10:00am."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": null,
+                "country": "Nhật Bản"
+            },
+            "review": {
+                "date": "23/010/2022",
+                "rating": "It is quite good stay, nice staff, great location, and good breakfast!",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 10/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Location is really great! It has a large lobby and parking area, at the T-conjunction of Tran Phu street. The hotel offers a diverse menu for breakfast. However, if you have a breakfast late, some food is run out.",
+                "comment_negative": "The window cannot close tight so some mosquito can enter your room. The smell is also."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sơn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/010/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 10/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "great location and parking area. Everything is worth it.",
+                "comment_negative": "Our breakfast was quite basic but not a big matter to us."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Không tên",
+                "avatar": null,
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "22/05/2022",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "it was a place to stay on route",
+                "comment_negative": "noisy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thavong",
+                "avatar": "https://lh4.googleusercontent.com/-GBVvjEYt5To/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmzbbLh1jBt1i9PIuFYx9LssQn3VA/s96-c/photo.jpg",
+                "country": "Thái Lan"
+            },
+            "review": {
+                "date": "27/03/2023",
+                "rating": "คุ้มค่ากับเงิน",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "อาหารเช้ามีให้เลือก\nห้องกว้าง เตียงนอนสบาย",
+                "comment_negative": "มีการซ่อมแซมห้อง ช่วงกลางวัน มีเสียงดัง"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh4.googleusercontent.com/-orShD2jaaF4/AAAAAAAAAAI/AAAAAAAAHVg/08Y_14RzJXc/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn rộng có chỗ để xe",
+                "comment_negative": "Tivi cũ quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://lh5.googleusercontent.com/-7_gDNDM30j8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_skpAH3f62wpv1sBIqTwAKGp4yA/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/08/2022",
+                "rating": "Tàm tạm",
+                "score": 5.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "vị trí tiện lợi",
+                "comment_negative": "ăn sáng đóng lúc 8h sáng là quá sớm. \nkhông kết nối được wifi (gần 10 tên wifi khác nhau)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/05/2022",
+                "rating": "Tạm hài lòng",
+                "score": 5.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm trung tâm, thuận tiện",
+                "comment_negative": "Phòng ở hôi và hơi bẩn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Joy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/09/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "4 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The staff were helpful. The place was near to shops and restaurants.",
+                "comment_negative": "The first room they gave us was very hot. The air conditioner doesn't work. We asked them about it and they gave us 2 electric fans but i asked again on the 3rd night that it is not worth it. So they transferred us in another room which is good and comfortable."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "14/011/2022",
+                "rating": "pleasant",
+                "score": 8.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 11/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "situated on the main road, accessible to public transportation.",
+                "comment_negative": "breakfast service time is too short (6:00-8:00am); should be extended to 10:00am."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": null,
+                "country": "Nhật Bản"
+            },
+            "review": {
+                "date": "23/010/2022",
+                "rating": "It is quite good stay, nice staff, great location, and good breakfast!",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 10/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Location is really great! It has a large lobby and parking area, at the T-conjunction of Tran Phu street. The hotel offers a diverse menu for breakfast. However, if you have a breakfast late, some food is run out.",
+                "comment_negative": "The window cannot close tight so some mosquito can enter your room. The smell is also."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sơn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/010/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 10/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "great location and parking area. Everything is worth it.",
+                "comment_negative": "Our breakfast was quite basic but not a big matter to us."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Không tên",
+                "avatar": null,
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "22/05/2022",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "it was a place to stay on route",
+                "comment_negative": "noisy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thavong",
+                "avatar": "https://lh4.googleusercontent.com/-GBVvjEYt5To/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmzbbLh1jBt1i9PIuFYx9LssQn3VA/s96-c/photo.jpg",
+                "country": "Thái Lan"
+            },
+            "review": {
+                "date": "27/03/2023",
+                "rating": "คุ้มค่ากับเงิน",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "อาหารเช้ามีให้เลือก\nห้องกว้าง เตียงนอนสบาย",
+                "comment_negative": "มีการซ่อมแซมห้อง ช่วงกลางวัน มีเสียงดัง"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh4.googleusercontent.com/-orShD2jaaF4/AAAAAAAAAAI/AAAAAAAAHVg/08Y_14RzJXc/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn rộng có chỗ để xe",
+                "comment_negative": "Tivi cũ quá"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://lh5.googleusercontent.com/-7_gDNDM30j8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_skpAH3f62wpv1sBIqTwAKGp4yA/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/08/2022",
+                "rating": "Tàm tạm",
+                "score": 5.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "vị trí tiện lợi",
+                "comment_negative": "ăn sáng đóng lúc 8h sáng là quá sớm. \nkhông kết nối được wifi (gần 10 tên wifi khác nhau)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/05/2022",
+                "rating": "Tạm hài lòng",
+                "score": 5.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm trung tâm, thuận tiện",
+                "comment_negative": "Phòng ở hôi và hơi bẩn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Joy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/09/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "4 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The staff were helpful. The place was near to shops and restaurants.",
+                "comment_negative": "The first room they gave us was very hot. The air conditioner doesn't work. We asked them about it and they gave us 2 electric fans but i asked again on the 3rd night that it is not worth it. So they transferred us in another room which is good and comfortable."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "14/011/2022",
+                "rating": "pleasant",
+                "score": 8.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 11/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "situated on the main road, accessible to public transportation.",
+                "comment_negative": "breakfast service time is too short (6:00-8:00am); should be extended to 10:00am."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": null,
+                "country": "Nhật Bản"
+            },
+            "review": {
+                "date": "23/010/2022",
+                "rating": "It is quite good stay, nice staff, great location, and good breakfast!",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 10/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Location is really great! It has a large lobby and parking area, at the T-conjunction of Tran Phu street. The hotel offers a diverse menu for breakfast. However, if you have a breakfast late, some food is run out.",
+                "comment_negative": "The window cannot close tight so some mosquito can enter your room. The smell is also."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sơn",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/010/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 10/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "great location and parking area. Everything is worth it.",
+                "comment_negative": "Our breakfast was quite basic but not a big matter to us."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Không tên",
+                "avatar": null,
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "22/05/2022",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "it was a place to stay on route",
+                "comment_negative": "noisy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thavong",
+                "avatar": "https://lh4.googleusercontent.com/-GBVvjEYt5To/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmzbbLh1jBt1i9PIuFYx9LssQn3VA/s96-c/photo.jpg",
+                "country": "Thái Lan"
+            },
+            "review": {
+                "date": "27/03/2023",
+                "rating": "คุ้มค่ากับเงิน",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "อาหารเช้ามีให้เลือก\nห้องกว้าง เตียงนอนสบาย",
+                "comment_negative": "มีการซ่อมแซมห้อง ช่วงกลางวัน มีเสียงดัง"
+            }
+        }
+    ]
+}

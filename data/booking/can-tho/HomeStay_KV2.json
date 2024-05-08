@@ -1,0 +1,868 @@
+{
+    "name": "HomeStay KV2",
+    "address": "117 Trần Văn Nghiêm 5, Bình Thủy, Việt Nam",
+    "description": "Nằm ở Bình Thủy, cách Vincom Plaza Hùng Vương 2.6 km, HomeStay KV2 cung cấp chỗ nghỉ có sân hiên, chỗ đậu xe riêng miễn phí, quầy bar và tiện nghi BBQ. Chỗ nghỉ này có các tiện nghi như quầy lễ tân 24 giờ và dịch vụ tiền sảnh, cùng với Wi-Fi miễn phí ở toàn bộ chỗ nghỉ. Chỗ nghỉ này cung cấp bếp chung, dịch vụ phòng và dịch vụ thu đổi ngoại tệ cho khách.\n\nKhách sạn cách Bến Ninh Kiều 4.3 km và Trung tâm thương mại Vincom Xuân Khánh 5.2 km. Sân bay gần nhất là Sân bay Quốc tế Cần Thơ, cách HomeStay KV2 6 km.",
+    "rating": "8.7",
+    "total_rating": "41",
+    "evaluation_categories": {
+        "service_staff": 9.6,
+        "amenities": 8.4,
+        "cleanliness": 9.0,
+        "comfort": 8.9,
+        "value_for_money": 9.4,
+        "location": 8.5,
+        "free_wifi": 8.8
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Bé",
+                "avatar": "https://graph.facebook.com/v2.9/989022648795081/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "4 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phục vụ tốt, phòng sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng rộng gia đình ở hợp lí. Nhà vệ sinh sạch sẽ sáng sủa. Có hỗ trợ quạt vs gối",
+                "comment_negative": "Nhận phòng sớm có tính phí. Máy lạnh phòng lớn hơi yếu."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Giá bình dân, phòng sạch sẽ chủ nhà thoải mái nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/03/2024",
+                "rating": "Ok",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn sạch sẽ. Chủ nhà nhiệt tình, thân thiện.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lan",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLphQaJRl1DVISAtCFNIoYfANvDVQmHdixuY4NWgkigww=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "3 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Anh chủ , vợ và các nhân viên đều cực kì nhiệt tình và hồ hởi, phòng sạch sẽ, giờ giấc tự do, cực kì hài lòng",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phúc",
+                "avatar": "https://graph.facebook.com/v2.9/3724803144421077/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chủ nhiệt tình vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thịnh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Hài lòng",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLEeNJ-LcgT7BYj8fGCmS1IEDTNHCW_ncPYdn5vhQOxutQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/011/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng sạch, lễ tân vui vẻ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vĩnh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/010/2023",
+                "rating": "Ổn tuyệt,thích hợp giới trẻ",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chủ dễ thương vui vẻ dễ chịu",
+                "comment_negative": "Sạch nói chung Ok với giá tiền"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZlyaHwgK2vbB5FlGYDiToLPg1rw7vKaRhFbEmz=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/010/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Homestay mới xây dựng, đường đi khá dễ tìm, phòng ở sạch sẽ, dễ chịu. Anh chủ nhà nhiệt tình lắm luôn. Rất đáng giá tiền ạ.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bé",
+                "avatar": "https://graph.facebook.com/v2.9/989022648795081/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "4 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phục vụ tốt, phòng sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng rộng gia đình ở hợp lí. Nhà vệ sinh sạch sẽ sáng sủa. Có hỗ trợ quạt vs gối",
+                "comment_negative": "Nhận phòng sớm có tính phí. Máy lạnh phòng lớn hơi yếu."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Giá bình dân, phòng sạch sẽ chủ nhà thoải mái nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/03/2024",
+                "rating": "Ok",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn sạch sẽ. Chủ nhà nhiệt tình, thân thiện.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lan",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLphQaJRl1DVISAtCFNIoYfANvDVQmHdixuY4NWgkigww=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "3 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Anh chủ , vợ và các nhân viên đều cực kì nhiệt tình và hồ hởi, phòng sạch sẽ, giờ giấc tự do, cực kì hài lòng",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phúc",
+                "avatar": "https://graph.facebook.com/v2.9/3724803144421077/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chủ nhiệt tình vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thịnh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Hài lòng",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLEeNJ-LcgT7BYj8fGCmS1IEDTNHCW_ncPYdn5vhQOxutQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/011/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng sạch, lễ tân vui vẻ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vĩnh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/010/2023",
+                "rating": "Ổn tuyệt,thích hợp giới trẻ",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chủ dễ thương vui vẻ dễ chịu",
+                "comment_negative": "Sạch nói chung Ok với giá tiền"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZlyaHwgK2vbB5FlGYDiToLPg1rw7vKaRhFbEmz=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/010/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Homestay mới xây dựng, đường đi khá dễ tìm, phòng ở sạch sẽ, dễ chịu. Anh chủ nhà nhiệt tình lắm luôn. Rất đáng giá tiền ạ.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bé",
+                "avatar": "https://graph.facebook.com/v2.9/989022648795081/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "4 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phục vụ tốt, phòng sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng rộng gia đình ở hợp lí. Nhà vệ sinh sạch sẽ sáng sủa. Có hỗ trợ quạt vs gối",
+                "comment_negative": "Nhận phòng sớm có tính phí. Máy lạnh phòng lớn hơi yếu."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Giá bình dân, phòng sạch sẽ chủ nhà thoải mái nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/03/2024",
+                "rating": "Ok",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn sạch sẽ. Chủ nhà nhiệt tình, thân thiện.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lan",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLphQaJRl1DVISAtCFNIoYfANvDVQmHdixuY4NWgkigww=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "3 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Anh chủ , vợ và các nhân viên đều cực kì nhiệt tình và hồ hởi, phòng sạch sẽ, giờ giấc tự do, cực kì hài lòng",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phúc",
+                "avatar": "https://graph.facebook.com/v2.9/3724803144421077/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chủ nhiệt tình vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thịnh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Hài lòng",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLEeNJ-LcgT7BYj8fGCmS1IEDTNHCW_ncPYdn5vhQOxutQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/011/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng sạch, lễ tân vui vẻ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vĩnh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/010/2023",
+                "rating": "Ổn tuyệt,thích hợp giới trẻ",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chủ dễ thương vui vẻ dễ chịu",
+                "comment_negative": "Sạch nói chung Ok với giá tiền"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZlyaHwgK2vbB5FlGYDiToLPg1rw7vKaRhFbEmz=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/010/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Homestay mới xây dựng, đường đi khá dễ tìm, phòng ở sạch sẽ, dễ chịu. Anh chủ nhà nhiệt tình lắm luôn. Rất đáng giá tiền ạ.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bé",
+                "avatar": "https://graph.facebook.com/v2.9/989022648795081/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "4 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phục vụ tốt, phòng sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng rộng gia đình ở hợp lí. Nhà vệ sinh sạch sẽ sáng sủa. Có hỗ trợ quạt vs gối",
+                "comment_negative": "Nhận phòng sớm có tính phí. Máy lạnh phòng lớn hơi yếu."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Giá bình dân, phòng sạch sẽ chủ nhà thoải mái nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/03/2024",
+                "rating": "Ok",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn sạch sẽ. Chủ nhà nhiệt tình, thân thiện.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lan",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLphQaJRl1DVISAtCFNIoYfANvDVQmHdixuY4NWgkigww=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "3 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Anh chủ , vợ và các nhân viên đều cực kì nhiệt tình và hồ hởi, phòng sạch sẽ, giờ giấc tự do, cực kì hài lòng",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phúc",
+                "avatar": "https://graph.facebook.com/v2.9/3724803144421077/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chủ nhiệt tình vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thịnh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Hài lòng",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLEeNJ-LcgT7BYj8fGCmS1IEDTNHCW_ncPYdn5vhQOxutQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/011/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng sạch, lễ tân vui vẻ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vĩnh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/010/2023",
+                "rating": "Ổn tuyệt,thích hợp giới trẻ",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chủ dễ thương vui vẻ dễ chịu",
+                "comment_negative": "Sạch nói chung Ok với giá tiền"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZlyaHwgK2vbB5FlGYDiToLPg1rw7vKaRhFbEmz=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/010/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Homestay mới xây dựng, đường đi khá dễ tìm, phòng ở sạch sẽ, dễ chịu. Anh chủ nhà nhiệt tình lắm luôn. Rất đáng giá tiền ạ.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bé",
+                "avatar": "https://graph.facebook.com/v2.9/989022648795081/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "4 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phục vụ tốt, phòng sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng rộng gia đình ở hợp lí. Nhà vệ sinh sạch sẽ sáng sủa. Có hỗ trợ quạt vs gối",
+                "comment_negative": "Nhận phòng sớm có tính phí. Máy lạnh phòng lớn hơi yếu."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phụng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Giá bình dân, phòng sạch sẽ chủ nhà thoải mái nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/03/2024",
+                "rating": "Ok",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn sạch sẽ. Chủ nhà nhiệt tình, thân thiện.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lan",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLphQaJRl1DVISAtCFNIoYfANvDVQmHdixuY4NWgkigww=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "3 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Anh chủ , vợ và các nhân viên đều cực kì nhiệt tình và hồ hởi, phòng sạch sẽ, giờ giấc tự do, cực kì hài lòng",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phúc",
+                "avatar": "https://graph.facebook.com/v2.9/3724803144421077/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Anh chủ nhiệt tình vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thịnh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Hài lòng",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLEeNJ-LcgT7BYj8fGCmS1IEDTNHCW_ncPYdn5vhQOxutQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/011/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng sạch, lễ tân vui vẻ dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vĩnh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/010/2023",
+                "rating": "Ổn tuyệt,thích hợp giới trẻ",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chủ dễ thương vui vẻ dễ chịu",
+                "comment_negative": "Sạch nói chung Ok với giá tiền"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZlyaHwgK2vbB5FlGYDiToLPg1rw7vKaRhFbEmz=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/010/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Có Phòng Tắm Riêng",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Homestay mới xây dựng, đường đi khá dễ tìm, phòng ở sạch sẽ, dễ chịu. Anh chủ nhà nhiệt tình lắm luôn. Rất đáng giá tiền ạ.",
+                "comment_negative": null
+            }
+        }
+    ]
+}

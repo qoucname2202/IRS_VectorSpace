@@ -1,0 +1,52 @@
+{
+    "name": "G7 Hồng Lĩnh",
+    "address": "số 222 đường 3 tháng 2 thị xã Hồng Lĩnh tỉnh Hà Tĩnh, Van Chàng, Việt Nam",
+    "description": "G7 Hồng Lĩnh cung cấp chỗ nghỉ điều hòa ở Van Chàng. Ngoài dịch vụ phòng, chỗ nghỉ này còn có sân hiên. Khách sạn có phòng gia đình.\n\nTại khách sạn, các phòng được thiết kế có ban công. Với phòng tắm riêng được trang bị vòi xịt/chậu rửa vệ sinh và đồ vệ sinh cá nhân miễn phí, các phòng tại G7 Hồng Lĩnh cũng có Wi-Fi miễn phí, trong đó một số phòng có view hồ. Tại chỗ nghỉ, các phòng đều đi kèm với ga trải giường và khăn tắm.\n\nLễ tân tại G7 Hồng Lĩnh có thể cung cấp các thông tin hữu ích để giúp du khách tham quan khu vực xung quanh một cách thuận tiện.\n\nSân bay gần nhất là Sân bay quốc tế Vinh, cách khách sạn 24 km.",
+    "rating": "2",
+    "total_rating": "2",
+    "evaluation_categories": {
+        "service_staff": 2.5,
+        "amenities": 2.5,
+        "cleanliness": 2.5,
+        "comfort": 3.8,
+        "value_for_money": 3.8,
+        "location": 5.0,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Iveta",
+                "avatar": null,
+                "country": "Na Uy"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "If you wanna have a bad time- come here.",
+                "score": 1.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Nước",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "It’s molding away."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thành",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/02/2024",
+                "rating": "Kém",
+                "score": 3.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Nước",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

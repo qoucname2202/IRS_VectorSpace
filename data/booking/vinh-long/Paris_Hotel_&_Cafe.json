@@ -1,0 +1,528 @@
+{
+    "name": "Paris Hotel & Cafe",
+    "address": "A1-A2 Tran Phu,Khom 6,Phuong 4, Vĩnh Long, Việt Nam",
+    "description": "Tọa lạc ở Vĩnh Long, cách Trung tâm thương mại Vincom Xuân Khánh 41 km, Paris Hotel & Cafe cung cấp chỗ nghỉ có phòng chờ chung, chỗ đậu xe riêng miễn phí, sân hiên và quầy bar. Khách sạn 2 sao này có quầy lễ tân 24 giờ và dịch vụ tiền sảnh. Đây là chỗ nghỉ không hút thuốc và nằm cách Bến Ninh Kiều 42 km.\n\nPhòng khách được trang bị điều hòa, TV màn hình phẳng có truyền hình cáp, tủ lạnh, ấm đun nước, vòi sen, máy sấy tóc và bàn làm việc. Mỗi phòng đều được thiết kế có phòng tắm riêng với dép đi trong phòng, trong đó một số phòng có ban công và một số phòng khác cũng nhìn ra thành phố. Các phòng đều có minibar.\n\nKhách sạn cách Vincom Plaza Hùng Vương 44 km và Vinh Long Museum 4 km. Sân bay gần nhất là Sân bay Quốc tế Cần Thơ, cách Paris Hotel & Cafe 52 km.",
+    "rating": "9.1",
+    "total_rating": "26",
+    "evaluation_categories": {
+        "service_staff": 9.0,
+        "amenities": 9.1,
+        "cleanliness": 9.1,
+        "comfort": 9.5,
+        "value_for_money": 9.4,
+        "location": 8.4,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2023",
+                "rating": "Tuyệt vời giá rẻ so với dịch vụ",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Minh thích nhất ở đây rất Sạch sẽ\nphong cách kiểu pháp. Chủ ks thân thiện, phục vụ tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/01/2024",
+                "rating": "kỳ nghĩ tốt vui , sẽ quay lại nếu có dịp ghé VL",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "vị trí , thoáng mát, phục vụ vui vẻ, k.sạn mới",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyet",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có cafe trên sân thượng tuyệt vời, thức uống ngon, khung cảnh tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "This is a place that we would come back and stay longer",
+                "score": 10.0,
+                "room_type": "Phòng Superior Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "The staff was very efficient and helpful. The bar upstairs was delightful, with cold Vietnamese craft beers which are excellent. The dessert is also exceptional.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mark",
+                "avatar": "https://graph.facebook.com/v2.9/10215708489560050/picture?type=square&height=64&width=64",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "19/03/2024",
+                "rating": "Close to 5 star quality! Amazing!",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Everything",
+                "comment_negative": "There was nothing that I didn't like."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": "https://graph.facebook.com/v2.9/632555910546304/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/03/2024",
+                "rating": "Beautiful and signature hotel",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Very beautiful hotel and super nice staff. I love way they kept support guests and I will be back next trip.",
+                "comment_negative": "The car parking is public and fee, and it in the front of hotel (convenient), however it’s not really clean and private."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Stefmiche",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "2/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Beautiful, clean, and spacious hotel. The staff were lovely and very helpful. They were more than willing to help get you where you need to go. \n\n The attached cafe serves wonderful cakes and refreshing drinks. Each guest get two complimemtary drinks and cakes.\n\nThe rooftop bar opens at 430pm, and the centre piece is  a replica Eiffel Tower. They serve all types of alcohol as well as drinks and cakes from the downstairs Cafe. \n\nBonus, the whole hotel smells amazing.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Rudolf",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-r.png",
+                "country": "Hà Lan"
+            },
+            "review": {
+                "date": "22/01/2024",
+                "rating": "Gorgeous hotel, very friendly staff",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The friendliness of the staff and the owner made our stay special. The hotel is gorgeous, and so is the terrace upstairs to have a craft beer in the evening. The best place to stay in Vinh Long!",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vu",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKs7hA0djNeC5LrP7xz_TflVGOsJaXW0Zfb5aVXfuR6=s96-c",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "8/01/2024",
+                "rating": "Welcoming and well looked after",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The owner and staff was exceptional",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Francesco",
+                "avatar": "https://lh6.googleusercontent.com/-KVmm9HDbxgo/AAAAAAAAAAI/AAAAAAAAACg/RFO3vXGJGB0/photo.jpg",
+                "country": "Ý"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "How to feel at home in a modern and comfortable hotel",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Fantastic stay in a luxury hotel. The hotel is exactly as you see in the photos on the website: modern, clean and equipped with all the comforts. Don’t be fooled by the two stars: this hotel is worth at least four. The owner, Dat, is a nice and helpful person, who will make you feel at home and give you great advice on Vietnam and the area of Vĩnh Long. A special thanks to him for making our stay unforgettable!",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2023",
+                "rating": "Tuyệt vời giá rẻ so với dịch vụ",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Minh thích nhất ở đây rất Sạch sẽ\nphong cách kiểu pháp. Chủ ks thân thiện, phục vụ tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/01/2024",
+                "rating": "kỳ nghĩ tốt vui , sẽ quay lại nếu có dịp ghé VL",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "vị trí , thoáng mát, phục vụ vui vẻ, k.sạn mới",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyet",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có cafe trên sân thượng tuyệt vời, thức uống ngon, khung cảnh tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "This is a place that we would come back and stay longer",
+                "score": 10.0,
+                "room_type": "Phòng Superior Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "The staff was very efficient and helpful. The bar upstairs was delightful, with cold Vietnamese craft beers which are excellent. The dessert is also exceptional.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mark",
+                "avatar": "https://graph.facebook.com/v2.9/10215708489560050/picture?type=square&height=64&width=64",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "19/03/2024",
+                "rating": "Close to 5 star quality! Amazing!",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Everything",
+                "comment_negative": "There was nothing that I didn't like."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": "https://graph.facebook.com/v2.9/632555910546304/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/03/2024",
+                "rating": "Beautiful and signature hotel",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Very beautiful hotel and super nice staff. I love way they kept support guests and I will be back next trip.",
+                "comment_negative": "The car parking is public and fee, and it in the front of hotel (convenient), however it’s not really clean and private."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Stefmiche",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "2/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Beautiful, clean, and spacious hotel. The staff were lovely and very helpful. They were more than willing to help get you where you need to go. \n\n The attached cafe serves wonderful cakes and refreshing drinks. Each guest get two complimemtary drinks and cakes.\n\nThe rooftop bar opens at 430pm, and the centre piece is  a replica Eiffel Tower. They serve all types of alcohol as well as drinks and cakes from the downstairs Cafe. \n\nBonus, the whole hotel smells amazing.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Rudolf",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-r.png",
+                "country": "Hà Lan"
+            },
+            "review": {
+                "date": "22/01/2024",
+                "rating": "Gorgeous hotel, very friendly staff",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The friendliness of the staff and the owner made our stay special. The hotel is gorgeous, and so is the terrace upstairs to have a craft beer in the evening. The best place to stay in Vinh Long!",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vu",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKs7hA0djNeC5LrP7xz_TflVGOsJaXW0Zfb5aVXfuR6=s96-c",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "8/01/2024",
+                "rating": "Welcoming and well looked after",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The owner and staff was exceptional",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Francesco",
+                "avatar": "https://lh6.googleusercontent.com/-KVmm9HDbxgo/AAAAAAAAAAI/AAAAAAAAACg/RFO3vXGJGB0/photo.jpg",
+                "country": "Ý"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "How to feel at home in a modern and comfortable hotel",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Fantastic stay in a luxury hotel. The hotel is exactly as you see in the photos on the website: modern, clean and equipped with all the comforts. Don’t be fooled by the two stars: this hotel is worth at least four. The owner, Dat, is a nice and helpful person, who will make you feel at home and give you great advice on Vietnam and the area of Vĩnh Long. A special thanks to him for making our stay unforgettable!",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2023",
+                "rating": "Tuyệt vời giá rẻ so với dịch vụ",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Minh thích nhất ở đây rất Sạch sẽ\nphong cách kiểu pháp. Chủ ks thân thiện, phục vụ tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/01/2024",
+                "rating": "kỳ nghĩ tốt vui , sẽ quay lại nếu có dịp ghé VL",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "vị trí , thoáng mát, phục vụ vui vẻ, k.sạn mới",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyet",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có cafe trên sân thượng tuyệt vời, thức uống ngon, khung cảnh tuyệt vời",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "This is a place that we would come back and stay longer",
+                "score": 10.0,
+                "room_type": "Phòng Superior Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "The staff was very efficient and helpful. The bar upstairs was delightful, with cold Vietnamese craft beers which are excellent. The dessert is also exceptional.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mark",
+                "avatar": "https://graph.facebook.com/v2.9/10215708489560050/picture?type=square&height=64&width=64",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "19/03/2024",
+                "rating": "Close to 5 star quality! Amazing!",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Everything",
+                "comment_negative": "There was nothing that I didn't like."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": "https://graph.facebook.com/v2.9/632555910546304/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/03/2024",
+                "rating": "Beautiful and signature hotel",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Very beautiful hotel and super nice staff. I love way they kept support guests and I will be back next trip.",
+                "comment_negative": "The car parking is public and fee, and it in the front of hotel (convenient), however it’s not really clean and private."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Stefmiche",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "2/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Beautiful, clean, and spacious hotel. The staff were lovely and very helpful. They were more than willing to help get you where you need to go. \n\n The attached cafe serves wonderful cakes and refreshing drinks. Each guest get two complimemtary drinks and cakes.\n\nThe rooftop bar opens at 430pm, and the centre piece is  a replica Eiffel Tower. They serve all types of alcohol as well as drinks and cakes from the downstairs Cafe. \n\nBonus, the whole hotel smells amazing.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Rudolf",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-r.png",
+                "country": "Hà Lan"
+            },
+            "review": {
+                "date": "22/01/2024",
+                "rating": "Gorgeous hotel, very friendly staff",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The friendliness of the staff and the owner made our stay special. The hotel is gorgeous, and so is the terrace upstairs to have a craft beer in the evening. The best place to stay in Vinh Long!",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vu",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKs7hA0djNeC5LrP7xz_TflVGOsJaXW0Zfb5aVXfuR6=s96-c",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "8/01/2024",
+                "rating": "Welcoming and well looked after",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The owner and staff was exceptional",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Francesco",
+                "avatar": "https://lh6.googleusercontent.com/-KVmm9HDbxgo/AAAAAAAAAAI/AAAAAAAAACg/RFO3vXGJGB0/photo.jpg",
+                "country": "Ý"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "How to feel at home in a modern and comfortable hotel",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Fantastic stay in a luxury hotel. The hotel is exactly as you see in the photos on the website: modern, clean and equipped with all the comforts. Don’t be fooled by the two stars: this hotel is worth at least four. The owner, Dat, is a nice and helpful person, who will make you feel at home and give you great advice on Vietnam and the area of Vĩnh Long. A special thanks to him for making our stay unforgettable!",
+                "comment_negative": "Nothing"
+            }
+        }
+    ]
+}

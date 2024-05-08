@@ -1,0 +1,103 @@
+{
+    "name": "Elegant Boutique Hotel Ha Long",
+    "address": "Hạ Long, Hạ Long, Việt Nam",
+    "description": "Elegant Boutique Hotel Ha Long tọa lạc giáp biển ở Hạ Long, cách Bãi Cháy 8 phút đi bộ và Cáp treo Nữ Hoàng 1.6 km. Khách sạn 4 sao này có các phòng được trang bị điều hòa, phòng tắm riêng và Wi-Fi miễn phí. Chỗ nghỉ này cung cấp quầy lễ tân 24 giờ, dịch vụ đưa đón miễn phí và dịch vụ thu đổi ngoại tệ cho khách.\n\nTất cả các căn tại khách sạn được trang bị TV màn hình phẳng có truyền hình vệ tinh và két an toàn. Tại Elegant Boutique Hotel Ha Long, tất cả các phòng đều có ga trải giường và khăn tắm.\n\nChỗ nghỉ có phục vụ bữa sáng thực đơn buffet, thực đơn à la carte hoặc kiểu lục địa mỗi sáng.\n\nChỗ nghỉ cách Trung tâm thương mại Vincom Hạ Long 8.1 km và Bảo tàng Quảng Ninh 10 km. Sân bay gần nhất là Sân bay Quốc tế Cát Bi, cách Elegant Boutique Hotel Ha Long 41 km.",
+    "rating": "10",
+    "total_rating": "5",
+    "evaluation_categories": {
+        "service_staff": 10.0,
+        "amenities": 10.0,
+        "cleanliness": 10.0,
+        "comfort": 10.0,
+        "value_for_money": 10.0,
+        "location": 10.0,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Samantha",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Mexico"
+            },
+            "review": {
+                "date": "26/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Huon at front desk was really sweet helping us arrange airport pick up and drop off. The hotel is new and very beautifully decorated. Breakfast on demand ( seafood noodle which is introduced to us as Halong signature dish) and was very fresh and yummy. We booked 2 nights and was upgraded to their family suite. 10/10",
+                "comment_negative": "Surrounding area does not have convenient store, you'd have to walk quite far to buy snacks."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Olivia",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-o.png",
+                "country": "Singapore"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Nice new hotel",
+                "comment_negative": "Fresh paint smell"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dragos",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Romania"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Good value. Very new and clean hotel, beautiful interior and friendly staff. Suitable for a short stay in Halong city.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ireneusz",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-i.png",
+                "country": "Cộng hoà Séc"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Great stay",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "-Good location, close to the beach.\n-surrounding area, very quiet and relaxing.\n-Friendly and helpful staff.\n-Nice and cheap local reakfast.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luka",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "25/03/2024",
+                "rating": "New and beautiful hotel in good location",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Very new hotel. I think we were one of the first few guests. Aesthetically pleasing, clean, staff speak decent English, good location (within walking distance to the beach). Daily rate's very very cheap comparing to overall quality. Highly recommend!",
+                "comment_negative": "The city is very dead at night, nothing to do really."
+            }
+        }
+    ]
+}

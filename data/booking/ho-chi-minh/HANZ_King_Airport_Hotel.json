@@ -1,0 +1,103 @@
+{
+    "name": "HANZ King Airport Hotel",
+    "address": "25/22 Cửu Long, Quận Tân Bình, TP. Hồ Chí Minh, Việt Nam",
+    "description": "Nằm tại vị trí thuận tiện ở Quận Tân Bình, TP. Hồ Chí Minh, HANZ King Airport Hotel nằm cách Chợ Tân Định 5.8 km, Chùa Giác Lâm 5.9 km và Bảo tàng chứng tích chiến tranh 6.8 km. Khách sạn 3 sao này có các phòng được trang bị điều hòa. Chỗ nghỉ cung cấp lễ tân 24/24, dịch vụ đưa đón sân bay, bàn bán tour và Wi-Fi miễn phí ở toàn bộ chỗ nghỉ.\n\nTại khách sạn, các phòng đều có bàn làm việc, TV màn hình phẳng, phòng tắm riêng, ga trải giường và khăn tắm. Tất cả các phòng có tủ quần áo.\n\nHANZ King Airport Hotel cách Dinh Thống Nhất 7.1 km và Trung Tâm Thương Mại Diamond Plaza 7.4 km. Sân bay gần nhất là Sân bay Quốc tế Tân Sơn Nhất, cách chỗ nghỉ 1 km.",
+    "rating": "8.6",
+    "total_rating": "5",
+    "evaluation_categories": {
+        "service_staff": 9.0,
+        "amenities": 8.5,
+        "cleanliness": 8.5,
+        "comfort": 8.5,
+        "value_for_money": 9.0,
+        "location": 9.0,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Ước",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/02/2024",
+                "rating": "khách sạn gần sân bay 100m",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "khách sạn rất gần sân bay đi bộ được chắc khoảng 100m, phòng sạch sẽ rộng rãi thoáng.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "100m tới sân bay Tân Sơn Nhất",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Khách sạn gần sân bay khoảng 100m đi bộ được, thuận tiện với nhiều tiện ích xung quanh.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/02/2024",
+                "rating": "Gần sân bay,Phòng mới sạch sẽ",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "khách sạn gần sân bay thuận tiện, nhiều địa điểm ăn uống địa phương. Phòng mới sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/02/2024",
+                "rating": "cách sân bay 100m",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "khách sạn mới sạch sẽ tiện nghi, gần sân bay đi bộ được, tiện ích trong phòng mới và đầy đủ.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jiri",
+                "avatar": null,
+                "country": "Cộng hoà Séc"
+            },
+            "review": {
+                "date": "29/03/2024",
+                "rating": "Shady hotel with rock hard bed.",
+                "score": 3.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It was quite cheap and close to the airport",
+                "comment_negative": "The look of the room and the facilities absolutely doesn't correspond to the pictures. The room was small and dirty, the bed was just 140cm and one small blanket for two people. The mattress was rock hard, I may as well have slept on the floor. \nBut most frustrating was that they cancelled our reservation on booking after we checked in, so that we couldn't give a review. That way they maintain high review despite being a rather shady poor hotel."
+            }
+        }
+    ]
+}

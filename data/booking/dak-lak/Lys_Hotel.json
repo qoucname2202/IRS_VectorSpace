@@ -1,0 +1,868 @@
+{
+    "name": "Lys Hotel",
+    "address": "49 - 51 Nguyen Thuong Hien, Buon Ma Thuoc City, Dak Lak Province, Buôn Ma Thuột, Việt Nam",
+    "description": "Nằm ở Buôn Ma Thuột, cách Trung tâm thương mại Vincom Plaza Buôn Ma Thuột 3.6 km, Lys Hotel cung cấp chỗ nghỉ có sân hiên và chỗ đậu xe riêng miễn phí. Ngoài phòng chờ chung, khách sạn 2 sao này còn có các phòng với điều hòa được trang bị Wi-Fi miễn phí, trong đó mỗi phòng đều có phòng tắm riêng. Chỗ nghỉ này cung cấp dịch vụ phòng và quầy lễ tân 24 giờ cho khách.\n\nTất cả các căn đi kèm TV màn hình phẳng có truyền hình vệ tinh, minibar, ấm đun nước, vòi xịt/chậu rửa vệ sinh, đồ vệ sinh cá nhân miễn phí và bàn làm việc. Tại khách sạn, tất cả các phòng đều có ga trải giường và khăn tắm.\n\nSân bay gần nhất là Sân bay Buôn Ma Thuột, cách Lys Hotel 6 km.",
+    "rating": "8.4",
+    "total_rating": "49",
+    "evaluation_categories": {
+        "service_staff": 9.0,
+        "amenities": 8.6,
+        "cleanliness": 8.8,
+        "comfort": 9.1,
+        "value_for_money": 8.8,
+        "location": 9.0,
+        "free_wifi": 8.2
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Tony",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/50654595.jpg?k=5c9637bbb8e59dfa8ad229b3b386bffa8a84a6e7b263ab951f845b4f78dd6224&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Lựa chọn tuyệt vời tại Buôn Ma Thuột",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí khách sạn tại trung tâm thành phố, nằm trong 1 khu vực an ninh và yên tĩnh.\nGiá phòng ưu đãi, mình và ba đến vào dịp cận Tết và may mắn được thăng hạng phòng.\nPhòng sạch sẽ và rộng rãi.\nNhân viên vui vẻ và lịch sự.\nKhu vực đậu xe máy trong nhà an ninh và an toàn.",
+                "comment_negative": "Không có gì để chê."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dan",
+                "avatar": "https://lh3.googleusercontent.com/-lM-Y8Sgoywc/AAAAAAAAAAI/AAAAAAAAABE/YLPoKL5sY5s/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Good",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Thích tất cả",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/01/2023",
+                "rating": "Ổn trong tầm giá.",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi/2 Giường Đơn Có Ban Công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Ban đầu mình đặt phòng tối mùng 5, nhưng do trục trặc xe cộ mình phải dời gấp qua mùng 6, nhân viên cũng khá dễ chịu cho mình dời mà không tính thêm phí. \nHơi xa trung tâm tí nhưng với mình thì không sao, bù lại sẽ khá yên tĩnh.",
+                "comment_negative": "Cách âm kém nên nếu phòng bên ồn thì khá khó chịu. \nKhách sạn không có máy sấy, bình nấu nước cũ và không tự tắt. Vì là khách sạn 2 sao nên mình cũng không yêu cầu cao về khoản tiện nghi."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/06/2022",
+                "rating": "ok",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "nhân viên lễ tân tốt. chỗ ở sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhật",
+                "avatar": "https://graph.facebook.com/v2.9/1129704487174029/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi/2 Giường Đơn Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Wifi yếu không sử dụng được"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dan",
+                "avatar": "https://lh3.googleusercontent.com/-lM-Y8Sgoywc/AAAAAAAAAAI/AAAAAAAAABE/YLPoKL5sY5s/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/03/2024",
+                "rating": "HÀI LÒNG - SATISFIED",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng ốc sạch sẽ, thoáng mát, yên tĩnh, nhân viên lịch sự và nhiệt tình. \nThe room is clean and spacious, quite. Staff are friendly and enthusiastic. Highly recommend this hotel for everyone.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thoai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ ở sạch sẽ và decor đẹp , mọi người nên đi. Giá cả hợp lý và sẽ ở nếu có dịp đi Bmt. Gần làng cf TN",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dan",
+                "avatar": "https://lh3.googleusercontent.com/-lM-Y8Sgoywc/AAAAAAAAAAI/AAAAAAAAABE/YLPoKL5sY5s/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng ốc sạch sẽ, đầy đủ tiện nghi, yên tĩnh, giá cả hợp lý.\nThe room was clean and neat, full of facilities, quite with a reasonable price.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ducnguyenhoang",
+                "avatar": "https://lh4.googleusercontent.com/-K_HHuH83bkQ/AAAAAAAAAAI/AAAAAAAAANw/CDJ2tPy94Uk/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sạch sẽ, phục vụ tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hà",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/08/2023",
+                "rating": "Excellent",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Giường Đôi",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gute Ausstattung, begeistertes Personal - hübsch, ruhig, sauber und in der Nähe des Stadtzentrums; hat dazu beigetragen, meine Erfahrung mit Vietnam tiefgreifender und unvergesslicher zu machen. Wenn ich in Zukunft die Möglichkeit habe, in meine geliebte Heimat Vietnam zurückzukehren, werde ich auf jeden Fall ins Lys Hotel zurückkehren. \n\nGood facilities, and enthusiastic staff - pretty, quiet, clean and close to the city center; helped make my experience of Vietnam more profound and memorable. If I can return to my beloved homeland of Vietnam, I will definitely return to Lys Hotel.\n\nCơ sở vật chất tốt, nhân viên nhiệt tình - xinh xắn, yên tĩnh, sạch sẽ và gần trung tâm thành phố; đã giúp trải nghiệm của tôi về Việt Nam sâu sắc và đáng nhớ hơn. Nếu trong tương lai có dịp trở lại quê hương Việt Nam thân yêu, nhất định tôi sẽ quay lại Lys Hotel.\n\n-Kien-",
+                "comment_negative": "Es gibt nichts, was ich nicht mag.\n\nThere's nothing I don't like\n\nTất cả đều khiến tôi hài lòng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tony",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/50654595.jpg?k=5c9637bbb8e59dfa8ad229b3b386bffa8a84a6e7b263ab951f845b4f78dd6224&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Lựa chọn tuyệt vời tại Buôn Ma Thuột",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí khách sạn tại trung tâm thành phố, nằm trong 1 khu vực an ninh và yên tĩnh.\nGiá phòng ưu đãi, mình và ba đến vào dịp cận Tết và may mắn được thăng hạng phòng.\nPhòng sạch sẽ và rộng rãi.\nNhân viên vui vẻ và lịch sự.\nKhu vực đậu xe máy trong nhà an ninh và an toàn.",
+                "comment_negative": "Không có gì để chê."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dan",
+                "avatar": "https://lh3.googleusercontent.com/-lM-Y8Sgoywc/AAAAAAAAAAI/AAAAAAAAABE/YLPoKL5sY5s/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Good",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Thích tất cả",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/01/2023",
+                "rating": "Ổn trong tầm giá.",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi/2 Giường Đơn Có Ban Công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Ban đầu mình đặt phòng tối mùng 5, nhưng do trục trặc xe cộ mình phải dời gấp qua mùng 6, nhân viên cũng khá dễ chịu cho mình dời mà không tính thêm phí. \nHơi xa trung tâm tí nhưng với mình thì không sao, bù lại sẽ khá yên tĩnh.",
+                "comment_negative": "Cách âm kém nên nếu phòng bên ồn thì khá khó chịu. \nKhách sạn không có máy sấy, bình nấu nước cũ và không tự tắt. Vì là khách sạn 2 sao nên mình cũng không yêu cầu cao về khoản tiện nghi."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/06/2022",
+                "rating": "ok",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "nhân viên lễ tân tốt. chỗ ở sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhật",
+                "avatar": "https://graph.facebook.com/v2.9/1129704487174029/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi/2 Giường Đơn Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Wifi yếu không sử dụng được"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dan",
+                "avatar": "https://lh3.googleusercontent.com/-lM-Y8Sgoywc/AAAAAAAAAAI/AAAAAAAAABE/YLPoKL5sY5s/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/03/2024",
+                "rating": "HÀI LÒNG - SATISFIED",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng ốc sạch sẽ, thoáng mát, yên tĩnh, nhân viên lịch sự và nhiệt tình. \nThe room is clean and spacious, quite. Staff are friendly and enthusiastic. Highly recommend this hotel for everyone.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thoai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ ở sạch sẽ và decor đẹp , mọi người nên đi. Giá cả hợp lý và sẽ ở nếu có dịp đi Bmt. Gần làng cf TN",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dan",
+                "avatar": "https://lh3.googleusercontent.com/-lM-Y8Sgoywc/AAAAAAAAAAI/AAAAAAAAABE/YLPoKL5sY5s/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng ốc sạch sẽ, đầy đủ tiện nghi, yên tĩnh, giá cả hợp lý.\nThe room was clean and neat, full of facilities, quite with a reasonable price.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ducnguyenhoang",
+                "avatar": "https://lh4.googleusercontent.com/-K_HHuH83bkQ/AAAAAAAAAAI/AAAAAAAAANw/CDJ2tPy94Uk/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sạch sẽ, phục vụ tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hà",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/08/2023",
+                "rating": "Excellent",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Giường Đôi",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gute Ausstattung, begeistertes Personal - hübsch, ruhig, sauber und in der Nähe des Stadtzentrums; hat dazu beigetragen, meine Erfahrung mit Vietnam tiefgreifender und unvergesslicher zu machen. Wenn ich in Zukunft die Möglichkeit habe, in meine geliebte Heimat Vietnam zurückzukehren, werde ich auf jeden Fall ins Lys Hotel zurückkehren. \n\nGood facilities, and enthusiastic staff - pretty, quiet, clean and close to the city center; helped make my experience of Vietnam more profound and memorable. If I can return to my beloved homeland of Vietnam, I will definitely return to Lys Hotel.\n\nCơ sở vật chất tốt, nhân viên nhiệt tình - xinh xắn, yên tĩnh, sạch sẽ và gần trung tâm thành phố; đã giúp trải nghiệm của tôi về Việt Nam sâu sắc và đáng nhớ hơn. Nếu trong tương lai có dịp trở lại quê hương Việt Nam thân yêu, nhất định tôi sẽ quay lại Lys Hotel.\n\n-Kien-",
+                "comment_negative": "Es gibt nichts, was ich nicht mag.\n\nThere's nothing I don't like\n\nTất cả đều khiến tôi hài lòng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tony",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/50654595.jpg?k=5c9637bbb8e59dfa8ad229b3b386bffa8a84a6e7b263ab951f845b4f78dd6224&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Lựa chọn tuyệt vời tại Buôn Ma Thuột",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí khách sạn tại trung tâm thành phố, nằm trong 1 khu vực an ninh và yên tĩnh.\nGiá phòng ưu đãi, mình và ba đến vào dịp cận Tết và may mắn được thăng hạng phòng.\nPhòng sạch sẽ và rộng rãi.\nNhân viên vui vẻ và lịch sự.\nKhu vực đậu xe máy trong nhà an ninh và an toàn.",
+                "comment_negative": "Không có gì để chê."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dan",
+                "avatar": "https://lh3.googleusercontent.com/-lM-Y8Sgoywc/AAAAAAAAAAI/AAAAAAAAABE/YLPoKL5sY5s/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Good",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Thích tất cả",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/01/2023",
+                "rating": "Ổn trong tầm giá.",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi/2 Giường Đơn Có Ban Công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Ban đầu mình đặt phòng tối mùng 5, nhưng do trục trặc xe cộ mình phải dời gấp qua mùng 6, nhân viên cũng khá dễ chịu cho mình dời mà không tính thêm phí. \nHơi xa trung tâm tí nhưng với mình thì không sao, bù lại sẽ khá yên tĩnh.",
+                "comment_negative": "Cách âm kém nên nếu phòng bên ồn thì khá khó chịu. \nKhách sạn không có máy sấy, bình nấu nước cũ và không tự tắt. Vì là khách sạn 2 sao nên mình cũng không yêu cầu cao về khoản tiện nghi."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/06/2022",
+                "rating": "ok",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "nhân viên lễ tân tốt. chỗ ở sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhật",
+                "avatar": "https://graph.facebook.com/v2.9/1129704487174029/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi/2 Giường Đơn Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Wifi yếu không sử dụng được"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dan",
+                "avatar": "https://lh3.googleusercontent.com/-lM-Y8Sgoywc/AAAAAAAAAAI/AAAAAAAAABE/YLPoKL5sY5s/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/03/2024",
+                "rating": "HÀI LÒNG - SATISFIED",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng ốc sạch sẽ, thoáng mát, yên tĩnh, nhân viên lịch sự và nhiệt tình. \nThe room is clean and spacious, quite. Staff are friendly and enthusiastic. Highly recommend this hotel for everyone.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thoai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ ở sạch sẽ và decor đẹp , mọi người nên đi. Giá cả hợp lý và sẽ ở nếu có dịp đi Bmt. Gần làng cf TN",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dan",
+                "avatar": "https://lh3.googleusercontent.com/-lM-Y8Sgoywc/AAAAAAAAAAI/AAAAAAAAABE/YLPoKL5sY5s/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng ốc sạch sẽ, đầy đủ tiện nghi, yên tĩnh, giá cả hợp lý.\nThe room was clean and neat, full of facilities, quite with a reasonable price.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ducnguyenhoang",
+                "avatar": "https://lh4.googleusercontent.com/-K_HHuH83bkQ/AAAAAAAAAAI/AAAAAAAAANw/CDJ2tPy94Uk/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sạch sẽ, phục vụ tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hà",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/08/2023",
+                "rating": "Excellent",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Giường Đôi",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gute Ausstattung, begeistertes Personal - hübsch, ruhig, sauber und in der Nähe des Stadtzentrums; hat dazu beigetragen, meine Erfahrung mit Vietnam tiefgreifender und unvergesslicher zu machen. Wenn ich in Zukunft die Möglichkeit habe, in meine geliebte Heimat Vietnam zurückzukehren, werde ich auf jeden Fall ins Lys Hotel zurückkehren. \n\nGood facilities, and enthusiastic staff - pretty, quiet, clean and close to the city center; helped make my experience of Vietnam more profound and memorable. If I can return to my beloved homeland of Vietnam, I will definitely return to Lys Hotel.\n\nCơ sở vật chất tốt, nhân viên nhiệt tình - xinh xắn, yên tĩnh, sạch sẽ và gần trung tâm thành phố; đã giúp trải nghiệm của tôi về Việt Nam sâu sắc và đáng nhớ hơn. Nếu trong tương lai có dịp trở lại quê hương Việt Nam thân yêu, nhất định tôi sẽ quay lại Lys Hotel.\n\n-Kien-",
+                "comment_negative": "Es gibt nichts, was ich nicht mag.\n\nThere's nothing I don't like\n\nTất cả đều khiến tôi hài lòng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tony",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/50654595.jpg?k=5c9637bbb8e59dfa8ad229b3b386bffa8a84a6e7b263ab951f845b4f78dd6224&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Lựa chọn tuyệt vời tại Buôn Ma Thuột",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí khách sạn tại trung tâm thành phố, nằm trong 1 khu vực an ninh và yên tĩnh.\nGiá phòng ưu đãi, mình và ba đến vào dịp cận Tết và may mắn được thăng hạng phòng.\nPhòng sạch sẽ và rộng rãi.\nNhân viên vui vẻ và lịch sự.\nKhu vực đậu xe máy trong nhà an ninh và an toàn.",
+                "comment_negative": "Không có gì để chê."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dan",
+                "avatar": "https://lh3.googleusercontent.com/-lM-Y8Sgoywc/AAAAAAAAAAI/AAAAAAAAABE/YLPoKL5sY5s/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Good",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Thích tất cả",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/01/2023",
+                "rating": "Ổn trong tầm giá.",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi/2 Giường Đơn Có Ban Công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Ban đầu mình đặt phòng tối mùng 5, nhưng do trục trặc xe cộ mình phải dời gấp qua mùng 6, nhân viên cũng khá dễ chịu cho mình dời mà không tính thêm phí. \nHơi xa trung tâm tí nhưng với mình thì không sao, bù lại sẽ khá yên tĩnh.",
+                "comment_negative": "Cách âm kém nên nếu phòng bên ồn thì khá khó chịu. \nKhách sạn không có máy sấy, bình nấu nước cũ và không tự tắt. Vì là khách sạn 2 sao nên mình cũng không yêu cầu cao về khoản tiện nghi."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/06/2022",
+                "rating": "ok",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "nhân viên lễ tân tốt. chỗ ở sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhật",
+                "avatar": "https://graph.facebook.com/v2.9/1129704487174029/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi/2 Giường Đơn Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Wifi yếu không sử dụng được"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dan",
+                "avatar": "https://lh3.googleusercontent.com/-lM-Y8Sgoywc/AAAAAAAAAAI/AAAAAAAAABE/YLPoKL5sY5s/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/03/2024",
+                "rating": "HÀI LÒNG - SATISFIED",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng ốc sạch sẽ, thoáng mát, yên tĩnh, nhân viên lịch sự và nhiệt tình. \nThe room is clean and spacious, quite. Staff are friendly and enthusiastic. Highly recommend this hotel for everyone.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thoai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ ở sạch sẽ và decor đẹp , mọi người nên đi. Giá cả hợp lý và sẽ ở nếu có dịp đi Bmt. Gần làng cf TN",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dan",
+                "avatar": "https://lh3.googleusercontent.com/-lM-Y8Sgoywc/AAAAAAAAAAI/AAAAAAAAABE/YLPoKL5sY5s/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng ốc sạch sẽ, đầy đủ tiện nghi, yên tĩnh, giá cả hợp lý.\nThe room was clean and neat, full of facilities, quite with a reasonable price.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ducnguyenhoang",
+                "avatar": "https://lh4.googleusercontent.com/-K_HHuH83bkQ/AAAAAAAAAAI/AAAAAAAAANw/CDJ2tPy94Uk/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sạch sẽ, phục vụ tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hà",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/08/2023",
+                "rating": "Excellent",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Giường Đôi",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gute Ausstattung, begeistertes Personal - hübsch, ruhig, sauber und in der Nähe des Stadtzentrums; hat dazu beigetragen, meine Erfahrung mit Vietnam tiefgreifender und unvergesslicher zu machen. Wenn ich in Zukunft die Möglichkeit habe, in meine geliebte Heimat Vietnam zurückzukehren, werde ich auf jeden Fall ins Lys Hotel zurückkehren. \n\nGood facilities, and enthusiastic staff - pretty, quiet, clean and close to the city center; helped make my experience of Vietnam more profound and memorable. If I can return to my beloved homeland of Vietnam, I will definitely return to Lys Hotel.\n\nCơ sở vật chất tốt, nhân viên nhiệt tình - xinh xắn, yên tĩnh, sạch sẽ và gần trung tâm thành phố; đã giúp trải nghiệm của tôi về Việt Nam sâu sắc và đáng nhớ hơn. Nếu trong tương lai có dịp trở lại quê hương Việt Nam thân yêu, nhất định tôi sẽ quay lại Lys Hotel.\n\n-Kien-",
+                "comment_negative": "Es gibt nichts, was ich nicht mag.\n\nThere's nothing I don't like\n\nTất cả đều khiến tôi hài lòng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tony",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/50654595.jpg?k=5c9637bbb8e59dfa8ad229b3b386bffa8a84a6e7b263ab951f845b4f78dd6224&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Lựa chọn tuyệt vời tại Buôn Ma Thuột",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí khách sạn tại trung tâm thành phố, nằm trong 1 khu vực an ninh và yên tĩnh.\nGiá phòng ưu đãi, mình và ba đến vào dịp cận Tết và may mắn được thăng hạng phòng.\nPhòng sạch sẽ và rộng rãi.\nNhân viên vui vẻ và lịch sự.\nKhu vực đậu xe máy trong nhà an ninh và an toàn.",
+                "comment_negative": "Không có gì để chê."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dan",
+                "avatar": "https://lh3.googleusercontent.com/-lM-Y8Sgoywc/AAAAAAAAAAI/AAAAAAAAABE/YLPoKL5sY5s/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Good",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Thích tất cả",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/01/2023",
+                "rating": "Ổn trong tầm giá.",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi/2 Giường Đơn Có Ban Công",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Ban đầu mình đặt phòng tối mùng 5, nhưng do trục trặc xe cộ mình phải dời gấp qua mùng 6, nhân viên cũng khá dễ chịu cho mình dời mà không tính thêm phí. \nHơi xa trung tâm tí nhưng với mình thì không sao, bù lại sẽ khá yên tĩnh.",
+                "comment_negative": "Cách âm kém nên nếu phòng bên ồn thì khá khó chịu. \nKhách sạn không có máy sấy, bình nấu nước cũ và không tự tắt. Vì là khách sạn 2 sao nên mình cũng không yêu cầu cao về khoản tiện nghi."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/06/2022",
+                "rating": "ok",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "nhân viên lễ tân tốt. chỗ ở sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhật",
+                "avatar": "https://graph.facebook.com/v2.9/1129704487174029/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi/2 Giường Đơn Có Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2022",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Wifi yếu không sử dụng được"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dan",
+                "avatar": "https://lh3.googleusercontent.com/-lM-Y8Sgoywc/AAAAAAAAAAI/AAAAAAAAABE/YLPoKL5sY5s/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/03/2024",
+                "rating": "HÀI LÒNG - SATISFIED",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng ốc sạch sẽ, thoáng mát, yên tĩnh, nhân viên lịch sự và nhiệt tình. \nThe room is clean and spacious, quite. Staff are friendly and enthusiastic. Highly recommend this hotel for everyone.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thoai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ ở sạch sẽ và decor đẹp , mọi người nên đi. Giá cả hợp lý và sẽ ở nếu có dịp đi Bmt. Gần làng cf TN",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dan",
+                "avatar": "https://lh3.googleusercontent.com/-lM-Y8Sgoywc/AAAAAAAAAAI/AAAAAAAAABE/YLPoKL5sY5s/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng ốc sạch sẽ, đầy đủ tiện nghi, yên tĩnh, giá cả hợp lý.\nThe room was clean and neat, full of facilities, quite with a reasonable price.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ducnguyenhoang",
+                "avatar": "https://lh4.googleusercontent.com/-K_HHuH83bkQ/AAAAAAAAAAI/AAAAAAAAANw/CDJ2tPy94Uk/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sạch sẽ, phục vụ tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hà",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/08/2023",
+                "rating": "Excellent",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Giường Đôi",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gute Ausstattung, begeistertes Personal - hübsch, ruhig, sauber und in der Nähe des Stadtzentrums; hat dazu beigetragen, meine Erfahrung mit Vietnam tiefgreifender und unvergesslicher zu machen. Wenn ich in Zukunft die Möglichkeit habe, in meine geliebte Heimat Vietnam zurückzukehren, werde ich auf jeden Fall ins Lys Hotel zurückkehren. \n\nGood facilities, and enthusiastic staff - pretty, quiet, clean and close to the city center; helped make my experience of Vietnam more profound and memorable. If I can return to my beloved homeland of Vietnam, I will definitely return to Lys Hotel.\n\nCơ sở vật chất tốt, nhân viên nhiệt tình - xinh xắn, yên tĩnh, sạch sẽ và gần trung tâm thành phố; đã giúp trải nghiệm của tôi về Việt Nam sâu sắc và đáng nhớ hơn. Nếu trong tương lai có dịp trở lại quê hương Việt Nam thân yêu, nhất định tôi sẽ quay lại Lys Hotel.\n\n-Kien-",
+                "comment_negative": "Es gibt nichts, was ich nicht mag.\n\nThere's nothing I don't like\n\nTất cả đều khiến tôi hài lòng"
+            }
+        }
+    ]
+}

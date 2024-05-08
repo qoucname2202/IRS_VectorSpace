@@ -1,0 +1,137 @@
+{
+    "name": "Hoang Dat Hotel",
+    "address": "225 Ly Thanh Tong, Loc Ninh, Dong Hoi, Quang Binh, Ðồng Hới, Việt Nam",
+    "description": "Nằm ở thành phố Đồng Hới, khách sạn 1 sao Hoang Dat Hotel có sân hiên cùng Wi-Fi miễn phí và quầy lễ tân 24 giờ/ngày. Quý khách có thể nếm thử các món ăn tại nhà hàng trong khuôn viên hoặc thư giãn trong quán bar.\n\nCác phòng nghỉ trong khách sạn được trang bị TV màn hình phẳng. Một số phòng có phòng tắm riêng và tầm nhìn ra biển. Ngoài ra, mỗi phòng còn được trang bị tủ lạnh.\n\nChỗ nghỉ phục vụ bữa sáng kiểu Á hàng ngày.\n\nSân bay Đồng Hới cách khách sạn 2 km.",
+    "rating": "8.1",
+    "total_rating": "7",
+    "evaluation_categories": {
+        "service_staff": 8.2,
+        "amenities": 7.9,
+        "cleanliness": 9.3,
+        "comfort": 8.6,
+        "value_for_money": 8.2,
+        "location": 6.8,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hang",
+                "avatar": "https://lh6.googleusercontent.com/-ak7UqTGd0Ks/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcfD7OAUvyv307vY4QVYcKm-pjPBg/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/07/2022",
+                "rating": "Rất thoải mái...",
+                "score": 8.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "sạch sẽ, thoải mái, nhân viên thân thiện...",
+                "comment_negative": "Không có..."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Không tên",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2022",
+                "rating": "Giá phòng rẻ mà phòng rất sạch sẽ và thoáng nha.Phòng mình buổi trưa nắng nên nhân viên đã gọi dt hỏi mình mở máy lạnh t",
+                "score": 9.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng rất sạch sẽ, và đẹp.Khăn tắm rất trắng và sạch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://lh3.googleusercontent.com/a-/AFdZucon6JFFC-KoQKVqiL_4qh3Hf2X5fkD6k62TiToCfw=s96-c",
+                "country": null
+            },
+            "review": {
+                "date": "24/08/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chân",
+                "avatar": "https://graph.facebook.com/v2.9/1157487427772178/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Son",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxaKOf84uuElMrONCE9TJg_D8KC_3arxafpiUpcX=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/02/2022",
+                "rating": "Kém",
+                "score": 3.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hưng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2021",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình Nhìn ra Vườn",
+                "stay_duration": "1 đêm · tháng 5/2021",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Denise",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "20/08/2022",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Có 2 Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

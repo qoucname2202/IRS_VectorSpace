@@ -1,0 +1,1888 @@
+{
+    "name": "Thanh Truc Hotel Ca Mau",
+    "address": "113 Ngô Quyền, Phường 1, Thành phố Cà Mau, Cà Mau, Việt Nam",
+    "description": "Thanh Truc Hotel Ca Mau tọa lạc ở Cà Mau. Ngoài Wi-Fi miễn phí, khách sạn 2 sao này còn cung cấp khu vườn và phòng chờ chung. Chỗ nghỉ này cung cấp dịch vụ phòng, quầy lễ tân 24 giờ và phòng giữ hành lý cho khách.\n\nTại khách sạn, tất cả các phòng đều có điều hòa, bàn làm việc, sân hiên với view thành phố, phòng tắm riêng, TV màn hình phẳng, ga trải giường và khăn tắm. Mỗi phòng đều có ấm đun nước, trong đó một số phòng có ban công. Tất cả các căn đều có tủ lạnh.\n\nSân bay gần nhất là Sân bay Cà Mau, cách Thanh Truc Hotel Ca Mau 4 km.",
+    "rating": "7.9",
+    "total_rating": "110",
+    "evaluation_categories": {
+        "service_staff": 8.5,
+        "amenities": 7.5,
+        "cleanliness": 8.0,
+        "comfort": 7.9,
+        "value_for_money": 7.9,
+        "location": 8.2,
+        "free_wifi": 8.0
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn rất sạch sẽ, tiện nghi đầy đủ, chị lễ tân rất thân thiện nhiệt tình. Nói chung rất hài lòng, sẽ ghé lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ ở vị trí trung tâm, sạch sẽ, giá cả hợp lý, có chỗ ăn sáng.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khánh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/011/2023",
+                "rating": "I Love Ca Mau",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Gần trung tâm, Gần quảng trường. Con đường ăn và thưởng thức các món hải sản của Cà Mau. Quán Ba Miền, Hủ tiếu mực ...\nGần trung tâm cố thố phố, Khu tưởng niệm Hồ Chủ Tịch, Vườn Chim quốc gia.\nCác dịch vụ tốt của bạn ở đây.",
+                "comment_negative": "Hạn chế về chỗ để xe ô tô."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kin",
+                "avatar": "https://graph.facebook.com/v2.9/100000208603590/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên thân thiên, phòng khá sạch",
+                "comment_negative": "Ko có máy sấy tok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-x.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thân thiện mến khách",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngô",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tiện nghi",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng nhìn thoáng, rất sạch sẽ, thoải mái. Chủ rất niềm nở. Bên cạnh có quán ăn sáng, nước buổi tối rất tiện",
+                "comment_negative": "Phòng nội thất hơi cũ, không có máy sấy, TV không mở được vì đi cũng người lớn tuổi nên gia đình cần"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hồng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, chủ nhà và các  bạn lễ tân, nhân viên đều rất nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Son",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/06/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nhân viên nhiệt tình, thân thiện. Mình để quên đồ và thế là chị chủ đóng gói, gửi lên Sài Gòn giúp mình",
+                "comment_negative": "toilet không có vòi xịt đ*t :("
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://lh3.googleusercontent.com/a-/ACNPEu8izewUxCKqYAZkZ1W-ChF70DoWeWGLauJnifvrzg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/03/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · Tháng 2/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Con gái chủ nhà rất nhiệt tình, thân thiện, dễ mến.",
+                "comment_negative": "Thời điểm nhận phòng lễ tân không được niềm nở lắm. Khá là bất ngờ xíu vì mình luôn có ấn tượng là người miền Tây rất dễ gần, vui vẻ, thân thiện.\n\nVòi hoa sen trong phòng tắm quá cũ - cần được thay mới. Điểm trừ nữa là không có vòi xịt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn rất sạch sẽ, tiện nghi đầy đủ, chị lễ tân rất thân thiện nhiệt tình. Nói chung rất hài lòng, sẽ ghé lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ ở vị trí trung tâm, sạch sẽ, giá cả hợp lý, có chỗ ăn sáng.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khánh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/011/2023",
+                "rating": "I Love Ca Mau",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Gần trung tâm, Gần quảng trường. Con đường ăn và thưởng thức các món hải sản của Cà Mau. Quán Ba Miền, Hủ tiếu mực ...\nGần trung tâm cố thố phố, Khu tưởng niệm Hồ Chủ Tịch, Vườn Chim quốc gia.\nCác dịch vụ tốt của bạn ở đây.",
+                "comment_negative": "Hạn chế về chỗ để xe ô tô."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kin",
+                "avatar": "https://graph.facebook.com/v2.9/100000208603590/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên thân thiên, phòng khá sạch",
+                "comment_negative": "Ko có máy sấy tok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-x.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thân thiện mến khách",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngô",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tiện nghi",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng nhìn thoáng, rất sạch sẽ, thoải mái. Chủ rất niềm nở. Bên cạnh có quán ăn sáng, nước buổi tối rất tiện",
+                "comment_negative": "Phòng nội thất hơi cũ, không có máy sấy, TV không mở được vì đi cũng người lớn tuổi nên gia đình cần"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hồng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, chủ nhà và các  bạn lễ tân, nhân viên đều rất nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Son",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/06/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nhân viên nhiệt tình, thân thiện. Mình để quên đồ và thế là chị chủ đóng gói, gửi lên Sài Gòn giúp mình",
+                "comment_negative": "toilet không có vòi xịt đ*t :("
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://lh3.googleusercontent.com/a-/ACNPEu8izewUxCKqYAZkZ1W-ChF70DoWeWGLauJnifvrzg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/03/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · Tháng 2/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Con gái chủ nhà rất nhiệt tình, thân thiện, dễ mến.",
+                "comment_negative": "Thời điểm nhận phòng lễ tân không được niềm nở lắm. Khá là bất ngờ xíu vì mình luôn có ấn tượng là người miền Tây rất dễ gần, vui vẻ, thân thiện.\n\nVòi hoa sen trong phòng tắm quá cũ - cần được thay mới. Điểm trừ nữa là không có vòi xịt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn rất sạch sẽ, tiện nghi đầy đủ, chị lễ tân rất thân thiện nhiệt tình. Nói chung rất hài lòng, sẽ ghé lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ ở vị trí trung tâm, sạch sẽ, giá cả hợp lý, có chỗ ăn sáng.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khánh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/011/2023",
+                "rating": "I Love Ca Mau",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Gần trung tâm, Gần quảng trường. Con đường ăn và thưởng thức các món hải sản của Cà Mau. Quán Ba Miền, Hủ tiếu mực ...\nGần trung tâm cố thố phố, Khu tưởng niệm Hồ Chủ Tịch, Vườn Chim quốc gia.\nCác dịch vụ tốt của bạn ở đây.",
+                "comment_negative": "Hạn chế về chỗ để xe ô tô."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kin",
+                "avatar": "https://graph.facebook.com/v2.9/100000208603590/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên thân thiên, phòng khá sạch",
+                "comment_negative": "Ko có máy sấy tok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-x.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thân thiện mến khách",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngô",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tiện nghi",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng nhìn thoáng, rất sạch sẽ, thoải mái. Chủ rất niềm nở. Bên cạnh có quán ăn sáng, nước buổi tối rất tiện",
+                "comment_negative": "Phòng nội thất hơi cũ, không có máy sấy, TV không mở được vì đi cũng người lớn tuổi nên gia đình cần"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hồng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, chủ nhà và các  bạn lễ tân, nhân viên đều rất nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Son",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/06/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nhân viên nhiệt tình, thân thiện. Mình để quên đồ và thế là chị chủ đóng gói, gửi lên Sài Gòn giúp mình",
+                "comment_negative": "toilet không có vòi xịt đ*t :("
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://lh3.googleusercontent.com/a-/ACNPEu8izewUxCKqYAZkZ1W-ChF70DoWeWGLauJnifvrzg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/03/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · Tháng 2/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Con gái chủ nhà rất nhiệt tình, thân thiện, dễ mến.",
+                "comment_negative": "Thời điểm nhận phòng lễ tân không được niềm nở lắm. Khá là bất ngờ xíu vì mình luôn có ấn tượng là người miền Tây rất dễ gần, vui vẻ, thân thiện.\n\nVòi hoa sen trong phòng tắm quá cũ - cần được thay mới. Điểm trừ nữa là không có vòi xịt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn rất sạch sẽ, tiện nghi đầy đủ, chị lễ tân rất thân thiện nhiệt tình. Nói chung rất hài lòng, sẽ ghé lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ ở vị trí trung tâm, sạch sẽ, giá cả hợp lý, có chỗ ăn sáng.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khánh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/011/2023",
+                "rating": "I Love Ca Mau",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Gần trung tâm, Gần quảng trường. Con đường ăn và thưởng thức các món hải sản của Cà Mau. Quán Ba Miền, Hủ tiếu mực ...\nGần trung tâm cố thố phố, Khu tưởng niệm Hồ Chủ Tịch, Vườn Chim quốc gia.\nCác dịch vụ tốt của bạn ở đây.",
+                "comment_negative": "Hạn chế về chỗ để xe ô tô."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kin",
+                "avatar": "https://graph.facebook.com/v2.9/100000208603590/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên thân thiên, phòng khá sạch",
+                "comment_negative": "Ko có máy sấy tok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-x.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thân thiện mến khách",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngô",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tiện nghi",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng nhìn thoáng, rất sạch sẽ, thoải mái. Chủ rất niềm nở. Bên cạnh có quán ăn sáng, nước buổi tối rất tiện",
+                "comment_negative": "Phòng nội thất hơi cũ, không có máy sấy, TV không mở được vì đi cũng người lớn tuổi nên gia đình cần"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hồng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, chủ nhà và các  bạn lễ tân, nhân viên đều rất nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Son",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/06/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nhân viên nhiệt tình, thân thiện. Mình để quên đồ và thế là chị chủ đóng gói, gửi lên Sài Gòn giúp mình",
+                "comment_negative": "toilet không có vòi xịt đ*t :("
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://lh3.googleusercontent.com/a-/ACNPEu8izewUxCKqYAZkZ1W-ChF70DoWeWGLauJnifvrzg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/03/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · Tháng 2/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Con gái chủ nhà rất nhiệt tình, thân thiện, dễ mến.",
+                "comment_negative": "Thời điểm nhận phòng lễ tân không được niềm nở lắm. Khá là bất ngờ xíu vì mình luôn có ấn tượng là người miền Tây rất dễ gần, vui vẻ, thân thiện.\n\nVòi hoa sen trong phòng tắm quá cũ - cần được thay mới. Điểm trừ nữa là không có vòi xịt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn rất sạch sẽ, tiện nghi đầy đủ, chị lễ tân rất thân thiện nhiệt tình. Nói chung rất hài lòng, sẽ ghé lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ ở vị trí trung tâm, sạch sẽ, giá cả hợp lý, có chỗ ăn sáng.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khánh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/011/2023",
+                "rating": "I Love Ca Mau",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Gần trung tâm, Gần quảng trường. Con đường ăn và thưởng thức các món hải sản của Cà Mau. Quán Ba Miền, Hủ tiếu mực ...\nGần trung tâm cố thố phố, Khu tưởng niệm Hồ Chủ Tịch, Vườn Chim quốc gia.\nCác dịch vụ tốt của bạn ở đây.",
+                "comment_negative": "Hạn chế về chỗ để xe ô tô."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kin",
+                "avatar": "https://graph.facebook.com/v2.9/100000208603590/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên thân thiên, phòng khá sạch",
+                "comment_negative": "Ko có máy sấy tok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-x.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thân thiện mến khách",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngô",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tiện nghi",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng nhìn thoáng, rất sạch sẽ, thoải mái. Chủ rất niềm nở. Bên cạnh có quán ăn sáng, nước buổi tối rất tiện",
+                "comment_negative": "Phòng nội thất hơi cũ, không có máy sấy, TV không mở được vì đi cũng người lớn tuổi nên gia đình cần"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hồng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, chủ nhà và các  bạn lễ tân, nhân viên đều rất nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Son",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/06/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nhân viên nhiệt tình, thân thiện. Mình để quên đồ và thế là chị chủ đóng gói, gửi lên Sài Gòn giúp mình",
+                "comment_negative": "toilet không có vòi xịt đ*t :("
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://lh3.googleusercontent.com/a-/ACNPEu8izewUxCKqYAZkZ1W-ChF70DoWeWGLauJnifvrzg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/03/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · Tháng 2/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Con gái chủ nhà rất nhiệt tình, thân thiện, dễ mến.",
+                "comment_negative": "Thời điểm nhận phòng lễ tân không được niềm nở lắm. Khá là bất ngờ xíu vì mình luôn có ấn tượng là người miền Tây rất dễ gần, vui vẻ, thân thiện.\n\nVòi hoa sen trong phòng tắm quá cũ - cần được thay mới. Điểm trừ nữa là không có vòi xịt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn rất sạch sẽ, tiện nghi đầy đủ, chị lễ tân rất thân thiện nhiệt tình. Nói chung rất hài lòng, sẽ ghé lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ ở vị trí trung tâm, sạch sẽ, giá cả hợp lý, có chỗ ăn sáng.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khánh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/011/2023",
+                "rating": "I Love Ca Mau",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Gần trung tâm, Gần quảng trường. Con đường ăn và thưởng thức các món hải sản của Cà Mau. Quán Ba Miền, Hủ tiếu mực ...\nGần trung tâm cố thố phố, Khu tưởng niệm Hồ Chủ Tịch, Vườn Chim quốc gia.\nCác dịch vụ tốt của bạn ở đây.",
+                "comment_negative": "Hạn chế về chỗ để xe ô tô."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kin",
+                "avatar": "https://graph.facebook.com/v2.9/100000208603590/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên thân thiên, phòng khá sạch",
+                "comment_negative": "Ko có máy sấy tok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-x.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thân thiện mến khách",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngô",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tiện nghi",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng nhìn thoáng, rất sạch sẽ, thoải mái. Chủ rất niềm nở. Bên cạnh có quán ăn sáng, nước buổi tối rất tiện",
+                "comment_negative": "Phòng nội thất hơi cũ, không có máy sấy, TV không mở được vì đi cũng người lớn tuổi nên gia đình cần"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hồng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, chủ nhà và các  bạn lễ tân, nhân viên đều rất nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Son",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/06/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nhân viên nhiệt tình, thân thiện. Mình để quên đồ và thế là chị chủ đóng gói, gửi lên Sài Gòn giúp mình",
+                "comment_negative": "toilet không có vòi xịt đ*t :("
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://lh3.googleusercontent.com/a-/ACNPEu8izewUxCKqYAZkZ1W-ChF70DoWeWGLauJnifvrzg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/03/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · Tháng 2/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Con gái chủ nhà rất nhiệt tình, thân thiện, dễ mến.",
+                "comment_negative": "Thời điểm nhận phòng lễ tân không được niềm nở lắm. Khá là bất ngờ xíu vì mình luôn có ấn tượng là người miền Tây rất dễ gần, vui vẻ, thân thiện.\n\nVòi hoa sen trong phòng tắm quá cũ - cần được thay mới. Điểm trừ nữa là không có vòi xịt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn rất sạch sẽ, tiện nghi đầy đủ, chị lễ tân rất thân thiện nhiệt tình. Nói chung rất hài lòng, sẽ ghé lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ ở vị trí trung tâm, sạch sẽ, giá cả hợp lý, có chỗ ăn sáng.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khánh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/011/2023",
+                "rating": "I Love Ca Mau",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Gần trung tâm, Gần quảng trường. Con đường ăn và thưởng thức các món hải sản của Cà Mau. Quán Ba Miền, Hủ tiếu mực ...\nGần trung tâm cố thố phố, Khu tưởng niệm Hồ Chủ Tịch, Vườn Chim quốc gia.\nCác dịch vụ tốt của bạn ở đây.",
+                "comment_negative": "Hạn chế về chỗ để xe ô tô."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kin",
+                "avatar": "https://graph.facebook.com/v2.9/100000208603590/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên thân thiên, phòng khá sạch",
+                "comment_negative": "Ko có máy sấy tok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-x.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thân thiện mến khách",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngô",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tiện nghi",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng nhìn thoáng, rất sạch sẽ, thoải mái. Chủ rất niềm nở. Bên cạnh có quán ăn sáng, nước buổi tối rất tiện",
+                "comment_negative": "Phòng nội thất hơi cũ, không có máy sấy, TV không mở được vì đi cũng người lớn tuổi nên gia đình cần"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hồng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, chủ nhà và các  bạn lễ tân, nhân viên đều rất nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Son",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/06/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nhân viên nhiệt tình, thân thiện. Mình để quên đồ và thế là chị chủ đóng gói, gửi lên Sài Gòn giúp mình",
+                "comment_negative": "toilet không có vòi xịt đ*t :("
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://lh3.googleusercontent.com/a-/ACNPEu8izewUxCKqYAZkZ1W-ChF70DoWeWGLauJnifvrzg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/03/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · Tháng 2/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Con gái chủ nhà rất nhiệt tình, thân thiện, dễ mến.",
+                "comment_negative": "Thời điểm nhận phòng lễ tân không được niềm nở lắm. Khá là bất ngờ xíu vì mình luôn có ấn tượng là người miền Tây rất dễ gần, vui vẻ, thân thiện.\n\nVòi hoa sen trong phòng tắm quá cũ - cần được thay mới. Điểm trừ nữa là không có vòi xịt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn rất sạch sẽ, tiện nghi đầy đủ, chị lễ tân rất thân thiện nhiệt tình. Nói chung rất hài lòng, sẽ ghé lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ ở vị trí trung tâm, sạch sẽ, giá cả hợp lý, có chỗ ăn sáng.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khánh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/011/2023",
+                "rating": "I Love Ca Mau",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Gần trung tâm, Gần quảng trường. Con đường ăn và thưởng thức các món hải sản của Cà Mau. Quán Ba Miền, Hủ tiếu mực ...\nGần trung tâm cố thố phố, Khu tưởng niệm Hồ Chủ Tịch, Vườn Chim quốc gia.\nCác dịch vụ tốt của bạn ở đây.",
+                "comment_negative": "Hạn chế về chỗ để xe ô tô."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kin",
+                "avatar": "https://graph.facebook.com/v2.9/100000208603590/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên thân thiên, phòng khá sạch",
+                "comment_negative": "Ko có máy sấy tok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-x.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thân thiện mến khách",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngô",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tiện nghi",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng nhìn thoáng, rất sạch sẽ, thoải mái. Chủ rất niềm nở. Bên cạnh có quán ăn sáng, nước buổi tối rất tiện",
+                "comment_negative": "Phòng nội thất hơi cũ, không có máy sấy, TV không mở được vì đi cũng người lớn tuổi nên gia đình cần"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hồng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, chủ nhà và các  bạn lễ tân, nhân viên đều rất nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Son",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/06/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nhân viên nhiệt tình, thân thiện. Mình để quên đồ và thế là chị chủ đóng gói, gửi lên Sài Gòn giúp mình",
+                "comment_negative": "toilet không có vòi xịt đ*t :("
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://lh3.googleusercontent.com/a-/ACNPEu8izewUxCKqYAZkZ1W-ChF70DoWeWGLauJnifvrzg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/03/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · Tháng 2/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Con gái chủ nhà rất nhiệt tình, thân thiện, dễ mến.",
+                "comment_negative": "Thời điểm nhận phòng lễ tân không được niềm nở lắm. Khá là bất ngờ xíu vì mình luôn có ấn tượng là người miền Tây rất dễ gần, vui vẻ, thân thiện.\n\nVòi hoa sen trong phòng tắm quá cũ - cần được thay mới. Điểm trừ nữa là không có vòi xịt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn rất sạch sẽ, tiện nghi đầy đủ, chị lễ tân rất thân thiện nhiệt tình. Nói chung rất hài lòng, sẽ ghé lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ ở vị trí trung tâm, sạch sẽ, giá cả hợp lý, có chỗ ăn sáng.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khánh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/011/2023",
+                "rating": "I Love Ca Mau",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Gần trung tâm, Gần quảng trường. Con đường ăn và thưởng thức các món hải sản của Cà Mau. Quán Ba Miền, Hủ tiếu mực ...\nGần trung tâm cố thố phố, Khu tưởng niệm Hồ Chủ Tịch, Vườn Chim quốc gia.\nCác dịch vụ tốt của bạn ở đây.",
+                "comment_negative": "Hạn chế về chỗ để xe ô tô."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kin",
+                "avatar": "https://graph.facebook.com/v2.9/100000208603590/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên thân thiên, phòng khá sạch",
+                "comment_negative": "Ko có máy sấy tok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-x.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thân thiện mến khách",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngô",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tiện nghi",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng nhìn thoáng, rất sạch sẽ, thoải mái. Chủ rất niềm nở. Bên cạnh có quán ăn sáng, nước buổi tối rất tiện",
+                "comment_negative": "Phòng nội thất hơi cũ, không có máy sấy, TV không mở được vì đi cũng người lớn tuổi nên gia đình cần"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hồng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, chủ nhà và các  bạn lễ tân, nhân viên đều rất nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Son",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/06/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nhân viên nhiệt tình, thân thiện. Mình để quên đồ và thế là chị chủ đóng gói, gửi lên Sài Gòn giúp mình",
+                "comment_negative": "toilet không có vòi xịt đ*t :("
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://lh3.googleusercontent.com/a-/ACNPEu8izewUxCKqYAZkZ1W-ChF70DoWeWGLauJnifvrzg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/03/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · Tháng 2/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Con gái chủ nhà rất nhiệt tình, thân thiện, dễ mến.",
+                "comment_negative": "Thời điểm nhận phòng lễ tân không được niềm nở lắm. Khá là bất ngờ xíu vì mình luôn có ấn tượng là người miền Tây rất dễ gần, vui vẻ, thân thiện.\n\nVòi hoa sen trong phòng tắm quá cũ - cần được thay mới. Điểm trừ nữa là không có vòi xịt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn rất sạch sẽ, tiện nghi đầy đủ, chị lễ tân rất thân thiện nhiệt tình. Nói chung rất hài lòng, sẽ ghé lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ ở vị trí trung tâm, sạch sẽ, giá cả hợp lý, có chỗ ăn sáng.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khánh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/011/2023",
+                "rating": "I Love Ca Mau",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Gần trung tâm, Gần quảng trường. Con đường ăn và thưởng thức các món hải sản của Cà Mau. Quán Ba Miền, Hủ tiếu mực ...\nGần trung tâm cố thố phố, Khu tưởng niệm Hồ Chủ Tịch, Vườn Chim quốc gia.\nCác dịch vụ tốt của bạn ở đây.",
+                "comment_negative": "Hạn chế về chỗ để xe ô tô."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kin",
+                "avatar": "https://graph.facebook.com/v2.9/100000208603590/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên thân thiên, phòng khá sạch",
+                "comment_negative": "Ko có máy sấy tok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-x.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thân thiện mến khách",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngô",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tiện nghi",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng nhìn thoáng, rất sạch sẽ, thoải mái. Chủ rất niềm nở. Bên cạnh có quán ăn sáng, nước buổi tối rất tiện",
+                "comment_negative": "Phòng nội thất hơi cũ, không có máy sấy, TV không mở được vì đi cũng người lớn tuổi nên gia đình cần"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hồng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, chủ nhà và các  bạn lễ tân, nhân viên đều rất nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Son",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/06/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nhân viên nhiệt tình, thân thiện. Mình để quên đồ và thế là chị chủ đóng gói, gửi lên Sài Gòn giúp mình",
+                "comment_negative": "toilet không có vòi xịt đ*t :("
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://lh3.googleusercontent.com/a-/ACNPEu8izewUxCKqYAZkZ1W-ChF70DoWeWGLauJnifvrzg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/03/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · Tháng 2/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Con gái chủ nhà rất nhiệt tình, thân thiện, dễ mến.",
+                "comment_negative": "Thời điểm nhận phòng lễ tân không được niềm nở lắm. Khá là bất ngờ xíu vì mình luôn có ấn tượng là người miền Tây rất dễ gần, vui vẻ, thân thiện.\n\nVòi hoa sen trong phòng tắm quá cũ - cần được thay mới. Điểm trừ nữa là không có vòi xịt."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn rất sạch sẽ, tiện nghi đầy đủ, chị lễ tân rất thân thiện nhiệt tình. Nói chung rất hài lòng, sẽ ghé lại nếu có dịp.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ ở vị trí trung tâm, sạch sẽ, giá cả hợp lý, có chỗ ăn sáng.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khánh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/011/2023",
+                "rating": "I Love Ca Mau",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Gần trung tâm, Gần quảng trường. Con đường ăn và thưởng thức các món hải sản của Cà Mau. Quán Ba Miền, Hủ tiếu mực ...\nGần trung tâm cố thố phố, Khu tưởng niệm Hồ Chủ Tịch, Vườn Chim quốc gia.\nCác dịch vụ tốt của bạn ở đây.",
+                "comment_negative": "Hạn chế về chỗ để xe ô tô."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kin",
+                "avatar": "https://graph.facebook.com/v2.9/100000208603590/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/010/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên thân thiên, phòng khá sạch",
+                "comment_negative": "Ko có máy sấy tok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-x.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thân thiện mến khách",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngô",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tiện nghi",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng nhìn thoáng, rất sạch sẽ, thoải mái. Chủ rất niềm nở. Bên cạnh có quán ăn sáng, nước buổi tối rất tiện",
+                "comment_negative": "Phòng nội thất hơi cũ, không có máy sấy, TV không mở được vì đi cũng người lớn tuổi nên gia đình cần"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hồng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí thuận lợi, chủ nhà và các  bạn lễ tân, nhân viên đều rất nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Son",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/06/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "nhân viên nhiệt tình, thân thiện. Mình để quên đồ và thế là chị chủ đóng gói, gửi lên Sài Gòn giúp mình",
+                "comment_negative": "toilet không có vòi xịt đ*t :("
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/05/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Không gian thoáng mát",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duong",
+                "avatar": "https://lh3.googleusercontent.com/a-/ACNPEu8izewUxCKqYAZkZ1W-ChF70DoWeWGLauJnifvrzg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/03/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · Tháng 2/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Con gái chủ nhà rất nhiệt tình, thân thiện, dễ mến.",
+                "comment_negative": "Thời điểm nhận phòng lễ tân không được niềm nở lắm. Khá là bất ngờ xíu vì mình luôn có ấn tượng là người miền Tây rất dễ gần, vui vẻ, thân thiện.\n\nVòi hoa sen trong phòng tắm quá cũ - cần được thay mới. Điểm trừ nữa là không có vòi xịt."
+            }
+        }
+    ]
+}

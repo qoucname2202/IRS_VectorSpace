@@ -1,0 +1,35 @@
+{
+    "name": "Khách Sạn Măng Đen Xanh",
+    "address": "Đường 24, Kon Plong, Việt Nam",
+    "description": "Khách Sạn Măng Đen Xanh tọa lạc ở Kon Plong. Ngoài khu vườn, khách sạn 2 sao này còn có các phòng với điều hòa được trang bị Wi-Fi miễn phí, trong đó mỗi phòng đều có phòng tắm riêng. Khách sạn có phòng gia đình.\n\nTại khách sạn, các phòng đều đi kèm với bàn làm việc. Khách Sạn Măng Đen Xanh cung cấp một số căn nhìn ra núi và phòng nào cũng có ấm đun nước. Các phòng ở chỗ nghỉ được trang bị TV màn hình phẳng và máy sấy tóc.\n\nSân bay gần nhất là Sân bay Pleiku, cách Khách Sạn Măng Đen Xanh 100 km.",
+    "rating": "1",
+    "total_rating": "1",
+    "evaluation_categories": {
+        "service_staff": 5.0,
+        "amenities": 5.0,
+        "cleanliness": 5.0,
+        "comfort": 5.0,
+        "value_for_money": 2.5,
+        "location": 5.0,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/02/2024",
+                "rating": "The hotel owner betrayed customer. All kinds of confirmation provided to her were not accepted.",
+                "score": 1.0,
+                "room_type": "Phòng có giường cỡ King nhìn ra cảnh núi non",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "The hotel is at 28 Phạm Văn Đồng (on National highway No.24) - near a series of hotels and easy to find. Some hotels have very nice service (but not Măng Đen Xanh hotel- which betrayed customers). \nNote: Please noted that Măng Đen Xanh hotel is different from MangdenGreen hotel. The Mangdengreen hotel has very good service.",
+                "comment_negative": "The owner betrayed customer. The owner of Măng Đen Xanh Hotel did not accept pre-booking, especially through booking.com. Even though I made my booking successfully more than 1 month before date. I also receive all kinds of confirmation for my booking. But at the time I arrived. The owner said there was no booking at all. She added that the hotel has no cooperation with any kind of online booking, including booking.com or any other online booking service. It was in Lunar Tet time. I had to look for other room for my family (with two children) to stay that night.\nIt was a disaster to book Măng Đen Xanh hotel! \nAnd again, please noted that the MangdenGreen hotel is a different one with excellent service. Eventhough they had no free room, the staff phoned some other hotels to help my family an option to stay that night. Please noted that the name of the bad one (Măng Đen Xanh hotel) translated in English is Măng Đen Green hotel - similar as the name of the good one. But the two hotels are completely different."
+            }
+        }
+    ]
+}

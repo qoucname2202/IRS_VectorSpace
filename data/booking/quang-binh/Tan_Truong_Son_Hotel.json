@@ -1,0 +1,103 @@
+{
+    "name": "Tan Truong Son Hotel",
+    "address": "34 Mac Dinh Chi, Ðồng Hới, Việt Nam",
+    "description": "Tọa lạc giáp biển ở Ðồng Hới, Tan Truong Son Hotel có phòng chờ chung và Wi-Fi miễn phí. Khách sạn có sân hiên và nhìn ra thành phố, ngoài ra du khách có thể thưởng thức bữa ăn tại nhà hàng hoặc đồ uống tại bar thức ăn nhẹ.\n\nPhòng khách được trang bị điều hòa, TV màn hình phẳng có truyền hình vệ tinh, tủ lạnh, ấm đun nước, vòi sen, đồ vệ sinh cá nhân miễn phí và bàn làm việc. Tất cả các phòng có phòng tắm riêng, máy sấy tóc và ga trải giường.\n\nThành thạo tiếng Anh và tiếng Việt, đội ngũ nhân viên tại lễ tân luôn sẵn lòng đưa ra hướng dẫn hữu ích về khu vực xung quanh.\n\nSân bay gần nhất là Sân bay Đồng Hới, cách khách sạn 8 km, đồng thời chỗ nghỉ có cung cấp dịch vụ đưa đón sân bay mất phí.",
+    "rating": "5.8",
+    "total_rating": "5",
+    "evaluation_categories": {
+        "service_staff": 7.5,
+        "amenities": 6.0,
+        "cleanliness": 6.5,
+        "comfort": 8.0,
+        "value_for_money": 5.5,
+        "location": 7.0,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Ngo",
+                "avatar": "https://lh3.googleusercontent.com/a-/AFdZuco_mZW97jUYFOS61yhNkhEHUlG4Dr1dNIIYHpXX6A=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/05/2023",
+                "rating": "Không hài lòng, tiện nghi không tương xứng với giá tiền trả cho phòng",
+                "score": 4.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí dễ tìm, vệ sinh ổn",
+                "comment_negative": "Phòng cũ, cách âm không tốt. Nghe các phòng khác mở/đóng cửa đập  ầm ầm. Giá phòng chưa sale để hơn 500k/đêm nhưng phòng bé chưa đến 20m2, dùng chìa khoá kiểu thường, cửa sổ hướng hành lang đi lại thì có cũng như không, trang thiết bị cũ, KHÔNG CÓ sẵn máy sấy tóc,dép đi trong phòng,nước suối uống miễn phí. Quạt treo tường bị hỏng. Ks 2 sao nhưng thực tế ko xứng đáng với giá tiền dù sau sale là 364k/ đêm."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đoàn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/05/2023",
+                "rating": "Tàm tạm",
+                "score": 5.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "2 đêm · tháng 5/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Địa điểm trung tâm",
+                "comment_negative": "Tiện nghi khách sạn khá hạn chế. Thiếu những vận dụng cần thiết như máy sấy tóc, tivi hình ảnh mờ, điều khiển điều hòa, tivi lộn xộn. Ở tầng 5 nhưng phải đi thang bộ khá nhiều."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hằng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/09/2023",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "3 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Cực kì sạch sẽ",
+                "comment_negative": "Xa biển. Đi tắm hơi bất tiện"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quynh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/07/2022",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Superior Gia Đình",
+                "stay_duration": "2 đêm · tháng 7/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jon",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "7/01/2024",
+                "rating": "Kém",
+                "score": 3.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "3 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

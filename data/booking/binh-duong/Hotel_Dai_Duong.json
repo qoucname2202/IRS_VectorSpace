@@ -1,0 +1,35 @@
+{
+    "name": "Hotel Đại Dương",
+    "address": "Đường Thuận Giao 10 E1/19 khu dân cư thuận giao thuận an bình dương, Thuận An, Việt Nam",
+    "description": "Hotel Đại Dương tọa lạc ở Thuận An, cách Bảo tàng lịch sử Việt Nam 23 km và Trung Tâm Thương Mại Diamond Plaza 24 km. Chỗ nghỉ này nằm cách Trung tâm mua sắm AEON MALL Bình Dương Canary 8.3 km, Trung tâm thương mại Vincom Thủ Đức 16 km và Công viên văn hóa Suối Tiên 19 km. Khách sạn cung cấp sân hiên, lễ tân 24/24, cùng Wi-Fi miễn phí ở toàn bộ chỗ nghỉ.\n\nCác căn ở khách sạn được trang bị TV màn hình phẳng. Tại Hotel Đại Dương, các phòng được thiết kế có điều hòa và phòng tắm riêng.\n\nChỗ nghỉ cách Bưu điện Trung tâm 24 km và Chợ Tân Định 24 km. Sân bay gần nhất là Sân bay Quốc tế Tân Sơn Nhất, cách Hotel Đại Dương 22 km.",
+    "rating": "5",
+    "total_rating": "1",
+    "evaluation_categories": {
+        "service_staff": 7.5,
+        "amenities": 5.0,
+        "cleanliness": 7.5,
+        "comfort": 5.0,
+        "value_for_money": 7.5,
+        "location": 10.0,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTteA2CWVSQ2pDbRcnpcZ-wnH50ZrCio8jeaxtf8H4ts4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/010/2023",
+                "rating": "Tàm tạm",
+                "score": 5.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đơn",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "khách sạn sạch sẽ",
+                "comment_negative": "Không có tủ lạnh, nên thay lại ga giường"
+            }
+        }
+    ]
+}

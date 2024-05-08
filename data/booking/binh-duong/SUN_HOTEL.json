@@ -1,0 +1,868 @@
+{
+    "name": "SUN HOTEL",
+    "address": "HẺM 01 ĐƯỜNG TRẦN BÌNH TRỌNG THỦ DẦU MỘT, BÌNH DƯƠNG, Thủ Dầu Một, Việt Nam",
+    "description": "Nằm ở Thủ Dầu Một, cách Trung tâm mua sắm AEON MALL Bình Dương Canary 8.1 km, SUN HOTEL nhìn rathành phố. Ngoài sân hiên, khách sạn 2 sao này còn có các phòng với điều hòa và phòng tắm riêng. Chỗ nghỉ này cung cấp dịch vụ phòng và quầy lễ tân 24 giờ cho khách.\n\nTại khách sạn, các phòng được thiết kế có bàn làm việc và TV màn hình phẳng. Tại SUN HOTEL, các phòng đều có ga trải giường và khăn tắm.\n\nChỗ nghỉ cách Trung tâm thương mại Vincom Thủ Đức 19 km và Công viên văn hóa Suối Tiên 24 km. Sân bay gần nhất là Sân bay Quốc tế Tân Sơn Nhất, cách SUN HOTEL 22 km.",
+    "rating": "8.1",
+    "total_rating": "41",
+    "evaluation_categories": {
+        "service_staff": 7.8,
+        "amenities": 8.1,
+        "cleanliness": 8.4,
+        "comfort": 8.6,
+        "value_for_money": 8.5,
+        "location": 8.2,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Loan",
+                "avatar": "https://graph.facebook.com/v2.9/421005422840057/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2021",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 11/2021",
+                "group_type": "Khách lẻ",
+                "comment_positive": "rất sạch sẽ, rất tiện nghi,",
+                "comment_negative": "nếu có thêm mấy sáy tóc nữa thì rất là ok lun"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngân",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/01/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Yên tỉnh. Phòng sạch sẽ",
+                "comment_negative": "Máy lạnh không lạnh lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thao",
+                "avatar": "https://graph.facebook.com/v2.9/6359024834209051/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/011/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sạch sẽ",
+                "comment_negative": "Ko có máy sấy, ko có tủ lạnh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/2170916406403693/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/010/2023",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng Superior 2 giường đơn nhìn ra cảnh thành phố",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gần trung tâm, tiện nghi di chuyển. Phòng sạch sẽ, tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/07/2023",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Mọi thứ đều ok ngoại trừ điều không thích ở phía dưới.",
+                "comment_negative": "Phòng ko có tủ lạnh, máy sấy tóc. Ko trưng bày nước uống và đồ ăn khi cần dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/07/2023",
+                "rating": "Tuyệt vời",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Rất tốt",
+                "comment_negative": "Không co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hưng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/01/2023",
+                "rating": "Khá ổn",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sạch đẹp, giá hợp lý",
+                "comment_negative": "Không phục vụ món ăn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Yến",
+                "avatar": "https://graph.facebook.com/v2.9/483068544004310/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/01/2023",
+                "rating": "ổn ạh",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ",
+                "comment_negative": "phòng k có cách âm, k có tủ lạnh, tv k xem dc youtube ạh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Giang",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/17249721.jpg?k=27d105252f7a1af12e18e3f18066bee9f52e170a51ce8846c4026d0b5c8b4b56&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/012/2022",
+                "rating": "an toàn thoải mái",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": "Ghế ngồi hơi cao.\nKhông có ly nước để uống"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Loan",
+                "avatar": "https://graph.facebook.com/v2.9/421005422840057/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2021",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 11/2021",
+                "group_type": "Khách lẻ",
+                "comment_positive": "rất sạch sẽ, rất tiện nghi,",
+                "comment_negative": "nếu có thêm mấy sáy tóc nữa thì rất là ok lun"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngân",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/01/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Yên tỉnh. Phòng sạch sẽ",
+                "comment_negative": "Máy lạnh không lạnh lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thao",
+                "avatar": "https://graph.facebook.com/v2.9/6359024834209051/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/011/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sạch sẽ",
+                "comment_negative": "Ko có máy sấy, ko có tủ lạnh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/2170916406403693/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/010/2023",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng Superior 2 giường đơn nhìn ra cảnh thành phố",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gần trung tâm, tiện nghi di chuyển. Phòng sạch sẽ, tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/07/2023",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Mọi thứ đều ok ngoại trừ điều không thích ở phía dưới.",
+                "comment_negative": "Phòng ko có tủ lạnh, máy sấy tóc. Ko trưng bày nước uống và đồ ăn khi cần dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/07/2023",
+                "rating": "Tuyệt vời",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Rất tốt",
+                "comment_negative": "Không co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hưng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/01/2023",
+                "rating": "Khá ổn",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sạch đẹp, giá hợp lý",
+                "comment_negative": "Không phục vụ món ăn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Yến",
+                "avatar": "https://graph.facebook.com/v2.9/483068544004310/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/01/2023",
+                "rating": "ổn ạh",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ",
+                "comment_negative": "phòng k có cách âm, k có tủ lạnh, tv k xem dc youtube ạh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Giang",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/17249721.jpg?k=27d105252f7a1af12e18e3f18066bee9f52e170a51ce8846c4026d0b5c8b4b56&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/012/2022",
+                "rating": "an toàn thoải mái",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": "Ghế ngồi hơi cao.\nKhông có ly nước để uống"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Loan",
+                "avatar": "https://graph.facebook.com/v2.9/421005422840057/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2021",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 11/2021",
+                "group_type": "Khách lẻ",
+                "comment_positive": "rất sạch sẽ, rất tiện nghi,",
+                "comment_negative": "nếu có thêm mấy sáy tóc nữa thì rất là ok lun"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngân",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/01/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Yên tỉnh. Phòng sạch sẽ",
+                "comment_negative": "Máy lạnh không lạnh lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thao",
+                "avatar": "https://graph.facebook.com/v2.9/6359024834209051/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/011/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sạch sẽ",
+                "comment_negative": "Ko có máy sấy, ko có tủ lạnh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/2170916406403693/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/010/2023",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng Superior 2 giường đơn nhìn ra cảnh thành phố",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gần trung tâm, tiện nghi di chuyển. Phòng sạch sẽ, tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/07/2023",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Mọi thứ đều ok ngoại trừ điều không thích ở phía dưới.",
+                "comment_negative": "Phòng ko có tủ lạnh, máy sấy tóc. Ko trưng bày nước uống và đồ ăn khi cần dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/07/2023",
+                "rating": "Tuyệt vời",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Rất tốt",
+                "comment_negative": "Không co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hưng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/01/2023",
+                "rating": "Khá ổn",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sạch đẹp, giá hợp lý",
+                "comment_negative": "Không phục vụ món ăn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Yến",
+                "avatar": "https://graph.facebook.com/v2.9/483068544004310/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/01/2023",
+                "rating": "ổn ạh",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ",
+                "comment_negative": "phòng k có cách âm, k có tủ lạnh, tv k xem dc youtube ạh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Giang",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/17249721.jpg?k=27d105252f7a1af12e18e3f18066bee9f52e170a51ce8846c4026d0b5c8b4b56&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/012/2022",
+                "rating": "an toàn thoải mái",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": "Ghế ngồi hơi cao.\nKhông có ly nước để uống"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Loan",
+                "avatar": "https://graph.facebook.com/v2.9/421005422840057/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2021",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 11/2021",
+                "group_type": "Khách lẻ",
+                "comment_positive": "rất sạch sẽ, rất tiện nghi,",
+                "comment_negative": "nếu có thêm mấy sáy tóc nữa thì rất là ok lun"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngân",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/01/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Yên tỉnh. Phòng sạch sẽ",
+                "comment_negative": "Máy lạnh không lạnh lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thao",
+                "avatar": "https://graph.facebook.com/v2.9/6359024834209051/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/011/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sạch sẽ",
+                "comment_negative": "Ko có máy sấy, ko có tủ lạnh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/2170916406403693/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/010/2023",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng Superior 2 giường đơn nhìn ra cảnh thành phố",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gần trung tâm, tiện nghi di chuyển. Phòng sạch sẽ, tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/07/2023",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Mọi thứ đều ok ngoại trừ điều không thích ở phía dưới.",
+                "comment_negative": "Phòng ko có tủ lạnh, máy sấy tóc. Ko trưng bày nước uống và đồ ăn khi cần dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/07/2023",
+                "rating": "Tuyệt vời",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Rất tốt",
+                "comment_negative": "Không co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hưng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/01/2023",
+                "rating": "Khá ổn",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sạch đẹp, giá hợp lý",
+                "comment_negative": "Không phục vụ món ăn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Yến",
+                "avatar": "https://graph.facebook.com/v2.9/483068544004310/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/01/2023",
+                "rating": "ổn ạh",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ",
+                "comment_negative": "phòng k có cách âm, k có tủ lạnh, tv k xem dc youtube ạh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Giang",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/17249721.jpg?k=27d105252f7a1af12e18e3f18066bee9f52e170a51ce8846c4026d0b5c8b4b56&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/012/2022",
+                "rating": "an toàn thoải mái",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": "Ghế ngồi hơi cao.\nKhông có ly nước để uống"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Loan",
+                "avatar": "https://graph.facebook.com/v2.9/421005422840057/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2021",
+                "rating": "rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 11/2021",
+                "group_type": "Khách lẻ",
+                "comment_positive": "rất sạch sẽ, rất tiện nghi,",
+                "comment_negative": "nếu có thêm mấy sáy tóc nữa thì rất là ok lun"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngân",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/01/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Yên tỉnh. Phòng sạch sẽ",
+                "comment_negative": "Máy lạnh không lạnh lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thao",
+                "avatar": "https://graph.facebook.com/v2.9/6359024834209051/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/011/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sạch sẽ",
+                "comment_negative": "Ko có máy sấy, ko có tủ lạnh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/2170916406403693/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/010/2023",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng Superior 2 giường đơn nhìn ra cảnh thành phố",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Gần trung tâm, tiện nghi di chuyển. Phòng sạch sẽ, tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyên",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/07/2023",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Mọi thứ đều ok ngoại trừ điều không thích ở phía dưới.",
+                "comment_negative": "Phòng ko có tủ lạnh, máy sấy tóc. Ko trưng bày nước uống và đồ ăn khi cần dùng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/07/2023",
+                "rating": "Tuyệt vời",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Rất tốt",
+                "comment_negative": "Không co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hưng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/01/2023",
+                "rating": "Khá ổn",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sạch đẹp, giá hợp lý",
+                "comment_negative": "Không phục vụ món ăn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Yến",
+                "avatar": "https://graph.facebook.com/v2.9/483068544004310/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/01/2023",
+                "rating": "ổn ạh",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "2 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "sạch sẽ",
+                "comment_negative": "phòng k có cách âm, k có tủ lạnh, tv k xem dc youtube ạh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Giang",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/17249721.jpg?k=27d105252f7a1af12e18e3f18066bee9f52e170a51ce8846c4026d0b5c8b4b56&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/012/2022",
+                "rating": "an toàn thoải mái",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": "Ghế ngồi hơi cao.\nKhông có ly nước để uống"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/07/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng đẹp",
+                "comment_negative": null
+            }
+        }
+    ]
+}

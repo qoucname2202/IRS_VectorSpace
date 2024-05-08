@@ -1,0 +1,528 @@
+{
+    "name": "Thanh Phat Hotel",
+    "address": "Group Lien Giang, Ky Long Ward, Ky Anh, Ha Tinh, Dũ Lộc, Việt Nam",
+    "description": "Thanh Phat Hotel cung cấp Wi-Fi miễn phí và chỗ nghỉ thân thiện với vật nuôi tại giáo xứ Dũ Lộc.\n\nMỗi phòng tại khách sạn này đều có máy điều hòa và được trang bị TV. Một số phòng có khu vực ghế ngồi để khách thư giãn. Du khách có thể thưởng thức một tách trà trong lúc ngắm nhìn cảnh núi non/hồ nước. Mỗi phòng còn đi kèm phòng tắm riêng với dép, đồ vệ sinh cá nhân miễn phí và máy sấy tóc.\n\nLễ tân khách sạn làm việc 24 giờ.\n\nSân bay gần nhất là sân bay Đồng Hới, cách khách sạn 61 km.",
+    "rating": "8.5",
+    "total_rating": "21",
+    "evaluation_categories": {
+        "service_staff": 9.1,
+        "amenities": 8.0,
+        "cleanliness": 8.4,
+        "comfort": 8.4,
+        "value_for_money": 8.5,
+        "location": 8.1,
+        "free_wifi": 7.5
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nhân",
+                "avatar": "https://graph.facebook.com/v2.9/212299383495891/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ, nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/09/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sạch sẽ, nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/09/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Trạm dừng lý tưởng khu vực kỳ anh, sẽ ghé nghỉ nếu đi ngang",
+                "comment_negative": "Không phục vụ ăn sáng tại chỗ, nhưng nhân viên chỉ dẫn giao tại phòng hoặc ra gần xung quanh khách sạn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Công",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "3 đêm · tháng 6/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Thân thiện, thoải mái. Đặc biệt là ks có cho mượn xe máy miễn phí.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/06/2022",
+                "rating": "Khách sạn đầy đủ tiện nghi với giá cả phải chăng, nhân viên nhiệt tình và mến khách.",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Vị trí thuận tiện di chuyển, đồ uống giá hợp lý, cho mượn xe máy miễn phí, nhân viên nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phillip",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Met my expectations.  Nice staff.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Max",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "4/01/2023",
+                "rating": "Cực kỳ tệ",
+                "score": 1.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "- be aware of getting scammed here, additional prices on everything and much more expensive than usual\n- No way to pay with credit card\n- employees and boss say different prices, making foreigners pay more money"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Low",
+                "avatar": "https://lh6.googleusercontent.com/-Iomk0OVbJrs/AAAAAAAAAAI/AAAAAAAACLQ/AMZuucmhb4z1rqcwFDAuomNwuQl0wQ64mw/s96-c/photo.jpg",
+                "country": "Áo"
+            },
+            "review": {
+                "date": "1/02/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gutes Hotel und Service",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jelke",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mCe7hCaw5EBg41J3fcgQJwqbAoMUf6IBdo-i_UJlA",
+                "country": "Hà Lan"
+            },
+            "review": {
+                "date": "27/04/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "aardig personeel",
+                "comment_negative": "bedden waren hard"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/AEdFTp41AmIJa47Zk8cQ0yIpBBTxe4UrEmX06KH9d8J2Bw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/02/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · Tháng 2/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhân",
+                "avatar": "https://graph.facebook.com/v2.9/212299383495891/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ, nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/09/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sạch sẽ, nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/09/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Trạm dừng lý tưởng khu vực kỳ anh, sẽ ghé nghỉ nếu đi ngang",
+                "comment_negative": "Không phục vụ ăn sáng tại chỗ, nhưng nhân viên chỉ dẫn giao tại phòng hoặc ra gần xung quanh khách sạn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Công",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "3 đêm · tháng 6/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Thân thiện, thoải mái. Đặc biệt là ks có cho mượn xe máy miễn phí.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/06/2022",
+                "rating": "Khách sạn đầy đủ tiện nghi với giá cả phải chăng, nhân viên nhiệt tình và mến khách.",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Vị trí thuận tiện di chuyển, đồ uống giá hợp lý, cho mượn xe máy miễn phí, nhân viên nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phillip",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Met my expectations.  Nice staff.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Max",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "4/01/2023",
+                "rating": "Cực kỳ tệ",
+                "score": 1.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "- be aware of getting scammed here, additional prices on everything and much more expensive than usual\n- No way to pay with credit card\n- employees and boss say different prices, making foreigners pay more money"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Low",
+                "avatar": "https://lh6.googleusercontent.com/-Iomk0OVbJrs/AAAAAAAAAAI/AAAAAAAACLQ/AMZuucmhb4z1rqcwFDAuomNwuQl0wQ64mw/s96-c/photo.jpg",
+                "country": "Áo"
+            },
+            "review": {
+                "date": "1/02/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gutes Hotel und Service",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jelke",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mCe7hCaw5EBg41J3fcgQJwqbAoMUf6IBdo-i_UJlA",
+                "country": "Hà Lan"
+            },
+            "review": {
+                "date": "27/04/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "aardig personeel",
+                "comment_negative": "bedden waren hard"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/AEdFTp41AmIJa47Zk8cQ0yIpBBTxe4UrEmX06KH9d8J2Bw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/02/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · Tháng 2/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhân",
+                "avatar": "https://graph.facebook.com/v2.9/212299383495891/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 7/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ, nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/09/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sạch sẽ, nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/09/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Trạm dừng lý tưởng khu vực kỳ anh, sẽ ghé nghỉ nếu đi ngang",
+                "comment_negative": "Không phục vụ ăn sáng tại chỗ, nhưng nhân viên chỉ dẫn giao tại phòng hoặc ra gần xung quanh khách sạn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Công",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/07/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "3 đêm · tháng 6/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Thân thiện, thoải mái. Đặc biệt là ks có cho mượn xe máy miễn phí.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/06/2022",
+                "rating": "Khách sạn đầy đủ tiện nghi với giá cả phải chăng, nhân viên nhiệt tình và mến khách.",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Vị trí thuận tiện di chuyển, đồ uống giá hợp lý, cho mượn xe máy miễn phí, nhân viên nhiệt tình.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phillip",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Met my expectations.  Nice staff.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Max",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "4/01/2023",
+                "rating": "Cực kỳ tệ",
+                "score": 1.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "- be aware of getting scammed here, additional prices on everything and much more expensive than usual\n- No way to pay with credit card\n- employees and boss say different prices, making foreigners pay more money"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Low",
+                "avatar": "https://lh6.googleusercontent.com/-Iomk0OVbJrs/AAAAAAAAAAI/AAAAAAAACLQ/AMZuucmhb4z1rqcwFDAuomNwuQl0wQ64mw/s96-c/photo.jpg",
+                "country": "Áo"
+            },
+            "review": {
+                "date": "1/02/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Gutes Hotel und Service",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jelke",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mCe7hCaw5EBg41J3fcgQJwqbAoMUf6IBdo-i_UJlA",
+                "country": "Hà Lan"
+            },
+            "review": {
+                "date": "27/04/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "aardig personeel",
+                "comment_negative": "bedden waren hard"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/AEdFTp41AmIJa47Zk8cQ0yIpBBTxe4UrEmX06KH9d8J2Bw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/02/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · Tháng 2/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

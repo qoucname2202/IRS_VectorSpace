@@ -1,0 +1,358 @@
+{
+    "name": "Hanoi Blue Hotel Da Nang",
+    "address": "128 Nguyễn Văn Thoại, Đà Nẵng, Việt Nam",
+    "description": "Nằm cách Bãi biển Mỹ Khê 5 phút đi bộ và Bãi biển Bắc Mỹ An 1.5 km, Hanoi Blue Hotel Da Nang cung cấp các phòng điều hòa và phòng tắm riêng ở Đà Nẵng. Khách sạn 3 sao này cung cấp quầy lễ tân 24 giờ, phòng giữ hành lý và Wi-Fi miễn phí. Chỗ nghỉ có chỗ đậu xe riêng miễn phí và có cả dịch vụ đưa đón sân bay mất phí.\n\nTại khách sạn, các phòng đều có bàn làm việc, TV màn hình phẳng, phòng tắm riêng, ga trải giường và khăn tắm. Tất cả các phòng đều có tủ quần áo và ấm đun nước để khách sử dụng.\n\nHanoi Blue Hotel Da Nang cách Cầu khóa Tình yêu Đà Nẵng 2.5 km và Bảo tàng điêu khắc Chăm 3.1 km. Sân bay gần nhất là Sân bay Quốc tế Đà Nẵng, cách chỗ nghỉ 6 km.",
+    "rating": "9.4",
+    "total_rating": "14",
+    "evaluation_categories": {
+        "service_staff": 9.8,
+        "amenities": 9.6,
+        "cleanliness": 9.5,
+        "comfort": 9.6,
+        "value_for_money": 9.6,
+        "location": 9.6,
+        "free_wifi": 10.0
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Ngô",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtfKcYQY8lJ3dZWNFVbjXGqYiE99-lks47TwCTUrwLu6=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn ổn, tiện nghi đầy đủ trong tầm giá. Nếu có dịp ghé chơi Đà Nẵng, mình nhất định sẽ quay lại",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Cường",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJlBfrsdTa2mnOVK9_ToqOImax0XrZvZz880tQ596YmQr4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Biển Mỹ Khê rất đẹppp. Nhiều đồ ăn ngon và rẻ xung quanh. Phòng giá rẻ và nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jaewon",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxbgvV3t5fsyTE2J7Ha996E9xLopiMpntjbTJQuy=s96-c",
+                "country": "Hàn Quốc"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Phòng mới, đẹp, sạch sẽ tiện nghi, giá tiền rất ok, chất lượng hơn hẳn những gì mình tưởng tượng. Sẽ",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rất tuyệt.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dũng",
+                "avatar": "https://lh4.googleusercontent.com/--FvJZ-YA8Qo/AAAAAAAAAAI/AAAAAAAAALM/iwn-9RMIz5U/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Good location near beach, can walk just few minute. Staff very nice with nice room sleep.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tony",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZ-zPCRuA6y5Fd9OsEGHPon9jfwV8urxzigl4UM=s96-c",
+                "country": "Hàn Quốc"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Room prices are cheap compared to the services here. Very close to the beach and restaurants",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dũng",
+                "avatar": "https://lh4.googleusercontent.com/--FvJZ-YA8Qo/AAAAAAAAAAI/AAAAAAAAALM/iwn-9RMIz5U/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nice hotel with near beach location. Everything is ok. Just for stay and move around ctiy.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Carol",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Tây Ban Nha"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Fine stay",
+                "score": 6.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Good location, you can check in 2h earlier for free. Big room, AC and fan, comfortable bed.",
+                "comment_negative": "Pictures from the rooms should be updated, the facilities are old and need maintenance. Pillows are smelly and old, you can see stains on them.\nRooms are not soundproof, you can hear the noise from outside.\nThe room didn't look so clean."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hwajeong",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIqRcGUOSbebx9b3Vph5L8WTqKY4R4ruhB_49Luran1LGZtDA=s96-c",
+                "country": "Hàn Quốc"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "친절하고 쾌활한 직원. 다낭에 비해 객실이 저렴하고 중심가와 해변이 매우 가깝습니다",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jenny",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "17/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sehr zuvorkommende Mitarbeiter, zentrale Lage & dennoch ruhig..",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lee",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJFJ2aKFX6Fjlm-3Hn8q_eh85C4HJlArkqdoY7FItlGSTZ0=s96-c",
+                "country": "Hàn Quốc"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "이곳에서 1박을 묵었는데, 호텔 직원이 친절했습니다. 도심과 매우 가까움",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngô",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtfKcYQY8lJ3dZWNFVbjXGqYiE99-lks47TwCTUrwLu6=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn ổn, tiện nghi đầy đủ trong tầm giá. Nếu có dịp ghé chơi Đà Nẵng, mình nhất định sẽ quay lại",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Cường",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJlBfrsdTa2mnOVK9_ToqOImax0XrZvZz880tQ596YmQr4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Biển Mỹ Khê rất đẹppp. Nhiều đồ ăn ngon và rẻ xung quanh. Phòng giá rẻ và nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jaewon",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxbgvV3t5fsyTE2J7Ha996E9xLopiMpntjbTJQuy=s96-c",
+                "country": "Hàn Quốc"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Phòng mới, đẹp, sạch sẽ tiện nghi, giá tiền rất ok, chất lượng hơn hẳn những gì mình tưởng tượng. Sẽ",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Rất tuyệt.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dũng",
+                "avatar": "https://lh4.googleusercontent.com/--FvJZ-YA8Qo/AAAAAAAAAAI/AAAAAAAAALM/iwn-9RMIz5U/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Good location near beach, can walk just few minute. Staff very nice with nice room sleep.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tony",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZ-zPCRuA6y5Fd9OsEGHPon9jfwV8urxzigl4UM=s96-c",
+                "country": "Hàn Quốc"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Room prices are cheap compared to the services here. Very close to the beach and restaurants",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dũng",
+                "avatar": "https://lh4.googleusercontent.com/--FvJZ-YA8Qo/AAAAAAAAAAI/AAAAAAAAALM/iwn-9RMIz5U/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nice hotel with near beach location. Everything is ok. Just for stay and move around ctiy.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Carol",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Tây Ban Nha"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Fine stay",
+                "score": 6.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Good location, you can check in 2h earlier for free. Big room, AC and fan, comfortable bed.",
+                "comment_negative": "Pictures from the rooms should be updated, the facilities are old and need maintenance. Pillows are smelly and old, you can see stains on them.\nRooms are not soundproof, you can hear the noise from outside.\nThe room didn't look so clean."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hwajeong",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIqRcGUOSbebx9b3Vph5L8WTqKY4R4ruhB_49Luran1LGZtDA=s96-c",
+                "country": "Hàn Quốc"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "친절하고 쾌활한 직원. 다낭에 비해 객실이 저렴하고 중심가와 해변이 매우 가깝습니다",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jenny",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "17/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sehr zuvorkommende Mitarbeiter, zentrale Lage & dennoch ruhig..",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lee",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJFJ2aKFX6Fjlm-3Hn8q_eh85C4HJlArkqdoY7FItlGSTZ0=s96-c",
+                "country": "Hàn Quốc"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "이곳에서 1박을 묵었는데, 호텔 직원이 친절했습니다. 도심과 매우 가까움",
+                "comment_negative": null
+            }
+        }
+    ]
+}

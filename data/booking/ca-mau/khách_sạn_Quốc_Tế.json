@@ -1,0 +1,86 @@
+{
+    "name": "khách sạn Quốc Tế",
+    "address": "Đường Phan Ngọc Hiển, Cà Mau, Việt Nam",
+    "description": "Khách sạn Quốc Tế có phòng chờ chung, sân hiên, nhà hàng và quầy bar ở Cà Mau. Khách sạn 3 sao này cung cấp dịch vụ phòng, quầy lễ tân 24 giờ và Wi-Fi miễn phí. Phòng nào cũng có ban công.\n\nTại khách sạn, tất cả các phòng có bàn làm việc, TV màn hình phẳng, phòng tắm riêng, ga trải giường và khăn tắm. Tất cả các căn tại khách sạn Quốc Tế có điều hòa và tủ quần áo.\n\nSân bay gần nhất là Sân bay Cà Mau, cách chỗ nghỉ 2 km.",
+    "rating": "6",
+    "total_rating": "4",
+    "evaluation_categories": {
+        "service_staff": 6.9,
+        "amenities": 6.3,
+        "cleanliness": 6.9,
+        "comfort": 7.5,
+        "value_for_money": 5.6,
+        "location": 6.3,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/04/2024",
+                "rating": "cần xữ lý mùi hôi gần thang máy và thay mới các thiết bị trong WC",
+                "score": 7.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "di chuyển thuận lợi, có bãi đậu oto, nhân viên vui vẻ,nhiệt tình, giá cả hợp lý",
+                "comment_negative": "gần tháng máy có mùi hôi từ hố ga, thiết bị vệ sinh cũ, món ăn buổi sáng chưa p[hong phú"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/03/2024",
+                "rating": "A tru 7/10 experience",
+                "score": 7.0,
+                "room_type": "Phòng Có Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Great location. Friendly and helpful staffs. Clean room",
+                "comment_negative": "Shower head was a bit old and broken. Seems like there was no fan in the washroom"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mensur",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "26/03/2024",
+                "rating": "Kém",
+                "score": 3.0,
+                "room_type": "Phòng Có Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mylene",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

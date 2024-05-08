@@ -1,0 +1,188 @@
+{
+    "name": "Khách Sạn HOÀNG KIM",
+    "address": "31 Trần Huỳnh Số 31 đường Trần Huỳnh, khóm 2, Bạc Liêu, Việt Nam",
+    "description": "Với phòng chờ chung, sân hiên và nhìn rathành phố, Khách Sạn HOÀNG KIM tọa lạc ở Bạc Liêu, cách Bac Lieu Bird Sanctuary 7.2 km. Chỗ nghỉ cung cấp lễ tân 24/24, dịch vụ đưa đón sân bay, bếp chung và Wi-Fi miễn phí ở toàn bộ chỗ nghỉ.\n\nSân bay gần nhất là Sân bay Cà Mau, cách khách sạn 61 km.",
+    "rating": "8.5",
+    "total_rating": "42",
+    "evaluation_categories": {
+        "service_staff": 8.7,
+        "amenities": 8.5,
+        "cleanliness": 8.6,
+        "comfort": 9.0,
+        "value_for_money": 8.6,
+        "location": 9.1,
+        "free_wifi": 8.8
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nicky",
+                "avatar": "https://graph.facebook.com/v2.9/2369923396351242/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm gần các quán ăn, quán cafe",
+                "comment_negative": "Ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phan",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/03/2023",
+                "rating": "Phòng nghỉ ok nha",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng ok, sạch sẽ, ngăn nắp, chủ nhà cũng dễ thương, vị trí gần Vincom trung tâm thành phố, thuận tiện cho việc đi lại",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/06/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Giá cả hợp lý. Anh chủ / quản lý rất thân thiện. Chỗ gửi xe rộng vì để ở khu vui chơi gần chỗ ks.",
+                "comment_negative": "Không có thang máy. Tuy nhiên cũng không phải là vấn đề lớn. Khi xách đồ được ks hỗ trợ tối đa."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/06/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chổ ở toilet sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "đẹp, gần trung tâm",
+                "comment_negative": "mọi thứ ok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/40142751.jpg?k=4314c1e880a345544cf30e7de689af978eebc6deb3342d74793d4ad743439c10&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/05/2021",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2021",
+                "group_type": "Nhóm",
+                "comment_positive": "KS có vị trí lý tưởng, đắc địa. Chủ nhà thân thiện nhiệt tình. Phòng đẹp, sạch sẽ.",
+                "comment_negative": "Tiếc là không có thang máy, vất vả cho khách có nhiều hành lý."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tân",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/02/2024",
+                "rating": "Tàm tạm",
+                "score": 5.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ở ngay trung tâm, xung quanh có nhiều quán ăn",
+                "comment_negative": "Chị nữ nhân viên thì lịch sự chu đáo, nhân viên nam thì tính hay khó chịu, ko nhiệt tình, đi chơi gặp kiểu vậy mất hứng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mr",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/07/2023",
+                "rating": "Cheap hotel with good quality",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Lớn",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "- Very good location, near supermarket and central park\n- Clean and new facilities\n- Cheap price with good quality",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "피싱",
+                "avatar": null,
+                "country": "Hàn Quốc"
+            },
+            "review": {
+                "date": "7/02/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · Tháng 2/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "시설이 너무 깨끗하고 저렴합니다.\n오토바이도 렌트해줍니다\n주변에 마트도 가깝고 맛집도 많아요",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

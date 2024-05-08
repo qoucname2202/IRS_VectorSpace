@@ -1,0 +1,528 @@
+{
+    "name": "Phong Nha Escape Bungalow",
+    "address": "Thôn Cù Lạc 1, Thị Trấn Phong Nha Bố Trạch, Quảng Bình, Phong Nha, Việt Nam",
+    "description": "Phong Nha Escape Bungalow có hồ bơi ngoài trời, khu vườn, sân hiên và nhà hàng ở Phong Nha. Chỗ nghỉ cung cấp lễ tân 24/24, dịch vụ đưa đón sân bay, dịch vụ phòng và Wi-Fi miễn phí ở toàn bộ chỗ nghỉ.\n\nPhòng khách ở khách sạn được trang bị ấm đun nước. Mỗi phòng đều được thiết kế có phòng tắm riêng với vòi xịt/chậu rửa vệ sinh, đồ vệ sinh cá nhân miễn phí và máy sấy tóc.\n\nKhách tại Phong Nha Escape Bungalow sẽ có thể tận hưởng các hoạt động ở trong Phong Nha và khu vực xung quanh, như đi xe đạp.\n\nSân bay gần nhất là Sân bay Đồng Hới, cách chỗ nghỉ 35 km.",
+    "rating": "8.9",
+    "total_rating": "25",
+    "evaluation_categories": {
+        "service_staff": 9.5,
+        "amenities": 9.0,
+        "cleanliness": 9.4,
+        "comfort": 9.1,
+        "value_for_money": 9.3,
+        "location": 8.5,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Tuyết",
+                "avatar": "https://graph.facebook.com/v2.9/1340617066011108/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/02/2024",
+                "rating": "Tạm ổn",
+                "score": 7.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "View gần bờ sông, vị trí gần trung tâm di chuyển đi các điểm thuận tiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ritsaart",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-r.png",
+                "country": "Hà Lan"
+            },
+            "review": {
+                "date": "16/01/2024",
+                "rating": "Awesome",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Tien is very friendly, helpful and accommodating!",
+                "comment_negative": "-"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Alexandra",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "31/012/2023",
+                "rating": "Super hospitable host and fab location!",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Host Tien could not have been more helpful. He organised everything for us. Transfers, bus tickets and tours.  He even drove us to town at 03:30 for an onward connection!\nFood was delicious and the guesthouse was quiet and peaceful, overlooking the river.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Joanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Hà Lan"
+            },
+            "review": {
+                "date": "19/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "4 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Nice place with great view on the river.\nClean.\nSuper nice owner (Tien)who helps with everything. \nAnd he is definitely not so pushy like a lot of Vietnamese. \nWe really liked this place.\nGreat pool.\n\nBig recommendation",
+                "comment_negative": "You need  the scuter, but you can rent on the place."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Haram",
+                "avatar": null,
+                "country": "New Zealand"
+            },
+            "review": {
+                "date": "11/011/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Pool was clean, staff were friendly and helpful with a range of things including booking buses, transfer to bus stop and laundry and borrowing bikes.",
+                "comment_negative": "The location isn't walking distance from Phong Nha central (30+ minutes walk). But if you don't mind that or biking it is fine."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Philip",
+                "avatar": "https://graph.facebook.com/v2.9/123663000600968/picture?type=square&height=64&width=64",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "27/010/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 10/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Lovely location and property, great staff",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Gavin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-g.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/010/2023",
+                "rating": "Great place to stay in Phong Nha",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Phong Nha Escape Bungalow was perfect for what we were looking for. Clean, comfortable and a good location with a beautiful view next to the river. \nA special thank you to Tien who made our stay special.\n10/10 would recommend you stay here.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kevin",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/010/2023",
+                "rating": "Great Homestay with river view",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Very beautiful view, staffs also very friendly. They know everything about Phong Nha and give us many suggestions to do. We also had a great dinner at Bungalow. Thanks ❤️",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh4.googleusercontent.com/-1cwLSB3VbJM/AAAAAAAAAAI/AAAAAAAAAAA/ACevoQPAqfVbOjx2JZnsd-gC5lW7D9tImQ/mo/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/010/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Nice location, helpful staff. Beautiful view with the river next door.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuy",
+                "avatar": "https://lh3.googleusercontent.com/a-/AFdZucoWXSqSEBEa7uOjNIoorC2qX9RKkRHf8usOGuFD=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Everything you need and more! 100% would stay again!",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "An absolutely amazing place to stay. The bed is extremely comfortable, the room clean and the staff are very friendly and helpful.\nRestaurant onsite, lovely pool and scenic view.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuyết",
+                "avatar": "https://graph.facebook.com/v2.9/1340617066011108/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/02/2024",
+                "rating": "Tạm ổn",
+                "score": 7.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "View gần bờ sông, vị trí gần trung tâm di chuyển đi các điểm thuận tiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ritsaart",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-r.png",
+                "country": "Hà Lan"
+            },
+            "review": {
+                "date": "16/01/2024",
+                "rating": "Awesome",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Tien is very friendly, helpful and accommodating!",
+                "comment_negative": "-"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Alexandra",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "31/012/2023",
+                "rating": "Super hospitable host and fab location!",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Host Tien could not have been more helpful. He organised everything for us. Transfers, bus tickets and tours.  He even drove us to town at 03:30 for an onward connection!\nFood was delicious and the guesthouse was quiet and peaceful, overlooking the river.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Joanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Hà Lan"
+            },
+            "review": {
+                "date": "19/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "4 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Nice place with great view on the river.\nClean.\nSuper nice owner (Tien)who helps with everything. \nAnd he is definitely not so pushy like a lot of Vietnamese. \nWe really liked this place.\nGreat pool.\n\nBig recommendation",
+                "comment_negative": "You need  the scuter, but you can rent on the place."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Haram",
+                "avatar": null,
+                "country": "New Zealand"
+            },
+            "review": {
+                "date": "11/011/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Pool was clean, staff were friendly and helpful with a range of things including booking buses, transfer to bus stop and laundry and borrowing bikes.",
+                "comment_negative": "The location isn't walking distance from Phong Nha central (30+ minutes walk). But if you don't mind that or biking it is fine."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Philip",
+                "avatar": "https://graph.facebook.com/v2.9/123663000600968/picture?type=square&height=64&width=64",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "27/010/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 10/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Lovely location and property, great staff",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Gavin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-g.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/010/2023",
+                "rating": "Great place to stay in Phong Nha",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Phong Nha Escape Bungalow was perfect for what we were looking for. Clean, comfortable and a good location with a beautiful view next to the river. \nA special thank you to Tien who made our stay special.\n10/10 would recommend you stay here.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kevin",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/010/2023",
+                "rating": "Great Homestay with river view",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Very beautiful view, staffs also very friendly. They know everything about Phong Nha and give us many suggestions to do. We also had a great dinner at Bungalow. Thanks ❤️",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh4.googleusercontent.com/-1cwLSB3VbJM/AAAAAAAAAAI/AAAAAAAAAAA/ACevoQPAqfVbOjx2JZnsd-gC5lW7D9tImQ/mo/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/010/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Nice location, helpful staff. Beautiful view with the river next door.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuy",
+                "avatar": "https://lh3.googleusercontent.com/a-/AFdZucoWXSqSEBEa7uOjNIoorC2qX9RKkRHf8usOGuFD=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Everything you need and more! 100% would stay again!",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "An absolutely amazing place to stay. The bed is extremely comfortable, the room clean and the staff are very friendly and helpful.\nRestaurant onsite, lovely pool and scenic view.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuyết",
+                "avatar": "https://graph.facebook.com/v2.9/1340617066011108/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/02/2024",
+                "rating": "Tạm ổn",
+                "score": 7.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "View gần bờ sông, vị trí gần trung tâm di chuyển đi các điểm thuận tiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ritsaart",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-r.png",
+                "country": "Hà Lan"
+            },
+            "review": {
+                "date": "16/01/2024",
+                "rating": "Awesome",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Tien is very friendly, helpful and accommodating!",
+                "comment_negative": "-"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Alexandra",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "31/012/2023",
+                "rating": "Super hospitable host and fab location!",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Host Tien could not have been more helpful. He organised everything for us. Transfers, bus tickets and tours.  He even drove us to town at 03:30 for an onward connection!\nFood was delicious and the guesthouse was quiet and peaceful, overlooking the river.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Joanna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Hà Lan"
+            },
+            "review": {
+                "date": "19/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "4 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Nice place with great view on the river.\nClean.\nSuper nice owner (Tien)who helps with everything. \nAnd he is definitely not so pushy like a lot of Vietnamese. \nWe really liked this place.\nGreat pool.\n\nBig recommendation",
+                "comment_negative": "You need  the scuter, but you can rent on the place."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Haram",
+                "avatar": null,
+                "country": "New Zealand"
+            },
+            "review": {
+                "date": "11/011/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Pool was clean, staff were friendly and helpful with a range of things including booking buses, transfer to bus stop and laundry and borrowing bikes.",
+                "comment_negative": "The location isn't walking distance from Phong Nha central (30+ minutes walk). But if you don't mind that or biking it is fine."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Philip",
+                "avatar": "https://graph.facebook.com/v2.9/123663000600968/picture?type=square&height=64&width=64",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "27/010/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · tháng 10/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Lovely location and property, great staff",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Gavin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-g.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/010/2023",
+                "rating": "Great place to stay in Phong Nha",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Phong Nha Escape Bungalow was perfect for what we were looking for. Clean, comfortable and a good location with a beautiful view next to the river. \nA special thank you to Tien who made our stay special.\n10/10 would recommend you stay here.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kevin",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/010/2023",
+                "rating": "Great Homestay with river view",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Very beautiful view, staffs also very friendly. They know everything about Phong Nha and give us many suggestions to do. We also had a great dinner at Bungalow. Thanks ❤️",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh4.googleusercontent.com/-1cwLSB3VbJM/AAAAAAAAAAI/AAAAAAAAAAA/ACevoQPAqfVbOjx2JZnsd-gC5lW7D9tImQ/mo/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/010/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Nice location, helpful staff. Beautiful view with the river next door.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuy",
+                "avatar": "https://lh3.googleusercontent.com/a-/AFdZucoWXSqSEBEa7uOjNIoorC2qX9RKkRHf8usOGuFD=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/09/2023",
+                "rating": "Everything you need and more! 100% would stay again!",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "An absolutely amazing place to stay. The bed is extremely comfortable, the room clean and the staff are very friendly and helpful.\nRestaurant onsite, lovely pool and scenic view.",
+                "comment_negative": null
+            }
+        }
+    ]
+}

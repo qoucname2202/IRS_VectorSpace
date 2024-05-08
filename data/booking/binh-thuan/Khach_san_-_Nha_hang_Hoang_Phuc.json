@@ -1,0 +1,137 @@
+{
+    "name": "Khách sạn - Nhà hàng Hoàng Phúc",
+    "address": "Khu du lịch Chùa Cổ Thạch, xã Bình Thạnh, huyện Tuy Phong, tỉnh Bình Thuận, Tuy Phong, Việt Nam",
+    "description": "Tọa lạc ở Tuy Phong, cách Bãi biển Cổ Thạch chỉ vài bước chân, Khách sạn - Nhà hàng Hoàng Phúc cung cấp chỗ nghỉ có sân hiên, chỗ đậu xe riêng miễn phí và nhà hàng. Chỗ nghỉ này có các tiện nghi như dịch vụ phòng và quầy lễ tân 24 giờ, cùng với Wi-Fi miễn phí ở toàn bộ chỗ nghỉ. Một số phòng tại chỗ nghỉ có sân trong với view biển.\n\nTất cả các phòng đều có điều hòa, ngoài ra một số căn tại khách sạn có ban công.\n\nKhách sạn - Nhà hàng Hoàng Phúc cách Triển lãm Tecnopolis Buenos Aires 40 km. Sân bay gần nhất là Sân bay Liên Khương, cách chỗ nghỉ 129 km.",
+    "rating": "9.1",
+    "total_rating": "7",
+    "evaluation_categories": {
+        "service_staff": 8.2,
+        "amenities": 8.2,
+        "cleanliness": 8.9,
+        "comfort": 8.6,
+        "value_for_money": 8.6,
+        "location": 9.3,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Suite Có Giường Cỡ King Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Vị trí phòng sát biển, view xuất sắc. Sát ngay bãi rêu và đá 7 màu.\nPhòng mới, rộng rãi, tiện nghi.\nBuổi tối có nhiệu dịch vụ ăn uống hãi sản tại khu chợ đêm",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ninh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Ok",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch\nGần bãi biển",
+                "comment_negative": "Chưa có nhà hàng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hải",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/04/2024",
+                "rating": "Good",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần bãi tắm.",
+                "comment_negative": "Nên có bữa sáng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/011/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The hotel is very clean and spacious. In comparision with others nearby, I think it's the best for cleanliness and location",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hảo",
+                "avatar": "https://graph.facebook.com/v2.9/5102030156485758/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi Hạng Bình Dân",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dũng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Yen",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/17124921.jpg?k=9665d305be10ac84938acee7877f6be463bd7f1f7dc11e0e1a57c97fadda2097&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

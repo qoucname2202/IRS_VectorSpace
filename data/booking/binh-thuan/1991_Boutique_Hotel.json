@@ -1,0 +1,358 @@
+{
+    "name": "1991 Boutique Hotel",
+    "address": "297 Võ Văn Kiệt, Phan Thiết, Việt Nam",
+    "description": "Nằm ở Phan Thiết, cách Bãi biển Đồi Dương 2.1 km và Bến xe buýt Bình Thuận 17 phút đi bộ, 1991 Boutique Hotel cung cấp chỗ nghỉ có sân hiên và Wi-Fi miễn phí ở toàn bộ chỗ nghỉ cũng như chỗ đậu xe riêng miễn phí cho khách lái xe. Chỗ nghỉ này tọa lạc cách Sân Golf Sea Link 2.5 km, Ga xe lửa Phan Thiết 2.8 km và Suối Tiên 18 km. Chỗ nghỉ này cung cấp dịch vụ phòng và quầy lễ tân 24 giờ cho khách.\n\nKhách sạn cách Hải đăng Mũi Kê Gà 35 km và Núi Tà Cú 36 km. Sân bay gần nhất là Sân bay Liên Khương, cách 1991 Boutique Hotel 136 km.",
+    "rating": "8.1",
+    "total_rating": "11",
+    "evaluation_categories": {
+        "service_staff": 8.4,
+        "amenities": 7.7,
+        "cleanliness": 8.2,
+        "comfort": 8.0,
+        "value_for_money": 8.2,
+        "location": 8.9,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Đồng",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIKqMU_OrxgQ4cVa5f58aPL_CPlDb1fHY4teEfdsLPl=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "đẹp, đầy đủ tiện nghi",
+                "comment_negative": "nước yếu, cách âm ch được tốt lắm, giường ngủ còn hơi kêu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn giá ổn, khu vực yên tĩnh, gần trung tâm, gần các địa điểm ăn uống",
+                "comment_negative": "Khách sạn mạng wifi yếu không thể lướt web được, nhà vệ sinh bị nghẹt, thiếu vật dụng cần thiết khá nhiều. Mong khách sạn cải thiện tốt hơn."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Cuong",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá cả hợp lý. Phòng không có gì đặc biệt. Trang thiết bị vừa đủ đối với một khách sạn",
+                "comment_negative": "Một số đèn hành lang hư hỏng. Tù lạnh dường như đã cũ, không làm lạnh được"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lawrence",
+                "avatar": "https://graph.facebook.com/v2.9/10214172629286596/picture?type=square&height=64&width=64",
+                "country": "Malta"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "I liked that I could put my bike rental inside & my room had 2 large windows",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/03/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": "https://graph.facebook.com/v2.9/242850731479587/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thương",
+                "avatar": "https://lh3.googleusercontent.com/a-/AFdZucoL2UTUjUkFJgCvdBu7edIIO4Q71JhyoSkxctpORQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tri",
+                "avatar": "https://lh5.googleusercontent.com/-rhfn9PwdUCo/AAAAAAAAAAI/AAAAAAAAABE/M6bcHW2HNr8/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khang",
+                "avatar": "https://lh4.googleusercontent.com/-0P3SB3Ab6Rw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckBQdLmnIDjwOXNZpkOvOcAVDJ_iQ/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lương",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJTLSUAr3NSV-kjy3TXT6FWV_E52WdsBFVB6lKzVJssWg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "4 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đồng",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIKqMU_OrxgQ4cVa5f58aPL_CPlDb1fHY4teEfdsLPl=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "đẹp, đầy đủ tiện nghi",
+                "comment_negative": "nước yếu, cách âm ch được tốt lắm, giường ngủ còn hơi kêu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn giá ổn, khu vực yên tĩnh, gần trung tâm, gần các địa điểm ăn uống",
+                "comment_negative": "Khách sạn mạng wifi yếu không thể lướt web được, nhà vệ sinh bị nghẹt, thiếu vật dụng cần thiết khá nhiều. Mong khách sạn cải thiện tốt hơn."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Cuong",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Giá cả hợp lý. Phòng không có gì đặc biệt. Trang thiết bị vừa đủ đối với một khách sạn",
+                "comment_negative": "Một số đèn hành lang hư hỏng. Tù lạnh dường như đã cũ, không làm lạnh được"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lawrence",
+                "avatar": "https://graph.facebook.com/v2.9/10214172629286596/picture?type=square&height=64&width=64",
+                "country": "Malta"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "I liked that I could put my bike rental inside & my room had 2 large windows",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/03/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": "https://graph.facebook.com/v2.9/242850731479587/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thương",
+                "avatar": "https://lh3.googleusercontent.com/a-/AFdZucoL2UTUjUkFJgCvdBu7edIIO4Q71JhyoSkxctpORQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tri",
+                "avatar": "https://lh5.googleusercontent.com/-rhfn9PwdUCo/AAAAAAAAAAI/AAAAAAAAABE/M6bcHW2HNr8/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khang",
+                "avatar": "https://lh4.googleusercontent.com/-0P3SB3Ab6Rw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckBQdLmnIDjwOXNZpkOvOcAVDJ_iQ/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lương",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJTLSUAr3NSV-kjy3TXT6FWV_E52WdsBFVB6lKzVJssWg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "4 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,868 @@
+{
+    "name": "Maidi Homestay Mui Ne",
+    "address": "151 Nguyễn Đình Chiểu, Mũi Né, Việt Nam",
+    "description": "Nằm ở Mũi Né, cách Bãi biển Hàm Tiến chỉ vài bước chân, Maidi Homestay Mui Ne cung cấp chỗ nghỉ có xe đạp miễn phí, chỗ đậu xe riêng miễn phí, khu vườn và sân hiên. Chỗ nghỉ này có các tiện nghi như nhà hàng, bếp chung và dịch vụ phòng, cùng với Wi-Fi miễn phí ở toàn bộ chỗ nghỉ. Chỗ nghỉ này cung cấp quầy lễ tân 24 giờ và dịch vụ tiền sảnh cho khách.\n\nTại khách sạn, các phòng được thiết kế có bàn làm việc, ga trải giường và ban công với view biển. Ngoài phòng tắm riêng được trang bị vòi xịt/chậu rửa vệ sinh và đồ vệ sinh cá nhân miễn phí, các phòng tại Maidi Homestay Mui Ne đều có view thành phố. Các căn tại chỗ nghỉ có điều hòa và tủ quần áo.\n\nMaidi Homestay Mui Ne cách Suối Tiên 4.4 km và Sân Golf Sea Link 13 km. Sân bay gần nhất là Sân bay Liên Khương, cách khách sạn 134 km.",
+    "rating": "8.8",
+    "total_rating": "47",
+    "evaluation_categories": {
+        "service_staff": 9.3,
+        "amenities": 8.8,
+        "cleanliness": 9.2,
+        "comfort": 9.4,
+        "value_for_money": 9.1,
+        "location": 9.1,
+        "free_wifi": 10.0
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh5.googleusercontent.com/-dFv3ks6IGKc/AAAAAAAAAAI/AAAAAAAAEic/zKB3xRa5OZk/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/03/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sạch sẽ, yên tĩnh, không gian rất hợp ý mình. Máy lạnh, quạt đầy đủ. Nhân viên thân thiện.",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgnUKWR2xICNpg7RffCYyWykKXG4reMATzAQcQS=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King với Bồn tắm Spa",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có bồn tắm, phòng decor xinh, nhân viên dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhu",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIY9JgJrEmZ_trWPlkFlS6Aeyt2yF4OsjgfAiu6Xn0qlQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Tốt sẽ quay lại",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí hợp lí dễ di chuyển tới trung tâm \nPhòng sạch sẽ \nTiện nghi đầy đủ\nQuản lí dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luan",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLgHAvxoDe4etq1BN-MG0vYW4JoG9u8jjdgmr6wscLelw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Good",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không có bữa sáng",
+                "comment_negative": "Không có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Cherry",
+                "avatar": "https://lh3.googleusercontent.com/a/ALm5wu3mVbYkCW5KQQf7cUsgJ7kPMzLylYAoUoY20OIQyz0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ   nhân viên thân thiên. Rất thoải mải khi đến đây",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtfR1HnCNBIuM0oKNpwhE7gGprJOxraVW3HGPnL34fK-=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ ở rất tiện nghi thoải mái sạch sẽ, anh quản lý thân thiện nhiệt tình. Đáng để quay lại😊",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuyen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "- Nhân viên cực kỳ,cực kỳ thân thiện và tốt bụng. Giúp đỡ tụi mình và bé cún rất nhiều trong quá trình đi chơi\n- Vị trí trung tâm,gần rất nhiều quán ăn\n- Có cho thuê xe máy. Xe rất mới,giá hợp lý 150k/vision/ngày\n- Phòng rất rộng\n-Đủ trang thiết bị cần thiết. Máy lạnh rất mát\n- Phòng trang trí rất xinh",
+                "comment_negative": "- Máy sấy tóc khá yếu\n- Vị trí gần biển,cách biển 50m,có thể đi ra ngắm cảnh. Còn bãi tắm được cách homestay khoảng 3km. Nếu bạn có xe máy thì không sao cả,đi xe tầm 3 phút thôi."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luc",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/126708115.jpg?k=77475264252933a51b38b02d157f41e8cb5d7ddb7136a8291ff576a6de29f879&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/01/2024",
+                "rating": "Perfect 👌",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King với Bồn tắm Spa",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian thoáng mát, rộng rãi và có view. Phong cách quán ấn tượng. Hợp Gu",
+                "comment_negative": "Gương nhà vệ sinh chưa ổn lắm ^^"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vh",
+                "avatar": "https://lh3.googleusercontent.com/a/AEdFTp5-mZz8nW6rmLauxl9DhG8w0fr6vucz0Klb0sq0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Tạm ổn",
+                "score": 6.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Chu đáo",
+                "comment_negative": "Tiện nghi chưa đầy đủ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": "https://graph.facebook.com/v2.9/3392514257691544/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng có giường cỡ King với Bồn tắm Spa",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ vị trí thuận lợi, view đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh5.googleusercontent.com/-dFv3ks6IGKc/AAAAAAAAAAI/AAAAAAAAEic/zKB3xRa5OZk/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/03/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sạch sẽ, yên tĩnh, không gian rất hợp ý mình. Máy lạnh, quạt đầy đủ. Nhân viên thân thiện.",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgnUKWR2xICNpg7RffCYyWykKXG4reMATzAQcQS=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King với Bồn tắm Spa",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có bồn tắm, phòng decor xinh, nhân viên dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhu",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIY9JgJrEmZ_trWPlkFlS6Aeyt2yF4OsjgfAiu6Xn0qlQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Tốt sẽ quay lại",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí hợp lí dễ di chuyển tới trung tâm \nPhòng sạch sẽ \nTiện nghi đầy đủ\nQuản lí dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luan",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLgHAvxoDe4etq1BN-MG0vYW4JoG9u8jjdgmr6wscLelw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Good",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không có bữa sáng",
+                "comment_negative": "Không có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Cherry",
+                "avatar": "https://lh3.googleusercontent.com/a/ALm5wu3mVbYkCW5KQQf7cUsgJ7kPMzLylYAoUoY20OIQyz0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ   nhân viên thân thiên. Rất thoải mải khi đến đây",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtfR1HnCNBIuM0oKNpwhE7gGprJOxraVW3HGPnL34fK-=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ ở rất tiện nghi thoải mái sạch sẽ, anh quản lý thân thiện nhiệt tình. Đáng để quay lại😊",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuyen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "- Nhân viên cực kỳ,cực kỳ thân thiện và tốt bụng. Giúp đỡ tụi mình và bé cún rất nhiều trong quá trình đi chơi\n- Vị trí trung tâm,gần rất nhiều quán ăn\n- Có cho thuê xe máy. Xe rất mới,giá hợp lý 150k/vision/ngày\n- Phòng rất rộng\n-Đủ trang thiết bị cần thiết. Máy lạnh rất mát\n- Phòng trang trí rất xinh",
+                "comment_negative": "- Máy sấy tóc khá yếu\n- Vị trí gần biển,cách biển 50m,có thể đi ra ngắm cảnh. Còn bãi tắm được cách homestay khoảng 3km. Nếu bạn có xe máy thì không sao cả,đi xe tầm 3 phút thôi."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luc",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/126708115.jpg?k=77475264252933a51b38b02d157f41e8cb5d7ddb7136a8291ff576a6de29f879&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/01/2024",
+                "rating": "Perfect 👌",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King với Bồn tắm Spa",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian thoáng mát, rộng rãi và có view. Phong cách quán ấn tượng. Hợp Gu",
+                "comment_negative": "Gương nhà vệ sinh chưa ổn lắm ^^"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vh",
+                "avatar": "https://lh3.googleusercontent.com/a/AEdFTp5-mZz8nW6rmLauxl9DhG8w0fr6vucz0Klb0sq0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Tạm ổn",
+                "score": 6.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Chu đáo",
+                "comment_negative": "Tiện nghi chưa đầy đủ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": "https://graph.facebook.com/v2.9/3392514257691544/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng có giường cỡ King với Bồn tắm Spa",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ vị trí thuận lợi, view đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh5.googleusercontent.com/-dFv3ks6IGKc/AAAAAAAAAAI/AAAAAAAAEic/zKB3xRa5OZk/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/03/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sạch sẽ, yên tĩnh, không gian rất hợp ý mình. Máy lạnh, quạt đầy đủ. Nhân viên thân thiện.",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgnUKWR2xICNpg7RffCYyWykKXG4reMATzAQcQS=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King với Bồn tắm Spa",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có bồn tắm, phòng decor xinh, nhân viên dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhu",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIY9JgJrEmZ_trWPlkFlS6Aeyt2yF4OsjgfAiu6Xn0qlQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Tốt sẽ quay lại",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí hợp lí dễ di chuyển tới trung tâm \nPhòng sạch sẽ \nTiện nghi đầy đủ\nQuản lí dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luan",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLgHAvxoDe4etq1BN-MG0vYW4JoG9u8jjdgmr6wscLelw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Good",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không có bữa sáng",
+                "comment_negative": "Không có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Cherry",
+                "avatar": "https://lh3.googleusercontent.com/a/ALm5wu3mVbYkCW5KQQf7cUsgJ7kPMzLylYAoUoY20OIQyz0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ   nhân viên thân thiên. Rất thoải mải khi đến đây",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtfR1HnCNBIuM0oKNpwhE7gGprJOxraVW3HGPnL34fK-=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ ở rất tiện nghi thoải mái sạch sẽ, anh quản lý thân thiện nhiệt tình. Đáng để quay lại😊",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuyen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "- Nhân viên cực kỳ,cực kỳ thân thiện và tốt bụng. Giúp đỡ tụi mình và bé cún rất nhiều trong quá trình đi chơi\n- Vị trí trung tâm,gần rất nhiều quán ăn\n- Có cho thuê xe máy. Xe rất mới,giá hợp lý 150k/vision/ngày\n- Phòng rất rộng\n-Đủ trang thiết bị cần thiết. Máy lạnh rất mát\n- Phòng trang trí rất xinh",
+                "comment_negative": "- Máy sấy tóc khá yếu\n- Vị trí gần biển,cách biển 50m,có thể đi ra ngắm cảnh. Còn bãi tắm được cách homestay khoảng 3km. Nếu bạn có xe máy thì không sao cả,đi xe tầm 3 phút thôi."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luc",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/126708115.jpg?k=77475264252933a51b38b02d157f41e8cb5d7ddb7136a8291ff576a6de29f879&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/01/2024",
+                "rating": "Perfect 👌",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King với Bồn tắm Spa",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian thoáng mát, rộng rãi và có view. Phong cách quán ấn tượng. Hợp Gu",
+                "comment_negative": "Gương nhà vệ sinh chưa ổn lắm ^^"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vh",
+                "avatar": "https://lh3.googleusercontent.com/a/AEdFTp5-mZz8nW6rmLauxl9DhG8w0fr6vucz0Klb0sq0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Tạm ổn",
+                "score": 6.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Chu đáo",
+                "comment_negative": "Tiện nghi chưa đầy đủ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": "https://graph.facebook.com/v2.9/3392514257691544/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng có giường cỡ King với Bồn tắm Spa",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ vị trí thuận lợi, view đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh5.googleusercontent.com/-dFv3ks6IGKc/AAAAAAAAAAI/AAAAAAAAEic/zKB3xRa5OZk/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/03/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sạch sẽ, yên tĩnh, không gian rất hợp ý mình. Máy lạnh, quạt đầy đủ. Nhân viên thân thiện.",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgnUKWR2xICNpg7RffCYyWykKXG4reMATzAQcQS=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King với Bồn tắm Spa",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có bồn tắm, phòng decor xinh, nhân viên dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhu",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIY9JgJrEmZ_trWPlkFlS6Aeyt2yF4OsjgfAiu6Xn0qlQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Tốt sẽ quay lại",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí hợp lí dễ di chuyển tới trung tâm \nPhòng sạch sẽ \nTiện nghi đầy đủ\nQuản lí dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luan",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLgHAvxoDe4etq1BN-MG0vYW4JoG9u8jjdgmr6wscLelw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Good",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không có bữa sáng",
+                "comment_negative": "Không có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Cherry",
+                "avatar": "https://lh3.googleusercontent.com/a/ALm5wu3mVbYkCW5KQQf7cUsgJ7kPMzLylYAoUoY20OIQyz0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ   nhân viên thân thiên. Rất thoải mải khi đến đây",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtfR1HnCNBIuM0oKNpwhE7gGprJOxraVW3HGPnL34fK-=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ ở rất tiện nghi thoải mái sạch sẽ, anh quản lý thân thiện nhiệt tình. Đáng để quay lại😊",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuyen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "- Nhân viên cực kỳ,cực kỳ thân thiện và tốt bụng. Giúp đỡ tụi mình và bé cún rất nhiều trong quá trình đi chơi\n- Vị trí trung tâm,gần rất nhiều quán ăn\n- Có cho thuê xe máy. Xe rất mới,giá hợp lý 150k/vision/ngày\n- Phòng rất rộng\n-Đủ trang thiết bị cần thiết. Máy lạnh rất mát\n- Phòng trang trí rất xinh",
+                "comment_negative": "- Máy sấy tóc khá yếu\n- Vị trí gần biển,cách biển 50m,có thể đi ra ngắm cảnh. Còn bãi tắm được cách homestay khoảng 3km. Nếu bạn có xe máy thì không sao cả,đi xe tầm 3 phút thôi."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luc",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/126708115.jpg?k=77475264252933a51b38b02d157f41e8cb5d7ddb7136a8291ff576a6de29f879&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/01/2024",
+                "rating": "Perfect 👌",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King với Bồn tắm Spa",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian thoáng mát, rộng rãi và có view. Phong cách quán ấn tượng. Hợp Gu",
+                "comment_negative": "Gương nhà vệ sinh chưa ổn lắm ^^"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vh",
+                "avatar": "https://lh3.googleusercontent.com/a/AEdFTp5-mZz8nW6rmLauxl9DhG8w0fr6vucz0Klb0sq0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Tạm ổn",
+                "score": 6.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Chu đáo",
+                "comment_negative": "Tiện nghi chưa đầy đủ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": "https://graph.facebook.com/v2.9/3392514257691544/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng có giường cỡ King với Bồn tắm Spa",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ vị trí thuận lợi, view đẹp",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh5.googleusercontent.com/-dFv3ks6IGKc/AAAAAAAAAAI/AAAAAAAAEic/zKB3xRa5OZk/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/03/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sạch sẽ, yên tĩnh, không gian rất hợp ý mình. Máy lạnh, quạt đầy đủ. Nhân viên thân thiện.",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgnUKWR2xICNpg7RffCYyWykKXG4reMATzAQcQS=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King với Bồn tắm Spa",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có bồn tắm, phòng decor xinh, nhân viên dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhu",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIY9JgJrEmZ_trWPlkFlS6Aeyt2yF4OsjgfAiu6Xn0qlQ=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Tốt sẽ quay lại",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí hợp lí dễ di chuyển tới trung tâm \nPhòng sạch sẽ \nTiện nghi đầy đủ\nQuản lí dễ thương",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luan",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLgHAvxoDe4etq1BN-MG0vYW4JoG9u8jjdgmr6wscLelw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Good",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không có bữa sáng",
+                "comment_negative": "Không có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Cherry",
+                "avatar": "https://lh3.googleusercontent.com/a/ALm5wu3mVbYkCW5KQQf7cUsgJ7kPMzLylYAoUoY20OIQyz0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ   nhân viên thân thiên. Rất thoải mải khi đến đây",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtfR1HnCNBIuM0oKNpwhE7gGprJOxraVW3HGPnL34fK-=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ ở rất tiện nghi thoải mái sạch sẽ, anh quản lý thân thiện nhiệt tình. Đáng để quay lại😊",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuyen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/02/2024",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "- Nhân viên cực kỳ,cực kỳ thân thiện và tốt bụng. Giúp đỡ tụi mình và bé cún rất nhiều trong quá trình đi chơi\n- Vị trí trung tâm,gần rất nhiều quán ăn\n- Có cho thuê xe máy. Xe rất mới,giá hợp lý 150k/vision/ngày\n- Phòng rất rộng\n-Đủ trang thiết bị cần thiết. Máy lạnh rất mát\n- Phòng trang trí rất xinh",
+                "comment_negative": "- Máy sấy tóc khá yếu\n- Vị trí gần biển,cách biển 50m,có thể đi ra ngắm cảnh. Còn bãi tắm được cách homestay khoảng 3km. Nếu bạn có xe máy thì không sao cả,đi xe tầm 3 phút thôi."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luc",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/126708115.jpg?k=77475264252933a51b38b02d157f41e8cb5d7ddb7136a8291ff576a6de29f879&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/01/2024",
+                "rating": "Perfect 👌",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King với Bồn tắm Spa",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian thoáng mát, rộng rãi và có view. Phong cách quán ấn tượng. Hợp Gu",
+                "comment_negative": "Gương nhà vệ sinh chưa ổn lắm ^^"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vh",
+                "avatar": "https://lh3.googleusercontent.com/a/AEdFTp5-mZz8nW6rmLauxl9DhG8w0fr6vucz0Klb0sq0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Tạm ổn",
+                "score": 6.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Chu đáo",
+                "comment_negative": "Tiện nghi chưa đầy đủ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": "https://graph.facebook.com/v2.9/3392514257691544/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng có giường cỡ King với Bồn tắm Spa",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chỗ nghỉ vị trí thuận lợi, view đẹp",
+                "comment_negative": null
+            }
+        }
+    ]
+}

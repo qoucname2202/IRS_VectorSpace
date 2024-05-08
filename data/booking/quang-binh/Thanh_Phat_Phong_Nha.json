@@ -1,0 +1,528 @@
+{
+    "name": "Thanh Phat Phong Nha",
+    "address": "Phong Nha - Kẻ Bàng, Phong Nha, Việt Nam",
+    "description": "Thanh Phat Phong Nha ở Phong Nha cung cấp chỗ nghỉ 1 sao có khu vườn và nhà hàng. Chỗ nghỉ cung cấp lễ tân 24/24, dịch vụ đưa đón sân bay, dịch vụ phòng và Wi-Fi miễn phí.\n\nTại khách sạn, tất cả các phòng có điều hòa, bàn làm việc, TV màn hình phẳng, phòng tắm riêng, ga trải giường, khăn tắm và sân hiên với view núi. Các căn có tủ quần áo.\n\nKhách sạn này có dịch vụ thuê xe đạp và dịch vụ thuê ô tô. Ngoài ra, đi xe đạp là hoạt động được ưa chuộng trong khu vực.\n\nSân bay gần nhất là Sân bay Đồng Hới, cách Thanh Phat Phong Nha 38 km.",
+    "rating": "9.1",
+    "total_rating": "24",
+    "evaluation_categories": {
+        "service_staff": 9.9,
+        "amenities": 9.4,
+        "cleanliness": 9.2,
+        "comfort": 9.3,
+        "value_for_money": 9.5,
+        "location": 9.8,
+        "free_wifi": 10.0
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hollie",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "28/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "2 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "The staff were so lovely and helpful, couldn’t have asked for nicer people.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Laura",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Ý"
+            },
+            "review": {
+                "date": "16/09/2023",
+                "rating": "Fantastic accomodation in Phong Nha",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Everything! very friendly and helpful staff ( the owner is fantastic, she really cares about her hosts!). the position is really good if you arrive with the sleeper bus and the bedrooms is large and clean. There are also several nice restaurants and coffee bars near the hotel. You can book the sleeper bus/train and the tour at the reception of the hotel.",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lily",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/05/2023",
+                "rating": "best place to stay in phong Nha",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "3 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "ms van was very helpful during our stay, she gave us information on the caves and she helped us with booking transport to our next destination. we hired a ped as well. the rooms were clean and comfy. right next to the bus stop as well so in a very convenient location :)",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sofiya",
+                "avatar": null,
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Clean and spacious room, very friendly and accommodative staff. Good value for money.",
+                "comment_negative": "Beds were a bit hard and uncomfortable."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Artūras",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/32934281.jpg?k=0506df036a524e8efd690ef8918108b54b8b3caa5a3fbda6ae2d62069b9c716d&o=",
+                "country": "Lithuania"
+            },
+            "review": {
+                "date": "29/04/2023",
+                "rating": "Stay in Phong Nha",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Superior hospitality and assistance/support on emergencies and any other questions. Great location right next to the bus stop. Arranging transport isneasy with the hotel owners. They give you bettwe price and more options than online bookings.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Panopoulos",
+                "avatar": null,
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "21/04/2023",
+                "rating": "Nice room, good service, convenient location",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Lovely staff. Will go out of their way to help you. Had our washing done at a reasonable price. Also, rent a motorbike at a good price. very good breakfast, especially the banana cake. The room was clean and had a good tv. Lovely terrace and balcony. Great location close to bars and cafes. All buses stop right at the door, very convenient for commuting",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanna",
+                "avatar": null,
+                "country": "Đức"
+            },
+            "review": {
+                "date": "20/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "I got a nice experience in this brand new hotel .We room is super comfy with wide view balcony . The staff is gentle and helpful.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ben",
+                "avatar": null,
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "19/04/2023",
+                "rating": "Room rates are cheap compared to the room and service. Encourage everyone !",
+                "score": 10.0,
+                "room_type": "Phòng Superior Có Giường Cỡ King/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "We arrived at 4 am on a night bus, The bus stops right at this homestay.\nMs. Van woke up early especially to let us in and she found a room for us to sleep for a few hours. Service above and beyond and a genuine homestay, the family are delightful. The rooms are spectacular. I could recommend more. Thank you so much",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jacob",
+                "avatar": null,
+                "country": "Ba Lan"
+            },
+            "review": {
+                "date": "19/04/2023",
+                "rating": "Everything is perfect",
+                "score": 10.0,
+                "room_type": "Phòng Superior Có Giường Cỡ King/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The room we got was great. The room has a very nice mountain view. Great location for pick up and drop off at the hotel and 5 minute's walk from Phong Nha cave. We were guided by our host Van to schedule a tour for 2 exciting days of caving. Everything here is very good at a reasonable price. Would love to come back here again <3",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxb12SekMjke_DO99JPhtiROIc-uYaw8dP9rEUjD8w=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2023",
+                "rating": "2 days with 1 night. Good price & facilities even it was old style hotel",
+                "score": 8.0,
+                "room_type": "Phòng Superior Có Giường Cỡ King/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Location was very convenience",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hollie",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "28/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "2 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "The staff were so lovely and helpful, couldn’t have asked for nicer people.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Laura",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Ý"
+            },
+            "review": {
+                "date": "16/09/2023",
+                "rating": "Fantastic accomodation in Phong Nha",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Everything! very friendly and helpful staff ( the owner is fantastic, she really cares about her hosts!). the position is really good if you arrive with the sleeper bus and the bedrooms is large and clean. There are also several nice restaurants and coffee bars near the hotel. You can book the sleeper bus/train and the tour at the reception of the hotel.",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lily",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/05/2023",
+                "rating": "best place to stay in phong Nha",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "3 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "ms van was very helpful during our stay, she gave us information on the caves and she helped us with booking transport to our next destination. we hired a ped as well. the rooms were clean and comfy. right next to the bus stop as well so in a very convenient location :)",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sofiya",
+                "avatar": null,
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Clean and spacious room, very friendly and accommodative staff. Good value for money.",
+                "comment_negative": "Beds were a bit hard and uncomfortable."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Artūras",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/32934281.jpg?k=0506df036a524e8efd690ef8918108b54b8b3caa5a3fbda6ae2d62069b9c716d&o=",
+                "country": "Lithuania"
+            },
+            "review": {
+                "date": "29/04/2023",
+                "rating": "Stay in Phong Nha",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Superior hospitality and assistance/support on emergencies and any other questions. Great location right next to the bus stop. Arranging transport isneasy with the hotel owners. They give you bettwe price and more options than online bookings.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Panopoulos",
+                "avatar": null,
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "21/04/2023",
+                "rating": "Nice room, good service, convenient location",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Lovely staff. Will go out of their way to help you. Had our washing done at a reasonable price. Also, rent a motorbike at a good price. very good breakfast, especially the banana cake. The room was clean and had a good tv. Lovely terrace and balcony. Great location close to bars and cafes. All buses stop right at the door, very convenient for commuting",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanna",
+                "avatar": null,
+                "country": "Đức"
+            },
+            "review": {
+                "date": "20/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "I got a nice experience in this brand new hotel .We room is super comfy with wide view balcony . The staff is gentle and helpful.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ben",
+                "avatar": null,
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "19/04/2023",
+                "rating": "Room rates are cheap compared to the room and service. Encourage everyone !",
+                "score": 10.0,
+                "room_type": "Phòng Superior Có Giường Cỡ King/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "We arrived at 4 am on a night bus, The bus stops right at this homestay.\nMs. Van woke up early especially to let us in and she found a room for us to sleep for a few hours. Service above and beyond and a genuine homestay, the family are delightful. The rooms are spectacular. I could recommend more. Thank you so much",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jacob",
+                "avatar": null,
+                "country": "Ba Lan"
+            },
+            "review": {
+                "date": "19/04/2023",
+                "rating": "Everything is perfect",
+                "score": 10.0,
+                "room_type": "Phòng Superior Có Giường Cỡ King/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The room we got was great. The room has a very nice mountain view. Great location for pick up and drop off at the hotel and 5 minute's walk from Phong Nha cave. We were guided by our host Van to schedule a tour for 2 exciting days of caving. Everything here is very good at a reasonable price. Would love to come back here again <3",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxb12SekMjke_DO99JPhtiROIc-uYaw8dP9rEUjD8w=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2023",
+                "rating": "2 days with 1 night. Good price & facilities even it was old style hotel",
+                "score": 8.0,
+                "room_type": "Phòng Superior Có Giường Cỡ King/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Location was very convenience",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hollie",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "28/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "2 đêm · tháng 5/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "The staff were so lovely and helpful, couldn’t have asked for nicer people.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Laura",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Ý"
+            },
+            "review": {
+                "date": "16/09/2023",
+                "rating": "Fantastic accomodation in Phong Nha",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Everything! very friendly and helpful staff ( the owner is fantastic, she really cares about her hosts!). the position is really good if you arrive with the sleeper bus and the bedrooms is large and clean. There are also several nice restaurants and coffee bars near the hotel. You can book the sleeper bus/train and the tour at the reception of the hotel.",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lily",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/05/2023",
+                "rating": "best place to stay in phong Nha",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "3 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "ms van was very helpful during our stay, she gave us information on the caves and she helped us with booking transport to our next destination. we hired a ped as well. the rooms were clean and comfy. right next to the bus stop as well so in a very convenient location :)",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sofiya",
+                "avatar": null,
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "18/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Clean and spacious room, very friendly and accommodative staff. Good value for money.",
+                "comment_negative": "Beds were a bit hard and uncomfortable."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Artūras",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/32934281.jpg?k=0506df036a524e8efd690ef8918108b54b8b3caa5a3fbda6ae2d62069b9c716d&o=",
+                "country": "Lithuania"
+            },
+            "review": {
+                "date": "29/04/2023",
+                "rating": "Stay in Phong Nha",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "2 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Superior hospitality and assistance/support on emergencies and any other questions. Great location right next to the bus stop. Arranging transport isneasy with the hotel owners. They give you bettwe price and more options than online bookings.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Panopoulos",
+                "avatar": null,
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "21/04/2023",
+                "rating": "Nice room, good service, convenient location",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Lovely staff. Will go out of their way to help you. Had our washing done at a reasonable price. Also, rent a motorbike at a good price. very good breakfast, especially the banana cake. The room was clean and had a good tv. Lovely terrace and balcony. Great location close to bars and cafes. All buses stop right at the door, very convenient for commuting",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hanna",
+                "avatar": null,
+                "country": "Đức"
+            },
+            "review": {
+                "date": "20/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "I got a nice experience in this brand new hotel .We room is super comfy with wide view balcony . The staff is gentle and helpful.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ben",
+                "avatar": null,
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "19/04/2023",
+                "rating": "Room rates are cheap compared to the room and service. Encourage everyone !",
+                "score": 10.0,
+                "room_type": "Phòng Superior Có Giường Cỡ King/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "We arrived at 4 am on a night bus, The bus stops right at this homestay.\nMs. Van woke up early especially to let us in and she found a room for us to sleep for a few hours. Service above and beyond and a genuine homestay, the family are delightful. The rooms are spectacular. I could recommend more. Thank you so much",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jacob",
+                "avatar": null,
+                "country": "Ba Lan"
+            },
+            "review": {
+                "date": "19/04/2023",
+                "rating": "Everything is perfect",
+                "score": 10.0,
+                "room_type": "Phòng Superior Có Giường Cỡ King/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The room we got was great. The room has a very nice mountain view. Great location for pick up and drop off at the hotel and 5 minute's walk from Phong Nha cave. We were guided by our host Van to schedule a tour for 2 exciting days of caving. Everything here is very good at a reasonable price. Would love to come back here again <3",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxb12SekMjke_DO99JPhtiROIc-uYaw8dP9rEUjD8w=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2023",
+                "rating": "2 days with 1 night. Good price & facilities even it was old style hotel",
+                "score": 8.0,
+                "room_type": "Phòng Superior Có Giường Cỡ King/2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Location was very convenience",
+                "comment_negative": "Nothing"
+            }
+        }
+    ]
+}

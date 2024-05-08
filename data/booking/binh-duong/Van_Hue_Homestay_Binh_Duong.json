@@ -1,0 +1,868 @@
+{
+    "name": "Vạn Huệ Homestay Bình Dương",
+    "address": "5/12C Đường Bùi Hữu Nghĩa, Khu Phố Bình Đức 2, Bình Hòa, Thuận An, Việt Nam",
+    "description": "Vạn Huệ Homestay Bình Dương có khu vườn, phòng chờ chung, nhà hàng và quầy bar ở Thuận An. Khách sạn 4 sao này có dịch vụ phòng và quầy lễ tân 24 giờ. Chỗ nghỉ này cung cấp hoạt động giải trí vào buổi tối và dịch vụ tiền sảnh.\n\nTại khách sạn, tất cả các phòng đều được thiết kế có điều hòa, bàn làm việc, TV màn hình phẳng, phòng tắm riêng, ga trải giường, khăn tắm và sân hiên với view hồ. Tất cả các căn ở Vạn Huệ Homestay Bình Dương được trang bị đồ vệ sinh cá nhân miễn phí và ổ cắm iPod.\n\nChỗ nghỉ có sân chơi trẻ em.\n\nVạn Huệ Homestay Bình Dương cách Trung tâm mua sắm AEON MALL Bình Dương Canary 17 phút đi bộ và Trung tâm thương mại Vincom Thủ Đức 12 km. Sân bay gần nhất là Sân bay Quốc tế Tân Sơn Nhất, cách khách sạn 14 km.",
+    "rating": "7.5",
+    "total_rating": "47",
+    "evaluation_categories": {
+        "service_staff": 8.4,
+        "amenities": 8.2,
+        "cleanliness": 8.4,
+        "comfort": 8.1,
+        "value_for_money": 8.2,
+        "location": 8.8,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": "https://graph.facebook.com/v2.9/4382409218440381/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/04/2023",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "căn biệt lập🤗, rộng rãi, có khuôn viên cá koi cf rất đẹp.",
+                "comment_negative": "điều hoà quá cũ, kêu to và không được lạnh sâu."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thy",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/02/2024",
+                "rating": "Tạm ổn",
+                "score": 7.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng rộng, thoải mái. Không gian thoáng, có điều k còn view hồ nước như hình, còn mỗi hồ cạn k nước",
+                "comment_negative": "Trần nhà đôi chỗ bị nứt 1 đường khá dài chưa được tu sửa. Phòng chỉ có mỗi gương trong nhà tắm nên rất bất tiện, nên trang bị thêm 1 cái gương ở bàn phía ngoài. Hình như phòng k được dọn thường xuyên nên khi vào nhà vệ sinh mình thấy bồn đi vệ sinh còn chưa đc xả nước. Ly nước để ở phía sofa cũng rất dơ k dùng được \nAh có 1 cái mình thấy hơi lạ là mỗi lần nhờ nhân viên mang thức uống hoặc thức ăn vào phòng lại tính phí là 20đ/người/lần đi, tức nếu nhờ nhân viên mang thức ăn vào phòng thì phí mang hộ vào phòng cho 2 người là 40 ngàn cho 1 lần đi, khoản này chưa bao gồm giá thức ăn hay nước uống nhé, mình thấy k hợp lý nên khách muốn gì toàn phải tự ra phía ngoài lấy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhân",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/011/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Mọi thứ ở đây đều ok. Chỉ trừ cái wifi thôi",
+                "comment_negative": "Wifi cần cải thiện hơn. Mạng ko ổn định. Cứ văng ra bắt đăng nhập hoài. Thậm chí ko dùng đc luôn."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngân",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần aeon, không gian thoáng. Lễ tân chuyên nghiệp.",
+                "comment_negative": "Nhà hàng lên món rất chậm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuỷ",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2023",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "rộng rãi, nhân viên nhiệt tình",
+                "comment_negative": "không có nước nóng, khách sạn cũ có mùi mốc"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Kém",
+                "score": 3.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "Trên booking là giá 450k tới home stay lấy thêm 50k nữa . rất tệ ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/011/2023",
+                "rating": "Tàm tạm",
+                "score": 5.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có sân vườn đẹp",
+                "comment_negative": "Lúc mình vào nhận phòng thì dưới nền có rất nhiều con gián chết có mùi hôi khó chịu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiEahjdcVRZbTa88OBJds0nDMdxE5sY2JWu6LQ_jw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/06/2023",
+                "rating": "Nơi lưu trú tệ nhất . Lễ tân làm sai mà 1 câu xin lỗi cũng không có",
+                "score": 1.0,
+                "room_type": "Phòng Giường đôi Deluxe (2 Người lớn + 1 Trẻ em)",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không thích",
+                "comment_negative": "Vạn huệ homestay rất tệ .21h mình book phòng ok , có mã đặt phòng . 22h mình đến nhận phòng thì lễ tân nói gia đình mình đợi khoảng 15 phút để dọn phòng . Sau đó lễ tân lại ra nói là hết phòng , nếu hết phòng tại sao lại để ở booking là còn phòng . Lúc đó lễ tân nói chị qua khách sạn khác đặt phòng .rồi nói mình hủy đặt phòng trên booking ,mình nói ko hủy được ,rồi lễ tân nói không sao ngày mai em tự điền là khách vắng mặt .  Mình nói giờ hơn 22h đêm rồi , mình từ xa đến, lại có con nhỏ , giờ nói không có phòng ,rồi nói mình đi là xong . Không một câu xin lỗi ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luu",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZG7_iD_3cVR_S5uuyLTxhEWO37LTo4P2qZZuOx=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "ok",
+                "comment_negative": "ok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luu",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZG7_iD_3cVR_S5uuyLTxhEWO37LTo4P2qZZuOx=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "ok",
+                "comment_negative": "ok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": "https://graph.facebook.com/v2.9/4382409218440381/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/04/2023",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "căn biệt lập🤗, rộng rãi, có khuôn viên cá koi cf rất đẹp.",
+                "comment_negative": "điều hoà quá cũ, kêu to và không được lạnh sâu."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thy",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/02/2024",
+                "rating": "Tạm ổn",
+                "score": 7.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng rộng, thoải mái. Không gian thoáng, có điều k còn view hồ nước như hình, còn mỗi hồ cạn k nước",
+                "comment_negative": "Trần nhà đôi chỗ bị nứt 1 đường khá dài chưa được tu sửa. Phòng chỉ có mỗi gương trong nhà tắm nên rất bất tiện, nên trang bị thêm 1 cái gương ở bàn phía ngoài. Hình như phòng k được dọn thường xuyên nên khi vào nhà vệ sinh mình thấy bồn đi vệ sinh còn chưa đc xả nước. Ly nước để ở phía sofa cũng rất dơ k dùng được \nAh có 1 cái mình thấy hơi lạ là mỗi lần nhờ nhân viên mang thức uống hoặc thức ăn vào phòng lại tính phí là 20đ/người/lần đi, tức nếu nhờ nhân viên mang thức ăn vào phòng thì phí mang hộ vào phòng cho 2 người là 40 ngàn cho 1 lần đi, khoản này chưa bao gồm giá thức ăn hay nước uống nhé, mình thấy k hợp lý nên khách muốn gì toàn phải tự ra phía ngoài lấy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhân",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/011/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Mọi thứ ở đây đều ok. Chỉ trừ cái wifi thôi",
+                "comment_negative": "Wifi cần cải thiện hơn. Mạng ko ổn định. Cứ văng ra bắt đăng nhập hoài. Thậm chí ko dùng đc luôn."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngân",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần aeon, không gian thoáng. Lễ tân chuyên nghiệp.",
+                "comment_negative": "Nhà hàng lên món rất chậm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuỷ",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2023",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "rộng rãi, nhân viên nhiệt tình",
+                "comment_negative": "không có nước nóng, khách sạn cũ có mùi mốc"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Kém",
+                "score": 3.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "Trên booking là giá 450k tới home stay lấy thêm 50k nữa . rất tệ ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/011/2023",
+                "rating": "Tàm tạm",
+                "score": 5.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có sân vườn đẹp",
+                "comment_negative": "Lúc mình vào nhận phòng thì dưới nền có rất nhiều con gián chết có mùi hôi khó chịu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiEahjdcVRZbTa88OBJds0nDMdxE5sY2JWu6LQ_jw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/06/2023",
+                "rating": "Nơi lưu trú tệ nhất . Lễ tân làm sai mà 1 câu xin lỗi cũng không có",
+                "score": 1.0,
+                "room_type": "Phòng Giường đôi Deluxe (2 Người lớn + 1 Trẻ em)",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không thích",
+                "comment_negative": "Vạn huệ homestay rất tệ .21h mình book phòng ok , có mã đặt phòng . 22h mình đến nhận phòng thì lễ tân nói gia đình mình đợi khoảng 15 phút để dọn phòng . Sau đó lễ tân lại ra nói là hết phòng , nếu hết phòng tại sao lại để ở booking là còn phòng . Lúc đó lễ tân nói chị qua khách sạn khác đặt phòng .rồi nói mình hủy đặt phòng trên booking ,mình nói ko hủy được ,rồi lễ tân nói không sao ngày mai em tự điền là khách vắng mặt .  Mình nói giờ hơn 22h đêm rồi , mình từ xa đến, lại có con nhỏ , giờ nói không có phòng ,rồi nói mình đi là xong . Không một câu xin lỗi ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luu",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZG7_iD_3cVR_S5uuyLTxhEWO37LTo4P2qZZuOx=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "ok",
+                "comment_negative": "ok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luu",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZG7_iD_3cVR_S5uuyLTxhEWO37LTo4P2qZZuOx=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "ok",
+                "comment_negative": "ok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": "https://graph.facebook.com/v2.9/4382409218440381/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/04/2023",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "căn biệt lập🤗, rộng rãi, có khuôn viên cá koi cf rất đẹp.",
+                "comment_negative": "điều hoà quá cũ, kêu to và không được lạnh sâu."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thy",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/02/2024",
+                "rating": "Tạm ổn",
+                "score": 7.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng rộng, thoải mái. Không gian thoáng, có điều k còn view hồ nước như hình, còn mỗi hồ cạn k nước",
+                "comment_negative": "Trần nhà đôi chỗ bị nứt 1 đường khá dài chưa được tu sửa. Phòng chỉ có mỗi gương trong nhà tắm nên rất bất tiện, nên trang bị thêm 1 cái gương ở bàn phía ngoài. Hình như phòng k được dọn thường xuyên nên khi vào nhà vệ sinh mình thấy bồn đi vệ sinh còn chưa đc xả nước. Ly nước để ở phía sofa cũng rất dơ k dùng được \nAh có 1 cái mình thấy hơi lạ là mỗi lần nhờ nhân viên mang thức uống hoặc thức ăn vào phòng lại tính phí là 20đ/người/lần đi, tức nếu nhờ nhân viên mang thức ăn vào phòng thì phí mang hộ vào phòng cho 2 người là 40 ngàn cho 1 lần đi, khoản này chưa bao gồm giá thức ăn hay nước uống nhé, mình thấy k hợp lý nên khách muốn gì toàn phải tự ra phía ngoài lấy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhân",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/011/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Mọi thứ ở đây đều ok. Chỉ trừ cái wifi thôi",
+                "comment_negative": "Wifi cần cải thiện hơn. Mạng ko ổn định. Cứ văng ra bắt đăng nhập hoài. Thậm chí ko dùng đc luôn."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngân",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần aeon, không gian thoáng. Lễ tân chuyên nghiệp.",
+                "comment_negative": "Nhà hàng lên món rất chậm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuỷ",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2023",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "rộng rãi, nhân viên nhiệt tình",
+                "comment_negative": "không có nước nóng, khách sạn cũ có mùi mốc"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Kém",
+                "score": 3.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "Trên booking là giá 450k tới home stay lấy thêm 50k nữa . rất tệ ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/011/2023",
+                "rating": "Tàm tạm",
+                "score": 5.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có sân vườn đẹp",
+                "comment_negative": "Lúc mình vào nhận phòng thì dưới nền có rất nhiều con gián chết có mùi hôi khó chịu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiEahjdcVRZbTa88OBJds0nDMdxE5sY2JWu6LQ_jw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/06/2023",
+                "rating": "Nơi lưu trú tệ nhất . Lễ tân làm sai mà 1 câu xin lỗi cũng không có",
+                "score": 1.0,
+                "room_type": "Phòng Giường đôi Deluxe (2 Người lớn + 1 Trẻ em)",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không thích",
+                "comment_negative": "Vạn huệ homestay rất tệ .21h mình book phòng ok , có mã đặt phòng . 22h mình đến nhận phòng thì lễ tân nói gia đình mình đợi khoảng 15 phút để dọn phòng . Sau đó lễ tân lại ra nói là hết phòng , nếu hết phòng tại sao lại để ở booking là còn phòng . Lúc đó lễ tân nói chị qua khách sạn khác đặt phòng .rồi nói mình hủy đặt phòng trên booking ,mình nói ko hủy được ,rồi lễ tân nói không sao ngày mai em tự điền là khách vắng mặt .  Mình nói giờ hơn 22h đêm rồi , mình từ xa đến, lại có con nhỏ , giờ nói không có phòng ,rồi nói mình đi là xong . Không một câu xin lỗi ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luu",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZG7_iD_3cVR_S5uuyLTxhEWO37LTo4P2qZZuOx=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "ok",
+                "comment_negative": "ok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luu",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZG7_iD_3cVR_S5uuyLTxhEWO37LTo4P2qZZuOx=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "ok",
+                "comment_negative": "ok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": "https://graph.facebook.com/v2.9/4382409218440381/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/04/2023",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "căn biệt lập🤗, rộng rãi, có khuôn viên cá koi cf rất đẹp.",
+                "comment_negative": "điều hoà quá cũ, kêu to và không được lạnh sâu."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thy",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/02/2024",
+                "rating": "Tạm ổn",
+                "score": 7.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng rộng, thoải mái. Không gian thoáng, có điều k còn view hồ nước như hình, còn mỗi hồ cạn k nước",
+                "comment_negative": "Trần nhà đôi chỗ bị nứt 1 đường khá dài chưa được tu sửa. Phòng chỉ có mỗi gương trong nhà tắm nên rất bất tiện, nên trang bị thêm 1 cái gương ở bàn phía ngoài. Hình như phòng k được dọn thường xuyên nên khi vào nhà vệ sinh mình thấy bồn đi vệ sinh còn chưa đc xả nước. Ly nước để ở phía sofa cũng rất dơ k dùng được \nAh có 1 cái mình thấy hơi lạ là mỗi lần nhờ nhân viên mang thức uống hoặc thức ăn vào phòng lại tính phí là 20đ/người/lần đi, tức nếu nhờ nhân viên mang thức ăn vào phòng thì phí mang hộ vào phòng cho 2 người là 40 ngàn cho 1 lần đi, khoản này chưa bao gồm giá thức ăn hay nước uống nhé, mình thấy k hợp lý nên khách muốn gì toàn phải tự ra phía ngoài lấy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhân",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/011/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Mọi thứ ở đây đều ok. Chỉ trừ cái wifi thôi",
+                "comment_negative": "Wifi cần cải thiện hơn. Mạng ko ổn định. Cứ văng ra bắt đăng nhập hoài. Thậm chí ko dùng đc luôn."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngân",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần aeon, không gian thoáng. Lễ tân chuyên nghiệp.",
+                "comment_negative": "Nhà hàng lên món rất chậm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuỷ",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2023",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "rộng rãi, nhân viên nhiệt tình",
+                "comment_negative": "không có nước nóng, khách sạn cũ có mùi mốc"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Kém",
+                "score": 3.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "Trên booking là giá 450k tới home stay lấy thêm 50k nữa . rất tệ ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/011/2023",
+                "rating": "Tàm tạm",
+                "score": 5.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có sân vườn đẹp",
+                "comment_negative": "Lúc mình vào nhận phòng thì dưới nền có rất nhiều con gián chết có mùi hôi khó chịu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiEahjdcVRZbTa88OBJds0nDMdxE5sY2JWu6LQ_jw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/06/2023",
+                "rating": "Nơi lưu trú tệ nhất . Lễ tân làm sai mà 1 câu xin lỗi cũng không có",
+                "score": 1.0,
+                "room_type": "Phòng Giường đôi Deluxe (2 Người lớn + 1 Trẻ em)",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không thích",
+                "comment_negative": "Vạn huệ homestay rất tệ .21h mình book phòng ok , có mã đặt phòng . 22h mình đến nhận phòng thì lễ tân nói gia đình mình đợi khoảng 15 phút để dọn phòng . Sau đó lễ tân lại ra nói là hết phòng , nếu hết phòng tại sao lại để ở booking là còn phòng . Lúc đó lễ tân nói chị qua khách sạn khác đặt phòng .rồi nói mình hủy đặt phòng trên booking ,mình nói ko hủy được ,rồi lễ tân nói không sao ngày mai em tự điền là khách vắng mặt .  Mình nói giờ hơn 22h đêm rồi , mình từ xa đến, lại có con nhỏ , giờ nói không có phòng ,rồi nói mình đi là xong . Không một câu xin lỗi ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luu",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZG7_iD_3cVR_S5uuyLTxhEWO37LTo4P2qZZuOx=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "ok",
+                "comment_negative": "ok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luu",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZG7_iD_3cVR_S5uuyLTxhEWO37LTo4P2qZZuOx=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "ok",
+                "comment_negative": "ok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": "https://graph.facebook.com/v2.9/4382409218440381/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/04/2023",
+                "rating": "tuyệt vời",
+                "score": 10.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "căn biệt lập🤗, rộng rãi, có khuôn viên cá koi cf rất đẹp.",
+                "comment_negative": "điều hoà quá cũ, kêu to và không được lạnh sâu."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thy",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/02/2024",
+                "rating": "Tạm ổn",
+                "score": 7.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng rộng, thoải mái. Không gian thoáng, có điều k còn view hồ nước như hình, còn mỗi hồ cạn k nước",
+                "comment_negative": "Trần nhà đôi chỗ bị nứt 1 đường khá dài chưa được tu sửa. Phòng chỉ có mỗi gương trong nhà tắm nên rất bất tiện, nên trang bị thêm 1 cái gương ở bàn phía ngoài. Hình như phòng k được dọn thường xuyên nên khi vào nhà vệ sinh mình thấy bồn đi vệ sinh còn chưa đc xả nước. Ly nước để ở phía sofa cũng rất dơ k dùng được \nAh có 1 cái mình thấy hơi lạ là mỗi lần nhờ nhân viên mang thức uống hoặc thức ăn vào phòng lại tính phí là 20đ/người/lần đi, tức nếu nhờ nhân viên mang thức ăn vào phòng thì phí mang hộ vào phòng cho 2 người là 40 ngàn cho 1 lần đi, khoản này chưa bao gồm giá thức ăn hay nước uống nhé, mình thấy k hợp lý nên khách muốn gì toàn phải tự ra phía ngoài lấy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhân",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/011/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Mọi thứ ở đây đều ok. Chỉ trừ cái wifi thôi",
+                "comment_negative": "Wifi cần cải thiện hơn. Mạng ko ổn định. Cứ văng ra bắt đăng nhập hoài. Thậm chí ko dùng đc luôn."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngân",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/05/2023",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Gần aeon, không gian thoáng. Lễ tân chuyên nghiệp.",
+                "comment_negative": "Nhà hàng lên món rất chậm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuỷ",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2023",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Suite Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "rộng rãi, nhân viên nhiệt tình",
+                "comment_negative": "không có nước nóng, khách sạn cũ có mùi mốc"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-v.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Kém",
+                "score": 3.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "Trên booking là giá 450k tới home stay lấy thêm 50k nữa . rất tệ ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/011/2023",
+                "rating": "Tàm tạm",
+                "score": 5.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có sân vườn đẹp",
+                "comment_negative": "Lúc mình vào nhận phòng thì dưới nền có rất nhiều con gián chết có mùi hôi khó chịu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thu",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GiEahjdcVRZbTa88OBJds0nDMdxE5sY2JWu6LQ_jw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/06/2023",
+                "rating": "Nơi lưu trú tệ nhất . Lễ tân làm sai mà 1 câu xin lỗi cũng không có",
+                "score": 1.0,
+                "room_type": "Phòng Giường đôi Deluxe (2 Người lớn + 1 Trẻ em)",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không thích",
+                "comment_negative": "Vạn huệ homestay rất tệ .21h mình book phòng ok , có mã đặt phòng . 22h mình đến nhận phòng thì lễ tân nói gia đình mình đợi khoảng 15 phút để dọn phòng . Sau đó lễ tân lại ra nói là hết phòng , nếu hết phòng tại sao lại để ở booking là còn phòng . Lúc đó lễ tân nói chị qua khách sạn khác đặt phòng .rồi nói mình hủy đặt phòng trên booking ,mình nói ko hủy được ,rồi lễ tân nói không sao ngày mai em tự điền là khách vắng mặt .  Mình nói giờ hơn 22h đêm rồi , mình từ xa đến, lại có con nhỏ , giờ nói không có phòng ,rồi nói mình đi là xong . Không một câu xin lỗi ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luu",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZG7_iD_3cVR_S5uuyLTxhEWO37LTo4P2qZZuOx=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "ok",
+                "comment_negative": "ok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Luu",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxZG7_iD_3cVR_S5uuyLTxhEWO37LTo4P2qZZuOx=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "ok",
+                "comment_negative": "ok"
+            }
+        }
+    ]
+}

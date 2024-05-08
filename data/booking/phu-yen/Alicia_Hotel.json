@@ -1,0 +1,1888 @@
+{
+    "name": "Alicia Hotel",
+    "address": "Đường Điện Biên Phủ 70, Tuy Hoà, Việt Nam",
+    "description": "Nằm ở Tuy Hoà, Alicia Hotel cung cấp chỗ nghỉ 2 sao có khu vườn và quầy bar. Chỗ nghỉ này cung cấp dịch vụ phòng và quầy lễ tân 24 giờ cho khách.\n\nTại khách sạn, phòng nào cũng có bàn làm việc. Với phòng tắm riêng được trang bị vòi xịt/chậu rửa vệ sinh và đồ vệ sinh cá nhân miễn phí, tất cả các phòng tại Alicia Hotel có TV màn hình phẳng và điều hòa, trong đó một số phòng có sân hiên. Tại chỗ nghỉ, các phòng đều đi kèm với ga trải giường và khăn tắm.\n\nSân bay gần nhất là Sân bay Tuy Hòa, cách Alicia Hotel 5 km.",
+    "rating": "9",
+    "total_rating": "105",
+    "evaluation_categories": {
+        "service_staff": 9.4,
+        "amenities": 8.7,
+        "cleanliness": 9.2,
+        "comfort": 9.2,
+        "value_for_money": 9.3,
+        "location": 9.4,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": null,
+                "country": null
+            },
+            "review": {
+                "date": "14/06/2023",
+                "rating": "Rất hài lòng và sẽ quay lại.",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn sạch sẽ, giường êm ái, phòng vừa đủ rộng đúng như mô tả. Là mô hình khách sạn boutique kết hợp quán cafe, có phục vụ điểm tâm sáng ngon - rẻ. Phong cảnh decor đơn giản nhưng hiệu quả, tạo cảm giác dễ chịu. Nhìn chung rất đáng tiền. \nVị trí thuận lợi, xung quanh nhiều quán ăn ngon.",
+                "comment_negative": "Hầu như không có."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm di chuyển thuận lợi. Mình đi chạy Marathon, sáng ngày chạy ks có luộc trứng và có nước suối cho vận động viên. Rất dễ thương",
+                "comment_negative": "Nước hơi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Tuyệt vời !",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phục vụ và sạch sẽ",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Truong",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Rất thú vị",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chu đáo",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/03/2024",
+                "rating": "Là một nơi đáng để lưu trú khi đi du lịch ở Tuy Hoà",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "3 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khu vực ở trung tâm, thuận tiện để đến các chỗ vui chơi và ăn uống trong thành phố",
+                "comment_negative": "Mọi thứ đều ổn từ nhân viên đến tiện nghi cơ sở vật chất. Chỉ trừ một điều sàn nhà bị trơn, loại trừ khả năng phòng dơ vì ngày nào mình thấy cũng được dọn dẹp đầy đủ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2024",
+                "rating": "amazing",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng đẹp rộng thoáng view cafe sân vườn. chị chủ thân thiện. nhân viên dễ thương nhiệt tình giúp đỡ. mình có chuyến bay sớm nên các bạn nhân viên phải vào lam sớm để chuẩn bị ăn sáng cho team.",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, thoải mái, quản lý ks hiền dễ chịu. Có sân thượng dùng để ăn u hay chill rất ok.",
+                "comment_negative": "Mạng wifi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLC75wdOLzlDr43yKxTiVG2OvoP7jIBwvgyuavNDDXETA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Rộng rãi thoáng mát gần trung tâm",
+                "comment_negative": "Không có chỗ nào để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm, phòng có bếp tiện nghi cho du lịch gđ có ng lớn tuổi đi theo",
+                "comment_negative": "Rèm che phòng tắm k đc kín nên tắm k thoải mái lắm\nPhòng có muỗi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sạch sẽ, mỗi lần về quê mình đều đặt KS này để nghỉ.\nKhách sạn gần tháp Nghinh Phong, gần phố đi bộ,  đi bộ ra vài trăm mét, KS có chỗ đậu xe, giá cả phù hợp.\nMình sẽ tiếp tục ghé nếu  có dịp đi qua đây",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": null,
+                "country": null
+            },
+            "review": {
+                "date": "14/06/2023",
+                "rating": "Rất hài lòng và sẽ quay lại.",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn sạch sẽ, giường êm ái, phòng vừa đủ rộng đúng như mô tả. Là mô hình khách sạn boutique kết hợp quán cafe, có phục vụ điểm tâm sáng ngon - rẻ. Phong cảnh decor đơn giản nhưng hiệu quả, tạo cảm giác dễ chịu. Nhìn chung rất đáng tiền. \nVị trí thuận lợi, xung quanh nhiều quán ăn ngon.",
+                "comment_negative": "Hầu như không có."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm di chuyển thuận lợi. Mình đi chạy Marathon, sáng ngày chạy ks có luộc trứng và có nước suối cho vận động viên. Rất dễ thương",
+                "comment_negative": "Nước hơi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Tuyệt vời !",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phục vụ và sạch sẽ",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Truong",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Rất thú vị",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chu đáo",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/03/2024",
+                "rating": "Là một nơi đáng để lưu trú khi đi du lịch ở Tuy Hoà",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "3 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khu vực ở trung tâm, thuận tiện để đến các chỗ vui chơi và ăn uống trong thành phố",
+                "comment_negative": "Mọi thứ đều ổn từ nhân viên đến tiện nghi cơ sở vật chất. Chỉ trừ một điều sàn nhà bị trơn, loại trừ khả năng phòng dơ vì ngày nào mình thấy cũng được dọn dẹp đầy đủ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2024",
+                "rating": "amazing",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng đẹp rộng thoáng view cafe sân vườn. chị chủ thân thiện. nhân viên dễ thương nhiệt tình giúp đỡ. mình có chuyến bay sớm nên các bạn nhân viên phải vào lam sớm để chuẩn bị ăn sáng cho team.",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, thoải mái, quản lý ks hiền dễ chịu. Có sân thượng dùng để ăn u hay chill rất ok.",
+                "comment_negative": "Mạng wifi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLC75wdOLzlDr43yKxTiVG2OvoP7jIBwvgyuavNDDXETA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Rộng rãi thoáng mát gần trung tâm",
+                "comment_negative": "Không có chỗ nào để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm, phòng có bếp tiện nghi cho du lịch gđ có ng lớn tuổi đi theo",
+                "comment_negative": "Rèm che phòng tắm k đc kín nên tắm k thoải mái lắm\nPhòng có muỗi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sạch sẽ, mỗi lần về quê mình đều đặt KS này để nghỉ.\nKhách sạn gần tháp Nghinh Phong, gần phố đi bộ,  đi bộ ra vài trăm mét, KS có chỗ đậu xe, giá cả phù hợp.\nMình sẽ tiếp tục ghé nếu  có dịp đi qua đây",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": null,
+                "country": null
+            },
+            "review": {
+                "date": "14/06/2023",
+                "rating": "Rất hài lòng và sẽ quay lại.",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn sạch sẽ, giường êm ái, phòng vừa đủ rộng đúng như mô tả. Là mô hình khách sạn boutique kết hợp quán cafe, có phục vụ điểm tâm sáng ngon - rẻ. Phong cảnh decor đơn giản nhưng hiệu quả, tạo cảm giác dễ chịu. Nhìn chung rất đáng tiền. \nVị trí thuận lợi, xung quanh nhiều quán ăn ngon.",
+                "comment_negative": "Hầu như không có."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm di chuyển thuận lợi. Mình đi chạy Marathon, sáng ngày chạy ks có luộc trứng và có nước suối cho vận động viên. Rất dễ thương",
+                "comment_negative": "Nước hơi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Tuyệt vời !",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phục vụ và sạch sẽ",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Truong",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Rất thú vị",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chu đáo",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/03/2024",
+                "rating": "Là một nơi đáng để lưu trú khi đi du lịch ở Tuy Hoà",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "3 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khu vực ở trung tâm, thuận tiện để đến các chỗ vui chơi và ăn uống trong thành phố",
+                "comment_negative": "Mọi thứ đều ổn từ nhân viên đến tiện nghi cơ sở vật chất. Chỉ trừ một điều sàn nhà bị trơn, loại trừ khả năng phòng dơ vì ngày nào mình thấy cũng được dọn dẹp đầy đủ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2024",
+                "rating": "amazing",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng đẹp rộng thoáng view cafe sân vườn. chị chủ thân thiện. nhân viên dễ thương nhiệt tình giúp đỡ. mình có chuyến bay sớm nên các bạn nhân viên phải vào lam sớm để chuẩn bị ăn sáng cho team.",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, thoải mái, quản lý ks hiền dễ chịu. Có sân thượng dùng để ăn u hay chill rất ok.",
+                "comment_negative": "Mạng wifi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLC75wdOLzlDr43yKxTiVG2OvoP7jIBwvgyuavNDDXETA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Rộng rãi thoáng mát gần trung tâm",
+                "comment_negative": "Không có chỗ nào để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm, phòng có bếp tiện nghi cho du lịch gđ có ng lớn tuổi đi theo",
+                "comment_negative": "Rèm che phòng tắm k đc kín nên tắm k thoải mái lắm\nPhòng có muỗi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sạch sẽ, mỗi lần về quê mình đều đặt KS này để nghỉ.\nKhách sạn gần tháp Nghinh Phong, gần phố đi bộ,  đi bộ ra vài trăm mét, KS có chỗ đậu xe, giá cả phù hợp.\nMình sẽ tiếp tục ghé nếu  có dịp đi qua đây",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": null,
+                "country": null
+            },
+            "review": {
+                "date": "14/06/2023",
+                "rating": "Rất hài lòng và sẽ quay lại.",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn sạch sẽ, giường êm ái, phòng vừa đủ rộng đúng như mô tả. Là mô hình khách sạn boutique kết hợp quán cafe, có phục vụ điểm tâm sáng ngon - rẻ. Phong cảnh decor đơn giản nhưng hiệu quả, tạo cảm giác dễ chịu. Nhìn chung rất đáng tiền. \nVị trí thuận lợi, xung quanh nhiều quán ăn ngon.",
+                "comment_negative": "Hầu như không có."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm di chuyển thuận lợi. Mình đi chạy Marathon, sáng ngày chạy ks có luộc trứng và có nước suối cho vận động viên. Rất dễ thương",
+                "comment_negative": "Nước hơi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Tuyệt vời !",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phục vụ và sạch sẽ",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Truong",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Rất thú vị",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chu đáo",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/03/2024",
+                "rating": "Là một nơi đáng để lưu trú khi đi du lịch ở Tuy Hoà",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "3 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khu vực ở trung tâm, thuận tiện để đến các chỗ vui chơi và ăn uống trong thành phố",
+                "comment_negative": "Mọi thứ đều ổn từ nhân viên đến tiện nghi cơ sở vật chất. Chỉ trừ một điều sàn nhà bị trơn, loại trừ khả năng phòng dơ vì ngày nào mình thấy cũng được dọn dẹp đầy đủ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2024",
+                "rating": "amazing",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng đẹp rộng thoáng view cafe sân vườn. chị chủ thân thiện. nhân viên dễ thương nhiệt tình giúp đỡ. mình có chuyến bay sớm nên các bạn nhân viên phải vào lam sớm để chuẩn bị ăn sáng cho team.",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, thoải mái, quản lý ks hiền dễ chịu. Có sân thượng dùng để ăn u hay chill rất ok.",
+                "comment_negative": "Mạng wifi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLC75wdOLzlDr43yKxTiVG2OvoP7jIBwvgyuavNDDXETA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Rộng rãi thoáng mát gần trung tâm",
+                "comment_negative": "Không có chỗ nào để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm, phòng có bếp tiện nghi cho du lịch gđ có ng lớn tuổi đi theo",
+                "comment_negative": "Rèm che phòng tắm k đc kín nên tắm k thoải mái lắm\nPhòng có muỗi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sạch sẽ, mỗi lần về quê mình đều đặt KS này để nghỉ.\nKhách sạn gần tháp Nghinh Phong, gần phố đi bộ,  đi bộ ra vài trăm mét, KS có chỗ đậu xe, giá cả phù hợp.\nMình sẽ tiếp tục ghé nếu  có dịp đi qua đây",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": null,
+                "country": null
+            },
+            "review": {
+                "date": "14/06/2023",
+                "rating": "Rất hài lòng và sẽ quay lại.",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn sạch sẽ, giường êm ái, phòng vừa đủ rộng đúng như mô tả. Là mô hình khách sạn boutique kết hợp quán cafe, có phục vụ điểm tâm sáng ngon - rẻ. Phong cảnh decor đơn giản nhưng hiệu quả, tạo cảm giác dễ chịu. Nhìn chung rất đáng tiền. \nVị trí thuận lợi, xung quanh nhiều quán ăn ngon.",
+                "comment_negative": "Hầu như không có."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm di chuyển thuận lợi. Mình đi chạy Marathon, sáng ngày chạy ks có luộc trứng và có nước suối cho vận động viên. Rất dễ thương",
+                "comment_negative": "Nước hơi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Tuyệt vời !",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phục vụ và sạch sẽ",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Truong",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Rất thú vị",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chu đáo",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/03/2024",
+                "rating": "Là một nơi đáng để lưu trú khi đi du lịch ở Tuy Hoà",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "3 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khu vực ở trung tâm, thuận tiện để đến các chỗ vui chơi và ăn uống trong thành phố",
+                "comment_negative": "Mọi thứ đều ổn từ nhân viên đến tiện nghi cơ sở vật chất. Chỉ trừ một điều sàn nhà bị trơn, loại trừ khả năng phòng dơ vì ngày nào mình thấy cũng được dọn dẹp đầy đủ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2024",
+                "rating": "amazing",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng đẹp rộng thoáng view cafe sân vườn. chị chủ thân thiện. nhân viên dễ thương nhiệt tình giúp đỡ. mình có chuyến bay sớm nên các bạn nhân viên phải vào lam sớm để chuẩn bị ăn sáng cho team.",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, thoải mái, quản lý ks hiền dễ chịu. Có sân thượng dùng để ăn u hay chill rất ok.",
+                "comment_negative": "Mạng wifi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLC75wdOLzlDr43yKxTiVG2OvoP7jIBwvgyuavNDDXETA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Rộng rãi thoáng mát gần trung tâm",
+                "comment_negative": "Không có chỗ nào để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm, phòng có bếp tiện nghi cho du lịch gđ có ng lớn tuổi đi theo",
+                "comment_negative": "Rèm che phòng tắm k đc kín nên tắm k thoải mái lắm\nPhòng có muỗi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sạch sẽ, mỗi lần về quê mình đều đặt KS này để nghỉ.\nKhách sạn gần tháp Nghinh Phong, gần phố đi bộ,  đi bộ ra vài trăm mét, KS có chỗ đậu xe, giá cả phù hợp.\nMình sẽ tiếp tục ghé nếu  có dịp đi qua đây",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": null,
+                "country": null
+            },
+            "review": {
+                "date": "14/06/2023",
+                "rating": "Rất hài lòng và sẽ quay lại.",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn sạch sẽ, giường êm ái, phòng vừa đủ rộng đúng như mô tả. Là mô hình khách sạn boutique kết hợp quán cafe, có phục vụ điểm tâm sáng ngon - rẻ. Phong cảnh decor đơn giản nhưng hiệu quả, tạo cảm giác dễ chịu. Nhìn chung rất đáng tiền. \nVị trí thuận lợi, xung quanh nhiều quán ăn ngon.",
+                "comment_negative": "Hầu như không có."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm di chuyển thuận lợi. Mình đi chạy Marathon, sáng ngày chạy ks có luộc trứng và có nước suối cho vận động viên. Rất dễ thương",
+                "comment_negative": "Nước hơi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Tuyệt vời !",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phục vụ và sạch sẽ",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Truong",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Rất thú vị",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chu đáo",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/03/2024",
+                "rating": "Là một nơi đáng để lưu trú khi đi du lịch ở Tuy Hoà",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "3 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khu vực ở trung tâm, thuận tiện để đến các chỗ vui chơi và ăn uống trong thành phố",
+                "comment_negative": "Mọi thứ đều ổn từ nhân viên đến tiện nghi cơ sở vật chất. Chỉ trừ một điều sàn nhà bị trơn, loại trừ khả năng phòng dơ vì ngày nào mình thấy cũng được dọn dẹp đầy đủ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2024",
+                "rating": "amazing",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng đẹp rộng thoáng view cafe sân vườn. chị chủ thân thiện. nhân viên dễ thương nhiệt tình giúp đỡ. mình có chuyến bay sớm nên các bạn nhân viên phải vào lam sớm để chuẩn bị ăn sáng cho team.",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, thoải mái, quản lý ks hiền dễ chịu. Có sân thượng dùng để ăn u hay chill rất ok.",
+                "comment_negative": "Mạng wifi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLC75wdOLzlDr43yKxTiVG2OvoP7jIBwvgyuavNDDXETA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Rộng rãi thoáng mát gần trung tâm",
+                "comment_negative": "Không có chỗ nào để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm, phòng có bếp tiện nghi cho du lịch gđ có ng lớn tuổi đi theo",
+                "comment_negative": "Rèm che phòng tắm k đc kín nên tắm k thoải mái lắm\nPhòng có muỗi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sạch sẽ, mỗi lần về quê mình đều đặt KS này để nghỉ.\nKhách sạn gần tháp Nghinh Phong, gần phố đi bộ,  đi bộ ra vài trăm mét, KS có chỗ đậu xe, giá cả phù hợp.\nMình sẽ tiếp tục ghé nếu  có dịp đi qua đây",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": null,
+                "country": null
+            },
+            "review": {
+                "date": "14/06/2023",
+                "rating": "Rất hài lòng và sẽ quay lại.",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn sạch sẽ, giường êm ái, phòng vừa đủ rộng đúng như mô tả. Là mô hình khách sạn boutique kết hợp quán cafe, có phục vụ điểm tâm sáng ngon - rẻ. Phong cảnh decor đơn giản nhưng hiệu quả, tạo cảm giác dễ chịu. Nhìn chung rất đáng tiền. \nVị trí thuận lợi, xung quanh nhiều quán ăn ngon.",
+                "comment_negative": "Hầu như không có."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm di chuyển thuận lợi. Mình đi chạy Marathon, sáng ngày chạy ks có luộc trứng và có nước suối cho vận động viên. Rất dễ thương",
+                "comment_negative": "Nước hơi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Tuyệt vời !",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phục vụ và sạch sẽ",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Truong",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Rất thú vị",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chu đáo",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/03/2024",
+                "rating": "Là một nơi đáng để lưu trú khi đi du lịch ở Tuy Hoà",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "3 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khu vực ở trung tâm, thuận tiện để đến các chỗ vui chơi và ăn uống trong thành phố",
+                "comment_negative": "Mọi thứ đều ổn từ nhân viên đến tiện nghi cơ sở vật chất. Chỉ trừ một điều sàn nhà bị trơn, loại trừ khả năng phòng dơ vì ngày nào mình thấy cũng được dọn dẹp đầy đủ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2024",
+                "rating": "amazing",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng đẹp rộng thoáng view cafe sân vườn. chị chủ thân thiện. nhân viên dễ thương nhiệt tình giúp đỡ. mình có chuyến bay sớm nên các bạn nhân viên phải vào lam sớm để chuẩn bị ăn sáng cho team.",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, thoải mái, quản lý ks hiền dễ chịu. Có sân thượng dùng để ăn u hay chill rất ok.",
+                "comment_negative": "Mạng wifi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLC75wdOLzlDr43yKxTiVG2OvoP7jIBwvgyuavNDDXETA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Rộng rãi thoáng mát gần trung tâm",
+                "comment_negative": "Không có chỗ nào để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm, phòng có bếp tiện nghi cho du lịch gđ có ng lớn tuổi đi theo",
+                "comment_negative": "Rèm che phòng tắm k đc kín nên tắm k thoải mái lắm\nPhòng có muỗi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sạch sẽ, mỗi lần về quê mình đều đặt KS này để nghỉ.\nKhách sạn gần tháp Nghinh Phong, gần phố đi bộ,  đi bộ ra vài trăm mét, KS có chỗ đậu xe, giá cả phù hợp.\nMình sẽ tiếp tục ghé nếu  có dịp đi qua đây",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": null,
+                "country": null
+            },
+            "review": {
+                "date": "14/06/2023",
+                "rating": "Rất hài lòng và sẽ quay lại.",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn sạch sẽ, giường êm ái, phòng vừa đủ rộng đúng như mô tả. Là mô hình khách sạn boutique kết hợp quán cafe, có phục vụ điểm tâm sáng ngon - rẻ. Phong cảnh decor đơn giản nhưng hiệu quả, tạo cảm giác dễ chịu. Nhìn chung rất đáng tiền. \nVị trí thuận lợi, xung quanh nhiều quán ăn ngon.",
+                "comment_negative": "Hầu như không có."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm di chuyển thuận lợi. Mình đi chạy Marathon, sáng ngày chạy ks có luộc trứng và có nước suối cho vận động viên. Rất dễ thương",
+                "comment_negative": "Nước hơi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Tuyệt vời !",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phục vụ và sạch sẽ",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Truong",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Rất thú vị",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chu đáo",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/03/2024",
+                "rating": "Là một nơi đáng để lưu trú khi đi du lịch ở Tuy Hoà",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "3 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khu vực ở trung tâm, thuận tiện để đến các chỗ vui chơi và ăn uống trong thành phố",
+                "comment_negative": "Mọi thứ đều ổn từ nhân viên đến tiện nghi cơ sở vật chất. Chỉ trừ một điều sàn nhà bị trơn, loại trừ khả năng phòng dơ vì ngày nào mình thấy cũng được dọn dẹp đầy đủ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2024",
+                "rating": "amazing",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng đẹp rộng thoáng view cafe sân vườn. chị chủ thân thiện. nhân viên dễ thương nhiệt tình giúp đỡ. mình có chuyến bay sớm nên các bạn nhân viên phải vào lam sớm để chuẩn bị ăn sáng cho team.",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, thoải mái, quản lý ks hiền dễ chịu. Có sân thượng dùng để ăn u hay chill rất ok.",
+                "comment_negative": "Mạng wifi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLC75wdOLzlDr43yKxTiVG2OvoP7jIBwvgyuavNDDXETA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Rộng rãi thoáng mát gần trung tâm",
+                "comment_negative": "Không có chỗ nào để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm, phòng có bếp tiện nghi cho du lịch gđ có ng lớn tuổi đi theo",
+                "comment_negative": "Rèm che phòng tắm k đc kín nên tắm k thoải mái lắm\nPhòng có muỗi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sạch sẽ, mỗi lần về quê mình đều đặt KS này để nghỉ.\nKhách sạn gần tháp Nghinh Phong, gần phố đi bộ,  đi bộ ra vài trăm mét, KS có chỗ đậu xe, giá cả phù hợp.\nMình sẽ tiếp tục ghé nếu  có dịp đi qua đây",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": null,
+                "country": null
+            },
+            "review": {
+                "date": "14/06/2023",
+                "rating": "Rất hài lòng và sẽ quay lại.",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn sạch sẽ, giường êm ái, phòng vừa đủ rộng đúng như mô tả. Là mô hình khách sạn boutique kết hợp quán cafe, có phục vụ điểm tâm sáng ngon - rẻ. Phong cảnh decor đơn giản nhưng hiệu quả, tạo cảm giác dễ chịu. Nhìn chung rất đáng tiền. \nVị trí thuận lợi, xung quanh nhiều quán ăn ngon.",
+                "comment_negative": "Hầu như không có."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm di chuyển thuận lợi. Mình đi chạy Marathon, sáng ngày chạy ks có luộc trứng và có nước suối cho vận động viên. Rất dễ thương",
+                "comment_negative": "Nước hơi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Tuyệt vời !",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phục vụ và sạch sẽ",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Truong",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Rất thú vị",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chu đáo",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/03/2024",
+                "rating": "Là một nơi đáng để lưu trú khi đi du lịch ở Tuy Hoà",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "3 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khu vực ở trung tâm, thuận tiện để đến các chỗ vui chơi và ăn uống trong thành phố",
+                "comment_negative": "Mọi thứ đều ổn từ nhân viên đến tiện nghi cơ sở vật chất. Chỉ trừ một điều sàn nhà bị trơn, loại trừ khả năng phòng dơ vì ngày nào mình thấy cũng được dọn dẹp đầy đủ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2024",
+                "rating": "amazing",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng đẹp rộng thoáng view cafe sân vườn. chị chủ thân thiện. nhân viên dễ thương nhiệt tình giúp đỡ. mình có chuyến bay sớm nên các bạn nhân viên phải vào lam sớm để chuẩn bị ăn sáng cho team.",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, thoải mái, quản lý ks hiền dễ chịu. Có sân thượng dùng để ăn u hay chill rất ok.",
+                "comment_negative": "Mạng wifi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLC75wdOLzlDr43yKxTiVG2OvoP7jIBwvgyuavNDDXETA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Rộng rãi thoáng mát gần trung tâm",
+                "comment_negative": "Không có chỗ nào để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm, phòng có bếp tiện nghi cho du lịch gđ có ng lớn tuổi đi theo",
+                "comment_negative": "Rèm che phòng tắm k đc kín nên tắm k thoải mái lắm\nPhòng có muỗi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sạch sẽ, mỗi lần về quê mình đều đặt KS này để nghỉ.\nKhách sạn gần tháp Nghinh Phong, gần phố đi bộ,  đi bộ ra vài trăm mét, KS có chỗ đậu xe, giá cả phù hợp.\nMình sẽ tiếp tục ghé nếu  có dịp đi qua đây",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": null,
+                "country": null
+            },
+            "review": {
+                "date": "14/06/2023",
+                "rating": "Rất hài lòng và sẽ quay lại.",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn sạch sẽ, giường êm ái, phòng vừa đủ rộng đúng như mô tả. Là mô hình khách sạn boutique kết hợp quán cafe, có phục vụ điểm tâm sáng ngon - rẻ. Phong cảnh decor đơn giản nhưng hiệu quả, tạo cảm giác dễ chịu. Nhìn chung rất đáng tiền. \nVị trí thuận lợi, xung quanh nhiều quán ăn ngon.",
+                "comment_negative": "Hầu như không có."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm di chuyển thuận lợi. Mình đi chạy Marathon, sáng ngày chạy ks có luộc trứng và có nước suối cho vận động viên. Rất dễ thương",
+                "comment_negative": "Nước hơi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Tuyệt vời !",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phục vụ và sạch sẽ",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Truong",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Rất thú vị",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chu đáo",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/03/2024",
+                "rating": "Là một nơi đáng để lưu trú khi đi du lịch ở Tuy Hoà",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "3 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khu vực ở trung tâm, thuận tiện để đến các chỗ vui chơi và ăn uống trong thành phố",
+                "comment_negative": "Mọi thứ đều ổn từ nhân viên đến tiện nghi cơ sở vật chất. Chỉ trừ một điều sàn nhà bị trơn, loại trừ khả năng phòng dơ vì ngày nào mình thấy cũng được dọn dẹp đầy đủ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2024",
+                "rating": "amazing",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng đẹp rộng thoáng view cafe sân vườn. chị chủ thân thiện. nhân viên dễ thương nhiệt tình giúp đỡ. mình có chuyến bay sớm nên các bạn nhân viên phải vào lam sớm để chuẩn bị ăn sáng cho team.",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, thoải mái, quản lý ks hiền dễ chịu. Có sân thượng dùng để ăn u hay chill rất ok.",
+                "comment_negative": "Mạng wifi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLC75wdOLzlDr43yKxTiVG2OvoP7jIBwvgyuavNDDXETA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Rộng rãi thoáng mát gần trung tâm",
+                "comment_negative": "Không có chỗ nào để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm, phòng có bếp tiện nghi cho du lịch gđ có ng lớn tuổi đi theo",
+                "comment_negative": "Rèm che phòng tắm k đc kín nên tắm k thoải mái lắm\nPhòng có muỗi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sạch sẽ, mỗi lần về quê mình đều đặt KS này để nghỉ.\nKhách sạn gần tháp Nghinh Phong, gần phố đi bộ,  đi bộ ra vài trăm mét, KS có chỗ đậu xe, giá cả phù hợp.\nMình sẽ tiếp tục ghé nếu  có dịp đi qua đây",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": null,
+                "country": null
+            },
+            "review": {
+                "date": "14/06/2023",
+                "rating": "Rất hài lòng và sẽ quay lại.",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Tiện nghi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn sạch sẽ, giường êm ái, phòng vừa đủ rộng đúng như mô tả. Là mô hình khách sạn boutique kết hợp quán cafe, có phục vụ điểm tâm sáng ngon - rẻ. Phong cảnh decor đơn giản nhưng hiệu quả, tạo cảm giác dễ chịu. Nhìn chung rất đáng tiền. \nVị trí thuận lợi, xung quanh nhiều quán ăn ngon.",
+                "comment_negative": "Hầu như không có."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm di chuyển thuận lợi. Mình đi chạy Marathon, sáng ngày chạy ks có luộc trứng và có nước suối cho vận động viên. Rất dễ thương",
+                "comment_negative": "Nước hơi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Tuyệt vời !",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phục vụ và sạch sẽ",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Truong",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Rất thú vị",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chu đáo",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/03/2024",
+                "rating": "Là một nơi đáng để lưu trú khi đi du lịch ở Tuy Hoà",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "3 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khu vực ở trung tâm, thuận tiện để đến các chỗ vui chơi và ăn uống trong thành phố",
+                "comment_negative": "Mọi thứ đều ổn từ nhân viên đến tiện nghi cơ sở vật chất. Chỉ trừ một điều sàn nhà bị trơn, loại trừ khả năng phòng dơ vì ngày nào mình thấy cũng được dọn dẹp đầy đủ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/03/2024",
+                "rating": "amazing",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng đẹp rộng thoáng view cafe sân vườn. chị chủ thân thiện. nhân viên dễ thương nhiệt tình giúp đỡ. mình có chuyến bay sớm nên các bạn nhân viên phải vào lam sớm để chuẩn bị ăn sáng cho team.",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Hài lòng",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, thoải mái, quản lý ks hiền dễ chịu. Có sân thượng dùng để ăn u hay chill rất ok.",
+                "comment_negative": "Mạng wifi yếu"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLC75wdOLzlDr43yKxTiVG2OvoP7jIBwvgyuavNDDXETA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Rộng rãi thoáng mát gần trung tâm",
+                "comment_negative": "Không có chỗ nào để chê"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tốt",
+                "score": 9.0,
+                "room_type": "Căn Hộ 2 Phòng Ngủ",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngay trung tâm, phòng có bếp tiện nghi cho du lịch gđ có ng lớn tuổi đi theo",
+                "comment_negative": "Rèm che phòng tắm k đc kín nên tắm k thoải mái lắm\nPhòng có muỗi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe 4 Người",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn sạch sẽ, mỗi lần về quê mình đều đặt KS này để nghỉ.\nKhách sạn gần tháp Nghinh Phong, gần phố đi bộ,  đi bộ ra vài trăm mét, KS có chỗ đậu xe, giá cả phù hợp.\nMình sẽ tiếp tục ghé nếu  có dịp đi qua đây",
+                "comment_negative": null
+            }
+        }
+    ]
+}

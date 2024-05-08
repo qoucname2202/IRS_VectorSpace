@@ -1,0 +1,698 @@
+{
+    "name": "Hotel Nguyên Phước",
+    "address": "832 Lê Duẩn 832 Lê Duẩn, Pleiku, Việt Nam",
+    "description": "Tọa lạc ở Pleiku, cách Pleiku Stadium 7.2 km, Hotel Nguyên Phước cung cấp chỗ nghỉ có khu vườn, chỗ đậu xe riêng miễn phí, phòng chờ chung và sân hiên. Chỗ nghỉ cung cấp lễ tân 24/24, dịch vụ đưa đón sân bay, dịch vụ phòng và Wi-Fi miễn phí.\n\nLeo núi là hoạt động được ưa chuộng trong khu vực. Ngoài ra, khách sạn 2 sao này có dịch vụ thuê ô tô.\n\nSân bay gần nhất là Sân bay Pleiku, cách khách sạn 6 km.",
+    "rating": "8.7",
+    "total_rating": "37",
+    "evaluation_categories": {
+        "service_staff": 9.6,
+        "amenities": 8.9,
+        "cleanliness": 9.0,
+        "comfort": 9.0,
+        "value_for_money": 9.2,
+        "location": 7.9,
+        "free_wifi": 10.0
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Từ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": null
+            },
+            "review": {
+                "date": "19/02/2022",
+                "rating": "Khách sạn quá Ok. Lần sau sẽ quay lại.",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đơn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Bé nhân viên dễ thương, nhiệt tình, hướng dẫn mình đi chơi và ăn uống. \nPhòng cực kỳ sạch, mọi thứ đều rất mới mình rất khó ngủ chỗ lạ, nhưng ở tại khách sạn, mình ngủ cứ như ở nhà. Vị trí nằm mặt tiền Lê Duẩn. Có xe khách vào tận nơi để về Đà Nẵng nên rất thuận tiện. Nói chung quá ổn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên thân thiện, dễ mếm 😁",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgxFKQiiOk2raYwwnhl70IGAOobITTeymoJUwM=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/06/2023",
+                "rating": "5 sao",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgTHasJNRjHx3g3Bbuss7xh_ZEyntjP7KGpOXGQPQ",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/06/2023",
+                "rating": "Good choice to stay in Pleiku.",
+                "score": 9.0,
+                "room_type": "Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "7 đêm · tháng 6/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Mình ở 8 đêm,  Khách sạn sạch sẽ, đầy đủ tiện nghi, view nhìn ra  núi, có thuê xe máy, anh chị nhân viên thân thiện, dễ thương. Good choice to stay in Pleiku.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/03/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King nhìn ra cảnh núi non",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng sạch sẽ",
+                "comment_negative": "không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/01/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Em chủ thân thiện dễ thương, chỗ nghỉ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/09/2022",
+                "rating": "1 đêm tại khách sạn Nguyên Phước Pleiku",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King nhìn ra cảnh núi non",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Điều mình thích nhất ở đây từ lúc bước vào sảnh đến khi nhận phòng là mọi thứ rất sạch sẽ, bóng loáng và gọn gàng. Phòng thơm tho, không bị mùi ẩm móc\n\nĐược chào đón rất nhiệt tình và chu đáo.\n\nMáy nước nóng rất ổn áp, không phải chờ đợi lâu để có nước nóng. Vòi nước mạnh.\n\nỞ đây có thang máy và thang máy cũng khá rộng rãi nên tiện di chuyển và xử lý đồ cồng kềnh\n\nCó nhà xe riêng và camera nên cũng có cảm giác an toàn.\n\nGiá phòng rất hợp lý. Luôn có người chờ cửa khi đi chơi về (mặc dù mình cũng không về sau 11PM)",
+                "comment_negative": "Phòng không có máy sấy tóc. Trước cửa phòng tắm không có thảm chùi chân nên với mình nó hơi bất tiện.\n\nĐường ống dẫn nước của lavabo và đường thoát nước của nhà vệ sinh hơi nghẹt một tí.\n\nCách trung tâm Pleiku khoảng 7km nên sẽ không tiện để di chuyển nếu bạn muốn đi đâu đó gần và nhanh."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dung",
+                "avatar": "https://lh3.googleusercontent.com/-xmS1EGt7dcg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdC2zhg8hwwuL4O43t_C708_ZYDQA/mo/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/07/2022",
+                "rating": "Vì nghỉ ở khách sạn chỉ một đêm, quá ngắn ngủi để đánh giá chính xác, nhưng nói chung là tốt!",
+                "score": 9.0,
+                "room_type": "Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng sạch sẽ, có chỗ đậu xe trong nhà",
+                "comment_negative": "Chỉ có điều khách quan là hơi xa trung tâm thành phố một chút, nhưng bù lại yên tĩnh và thoáng mát."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trinh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2022",
+                "rating": "Lần đầu tiên mình đi du lịch ở Gia Lai, mình rất hài lòng về kì nghì này!",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King nhìn ra cảnh núi non",
+                "stay_duration": "5 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Là một người học về dịch vụ, làm dịch vụ nên dù đi du lịch ở đâu thì điều đầu tiên mình nhìn nhận và đánh giá đó chính là con người ở đó. \nẤn tượng nhất lúc đến đây là chị nhân viên siêu dễ thương luôn ấy, gặp tụi mình bao giờ cũng cười, mình đi ra ngoài mà về đến hotel là chị đứng sẵn mở cửa nhà xe cho luôn. Mấy cô chú ở đây cũng dễ thương nốt, hiền hoà quá chừng. \nPhòng ở đây sạch sẽ, gọn gàng, thang máy lên phòng cũng rất là mới.\nNhững điều tụi mình nhận được với giá tiền như thế này thì hoàn toàn hợp lí.",
+                "comment_negative": "Cũng chẳng phải quá là không thích hay khó chịu nhưng mà mình chỉ thấy hơi bất tiện chút xíu. Vì mỗi lần ra ngoài phải nhờ người mở cổng tụi mình thấy rất ngại, cảm giác như làm phiền người khác ấy."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khang",
+                "avatar": "https://lh6.googleusercontent.com/-R61IFVObIV0/AAAAAAAAAAI/AAAAAAAADUM/DbJg9XwJ7T8/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King nhìn ra cảnh núi non",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn nằm xa trung tâm một tí trên đường hướng về quốc lộ 19 đi Quy Nhơn Bình Định, sạch sẽ, giá cả hợp lý, nhân viên thân thiện phục vụ chu đáo. Là nơi lý tưởng khi đến Gia Lai. Sẽ quay lại khi có điều kiện quay lại  khi đến Gia Lai.",
+                "comment_negative": "Chưa tìm ra"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Từ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": null
+            },
+            "review": {
+                "date": "19/02/2022",
+                "rating": "Khách sạn quá Ok. Lần sau sẽ quay lại.",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đơn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Bé nhân viên dễ thương, nhiệt tình, hướng dẫn mình đi chơi và ăn uống. \nPhòng cực kỳ sạch, mọi thứ đều rất mới mình rất khó ngủ chỗ lạ, nhưng ở tại khách sạn, mình ngủ cứ như ở nhà. Vị trí nằm mặt tiền Lê Duẩn. Có xe khách vào tận nơi để về Đà Nẵng nên rất thuận tiện. Nói chung quá ổn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên thân thiện, dễ mếm 😁",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgxFKQiiOk2raYwwnhl70IGAOobITTeymoJUwM=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/06/2023",
+                "rating": "5 sao",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgTHasJNRjHx3g3Bbuss7xh_ZEyntjP7KGpOXGQPQ",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/06/2023",
+                "rating": "Good choice to stay in Pleiku.",
+                "score": 9.0,
+                "room_type": "Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "7 đêm · tháng 6/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Mình ở 8 đêm,  Khách sạn sạch sẽ, đầy đủ tiện nghi, view nhìn ra  núi, có thuê xe máy, anh chị nhân viên thân thiện, dễ thương. Good choice to stay in Pleiku.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/03/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King nhìn ra cảnh núi non",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng sạch sẽ",
+                "comment_negative": "không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/01/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Em chủ thân thiện dễ thương, chỗ nghỉ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/09/2022",
+                "rating": "1 đêm tại khách sạn Nguyên Phước Pleiku",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King nhìn ra cảnh núi non",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Điều mình thích nhất ở đây từ lúc bước vào sảnh đến khi nhận phòng là mọi thứ rất sạch sẽ, bóng loáng và gọn gàng. Phòng thơm tho, không bị mùi ẩm móc\n\nĐược chào đón rất nhiệt tình và chu đáo.\n\nMáy nước nóng rất ổn áp, không phải chờ đợi lâu để có nước nóng. Vòi nước mạnh.\n\nỞ đây có thang máy và thang máy cũng khá rộng rãi nên tiện di chuyển và xử lý đồ cồng kềnh\n\nCó nhà xe riêng và camera nên cũng có cảm giác an toàn.\n\nGiá phòng rất hợp lý. Luôn có người chờ cửa khi đi chơi về (mặc dù mình cũng không về sau 11PM)",
+                "comment_negative": "Phòng không có máy sấy tóc. Trước cửa phòng tắm không có thảm chùi chân nên với mình nó hơi bất tiện.\n\nĐường ống dẫn nước của lavabo và đường thoát nước của nhà vệ sinh hơi nghẹt một tí.\n\nCách trung tâm Pleiku khoảng 7km nên sẽ không tiện để di chuyển nếu bạn muốn đi đâu đó gần và nhanh."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dung",
+                "avatar": "https://lh3.googleusercontent.com/-xmS1EGt7dcg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdC2zhg8hwwuL4O43t_C708_ZYDQA/mo/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/07/2022",
+                "rating": "Vì nghỉ ở khách sạn chỉ một đêm, quá ngắn ngủi để đánh giá chính xác, nhưng nói chung là tốt!",
+                "score": 9.0,
+                "room_type": "Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng sạch sẽ, có chỗ đậu xe trong nhà",
+                "comment_negative": "Chỉ có điều khách quan là hơi xa trung tâm thành phố một chút, nhưng bù lại yên tĩnh và thoáng mát."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trinh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2022",
+                "rating": "Lần đầu tiên mình đi du lịch ở Gia Lai, mình rất hài lòng về kì nghì này!",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King nhìn ra cảnh núi non",
+                "stay_duration": "5 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Là một người học về dịch vụ, làm dịch vụ nên dù đi du lịch ở đâu thì điều đầu tiên mình nhìn nhận và đánh giá đó chính là con người ở đó. \nẤn tượng nhất lúc đến đây là chị nhân viên siêu dễ thương luôn ấy, gặp tụi mình bao giờ cũng cười, mình đi ra ngoài mà về đến hotel là chị đứng sẵn mở cửa nhà xe cho luôn. Mấy cô chú ở đây cũng dễ thương nốt, hiền hoà quá chừng. \nPhòng ở đây sạch sẽ, gọn gàng, thang máy lên phòng cũng rất là mới.\nNhững điều tụi mình nhận được với giá tiền như thế này thì hoàn toàn hợp lí.",
+                "comment_negative": "Cũng chẳng phải quá là không thích hay khó chịu nhưng mà mình chỉ thấy hơi bất tiện chút xíu. Vì mỗi lần ra ngoài phải nhờ người mở cổng tụi mình thấy rất ngại, cảm giác như làm phiền người khác ấy."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khang",
+                "avatar": "https://lh6.googleusercontent.com/-R61IFVObIV0/AAAAAAAAAAI/AAAAAAAADUM/DbJg9XwJ7T8/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King nhìn ra cảnh núi non",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn nằm xa trung tâm một tí trên đường hướng về quốc lộ 19 đi Quy Nhơn Bình Định, sạch sẽ, giá cả hợp lý, nhân viên thân thiện phục vụ chu đáo. Là nơi lý tưởng khi đến Gia Lai. Sẽ quay lại khi có điều kiện quay lại  khi đến Gia Lai.",
+                "comment_negative": "Chưa tìm ra"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Từ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": null
+            },
+            "review": {
+                "date": "19/02/2022",
+                "rating": "Khách sạn quá Ok. Lần sau sẽ quay lại.",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đơn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Bé nhân viên dễ thương, nhiệt tình, hướng dẫn mình đi chơi và ăn uống. \nPhòng cực kỳ sạch, mọi thứ đều rất mới mình rất khó ngủ chỗ lạ, nhưng ở tại khách sạn, mình ngủ cứ như ở nhà. Vị trí nằm mặt tiền Lê Duẩn. Có xe khách vào tận nơi để về Đà Nẵng nên rất thuận tiện. Nói chung quá ổn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên thân thiện, dễ mếm 😁",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgxFKQiiOk2raYwwnhl70IGAOobITTeymoJUwM=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/06/2023",
+                "rating": "5 sao",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgTHasJNRjHx3g3Bbuss7xh_ZEyntjP7KGpOXGQPQ",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/06/2023",
+                "rating": "Good choice to stay in Pleiku.",
+                "score": 9.0,
+                "room_type": "Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "7 đêm · tháng 6/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Mình ở 8 đêm,  Khách sạn sạch sẽ, đầy đủ tiện nghi, view nhìn ra  núi, có thuê xe máy, anh chị nhân viên thân thiện, dễ thương. Good choice to stay in Pleiku.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/03/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King nhìn ra cảnh núi non",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng sạch sẽ",
+                "comment_negative": "không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/01/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Em chủ thân thiện dễ thương, chỗ nghỉ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/09/2022",
+                "rating": "1 đêm tại khách sạn Nguyên Phước Pleiku",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King nhìn ra cảnh núi non",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Điều mình thích nhất ở đây từ lúc bước vào sảnh đến khi nhận phòng là mọi thứ rất sạch sẽ, bóng loáng và gọn gàng. Phòng thơm tho, không bị mùi ẩm móc\n\nĐược chào đón rất nhiệt tình và chu đáo.\n\nMáy nước nóng rất ổn áp, không phải chờ đợi lâu để có nước nóng. Vòi nước mạnh.\n\nỞ đây có thang máy và thang máy cũng khá rộng rãi nên tiện di chuyển và xử lý đồ cồng kềnh\n\nCó nhà xe riêng và camera nên cũng có cảm giác an toàn.\n\nGiá phòng rất hợp lý. Luôn có người chờ cửa khi đi chơi về (mặc dù mình cũng không về sau 11PM)",
+                "comment_negative": "Phòng không có máy sấy tóc. Trước cửa phòng tắm không có thảm chùi chân nên với mình nó hơi bất tiện.\n\nĐường ống dẫn nước của lavabo và đường thoát nước của nhà vệ sinh hơi nghẹt một tí.\n\nCách trung tâm Pleiku khoảng 7km nên sẽ không tiện để di chuyển nếu bạn muốn đi đâu đó gần và nhanh."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dung",
+                "avatar": "https://lh3.googleusercontent.com/-xmS1EGt7dcg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdC2zhg8hwwuL4O43t_C708_ZYDQA/mo/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/07/2022",
+                "rating": "Vì nghỉ ở khách sạn chỉ một đêm, quá ngắn ngủi để đánh giá chính xác, nhưng nói chung là tốt!",
+                "score": 9.0,
+                "room_type": "Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng sạch sẽ, có chỗ đậu xe trong nhà",
+                "comment_negative": "Chỉ có điều khách quan là hơi xa trung tâm thành phố một chút, nhưng bù lại yên tĩnh và thoáng mát."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trinh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2022",
+                "rating": "Lần đầu tiên mình đi du lịch ở Gia Lai, mình rất hài lòng về kì nghì này!",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King nhìn ra cảnh núi non",
+                "stay_duration": "5 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Là một người học về dịch vụ, làm dịch vụ nên dù đi du lịch ở đâu thì điều đầu tiên mình nhìn nhận và đánh giá đó chính là con người ở đó. \nẤn tượng nhất lúc đến đây là chị nhân viên siêu dễ thương luôn ấy, gặp tụi mình bao giờ cũng cười, mình đi ra ngoài mà về đến hotel là chị đứng sẵn mở cửa nhà xe cho luôn. Mấy cô chú ở đây cũng dễ thương nốt, hiền hoà quá chừng. \nPhòng ở đây sạch sẽ, gọn gàng, thang máy lên phòng cũng rất là mới.\nNhững điều tụi mình nhận được với giá tiền như thế này thì hoàn toàn hợp lí.",
+                "comment_negative": "Cũng chẳng phải quá là không thích hay khó chịu nhưng mà mình chỉ thấy hơi bất tiện chút xíu. Vì mỗi lần ra ngoài phải nhờ người mở cổng tụi mình thấy rất ngại, cảm giác như làm phiền người khác ấy."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khang",
+                "avatar": "https://lh6.googleusercontent.com/-R61IFVObIV0/AAAAAAAAAAI/AAAAAAAADUM/DbJg9XwJ7T8/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King nhìn ra cảnh núi non",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn nằm xa trung tâm một tí trên đường hướng về quốc lộ 19 đi Quy Nhơn Bình Định, sạch sẽ, giá cả hợp lý, nhân viên thân thiện phục vụ chu đáo. Là nơi lý tưởng khi đến Gia Lai. Sẽ quay lại khi có điều kiện quay lại  khi đến Gia Lai.",
+                "comment_negative": "Chưa tìm ra"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Từ",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": null
+            },
+            "review": {
+                "date": "19/02/2022",
+                "rating": "Khách sạn quá Ok. Lần sau sẽ quay lại.",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đơn",
+                "stay_duration": "1 đêm · Tháng 2/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Bé nhân viên dễ thương, nhiệt tình, hướng dẫn mình đi chơi và ăn uống. \nPhòng cực kỳ sạch, mọi thứ đều rất mới mình rất khó ngủ chỗ lạ, nhưng ở tại khách sạn, mình ngủ cứ như ở nhà. Vị trí nằm mặt tiền Lê Duẩn. Có xe khách vào tận nơi để về Đà Nẵng nên rất thuận tiện. Nói chung quá ổn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên thân thiện, dễ mếm 😁",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgxFKQiiOk2raYwwnhl70IGAOobITTeymoJUwM=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/06/2023",
+                "rating": "5 sao",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgTHasJNRjHx3g3Bbuss7xh_ZEyntjP7KGpOXGQPQ",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/06/2023",
+                "rating": "Good choice to stay in Pleiku.",
+                "score": 9.0,
+                "room_type": "Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "7 đêm · tháng 6/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Mình ở 8 đêm,  Khách sạn sạch sẽ, đầy đủ tiện nghi, view nhìn ra  núi, có thuê xe máy, anh chị nhân viên thân thiện, dễ thương. Good choice to stay in Pleiku.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/03/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King nhìn ra cảnh núi non",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "phòng sạch sẽ",
+                "comment_negative": "không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/01/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Gia đình nhìn ra Núi",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Em chủ thân thiện dễ thương, chỗ nghỉ sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/09/2022",
+                "rating": "1 đêm tại khách sạn Nguyên Phước Pleiku",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King nhìn ra cảnh núi non",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Điều mình thích nhất ở đây từ lúc bước vào sảnh đến khi nhận phòng là mọi thứ rất sạch sẽ, bóng loáng và gọn gàng. Phòng thơm tho, không bị mùi ẩm móc\n\nĐược chào đón rất nhiệt tình và chu đáo.\n\nMáy nước nóng rất ổn áp, không phải chờ đợi lâu để có nước nóng. Vòi nước mạnh.\n\nỞ đây có thang máy và thang máy cũng khá rộng rãi nên tiện di chuyển và xử lý đồ cồng kềnh\n\nCó nhà xe riêng và camera nên cũng có cảm giác an toàn.\n\nGiá phòng rất hợp lý. Luôn có người chờ cửa khi đi chơi về (mặc dù mình cũng không về sau 11PM)",
+                "comment_negative": "Phòng không có máy sấy tóc. Trước cửa phòng tắm không có thảm chùi chân nên với mình nó hơi bất tiện.\n\nĐường ống dẫn nước của lavabo và đường thoát nước của nhà vệ sinh hơi nghẹt một tí.\n\nCách trung tâm Pleiku khoảng 7km nên sẽ không tiện để di chuyển nếu bạn muốn đi đâu đó gần và nhanh."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dung",
+                "avatar": "https://lh3.googleusercontent.com/-xmS1EGt7dcg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdC2zhg8hwwuL4O43t_C708_ZYDQA/mo/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/07/2022",
+                "rating": "Vì nghỉ ở khách sạn chỉ một đêm, quá ngắn ngủi để đánh giá chính xác, nhưng nói chung là tốt!",
+                "score": 9.0,
+                "room_type": "Phòng Superior Giường Đôi/2 Giường Đơn Nhìn Ra Núi",
+                "stay_duration": "1 đêm · tháng 6/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng sạch sẽ, có chỗ đậu xe trong nhà",
+                "comment_negative": "Chỉ có điều khách quan là hơi xa trung tâm thành phố một chút, nhưng bù lại yên tĩnh và thoáng mát."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trinh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2022",
+                "rating": "Lần đầu tiên mình đi du lịch ở Gia Lai, mình rất hài lòng về kì nghì này!",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King nhìn ra cảnh núi non",
+                "stay_duration": "5 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Là một người học về dịch vụ, làm dịch vụ nên dù đi du lịch ở đâu thì điều đầu tiên mình nhìn nhận và đánh giá đó chính là con người ở đó. \nẤn tượng nhất lúc đến đây là chị nhân viên siêu dễ thương luôn ấy, gặp tụi mình bao giờ cũng cười, mình đi ra ngoài mà về đến hotel là chị đứng sẵn mở cửa nhà xe cho luôn. Mấy cô chú ở đây cũng dễ thương nốt, hiền hoà quá chừng. \nPhòng ở đây sạch sẽ, gọn gàng, thang máy lên phòng cũng rất là mới.\nNhững điều tụi mình nhận được với giá tiền như thế này thì hoàn toàn hợp lí.",
+                "comment_negative": "Cũng chẳng phải quá là không thích hay khó chịu nhưng mà mình chỉ thấy hơi bất tiện chút xíu. Vì mỗi lần ra ngoài phải nhờ người mở cổng tụi mình thấy rất ngại, cảm giác như làm phiền người khác ấy."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khang",
+                "avatar": "https://lh6.googleusercontent.com/-R61IFVObIV0/AAAAAAAAAAI/AAAAAAAADUM/DbJg9XwJ7T8/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng có giường cỡ King nhìn ra cảnh núi non",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khách sạn nằm xa trung tâm một tí trên đường hướng về quốc lộ 19 đi Quy Nhơn Bình Định, sạch sẽ, giá cả hợp lý, nhân viên thân thiện phục vụ chu đáo. Là nơi lý tưởng khi đến Gia Lai. Sẽ quay lại khi có điều kiện quay lại  khi đến Gia Lai.",
+                "comment_negative": "Chưa tìm ra"
+            }
+        }
+    ]
+}

@@ -1,0 +1,868 @@
+{
+    "name": "HƯỚNG DƯƠNG HOTEL THANH HOÁ",
+    "address": "556 Quang Trung, Thanh Hóa, Việt Nam",
+    "description": "HƯỚNG DƯƠNG HOTEL THANH HOÁ tọa lạc ở Thanh Hóa. Mỗi phòng tại khách sạn 4 sao này đều nhìn ra thành phố, đồng thời khách có thể sử dụng khu vườn và phòng chờ chung. Chỗ nghỉ cung cấp lễ tân 24/24, dịch vụ đưa đón, dịch vụ phòng và Wi-Fi miễn phí.\n\nVới phòng tắm riêng được trang bị vòi sen và đồ vệ sinh cá nhân miễn phí, phòng khách tại khách sạn có TV màn hình phẳng và điều hòa, trong đó một số phòng có sân hiên. Tại HƯỚNG DƯƠNG HOTEL THANH HOÁ, mỗi phòng đều được thiết kế có ga trải giường và khăn tắm.\n\nChỗ nghỉ có phục vụ bữa sáng thực đơn buffet hoặc kiểu Á.\n\nSân bay gần nhất là Sân bay Thọ Xuân, cách HƯỚNG DƯƠNG HOTEL THANH HOÁ 37 km.",
+    "rating": "7.4",
+    "total_rating": "41",
+    "evaluation_categories": {
+        "service_staff": 8.2,
+        "amenities": 7.4,
+        "cleanliness": 7.8,
+        "comfort": 7.6,
+        "value_for_money": 7.7,
+        "location": 8.2,
+        "free_wifi": 7.5
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Tuyết",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gjd4KihxqyfSaPHRnt81Vk7Q8ALvwVx1yxB5HZ_HA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "khách sạn mới xây dựng, sạch sẽ, thái độ nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyet",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí",
+                "comment_negative": "Không đạt tiêu chuẩn 4*"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ninh",
+                "avatar": "https://graph.facebook.com/v2.9/1336048719877239/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng sạch, ở đường chính đi qua TP Thanh Hoá. Nhân viên nhiệt tình, có chỗ đỗ ô tô của khách sạn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Văn",
+                "avatar": "https://lh3.googleusercontent.com/-dwB1FKl3gsY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHNOO5JN8NRfT-f5tnR9svAw0ocg/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/08/2023",
+                "rating": "Hy vọng ở tiếp",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Được",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/03/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, đầy đủ tiện nghi, kèm bữa sáng",
+                "comment_negative": "Phòng thực tế không giống trong ảnh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIzO5dVyz1gnmOI0HlAkC-zDf-uhgimwQTzk6RRk2v7JA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Dịch vụ tốt",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxalmacDPIGXZNHBR9VKHnnFbjNETzqP2bdPkrwC=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Oke",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ, oke",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phong",
+                "avatar": "https://graph.facebook.com/v2.9/2393772360758559/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Không phải KS 4 sao. Mặc dù để giá 4 sao 10 triệu sau đó ghi giảm giá và cho khách ở khu nhà cũ như nhà nghỉ",
+                "score": 2.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "7 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "I don't like it - a little bit dirty",
+                "comment_negative": "I don't like it - a little bit dirty - small - towers are not clean enough"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Phù hợp đi công tác",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duyphong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Nhật Bản"
+            },
+            "review": {
+                "date": "4/04/2024",
+                "rating": "Thất vọng",
+                "score": 4.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Hình ảnh thì của khách sạn, nhưng nhận phòng thì là nhà nghỉ phía sau"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuyết",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gjd4KihxqyfSaPHRnt81Vk7Q8ALvwVx1yxB5HZ_HA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "khách sạn mới xây dựng, sạch sẽ, thái độ nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyet",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí",
+                "comment_negative": "Không đạt tiêu chuẩn 4*"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ninh",
+                "avatar": "https://graph.facebook.com/v2.9/1336048719877239/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng sạch, ở đường chính đi qua TP Thanh Hoá. Nhân viên nhiệt tình, có chỗ đỗ ô tô của khách sạn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Văn",
+                "avatar": "https://lh3.googleusercontent.com/-dwB1FKl3gsY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHNOO5JN8NRfT-f5tnR9svAw0ocg/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/08/2023",
+                "rating": "Hy vọng ở tiếp",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Được",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/03/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, đầy đủ tiện nghi, kèm bữa sáng",
+                "comment_negative": "Phòng thực tế không giống trong ảnh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIzO5dVyz1gnmOI0HlAkC-zDf-uhgimwQTzk6RRk2v7JA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Dịch vụ tốt",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxalmacDPIGXZNHBR9VKHnnFbjNETzqP2bdPkrwC=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Oke",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ, oke",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phong",
+                "avatar": "https://graph.facebook.com/v2.9/2393772360758559/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Không phải KS 4 sao. Mặc dù để giá 4 sao 10 triệu sau đó ghi giảm giá và cho khách ở khu nhà cũ như nhà nghỉ",
+                "score": 2.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "7 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "I don't like it - a little bit dirty",
+                "comment_negative": "I don't like it - a little bit dirty - small - towers are not clean enough"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Phù hợp đi công tác",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duyphong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Nhật Bản"
+            },
+            "review": {
+                "date": "4/04/2024",
+                "rating": "Thất vọng",
+                "score": 4.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Hình ảnh thì của khách sạn, nhưng nhận phòng thì là nhà nghỉ phía sau"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuyết",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gjd4KihxqyfSaPHRnt81Vk7Q8ALvwVx1yxB5HZ_HA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "khách sạn mới xây dựng, sạch sẽ, thái độ nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyet",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí",
+                "comment_negative": "Không đạt tiêu chuẩn 4*"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ninh",
+                "avatar": "https://graph.facebook.com/v2.9/1336048719877239/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng sạch, ở đường chính đi qua TP Thanh Hoá. Nhân viên nhiệt tình, có chỗ đỗ ô tô của khách sạn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Văn",
+                "avatar": "https://lh3.googleusercontent.com/-dwB1FKl3gsY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHNOO5JN8NRfT-f5tnR9svAw0ocg/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/08/2023",
+                "rating": "Hy vọng ở tiếp",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Được",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/03/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, đầy đủ tiện nghi, kèm bữa sáng",
+                "comment_negative": "Phòng thực tế không giống trong ảnh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIzO5dVyz1gnmOI0HlAkC-zDf-uhgimwQTzk6RRk2v7JA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Dịch vụ tốt",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxalmacDPIGXZNHBR9VKHnnFbjNETzqP2bdPkrwC=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Oke",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ, oke",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phong",
+                "avatar": "https://graph.facebook.com/v2.9/2393772360758559/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Không phải KS 4 sao. Mặc dù để giá 4 sao 10 triệu sau đó ghi giảm giá và cho khách ở khu nhà cũ như nhà nghỉ",
+                "score": 2.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "7 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "I don't like it - a little bit dirty",
+                "comment_negative": "I don't like it - a little bit dirty - small - towers are not clean enough"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Phù hợp đi công tác",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duyphong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Nhật Bản"
+            },
+            "review": {
+                "date": "4/04/2024",
+                "rating": "Thất vọng",
+                "score": 4.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Hình ảnh thì của khách sạn, nhưng nhận phòng thì là nhà nghỉ phía sau"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuyết",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gjd4KihxqyfSaPHRnt81Vk7Q8ALvwVx1yxB5HZ_HA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "khách sạn mới xây dựng, sạch sẽ, thái độ nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyet",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí",
+                "comment_negative": "Không đạt tiêu chuẩn 4*"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ninh",
+                "avatar": "https://graph.facebook.com/v2.9/1336048719877239/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng sạch, ở đường chính đi qua TP Thanh Hoá. Nhân viên nhiệt tình, có chỗ đỗ ô tô của khách sạn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Văn",
+                "avatar": "https://lh3.googleusercontent.com/-dwB1FKl3gsY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHNOO5JN8NRfT-f5tnR9svAw0ocg/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/08/2023",
+                "rating": "Hy vọng ở tiếp",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Được",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/03/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, đầy đủ tiện nghi, kèm bữa sáng",
+                "comment_negative": "Phòng thực tế không giống trong ảnh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIzO5dVyz1gnmOI0HlAkC-zDf-uhgimwQTzk6RRk2v7JA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Dịch vụ tốt",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxalmacDPIGXZNHBR9VKHnnFbjNETzqP2bdPkrwC=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Oke",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ, oke",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phong",
+                "avatar": "https://graph.facebook.com/v2.9/2393772360758559/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Không phải KS 4 sao. Mặc dù để giá 4 sao 10 triệu sau đó ghi giảm giá và cho khách ở khu nhà cũ như nhà nghỉ",
+                "score": 2.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "7 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "I don't like it - a little bit dirty",
+                "comment_negative": "I don't like it - a little bit dirty - small - towers are not clean enough"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Phù hợp đi công tác",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duyphong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Nhật Bản"
+            },
+            "review": {
+                "date": "4/04/2024",
+                "rating": "Thất vọng",
+                "score": 4.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Hình ảnh thì của khách sạn, nhưng nhận phòng thì là nhà nghỉ phía sau"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuyết",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gjd4KihxqyfSaPHRnt81Vk7Q8ALvwVx1yxB5HZ_HA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "khách sạn mới xây dựng, sạch sẽ, thái độ nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quyet",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "31/03/2024",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí",
+                "comment_negative": "Không đạt tiêu chuẩn 4*"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ninh",
+                "avatar": "https://graph.facebook.com/v2.9/1336048719877239/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng sạch, ở đường chính đi qua TP Thanh Hoá. Nhân viên nhiệt tình, có chỗ đỗ ô tô của khách sạn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Văn",
+                "avatar": "https://lh3.googleusercontent.com/-dwB1FKl3gsY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclHNOO5JN8NRfT-f5tnR9svAw0ocg/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/08/2023",
+                "rating": "Hy vọng ở tiếp",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Được",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoàng",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/03/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, đầy đủ tiện nghi, kèm bữa sáng",
+                "comment_negative": "Phòng thực tế không giống trong ảnh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIzO5dVyz1gnmOI0HlAkC-zDf-uhgimwQTzk6RRk2v7JA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Rất hài lòng",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Dịch vụ tốt",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/AGNmyxalmacDPIGXZNHBR9VKHnnFbjNETzqP2bdPkrwC=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Oke",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ, oke",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phong",
+                "avatar": "https://graph.facebook.com/v2.9/2393772360758559/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Không phải KS 4 sao. Mặc dù để giá 4 sao 10 triệu sau đó ghi giảm giá và cho khách ở khu nhà cũ như nhà nghỉ",
+                "score": 2.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "7 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "I don't like it - a little bit dirty",
+                "comment_negative": "I don't like it - a little bit dirty - small - towers are not clean enough"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Doanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Phù hợp đi công tác",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duyphong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Nhật Bản"
+            },
+            "review": {
+                "date": "4/04/2024",
+                "rating": "Thất vọng",
+                "score": 4.0,
+                "room_type": "Phòng 4 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": "Hình ảnh thì của khách sạn, nhưng nhận phòng thì là nhà nghỉ phía sau"
+            }
+        }
+    ]
+}

@@ -1,0 +1,698 @@
+{
+    "name": "Amacon Hotel & Coffee",
+    "address": "101 Đường Lý Thái Tổ 101, Buôn Kô Sir, Việt Nam",
+    "description": "Tọa lạc ở Buôn Kô Sir, cách Trung tâm thương mại Vincom Plaza Buôn Ma Thuột 3 km, Amacon Hotel & Coffee có khu vườn và nhìn rahồ. Ngoài hồ bơi ngoài trời, khách sạn 3 sao này còn có các phòng với điều hòa được trang bị Wi-Fi miễn phí, trong đó mỗi phòng đều có phòng tắm riêng. Chỗ nghỉ này cung cấp dịch vụ phòng, quầy lễ tân 24 giờ và phòng giữ hành lý cho khách.\n\nTại khách sạn, tất cả các phòng có sân trong. Phòng nào cũng có két an toàn, trong đó một số phòng có ban công.\n\nSân bay gần nhất là Sân bay Buôn Ma Thuột, cách Amacon Hotel & Coffee 6 km.",
+    "rating": "8.5",
+    "total_rating": "33",
+    "evaluation_categories": {
+        "service_staff": 9.0,
+        "amenities": 8.3,
+        "cleanliness": 8.7,
+        "comfort": 8.9,
+        "value_for_money": 8.2,
+        "location": 8.7,
+        "free_wifi": 5.0
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Thiết kế độc đáo. Tiện nghi thoái mái. Trải nghiệm mới lạ.",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiết kế độc đáo. Phòng là nhà tường gạch bình thường, không phải container cải tạo nên rộng rãi thoải mái. Bên ngoài phòng được trang trí ốp vỏ nhìn như container nên nhìn khá lạ mắt, phù hợp với bạn trẻ. Tiện nghi đầy đủ, sạch sẽ. Phù hợp với giá tiền.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Man",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tạm ổn",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phong cách bày trí",
+                "comment_negative": "Đường vào rất hẹp và chua có chỗ đạu xe rộng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Vị trí oke, lễ tân thân thiện",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhà khá lạ kiểu contenter bên ngoài\nDịch vụ thuê xe nhanh\nLễ tân thân thiện dễ thương",
+                "comment_negative": "Chưa màu sắc lắm\nHơi ồn với nên có vẻ không chắc"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Oanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-o.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 12/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Amacon tiếp đón khách rất tốt. gia đình tôi đã có một kỳ nghĩ tuyệt vời tại đây. Tôi rất hài lòng.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/012/2023",
+                "rating": "Thích không khí tp BMT, khách sạn đẹp và ấn tượng.",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Kết hợp quán cà phê ấn tượng, quán ăn dịch vụ gần ks đầy đủ và ok.",
+                "comment_negative": "Phòng vệ sinh có mùi, thiếu quạt hút gió."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/010/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "thích",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "My",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/09/2023",
+                "rating": "Mình đã có một kỳ nghỉ tuyệt vời ở đây!",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiết kế khách sạn rất độc đáo, tất cả các phòng đều có view đẹp. Phòng nhỏ nhưng rất tiện nghi, cảm giác cực kì thư giãn.\nCó bể bơi nhỏ trên tầng 3 xinh xinh. \nQuán cà phê ở ngay ngoài cổng nên rất tiện.",
+                "comment_negative": "Cửa phòng tắm nặng và khó mở quá, mình hy vọng khách sạn có thể chỉnh lại cửa cho dể mở hơn. \nXung quanh không có những hàng quán ngon, muốn đi ăn ngon thì phải có xe đi vào trung tâm."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gg1cKsME5LnBzZ1NqxANO7ONoq6EpTJLeh2NEol=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/08/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "Cần có tủ lạnh và tv (nếu được)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Loc",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/281013581.jpg?k=2a5e9cffd0b7d2cd0af38de2639afcd6d0450c5986e6538864f4612715de77f1&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/06/2023",
+                "rating": "Trải nghiệm tốt!",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiết kế độc đáo, cả nhà hàng và khách sạn mà ít nơi có, không gian đẹp, yên bình.",
+                "comment_negative": "Bể bơi nhỏ theo kích thước của 1 thùng contentner, 1 người bơi 1. Diện tích phòng nhỏ, hơi ồn từ các phòng khác và khu vực xung quanh có nhạc mở to. NV khá chuyên nghiệp tuy nhiên cũng cần cải thiện nhiều nếu muốn tốt lên."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/06/2023",
+                "rating": "Dịch vụ đáng giá với chi phí. Hài lòng với Amacon.",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Lễ tân và buồng phòng thân thiện, dễ thương. \nPhòng đc dọn dẹp mỗi ngày. \nKhông gian bên ngoài đẹp, thoáng mát. \nCó bán đồ ăn, cf rất tiện cho khách k phải ra ngoài.",
+                "comment_negative": "Lối vào quá nhỏ cho xe ô tô ra vào.\nLúc mới đến, chưa biết chỗ đậu và ko rành đường, thì bạn giữ xe ko nhiệt tình chỉ dẫn lắm. Lúc sau có xách đồ lên phòng giúp tụi mình.\nHồ bơi nhỏ, đáy nhiều cặn, ko có bờ xung quanh để ngồi, trẻ em ko sử dụng đc.\nKế bên là quán gì đó mở nhạc xập xình rất ồn."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Thiết kế độc đáo. Tiện nghi thoái mái. Trải nghiệm mới lạ.",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiết kế độc đáo. Phòng là nhà tường gạch bình thường, không phải container cải tạo nên rộng rãi thoải mái. Bên ngoài phòng được trang trí ốp vỏ nhìn như container nên nhìn khá lạ mắt, phù hợp với bạn trẻ. Tiện nghi đầy đủ, sạch sẽ. Phù hợp với giá tiền.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Man",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tạm ổn",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phong cách bày trí",
+                "comment_negative": "Đường vào rất hẹp và chua có chỗ đạu xe rộng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Vị trí oke, lễ tân thân thiện",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhà khá lạ kiểu contenter bên ngoài\nDịch vụ thuê xe nhanh\nLễ tân thân thiện dễ thương",
+                "comment_negative": "Chưa màu sắc lắm\nHơi ồn với nên có vẻ không chắc"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Oanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-o.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 12/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Amacon tiếp đón khách rất tốt. gia đình tôi đã có một kỳ nghĩ tuyệt vời tại đây. Tôi rất hài lòng.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/012/2023",
+                "rating": "Thích không khí tp BMT, khách sạn đẹp và ấn tượng.",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Kết hợp quán cà phê ấn tượng, quán ăn dịch vụ gần ks đầy đủ và ok.",
+                "comment_negative": "Phòng vệ sinh có mùi, thiếu quạt hút gió."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/010/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "thích",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "My",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/09/2023",
+                "rating": "Mình đã có một kỳ nghỉ tuyệt vời ở đây!",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiết kế khách sạn rất độc đáo, tất cả các phòng đều có view đẹp. Phòng nhỏ nhưng rất tiện nghi, cảm giác cực kì thư giãn.\nCó bể bơi nhỏ trên tầng 3 xinh xinh. \nQuán cà phê ở ngay ngoài cổng nên rất tiện.",
+                "comment_negative": "Cửa phòng tắm nặng và khó mở quá, mình hy vọng khách sạn có thể chỉnh lại cửa cho dể mở hơn. \nXung quanh không có những hàng quán ngon, muốn đi ăn ngon thì phải có xe đi vào trung tâm."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gg1cKsME5LnBzZ1NqxANO7ONoq6EpTJLeh2NEol=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/08/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "Cần có tủ lạnh và tv (nếu được)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Loc",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/281013581.jpg?k=2a5e9cffd0b7d2cd0af38de2639afcd6d0450c5986e6538864f4612715de77f1&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/06/2023",
+                "rating": "Trải nghiệm tốt!",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiết kế độc đáo, cả nhà hàng và khách sạn mà ít nơi có, không gian đẹp, yên bình.",
+                "comment_negative": "Bể bơi nhỏ theo kích thước của 1 thùng contentner, 1 người bơi 1. Diện tích phòng nhỏ, hơi ồn từ các phòng khác và khu vực xung quanh có nhạc mở to. NV khá chuyên nghiệp tuy nhiên cũng cần cải thiện nhiều nếu muốn tốt lên."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/06/2023",
+                "rating": "Dịch vụ đáng giá với chi phí. Hài lòng với Amacon.",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Lễ tân và buồng phòng thân thiện, dễ thương. \nPhòng đc dọn dẹp mỗi ngày. \nKhông gian bên ngoài đẹp, thoáng mát. \nCó bán đồ ăn, cf rất tiện cho khách k phải ra ngoài.",
+                "comment_negative": "Lối vào quá nhỏ cho xe ô tô ra vào.\nLúc mới đến, chưa biết chỗ đậu và ko rành đường, thì bạn giữ xe ko nhiệt tình chỉ dẫn lắm. Lúc sau có xách đồ lên phòng giúp tụi mình.\nHồ bơi nhỏ, đáy nhiều cặn, ko có bờ xung quanh để ngồi, trẻ em ko sử dụng đc.\nKế bên là quán gì đó mở nhạc xập xình rất ồn."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Thiết kế độc đáo. Tiện nghi thoái mái. Trải nghiệm mới lạ.",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiết kế độc đáo. Phòng là nhà tường gạch bình thường, không phải container cải tạo nên rộng rãi thoải mái. Bên ngoài phòng được trang trí ốp vỏ nhìn như container nên nhìn khá lạ mắt, phù hợp với bạn trẻ. Tiện nghi đầy đủ, sạch sẽ. Phù hợp với giá tiền.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Man",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tạm ổn",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phong cách bày trí",
+                "comment_negative": "Đường vào rất hẹp và chua có chỗ đạu xe rộng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Vị trí oke, lễ tân thân thiện",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhà khá lạ kiểu contenter bên ngoài\nDịch vụ thuê xe nhanh\nLễ tân thân thiện dễ thương",
+                "comment_negative": "Chưa màu sắc lắm\nHơi ồn với nên có vẻ không chắc"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Oanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-o.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 12/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Amacon tiếp đón khách rất tốt. gia đình tôi đã có một kỳ nghĩ tuyệt vời tại đây. Tôi rất hài lòng.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/012/2023",
+                "rating": "Thích không khí tp BMT, khách sạn đẹp và ấn tượng.",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Kết hợp quán cà phê ấn tượng, quán ăn dịch vụ gần ks đầy đủ và ok.",
+                "comment_negative": "Phòng vệ sinh có mùi, thiếu quạt hút gió."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/010/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "thích",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "My",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/09/2023",
+                "rating": "Mình đã có một kỳ nghỉ tuyệt vời ở đây!",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiết kế khách sạn rất độc đáo, tất cả các phòng đều có view đẹp. Phòng nhỏ nhưng rất tiện nghi, cảm giác cực kì thư giãn.\nCó bể bơi nhỏ trên tầng 3 xinh xinh. \nQuán cà phê ở ngay ngoài cổng nên rất tiện.",
+                "comment_negative": "Cửa phòng tắm nặng và khó mở quá, mình hy vọng khách sạn có thể chỉnh lại cửa cho dể mở hơn. \nXung quanh không có những hàng quán ngon, muốn đi ăn ngon thì phải có xe đi vào trung tâm."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gg1cKsME5LnBzZ1NqxANO7ONoq6EpTJLeh2NEol=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/08/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "Cần có tủ lạnh và tv (nếu được)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Loc",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/281013581.jpg?k=2a5e9cffd0b7d2cd0af38de2639afcd6d0450c5986e6538864f4612715de77f1&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/06/2023",
+                "rating": "Trải nghiệm tốt!",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiết kế độc đáo, cả nhà hàng và khách sạn mà ít nơi có, không gian đẹp, yên bình.",
+                "comment_negative": "Bể bơi nhỏ theo kích thước của 1 thùng contentner, 1 người bơi 1. Diện tích phòng nhỏ, hơi ồn từ các phòng khác và khu vực xung quanh có nhạc mở to. NV khá chuyên nghiệp tuy nhiên cũng cần cải thiện nhiều nếu muốn tốt lên."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/06/2023",
+                "rating": "Dịch vụ đáng giá với chi phí. Hài lòng với Amacon.",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Lễ tân và buồng phòng thân thiện, dễ thương. \nPhòng đc dọn dẹp mỗi ngày. \nKhông gian bên ngoài đẹp, thoáng mát. \nCó bán đồ ăn, cf rất tiện cho khách k phải ra ngoài.",
+                "comment_negative": "Lối vào quá nhỏ cho xe ô tô ra vào.\nLúc mới đến, chưa biết chỗ đậu và ko rành đường, thì bạn giữ xe ko nhiệt tình chỉ dẫn lắm. Lúc sau có xách đồ lên phòng giúp tụi mình.\nHồ bơi nhỏ, đáy nhiều cặn, ko có bờ xung quanh để ngồi, trẻ em ko sử dụng đc.\nKế bên là quán gì đó mở nhạc xập xình rất ồn."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Thiết kế độc đáo. Tiện nghi thoái mái. Trải nghiệm mới lạ.",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiết kế độc đáo. Phòng là nhà tường gạch bình thường, không phải container cải tạo nên rộng rãi thoải mái. Bên ngoài phòng được trang trí ốp vỏ nhìn như container nên nhìn khá lạ mắt, phù hợp với bạn trẻ. Tiện nghi đầy đủ, sạch sẽ. Phù hợp với giá tiền.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Man",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tạm ổn",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phong cách bày trí",
+                "comment_negative": "Đường vào rất hẹp và chua có chỗ đạu xe rộng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "Vị trí oke, lễ tân thân thiện",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhà khá lạ kiểu contenter bên ngoài\nDịch vụ thuê xe nhanh\nLễ tân thân thiện dễ thương",
+                "comment_negative": "Chưa màu sắc lắm\nHơi ồn với nên có vẻ không chắc"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Oanh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-o.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 12/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Amacon tiếp đón khách rất tốt. gia đình tôi đã có một kỳ nghĩ tuyệt vời tại đây. Tôi rất hài lòng.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/012/2023",
+                "rating": "Thích không khí tp BMT, khách sạn đẹp và ấn tượng.",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Kết hợp quán cà phê ấn tượng, quán ăn dịch vụ gần ks đầy đủ và ok.",
+                "comment_negative": "Phòng vệ sinh có mùi, thiếu quạt hút gió."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chi",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/010/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "thích",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "My",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/09/2023",
+                "rating": "Mình đã có một kỳ nghỉ tuyệt vời ở đây!",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiết kế khách sạn rất độc đáo, tất cả các phòng đều có view đẹp. Phòng nhỏ nhưng rất tiện nghi, cảm giác cực kì thư giãn.\nCó bể bơi nhỏ trên tầng 3 xinh xinh. \nQuán cà phê ở ngay ngoài cổng nên rất tiện.",
+                "comment_negative": "Cửa phòng tắm nặng và khó mở quá, mình hy vọng khách sạn có thể chỉnh lại cửa cho dể mở hơn. \nXung quanh không có những hàng quán ngon, muốn đi ăn ngon thì phải có xe đi vào trung tâm."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gg1cKsME5LnBzZ1NqxANO7ONoq6EpTJLeh2NEol=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/08/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "Cần có tủ lạnh và tv (nếu được)"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Loc",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/281013581.jpg?k=2a5e9cffd0b7d2cd0af38de2639afcd6d0450c5986e6538864f4612715de77f1&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/06/2023",
+                "rating": "Trải nghiệm tốt!",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Thiết kế độc đáo, cả nhà hàng và khách sạn mà ít nơi có, không gian đẹp, yên bình.",
+                "comment_negative": "Bể bơi nhỏ theo kích thước của 1 thùng contentner, 1 người bơi 1. Diện tích phòng nhỏ, hơi ồn từ các phòng khác và khu vực xung quanh có nhạc mở to. NV khá chuyên nghiệp tuy nhiên cũng cần cải thiện nhiều nếu muốn tốt lên."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/06/2023",
+                "rating": "Dịch vụ đáng giá với chi phí. Hài lòng với Amacon.",
+                "score": 8.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Lễ tân và buồng phòng thân thiện, dễ thương. \nPhòng đc dọn dẹp mỗi ngày. \nKhông gian bên ngoài đẹp, thoáng mát. \nCó bán đồ ăn, cf rất tiện cho khách k phải ra ngoài.",
+                "comment_negative": "Lối vào quá nhỏ cho xe ô tô ra vào.\nLúc mới đến, chưa biết chỗ đậu và ko rành đường, thì bạn giữ xe ko nhiệt tình chỉ dẫn lắm. Lúc sau có xách đồ lên phòng giúp tụi mình.\nHồ bơi nhỏ, đáy nhiều cặn, ko có bờ xung quanh để ngồi, trẻ em ko sử dụng đc.\nKế bên là quán gì đó mở nhạc xập xình rất ồn."
+            }
+        }
+    ]
+}

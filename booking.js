@@ -57,7 +57,7 @@ async function readCitiesAndSaveToMongoDB(directoryPath) {
 	);
 }
 
-const directoryPath = './data/booking'; // Replace with your actual directory path
+const directoryPath = './data/test'; // Replace with your actual directory path
 readCitiesAndSaveToMongoDB(directoryPath)
 	.then(() => console.log('City and Hotel save completed.'))
 	.catch(console.error)

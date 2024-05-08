@@ -1,0 +1,171 @@
+{
+    "name": "Happy 2 Hotel Bình Dương",
+    "address": "79 Đường NK9, Khu DC Ấp 2, Bến Cát 4, Bến Cát, Việt Nam",
+    "description": "Nằm cách Trung tâm mua sắm AEON MALL Bình Dương Canary 24 km và Địa đạo Củ Chi 31 km, Happy 2 Hotel Bình Dương cung cấp các phòng ở Bến Cát. Khách sạn 2 sao này cung cấp bếp chung, quầy lễ tân 24 giờ và Wi-Fi miễn phí. Khách sạn có phòng gia đình.\n\nTất cả các phòng đi kèm điều hòa, tủ lạnh, minibar, ấm đun nước, vòi xịt/chậu rửa vệ sinh, đồ vệ sinh cá nhân miễn phí và bàn làm việc. Các phòng đều có phòng tắm riêng với vòi sen, máy sấy tóc và dép đi trong phòng. Tại khách sạn, tất cả các phòng đều được thiết kế có ga trải giường và khăn tắm.\n\nHappy 2 Hotel Bình Dương cách Trung tâm thương mại Vincom Thủ Đức 34 km và Công viên văn hóa Suối Tiên 37 km. Sân bay gần nhất là Sân bay Quốc tế Tân Sơn Nhất, cách chỗ nghỉ 37 km.",
+    "rating": "8.7",
+    "total_rating": "9",
+    "evaluation_categories": {
+        "service_staff": 8.4,
+        "amenities": 8.4,
+        "cleanliness": 8.4,
+        "comfort": 8.8,
+        "value_for_money": 8.4,
+        "location": 9.1,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Tú",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ đầy đủ tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ánh",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtfA894FScsRQ26RYGJrl3yJIQs82-k-IlgB0oeFO8s=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "phòng thoáng mát, sach sẽ, tiện nghi, nhân viên nhiệt tình giúp đỡ và rất thân thiện.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Duyen",
+                "avatar": "https://graph.facebook.com/v2.9/1852198274966623/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/012/2023",
+                "rating": "Sạch",
+                "score": 7.0,
+                "room_type": "Phòng Gia Đình",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Sạch\nGiá ok",
+                "comment_negative": "Nhân viên chưa thân thiện"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuy",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIKuIYi-51vp3Im9RGFhgURM2voCK-DcGlErixWWdJW=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thơ",
+                "avatar": "https://graph.facebook.com/v2.9/3516937845293236/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tín",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTteEPjnd_Zu5jfpw7HEohTWRutmbcMMAEoDCWy2mrlGEQ3o=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Hồng Kông"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Không tên",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/010/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

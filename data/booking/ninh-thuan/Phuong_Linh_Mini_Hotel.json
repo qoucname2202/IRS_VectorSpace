@@ -1,0 +1,154 @@
+{
+    "name": "Phuong Linh Mini Hotel",
+    "address": "TM 36-18, Nguyễn Ngọc Lân, phường Mỹ Bình, TP. Phan Rang - Tháp Chàm, Ninh Thuận, Phan Rang, Việt Nam",
+    "description": "Với phòng chờ chung, sân hiên và nhìn rathành phố, Phuong Linh Mini Hotel tọa lạc ở Phan Rang, cách Bãi biển Phan Rang 3 km. Chỗ nghỉ cung cấp lễ tân 24/24, dịch vụ đưa đón sân bay, bếp chung và Wi-Fi miễn phí ở toàn bộ chỗ nghỉ.\n\nTại khách sạn, tất cả các phòng đều có bàn làm việc. Tất cả các phòng đều có phòng tắm riêng và điều hòa, trong đó một số phòng có ban công. Tất cả các căn có tủ quần áo.\n\nSân bay gần nhất là Sân bay Liên Khương, cách Phuong Linh Mini Hotel 113 km.",
+    "rating": "8.6",
+    "total_rating": "8",
+    "evaluation_categories": {
+        "service_staff": 9.7,
+        "amenities": 8.6,
+        "cleanliness": 9.6,
+        "comfort": 8.6,
+        "value_for_money": 8.2,
+        "location": 8.6,
+        "free_wifi": 7.5
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Eva",
+                "avatar": null,
+                "country": "Đức"
+            },
+            "review": {
+                "date": "3/02/2023",
+                "rating": "Thất vọng",
+                "score": 4.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "2 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Eine Rezeptionistin war sehr zuvorkommend, hilfsbereit und konnte gut Englisch. Sie hat uns geholfen einen Ausflug zu planen. Die Ausstattung im Badezimmer war sehr modern und sauber.",
+                "comment_negative": "Unser Zimmer hatte ein Fenster, jedoch war dieses zum Gang gelegen, wodurch es wenig gebracht hat. Insgesamt war es sehr hellhörig. Die Betten waren sehr hart. Das Zimmer (besonders der Kleiderschrank) hat komisch gerochen. Es gab ein paar Kabel, die aus der Wand gehangen haben. Es ist sehr eng im Hotel, besonders die Gänge, wodurch es schwierig wird mit dem Koffer durchzukommen. Der Name ist dabei Programm: Es ist Mini. Es gibt keine Minibar."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "ban công",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ny",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "20/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vu",
+                "avatar": "https://lh3.googleusercontent.com/a/AATXAJx76TaEwqkoWR7to8xTd2cv8GFTpLVt3Tws-AsV=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nam",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/03/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viet",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/01/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mateusz",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Ba Lan"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Với Ban Công",
+                "stay_duration": "5 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Astronomo",
+                "avatar": "https://lh3.googleusercontent.com/a/AItbvmmcqsusg4-9U0_CeosFqcfx0asj31n1yajQ-DT2=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/02/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

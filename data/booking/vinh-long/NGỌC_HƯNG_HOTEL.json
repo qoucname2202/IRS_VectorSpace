@@ -1,0 +1,868 @@
+{
+    "name": "NGỌC HƯNG HOTEL",
+    "address": "Võ Văn Kiệt 62/9, Vo Van Kiet, Phường 2, Vĩnh Long, Việt Nam",
+    "description": "Tọa lạc ở Vĩnh Long, cách Trung tâm thương mại Vincom Xuân Khánh 38 km, NGỌC HƯNG HOTEL cung cấp chỗ nghỉ có khu vườn, chỗ đậu xe riêng miễn phí và phòng chờ chung. Ngoài Wi-Fi miễn phí, khách sạn 1 sao này còn cung cấp dịch vụ phòng và quầy lễ tân 24 giờ. Chỗ nghỉ này cung cấp dịch vụ tiền sảnh, bàn bán tour và dịch vụ thu đổi ngoại tệ cho khách.\n\nTại khách sạn, tất cả các phòng có sân hiên. Tất cả các phòng đều được thiết kế có TV màn hình phẳng, ngoài ra một số căn tại NGỌC HƯNG HOTEL có ban công.\n\nChỗ nghỉ cách Bến Ninh Kiều 39 km và Vincom Plaza Hùng Vương 40 km. Sân bay gần nhất là Sân bay Quốc tế Cần Thơ, cách NGỌC HƯNG HOTEL 48 km.",
+    "rating": "8.4",
+    "total_rating": "43",
+    "evaluation_categories": {
+        "service_staff": 8.8,
+        "amenities": 8.5,
+        "cleanliness": 8.2,
+        "comfort": 8.6,
+        "value_for_money": 8.3,
+        "location": 8.4,
+        "free_wifi": 9.6
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Trương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/01/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 1/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Bãi đậu xe rộng rãi , phòng ốc sạch sẽ thoáng mát , các bạn lễ tân phục vụ nhiệt tình chu đáo .",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "2 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian rộng rãi, thoáng mát",
+                "comment_negative": "Dọn phòng chưa được sạch sẽ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Manh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "2 đêm · Tháng 2/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm thuận tiện ra trung tâm",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2022",
+                "rating": "rất vui vẻ, thoải mái",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 11/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "có không gian trang trí đẹp, chỗ đỗ xe rộng, phòng nghỉ sạch sẽ gọn gàng, rất thuận tiện và gần để đi qua các điểm du lịch, nhân viên nhiệt tình, cà phê rất ngon",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhà nghỉ thoáng mát, đẹp, nhân viên dễ thương nhiệt tình, bãi đậu xe rộng, nhiều dịch vụ tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có dịch vụ caphe miễn phí, dịch vụ chăm sóc tốt, bãi đậu xe rộng rãi thoáng mát, sẽ ghé lại lần sau và giới thiệu bạn bè",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Có dịch vụ giặt ủi, cf, mì gói, phục vụ tận tình, sân rộng rãi đậu xe 16 chỗ, gần trung tâm vui chơi giải trí",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lâm",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch đẹp \nNhân viên chu đáo nhiệt tình\nCó view nhìn ra sân vườn rất thoáng mát\nBãi đậu xe rộng \nSẽ quay lại vào dịp công tác tiếp theo.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Bãi xe rộng, phòng lớn sạch mát, có sân vườn, đi với gia đình tiện nghi, có quán cf, có đường đi rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngan",
+                "avatar": "https://graph.facebook.com/v2.9/3131889253766230/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/03/2022",
+                "rating": "Thích lắm nha",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm, có chỗ đậu xe rộng rãi, đi theo đoàn thì phòng vô tư, đi chơi gia đình thoải mái, phòng rộng mà sạch, nhân viên lễ tân buồng phòng nhiệt tình lịch sự",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/01/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 1/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Bãi đậu xe rộng rãi , phòng ốc sạch sẽ thoáng mát , các bạn lễ tân phục vụ nhiệt tình chu đáo .",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "2 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian rộng rãi, thoáng mát",
+                "comment_negative": "Dọn phòng chưa được sạch sẽ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Manh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "2 đêm · Tháng 2/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm thuận tiện ra trung tâm",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2022",
+                "rating": "rất vui vẻ, thoải mái",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 11/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "có không gian trang trí đẹp, chỗ đỗ xe rộng, phòng nghỉ sạch sẽ gọn gàng, rất thuận tiện và gần để đi qua các điểm du lịch, nhân viên nhiệt tình, cà phê rất ngon",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhà nghỉ thoáng mát, đẹp, nhân viên dễ thương nhiệt tình, bãi đậu xe rộng, nhiều dịch vụ tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có dịch vụ caphe miễn phí, dịch vụ chăm sóc tốt, bãi đậu xe rộng rãi thoáng mát, sẽ ghé lại lần sau và giới thiệu bạn bè",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Có dịch vụ giặt ủi, cf, mì gói, phục vụ tận tình, sân rộng rãi đậu xe 16 chỗ, gần trung tâm vui chơi giải trí",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lâm",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch đẹp \nNhân viên chu đáo nhiệt tình\nCó view nhìn ra sân vườn rất thoáng mát\nBãi đậu xe rộng \nSẽ quay lại vào dịp công tác tiếp theo.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Bãi xe rộng, phòng lớn sạch mát, có sân vườn, đi với gia đình tiện nghi, có quán cf, có đường đi rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngan",
+                "avatar": "https://graph.facebook.com/v2.9/3131889253766230/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/03/2022",
+                "rating": "Thích lắm nha",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm, có chỗ đậu xe rộng rãi, đi theo đoàn thì phòng vô tư, đi chơi gia đình thoải mái, phòng rộng mà sạch, nhân viên lễ tân buồng phòng nhiệt tình lịch sự",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/01/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 1/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Bãi đậu xe rộng rãi , phòng ốc sạch sẽ thoáng mát , các bạn lễ tân phục vụ nhiệt tình chu đáo .",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "2 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian rộng rãi, thoáng mát",
+                "comment_negative": "Dọn phòng chưa được sạch sẽ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Manh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "2 đêm · Tháng 2/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm thuận tiện ra trung tâm",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2022",
+                "rating": "rất vui vẻ, thoải mái",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 11/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "có không gian trang trí đẹp, chỗ đỗ xe rộng, phòng nghỉ sạch sẽ gọn gàng, rất thuận tiện và gần để đi qua các điểm du lịch, nhân viên nhiệt tình, cà phê rất ngon",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhà nghỉ thoáng mát, đẹp, nhân viên dễ thương nhiệt tình, bãi đậu xe rộng, nhiều dịch vụ tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có dịch vụ caphe miễn phí, dịch vụ chăm sóc tốt, bãi đậu xe rộng rãi thoáng mát, sẽ ghé lại lần sau và giới thiệu bạn bè",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Có dịch vụ giặt ủi, cf, mì gói, phục vụ tận tình, sân rộng rãi đậu xe 16 chỗ, gần trung tâm vui chơi giải trí",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lâm",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch đẹp \nNhân viên chu đáo nhiệt tình\nCó view nhìn ra sân vườn rất thoáng mát\nBãi đậu xe rộng \nSẽ quay lại vào dịp công tác tiếp theo.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Bãi xe rộng, phòng lớn sạch mát, có sân vườn, đi với gia đình tiện nghi, có quán cf, có đường đi rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngan",
+                "avatar": "https://graph.facebook.com/v2.9/3131889253766230/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/03/2022",
+                "rating": "Thích lắm nha",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm, có chỗ đậu xe rộng rãi, đi theo đoàn thì phòng vô tư, đi chơi gia đình thoải mái, phòng rộng mà sạch, nhân viên lễ tân buồng phòng nhiệt tình lịch sự",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/01/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 1/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Bãi đậu xe rộng rãi , phòng ốc sạch sẽ thoáng mát , các bạn lễ tân phục vụ nhiệt tình chu đáo .",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "2 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian rộng rãi, thoáng mát",
+                "comment_negative": "Dọn phòng chưa được sạch sẽ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Manh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "2 đêm · Tháng 2/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm thuận tiện ra trung tâm",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2022",
+                "rating": "rất vui vẻ, thoải mái",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 11/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "có không gian trang trí đẹp, chỗ đỗ xe rộng, phòng nghỉ sạch sẽ gọn gàng, rất thuận tiện và gần để đi qua các điểm du lịch, nhân viên nhiệt tình, cà phê rất ngon",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhà nghỉ thoáng mát, đẹp, nhân viên dễ thương nhiệt tình, bãi đậu xe rộng, nhiều dịch vụ tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có dịch vụ caphe miễn phí, dịch vụ chăm sóc tốt, bãi đậu xe rộng rãi thoáng mát, sẽ ghé lại lần sau và giới thiệu bạn bè",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Có dịch vụ giặt ủi, cf, mì gói, phục vụ tận tình, sân rộng rãi đậu xe 16 chỗ, gần trung tâm vui chơi giải trí",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lâm",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch đẹp \nNhân viên chu đáo nhiệt tình\nCó view nhìn ra sân vườn rất thoáng mát\nBãi đậu xe rộng \nSẽ quay lại vào dịp công tác tiếp theo.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Bãi xe rộng, phòng lớn sạch mát, có sân vườn, đi với gia đình tiện nghi, có quán cf, có đường đi rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngan",
+                "avatar": "https://graph.facebook.com/v2.9/3131889253766230/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/03/2022",
+                "rating": "Thích lắm nha",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm, có chỗ đậu xe rộng rãi, đi theo đoàn thì phòng vô tư, đi chơi gia đình thoải mái, phòng rộng mà sạch, nhân viên lễ tân buồng phòng nhiệt tình lịch sự",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trương",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/01/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 1/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Bãi đậu xe rộng rãi , phòng ốc sạch sẽ thoáng mát , các bạn lễ tân phục vụ nhiệt tình chu đáo .",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/01/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "2 đêm · tháng 1/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian rộng rãi, thoáng mát",
+                "comment_negative": "Dọn phòng chưa được sạch sẽ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Manh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/02/2022",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "2 đêm · Tháng 2/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Địa điểm thuận tiện ra trung tâm",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/011/2022",
+                "rating": "rất vui vẻ, thoải mái",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 11/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "có không gian trang trí đẹp, chỗ đỗ xe rộng, phòng nghỉ sạch sẽ gọn gàng, rất thuận tiện và gần để đi qua các điểm du lịch, nhân viên nhiệt tình, cà phê rất ngon",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nhà nghỉ thoáng mát, đẹp, nhân viên dễ thương nhiệt tình, bãi đậu xe rộng, nhiều dịch vụ tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Có dịch vụ caphe miễn phí, dịch vụ chăm sóc tốt, bãi đậu xe rộng rãi thoáng mát, sẽ ghé lại lần sau và giới thiệu bạn bè",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Có dịch vụ giặt ủi, cf, mì gói, phục vụ tận tình, sân rộng rãi đậu xe 16 chỗ, gần trung tâm vui chơi giải trí",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lâm",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch đẹp \nNhân viên chu đáo nhiệt tình\nCó view nhìn ra sân vườn rất thoáng mát\nBãi đậu xe rộng \nSẽ quay lại vào dịp công tác tiếp theo.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/03/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Bãi xe rộng, phòng lớn sạch mát, có sân vườn, đi với gia đình tiện nghi, có quán cf, có đường đi rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngan",
+                "avatar": "https://graph.facebook.com/v2.9/3131889253766230/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/03/2022",
+                "rating": "Thích lắm nha",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe cho 3 Người",
+                "stay_duration": "1 đêm · tháng 3/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm, có chỗ đậu xe rộng rãi, đi theo đoàn thì phòng vô tư, đi chơi gia đình thoải mái, phòng rộng mà sạch, nhân viên lễ tân buồng phòng nhiệt tình lịch sự",
+                "comment_negative": null
+            }
+        }
+    ]
+}

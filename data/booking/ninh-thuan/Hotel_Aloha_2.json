@@ -1,0 +1,137 @@
+{
+    "name": "Hotel Aloha 2",
+    "address": "12 An Dương Vương, Ninh Hải, Việt Nam",
+    "description": "Nằm ở Ninh Hải, cách Bãi biển Ninh Chữ 2 phút đi bộ, Hotel Aloha 2 cung cấp chỗ nghỉ giáp biển, có các tiện nghi như khu vực bãi biển riêng. Ngoài sân hiên, khách sạn 2 sao này có các phòng được trang bị điều hòa và Wi-Fi miễn phí, trong đó mỗi phòng sẽ có phòng tắm riêng. Chỗ nghỉ này cung cấp dịch vụ phòng và quầy lễ tân 24 giờ cho khách.\n\nTất cả các căn ở khách sạn được trang bị TV màn hình phẳng có truyền hình vệ tinh. Các phòng được thiết kế có ấm đun nước, trong đó một số phòng có ban công và một số khác thì nhìn ra thành phố. Tại Hotel Aloha 2, tất cả các phòng có ga trải giường và khăn tắm.\n\nChỗ nghỉ cách Bãi biển Bình Sơn 1.8 km. Sân bay gần nhất là Sân bay Liên Khương, cách Hotel Aloha 2 117 km, đồng thời chỗ nghỉ có cung cấp dịch vụ đưa đón sân bay mất phí.",
+    "rating": "8.4",
+    "total_rating": "7",
+    "evaluation_categories": {
+        "service_staff": 10.0,
+        "amenities": 8.6,
+        "cleanliness": 8.9,
+        "comfort": 8.9,
+        "value_for_money": 9.3,
+        "location": 9.3,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Trân",
+                "avatar": "https://graph.facebook.com/v2.9/1343599933106575/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/012/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sạch sẽ, sát biển, giá rẻ so với các khách sạn kế bên. Lễ tân rất chu đáo, hỗ trợ tốt cho chuyến đi của tôi.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/76425427.jpg?k=2ffb6b5944d20c093a45e1c0ee729a23508f68bd3168d3103deae18c07f1456f&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/01/2024",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sạch sẽ, gần biển, cô chủ nhiệt tình",
+                "comment_negative": "phòng cách âm hơi tệ"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgHwTcY6r5t29NPqL6VkeFJAeBBcDiFS8CjgGDp5A=s96-c",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "17/03/2024",
+                "rating": "Nice 2 stars hotel close to the beach",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "4 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "50m to the beach, friendly staff",
+                "comment_negative": "No desk for clothes"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nghia",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLYYSkMud948KGW2SV7EGWuAc1QUHNtCS5U6gmZ_Wje=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/012/2023",
+                "rating": "Comfortable trip. Thank you very much.",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Clean, beautifully decorated and fully equipped.\nFriendly and cheerful reception.\nNear the beach you can go out for a walk",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Susanne",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Tàm tạm",
+                "score": 5.0,
+                "room_type": "Phòng 2 giường đơn có ban công",
+                "stay_duration": "3 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Hilfsbereites und freundliches Personal! \n1 Minute bis zum Strand",
+                "comment_negative": "Sehr hellhörig!  Hatten extra ein Zimmer mit Balkon gebucht, dieser konnte von allen genutzt werden, also keine Privatsphäre!"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trương",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKqsmfm_LA-twBTc_ItdR4Pb0vFv_pQA_T6PjnoduQGJT0=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "7/04/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kh",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi7lle_M4jWALCVavn0QUDmtOs4GlrUl7DhSHQh9Q=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "22/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

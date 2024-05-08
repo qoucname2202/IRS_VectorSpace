@@ -1,0 +1,120 @@
+{
+    "name": "Minh Khue Hotel",
+    "address": "38 Trung Nu Vuong, Vĩnh Long, Việt Nam",
+    "description": "Nằm ở Vĩnh Long, cách Trung tâm thương mại Vincom Xuân Khánh 40 km và Bến Ninh Kiều 40 km, Minh Khue Hotel cung cấp chỗ nghỉ có phòng chờ chung và Wi-Fi miễn phí ở toàn bộ chỗ nghỉ cũng như chỗ đậu xe riêng miễn phí cho khách lái xe. Khách sạn 1 sao này có quầy lễ tân 24 giờ và phòng giữ hành lý. Chỗ nghỉ này cung cấp dịch vụ đưa đón sân bay và dịch vụ cho thuê xe đạp.\n\nCác căn ở khách sạn được trang bị ấm đun nước. Các phòng được thiết kế có phòng tắm riêng với đồ vệ sinh cá nhân miễn phí, trong đó một số phòng có ban công và một số phòng khác cũng nhìn ra thành phố. Tại Minh Khue Hotel, các phòng đều có ga trải giường và khăn tắm.\n\nChỗ nghỉ có sân hiên phơi nắng.\n\nMinh Khue Hotel cách Vincom Plaza Hùng Vương 41 km và Vinh Long Museum 6 phút đi bộ. Sân bay gần nhất là Sân bay Quốc tế Cần Thơ, cách khách sạn 49 km.",
+    "rating": "9",
+    "total_rating": "6",
+    "evaluation_categories": {
+        "service_staff": 9.6,
+        "amenities": 8.8,
+        "cleanliness": 8.8,
+        "comfort": 9.6,
+        "value_for_money": 9.2,
+        "location": 9.6,
+        "free_wifi": 7.5
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Vy",
+                "avatar": "https://lh4.googleusercontent.com/-0hwEqQa94TE/AAAAAAAAAAI/AAAAAAAAAAo/LCRBIamevXA/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/011/2023",
+                "rating": "Good",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Giường cực kỳ thoải mái, phòng thoáng mát, địa điểm thuận lợi, giá hợp lý",
+                "comment_negative": "Tủ quần áo hơi cũ và bé, gương đặt đối diện giường"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jens",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "1/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Có Ban Công",
+                "stay_duration": "3 đêm · tháng 11/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Wir hatten ein sauberes Zimmer im 5. OG mit Balkon und 2 bequemen Doppelbetten. Die Besitzer waren freundlich, sprachen gut englisch und gaben uns tolle Restaurantempfehlungen. Wir konnten uns Geschirr ausleihen und haben ein sehr gutes Moped erhalten. Als das Display unseres wichtigsten Handys kaputt ging, hat uns ein Mitarbeiter sehr weiter geholfen. Dieses Hotel ist sehr zu empfehlen. Wir bedanken uns.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quỳnh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2021",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 4/2021",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khuu",
+                "avatar": null,
+                "country": "Úc"
+            },
+            "review": {
+                "date": "30/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Grant",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-g.png",
+                "country": "New Zealand"
+            },
+            "review": {
+                "date": "5/06/2021",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 6/2021",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

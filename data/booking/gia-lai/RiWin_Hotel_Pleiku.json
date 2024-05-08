@@ -1,0 +1,86 @@
+{
+    "name": "RiWin Hotel Pleiku",
+    "address": "Đồi thông Pleiku, Plei Brêng, Việt Nam",
+    "description": "Tọa lạc ở Plei Brêng, cách Pleiku Stadium 3.3 km, RiWin Hotel Pleiku cung cấp chỗ nghỉ có hồ bơi ngoài trời, chỗ đậu xe riêng miễn phí, khu vườn và nhà hàng. Chỗ nghỉ cung cấp lễ tân 24/24, dịch vụ đưa đón, dịch vụ phòng và Wi-Fi miễn phí ở toàn bộ chỗ nghỉ.\n\nTại khách sạn, tất cả các phòng đều được thiết kế có điều hòa, bàn làm việc, sân hiên với view hồ bơi, phòng tắm riêng, TV màn hình phẳng, ga trải giường và khăn tắm. Tất cả các căn đều có tủ quần áo và ấm đun nước để khách sử dụng.\n\nRiWin Hotel Pleiku có phục vụ bữa sáng thực đơn buffet mỗi sáng.\n\nChỗ nghỉ cách Bishop's House of Kontum 48 km. Sân bay gần nhất là Sân bay Pleiku, cách RiWin Hotel Pleiku 5 km.",
+    "rating": "9.3",
+    "total_rating": "4",
+    "evaluation_categories": {
+        "service_staff": 10.0,
+        "amenities": 8.8,
+        "cleanliness": 10.0,
+        "comfort": 10.0,
+        "value_for_money": 10.0,
+        "location": 8.8,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hue",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/02/2024",
+                "rating": "Sạch sẽ, tiện nghi, nhân viên thân thiện",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, tiện nghi, nhân viên thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngân",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/01/2024",
+                "rating": "Tuyệt Vời",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "chỗ ở sạch sẽ, tiện nghi, bữa ăn sáng rất ngon luôn nhen",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Cu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "1/03/2024",
+                "rating": "Nice, clean with friendly owners and staff",
+                "score": 8.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "4 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Hotel very clean and comfortable. Property well taken care of. Breakfast was good.",
+                "comment_negative": "Thought it was closer to town. Ordered a taxi each time we went anywhere."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Diegon1234",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Ý"
+            },
+            "review": {
+                "date": "15/02/2024",
+                "rating": "Great stay in a brand-new hotel just a few minutes away from the city center",
+                "score": 9.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Hồ Bơi",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "We were extremely pleased by this small brand-new hotel. The staff is very friendly and helpful. The place is spotless and a delicious local breakfast is included in the price. Located in the outskirt of Pleiku is very quite and just 5min drive from the city center",
+                "comment_negative": "The rooms are a bit small but spacious enough if the guest doesn't plan to spend much time in the hotel. There is no common area, however the staff allowed us to use the reception area at will. I suggest the owners to ask other guest to be mindful of other guests and avoid making too much noise."
+            }
+        }
+    ]
+}

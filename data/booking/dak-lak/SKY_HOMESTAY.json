@@ -1,0 +1,358 @@
+{
+    "name": "SKY HOMESTAY",
+    "address": "23 Hồ Tùng Mậu, Buôn Ma Thuột, Việt Nam",
+    "description": "Nằm ở Buôn Ma Thuột, SKY HOMESTAY cung cấp Wi-Fi miễn phí ở toàn bộ chỗ nghỉ. Đây là chỗ nghỉ không hút thuốc và tọa lạc cách Trung tâm thương mại Vincom Plaza Buôn Ma Thuột chưa đến 1 km.\n\nTại khách sạn, tất cả các phòng đều có tủ quần áo và TV màn hình phẳng. Mỗi phòng đều có phòng tắm riêng với vòi xịt/chậu rửa vệ sinh, đồ vệ sinh cá nhân miễn phí và máy sấy tóc. Các phòng tại SKY HOMESTAY có điều hòa và bàn làm việc.\n\nSân bay gần nhất là Sân bay Buôn Ma Thuột, cách chỗ nghỉ 9 km.",
+    "rating": "8.7",
+    "total_rating": "14",
+    "evaluation_categories": {
+        "service_staff": 8.8,
+        "amenities": 8.8,
+        "cleanliness": 8.8,
+        "comfort": 8.4,
+        "value_for_money": 8.9,
+        "location": 9.3,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Son",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgrSUhTNcrEnnSCuk5JS5sUSM7LTZ1BJaW-BXzv1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/011/2023",
+                "rating": "An okay stay",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "3 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nice spacious room with kitchen, washing machine, water tank and sofa. Room is clean and also near the city center.",
+                "comment_negative": "The bathroom is not enclosed on the upper wall so even if you close the door, you will get cold very easily from the air conditioner. Bathroom is also not filled with enough shampoo and shower gel, and their quality is not up to standard. Shower towels are too small, only enough to wipe your face. Kitchen is also lacking basic kitchenware such as bowls, chopsticks or spoons,..."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "4 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Đầy đủ tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": null,
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "17/011/2023",
+                "rating": "Rất ok- vị trí cực tuyệt và tiện. Anh chủ nhà thân thiện nhiệt tình",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Địa điểm rất tốt",
+                "comment_negative": "Nếu thuê xe máy thì để xe hơi hẹp nhưng ok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Takaki",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Nhật Bản"
+            },
+            "review": {
+                "date": "7/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "家電が揃っているため、長期滞在にも適している。\nオーナーが親切であった。",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jean-jacquesrichard",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mBDWufBOt0-jJNdh62fh2sk0S0n448tEJKsql4CtaY",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "20/01/2024",
+                "rating": "Ma résidence secondaire à BMT.",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "La facilité d'accès. La gentillesse de Ben et Thu qui sont des gens très polis et très amicaux. Le logement est très confortable et situé proche de nombreux commerces. La décoration est réussie et les équipements sont très bien adaptés à un séjour de plusieurs jours.",
+                "comment_negative": "Le matelas est un peu ferme mais on dit que c'est préférable pour le dos !"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tamara",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Thụy Sỹ"
+            },
+            "review": {
+                "date": "9/012/2023",
+                "rating": "Je recommande",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Le confort et l’emplacement",
+                "comment_negative": "Rien"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Frank",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-f.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "1/012/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Wir konnten früher einchecken.",
+                "comment_negative": "Bei Abreise war der Flur durch Motoräder\nblockiert."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Florence",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-f.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "31/012/2023",
+                "rating": "A éviter",
+                "score": 3.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Rien.\nJe ne suis pas restée dans cet endroit.",
+                "comment_negative": "Attention : le nom \"Sky homestay\" est trompeur.\nSitué au rez de chaussée au fond d'un étroit couloir. Il ne s'agit pas d'un studio mais c'est un cagibi ou d'un grand placard aménagé. Pas de fenêtre.\nPhotos sur Booking ne correspondent pas à l'appartement loué.\nPropreté douteuse du canapé, tapis au sol pas nets.\nLit à l'étage posé au sol, avec rambarde mal fixée.\nPropriétaire moyennement aimable."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtc2ScpndUu4OfxwqKTn-wohtVDV3my46foVqAFh-_LKRXg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Son",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgrSUhTNcrEnnSCuk5JS5sUSM7LTZ1BJaW-BXzv1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/011/2023",
+                "rating": "An okay stay",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "3 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Nice spacious room with kitchen, washing machine, water tank and sofa. Room is clean and also near the city center.",
+                "comment_negative": "The bathroom is not enclosed on the upper wall so even if you close the door, you will get cold very easily from the air conditioner. Bathroom is also not filled with enough shampoo and shower gel, and their quality is not up to standard. Shower towels are too small, only enough to wipe your face. Kitchen is also lacking basic kitchenware such as bowls, chopsticks or spoons,..."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "4 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Đầy đủ tiện nghi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": null,
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "17/011/2023",
+                "rating": "Rất ok- vị trí cực tuyệt và tiện. Anh chủ nhà thân thiện nhiệt tình",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Địa điểm rất tốt",
+                "comment_negative": "Nếu thuê xe máy thì để xe hơi hẹp nhưng ok"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Takaki",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Nhật Bản"
+            },
+            "review": {
+                "date": "7/02/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "家電が揃っているため、長期滞在にも適している。\nオーナーが親切であった。",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jean-jacquesrichard",
+                "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mBDWufBOt0-jJNdh62fh2sk0S0n448tEJKsql4CtaY",
+                "country": "Pháp"
+            },
+            "review": {
+                "date": "20/01/2024",
+                "rating": "Ma résidence secondaire à BMT.",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "La facilité d'accès. La gentillesse de Ben et Thu qui sont des gens très polis et très amicaux. Le logement est très confortable et situé proche de nombreux commerces. La décoration est réussie et les équipements sont très bien adaptés à un séjour de plusieurs jours.",
+                "comment_negative": "Le matelas est un peu ferme mais on dit que c'est préférable pour le dos !"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tamara",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Thụy Sỹ"
+            },
+            "review": {
+                "date": "9/012/2023",
+                "rating": "Je recommande",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Le confort et l’emplacement",
+                "comment_negative": "Rien"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Frank",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-f.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "1/012/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 11/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Wir konnten früher einchecken.",
+                "comment_negative": "Bei Abreise war der Flur durch Motoräder\nblockiert."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Florence",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-f.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "31/012/2023",
+                "rating": "A éviter",
+                "score": 3.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Rien.\nJe ne suis pas restée dans cet endroit.",
+                "comment_negative": "Attention : le nom \"Sky homestay\" est trompeur.\nSitué au rez de chaussée au fond d'un étroit couloir. Il ne s'agit pas d'un studio mais c'est un cagibi ou d'un grand placard aménagé. Pas de fenêtre.\nPhotos sur Booking ne correspondent pas à l'appartement loué.\nPropreté douteuse du canapé, tapis au sol pas nets.\nLit à l'étage posé au sol, avec rambarde mal fixée.\nPropriétaire moyennement aimable."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "2 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tam",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtc2ScpndUu4OfxwqKTn-wohtVDV3my46foVqAFh-_LKRXg=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "name": "Saigon Cozy2 Hotel",
+    "address": "241/12 Đường Phạm Ngũ Lão, Quận 1, TP. Hồ Chí Minh, Việt Nam",
+    "description": "Nằm tại vị trí thuận tiện ở trung tâm TP. Hồ Chí Minh, Saigon Cozy2 Hotel cung cấp bữa sáng kiểu Mỹ và Wi-Fi miễn phí ở toàn bộ chỗ nghỉ. Ngoài dịch vụ phòng, chỗ nghỉ này còn có sân hiên. Đây là chỗ nghỉ không hút thuốc và nằm cách Bảo tàng Mỹ thuật chưa đến 1 km.\n\nThành thạo tiếng Anh và tiếng Việt, đội ngũ nhân viên tại lễ tân 24/24 luôn sẵn lòng hỗ trợ khách vào bất kỳ thời điểm nào trong ngày.\n\nCác điểm tham quan nổi tiếng gần khách sạn bao gồm Chợ Bến Thành, Trung tâm mua sắm Takashimaya Việt Nam và Công viên Tao Đàn. Sân bay gần nhất là Sân bay Quốc tế Tân Sơn Nhất, cách Saigon Cozy2 Hotel 7 km.",
+    "rating": "10",
+    "total_rating": "6",
+    "evaluation_categories": {
+        "service_staff": 10.0,
+        "amenities": 10.0,
+        "cleanliness": 10.0,
+        "comfort": 10.0,
+        "value_for_money": 10.0,
+        "location": 10.0,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Loc",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Địa điểm đẹp, di chuyển thuận lợi, phòng sạch sẽ văn minh, nhân viên vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Yen",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Rất vui vẻ",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Bữa sáng ngon, địa điểm thuận tiện, dễ di chuyển",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Loc",
+                "avatar": null,
+                "country": null
+            },
+            "review": {
+                "date": "15/04/2024",
+                "rating": "Rất Thú vị",
+                "score": 10.0,
+                "room_type": "Phòng 3 Người Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Bữa sáng rất ngon",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nhat",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ, đúng như trong hình\nNhân viên thiên thiện và nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "I like breakfast here",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Peony",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Room very clean. Everything is new. Staff very nice. Breakfast is good, have many for choices. The place is quiet even the outside is noisy",
+                "comment_negative": null
+            }
+        }
+    ]
+}

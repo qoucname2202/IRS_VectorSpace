@@ -1,0 +1,868 @@
+{
+    "name": "escVACA - Your Stay in Mui Ne",
+    "address": "69/1 Nguyễn Đình Chiểu, 77157 Mũi Né, Việt Nam",
+    "description": "Nằm cách Bãi đá Ông Địa 1.8 km và Suối Tiên 6.5 km, escVACA - Your Stay in Mui Ne cung cấp các phòng ở Mũi Né. Ngoài khu vườn, khách sạn 2 sao này còn có các phòng với điều hòa được trang bị Wi-Fi miễn phí, trong đó mỗi phòng đều có phòng tắm riêng. Chỗ nghỉ này cung cấp dịch vụ phòng, quầy lễ tân 24 giờ và tổ chức các tour du lịch cho khách.\n\nTất cả các căn đi kèm TV màn hình phẳng có truyền hình vệ tinh, minibar, ấm đun nước, vòi sen, đồ vệ sinh cá nhân miễn phí và bàn làm việc. Tại khách sạn, tất cả các phòng có ga trải giường và khăn tắm.\n\nKhách có thể chơi trò phi tiêu tại escVACA - Your Stay in Mui Ne.\n\nChỗ nghỉ cách Sân Golf Sea Link 12 km và Bến xe buýt Bình Thuận 13 km. Sân bay gần nhất là Sân bay Liên Khương, cách escVACA - Your Stay in Mui Ne 140 km.",
+    "rating": "9",
+    "total_rating": "50",
+    "evaluation_categories": {
+        "service_staff": 9.6,
+        "amenities": 9.0,
+        "cleanliness": 9.6,
+        "comfort": 9.2,
+        "value_for_money": 9.0,
+        "location": 8.9,
+        "free_wifi": 8.0
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "3 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, nhân viên chu đáo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ, chị chủ thân thiện. Phòng tắm lớn, sạch sẽ",
+                "comment_negative": "Nhà vệ sinh thiết kế không gian nóng nực. Đi vệ sinh vào buổi trưa sos"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tường",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "Buổi tối hơi ồn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJI_EocjeUp4fpKjyS9YRCpBe11CFh_ywBCBiPktVXJKm8=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Superior Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng ốc sạch sẽ, có wifi, có nước nóng, có tủ lạnh mini, có bình đun nước, bồn rửa mặt, máy sấy tóc, nhà vệ sinh và nhà tắm riêng, cũng khá yên tĩnh. Nhân viên phục vụ nhiệt tình. Đối diện có quán ăn đi bộ ra cũng có nhiều quán xung quanh.",
+                "comment_negative": "Mình nghĩ giá hơi cao so với những tiện nghi được cung cấp, cái này mình so sánh dựa trên những nơi khác mình từng ở. Không có view biển."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtflZleczBzG9yuRrOTUgAIXaS1bVtagNlyWR9Heem7n-vU=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Homestay đẹp, sạch sẽ, cách âm tốt, phục vụ rất tốt, nhiệt tình, vui vẻ. Vị trí rất gần biển, tiện đi bộ ra tắm biển. Sẽ tiếp tục ủng hộ nếu có dịp đến Mũi Né du lịch lần sau",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Natalie",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Thiết kế",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgHV_5MGKlO7y9jibY4b3FSG5ljCSfUBeTBU4J5Iw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": "Cần thêm cây xanh khu vực vệ sinh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://graph.facebook.com/v2.9/1479777396/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/07/2023",
+                "rating": "Rất đáng với giá tiền bỏ ra.",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng sạch sẽ. Khu vực vệ sinh thoáng mát và rất tiện lợi. Có chỗ đỗ cho oto thuận tiện. Xung quanh có nhiều hàng ăn. \nNhân viên rất thân thiện và tận tình",
+                "comment_negative": "Hôm mình đi có mưa nên khu vực vệ sinh có chút muỗi."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTteJrcaq7pO8UVC8a966Imz8e2tst_GtYviewgLP=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/06/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ và thoáng, nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtd4Z29-7-avLPe8FEPMQbG0Jnhe3D0lBB_8evxb=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/06/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Lễ tân cực nhiệt tình, đối diện là quán ăn cũng rất ngon. Phòng ốc sạch sẽ đầy đủ tiện nghi, nhà VS sạch sẽ",
+                "comment_negative": "Tủ lạnh phát ra âm thanh lạ khiến người thuê hơi lo lắng, nhà vệ sinh đẹp và sạch nhưng hơi nóng và bí."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "3 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, nhân viên chu đáo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ, chị chủ thân thiện. Phòng tắm lớn, sạch sẽ",
+                "comment_negative": "Nhà vệ sinh thiết kế không gian nóng nực. Đi vệ sinh vào buổi trưa sos"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tường",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "Buổi tối hơi ồn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJI_EocjeUp4fpKjyS9YRCpBe11CFh_ywBCBiPktVXJKm8=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Superior Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng ốc sạch sẽ, có wifi, có nước nóng, có tủ lạnh mini, có bình đun nước, bồn rửa mặt, máy sấy tóc, nhà vệ sinh và nhà tắm riêng, cũng khá yên tĩnh. Nhân viên phục vụ nhiệt tình. Đối diện có quán ăn đi bộ ra cũng có nhiều quán xung quanh.",
+                "comment_negative": "Mình nghĩ giá hơi cao so với những tiện nghi được cung cấp, cái này mình so sánh dựa trên những nơi khác mình từng ở. Không có view biển."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtflZleczBzG9yuRrOTUgAIXaS1bVtagNlyWR9Heem7n-vU=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Homestay đẹp, sạch sẽ, cách âm tốt, phục vụ rất tốt, nhiệt tình, vui vẻ. Vị trí rất gần biển, tiện đi bộ ra tắm biển. Sẽ tiếp tục ủng hộ nếu có dịp đến Mũi Né du lịch lần sau",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Natalie",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Thiết kế",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgHV_5MGKlO7y9jibY4b3FSG5ljCSfUBeTBU4J5Iw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": "Cần thêm cây xanh khu vực vệ sinh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://graph.facebook.com/v2.9/1479777396/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/07/2023",
+                "rating": "Rất đáng với giá tiền bỏ ra.",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng sạch sẽ. Khu vực vệ sinh thoáng mát và rất tiện lợi. Có chỗ đỗ cho oto thuận tiện. Xung quanh có nhiều hàng ăn. \nNhân viên rất thân thiện và tận tình",
+                "comment_negative": "Hôm mình đi có mưa nên khu vực vệ sinh có chút muỗi."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTteJrcaq7pO8UVC8a966Imz8e2tst_GtYviewgLP=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/06/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ và thoáng, nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtd4Z29-7-avLPe8FEPMQbG0Jnhe3D0lBB_8evxb=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/06/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Lễ tân cực nhiệt tình, đối diện là quán ăn cũng rất ngon. Phòng ốc sạch sẽ đầy đủ tiện nghi, nhà VS sạch sẽ",
+                "comment_negative": "Tủ lạnh phát ra âm thanh lạ khiến người thuê hơi lo lắng, nhà vệ sinh đẹp và sạch nhưng hơi nóng và bí."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "3 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, nhân viên chu đáo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ, chị chủ thân thiện. Phòng tắm lớn, sạch sẽ",
+                "comment_negative": "Nhà vệ sinh thiết kế không gian nóng nực. Đi vệ sinh vào buổi trưa sos"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tường",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "Buổi tối hơi ồn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJI_EocjeUp4fpKjyS9YRCpBe11CFh_ywBCBiPktVXJKm8=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Superior Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng ốc sạch sẽ, có wifi, có nước nóng, có tủ lạnh mini, có bình đun nước, bồn rửa mặt, máy sấy tóc, nhà vệ sinh và nhà tắm riêng, cũng khá yên tĩnh. Nhân viên phục vụ nhiệt tình. Đối diện có quán ăn đi bộ ra cũng có nhiều quán xung quanh.",
+                "comment_negative": "Mình nghĩ giá hơi cao so với những tiện nghi được cung cấp, cái này mình so sánh dựa trên những nơi khác mình từng ở. Không có view biển."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtflZleczBzG9yuRrOTUgAIXaS1bVtagNlyWR9Heem7n-vU=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Homestay đẹp, sạch sẽ, cách âm tốt, phục vụ rất tốt, nhiệt tình, vui vẻ. Vị trí rất gần biển, tiện đi bộ ra tắm biển. Sẽ tiếp tục ủng hộ nếu có dịp đến Mũi Né du lịch lần sau",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Natalie",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Thiết kế",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgHV_5MGKlO7y9jibY4b3FSG5ljCSfUBeTBU4J5Iw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": "Cần thêm cây xanh khu vực vệ sinh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://graph.facebook.com/v2.9/1479777396/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/07/2023",
+                "rating": "Rất đáng với giá tiền bỏ ra.",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng sạch sẽ. Khu vực vệ sinh thoáng mát và rất tiện lợi. Có chỗ đỗ cho oto thuận tiện. Xung quanh có nhiều hàng ăn. \nNhân viên rất thân thiện và tận tình",
+                "comment_negative": "Hôm mình đi có mưa nên khu vực vệ sinh có chút muỗi."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTteJrcaq7pO8UVC8a966Imz8e2tst_GtYviewgLP=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/06/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ và thoáng, nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtd4Z29-7-avLPe8FEPMQbG0Jnhe3D0lBB_8evxb=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/06/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Lễ tân cực nhiệt tình, đối diện là quán ăn cũng rất ngon. Phòng ốc sạch sẽ đầy đủ tiện nghi, nhà VS sạch sẽ",
+                "comment_negative": "Tủ lạnh phát ra âm thanh lạ khiến người thuê hơi lo lắng, nhà vệ sinh đẹp và sạch nhưng hơi nóng và bí."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "3 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, nhân viên chu đáo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ, chị chủ thân thiện. Phòng tắm lớn, sạch sẽ",
+                "comment_negative": "Nhà vệ sinh thiết kế không gian nóng nực. Đi vệ sinh vào buổi trưa sos"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tường",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "Buổi tối hơi ồn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJI_EocjeUp4fpKjyS9YRCpBe11CFh_ywBCBiPktVXJKm8=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Superior Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng ốc sạch sẽ, có wifi, có nước nóng, có tủ lạnh mini, có bình đun nước, bồn rửa mặt, máy sấy tóc, nhà vệ sinh và nhà tắm riêng, cũng khá yên tĩnh. Nhân viên phục vụ nhiệt tình. Đối diện có quán ăn đi bộ ra cũng có nhiều quán xung quanh.",
+                "comment_negative": "Mình nghĩ giá hơi cao so với những tiện nghi được cung cấp, cái này mình so sánh dựa trên những nơi khác mình từng ở. Không có view biển."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtflZleczBzG9yuRrOTUgAIXaS1bVtagNlyWR9Heem7n-vU=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Homestay đẹp, sạch sẽ, cách âm tốt, phục vụ rất tốt, nhiệt tình, vui vẻ. Vị trí rất gần biển, tiện đi bộ ra tắm biển. Sẽ tiếp tục ủng hộ nếu có dịp đến Mũi Né du lịch lần sau",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Natalie",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Thiết kế",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgHV_5MGKlO7y9jibY4b3FSG5ljCSfUBeTBU4J5Iw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": "Cần thêm cây xanh khu vực vệ sinh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://graph.facebook.com/v2.9/1479777396/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/07/2023",
+                "rating": "Rất đáng với giá tiền bỏ ra.",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng sạch sẽ. Khu vực vệ sinh thoáng mát và rất tiện lợi. Có chỗ đỗ cho oto thuận tiện. Xung quanh có nhiều hàng ăn. \nNhân viên rất thân thiện và tận tình",
+                "comment_negative": "Hôm mình đi có mưa nên khu vực vệ sinh có chút muỗi."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTteJrcaq7pO8UVC8a966Imz8e2tst_GtYviewgLP=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/06/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ và thoáng, nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtd4Z29-7-avLPe8FEPMQbG0Jnhe3D0lBB_8evxb=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/06/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Lễ tân cực nhiệt tình, đối diện là quán ăn cũng rất ngon. Phòng ốc sạch sẽ đầy đủ tiện nghi, nhà VS sạch sẽ",
+                "comment_negative": "Tủ lạnh phát ra âm thanh lạ khiến người thuê hơi lo lắng, nhà vệ sinh đẹp và sạch nhưng hơi nóng và bí."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-q.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "3 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Không gian rộng rãi, nhân viên chu đáo",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/03/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch sẽ, chị chủ thân thiện. Phòng tắm lớn, sạch sẽ",
+                "comment_negative": "Nhà vệ sinh thiết kế không gian nóng nực. Đi vệ sinh vào buổi trưa sos"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tường",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Có Giường Cỡ King Nhìn Ra Vườn",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": "Buổi tối hơi ồn"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trang",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJI_EocjeUp4fpKjyS9YRCpBe11CFh_ywBCBiPktVXJKm8=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Superior Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng ốc sạch sẽ, có wifi, có nước nóng, có tủ lạnh mini, có bình đun nước, bồn rửa mặt, máy sấy tóc, nhà vệ sinh và nhà tắm riêng, cũng khá yên tĩnh. Nhân viên phục vụ nhiệt tình. Đối diện có quán ăn đi bộ ra cũng có nhiều quán xung quanh.",
+                "comment_negative": "Mình nghĩ giá hơi cao so với những tiện nghi được cung cấp, cái này mình so sánh dựa trên những nơi khác mình từng ở. Không có view biển."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtflZleczBzG9yuRrOTUgAIXaS1bVtagNlyWR9Heem7n-vU=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Homestay đẹp, sạch sẽ, cách âm tốt, phục vụ rất tốt, nhiệt tình, vui vẻ. Vị trí rất gần biển, tiện đi bộ ra tắm biển. Sẽ tiếp tục ủng hộ nếu có dịp đến Mũi Né du lịch lần sau",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Natalie",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "3 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Thiết kế",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GgHV_5MGKlO7y9jibY4b3FSG5ljCSfUBeTBU4J5Iw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": "Cần thêm cây xanh khu vực vệ sinh"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": "https://graph.facebook.com/v2.9/1479777396/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/07/2023",
+                "rating": "Rất đáng với giá tiền bỏ ra.",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn 2 Giường Đơn",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phòng sạch sẽ. Khu vực vệ sinh thoáng mát và rất tiện lợi. Có chỗ đỗ cho oto thuận tiện. Xung quanh có nhiều hàng ăn. \nNhân viên rất thân thiện và tận tình",
+                "comment_negative": "Hôm mình đi có mưa nên khu vực vệ sinh có chút muỗi."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTteJrcaq7pO8UVC8a966Imz8e2tst_GtYviewgLP=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/06/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ và thoáng, nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lê",
+                "avatar": "https://lh3.googleusercontent.com/a/AAcHTtd4Z29-7-avLPe8FEPMQbG0Jnhe3D0lBB_8evxb=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/06/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Lễ tân cực nhiệt tình, đối diện là quán ăn cũng rất ngon. Phòng ốc sạch sẽ đầy đủ tiện nghi, nhà VS sạch sẽ",
+                "comment_negative": "Tủ lạnh phát ra âm thanh lạ khiến người thuê hơi lo lắng, nhà vệ sinh đẹp và sạch nhưng hơi nóng và bí."
+            }
+        }
+    ]
+}

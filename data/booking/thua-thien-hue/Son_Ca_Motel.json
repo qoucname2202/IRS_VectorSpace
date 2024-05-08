@@ -1,0 +1,3418 @@
+{
+    "name": "Son Ca Motel",
+    "address": "1/28 Lê Thánh Tôn, Phường Đông Ba, Huế, Việt Nam",
+    "description": "Nằm ở Huế, cách Bảo tàng Museum of Royal Antiquities 4 phút đi bộ, Son Ca Motel cung cấp chỗ nghỉ có khu vườn, chỗ đậu xe riêng miễn phí, phòng chờ chung và sân hiên. Khách sạn 2 sao này có các phòng được trang bị điều hòa. Chỗ nghỉ cung cấp lễ tân 24/24, dịch vụ đưa đón sân bay, dịch vụ phòng và Wi-Fi miễn phí.\n\nTại khách sạn, các phòng đều đi kèm với bàn làm việc, TV màn hình phẳng, phòng tắm riêng, ga trải giường và khăn tắm. Tất cả các phòng đều có tủ lạnh.\n\nCác điểm tham quan nổi tiếng gần Son Ca Motel bao gồm Chợ Đông Ba, Hồ Tịnh Tâm và Tử Cấm Thành. Sân bay gần nhất là Sân bay quốc tế Phú Bài, cách chỗ nghỉ 15 km.",
+    "rating": "9.7",
+    "total_rating": "194",
+    "evaluation_categories": {
+        "service_staff": 9.8,
+        "amenities": 9.7,
+        "cleanliness": 9.8,
+        "comfort": 9.8,
+        "value_for_money": 9.9,
+        "location": 9.8,
+        "free_wifi": 9.2
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kelvin",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "30/01/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, gần trung tâm di tích, tiện nghi đầy đủ, phòng rộng mới. Gần các khu ăn uống vui chơi trung tâm tp Huế. Nhất định sẽ ghé lại",
+                "comment_negative": "Ko co"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kiều",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-k.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Mọi thứ đều rất tốt",
+                "comment_negative": "K có in"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thuý",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks sạch sẽ,thơm mùi dễ chịu,nv thân thiện,nhiệt tình,ks ngay Đại Nội Huế",
+                "comment_negative": "ko có gì"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "quá tốt",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "ks rộng rãi,thoải mái nằm ngay trung tâm Tp Huế,xung quanh rất nhiều tiện ích",
+                "comment_negative": "k có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": "https://lh5.googleusercontent.com/-hiLMjYgZqNA/AAAAAAAAAAI/AAAAAAAAA3o/UrbClUmt-ao/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/04/2024",
+                "rating": "Hoàn hảo",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks sach sẽ,mùi dễ chịu,giường rất rộng,giá rẻ cho mùa du lịch",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tuấn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIETOk2r4TKcRNLkjdHmVfifGGqkik37HREF5DykfQV1g=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2024",
+                "rating": "Tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks ngay trung tâm,rất sẽ sẽ,phòng rộng rãi,thoải mái,mùi dễ chịu,xung quanh rất nhiều tiện ích",
+                "comment_negative": "K có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dn96",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-d.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch, phòng rộng, to hơn trong hình, gần đại nội, giá cả hợp lí",
+                "comment_negative": "Ko có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/3187968368143550/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/04/2024",
+                "rating": "Tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Gia Đình Tiêu Chuẩn",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn rộng rãi,thoáng mát,cung quanh ks rất nhiều cây nên rất mát,ngay trung tâm đi đâu cung gần,nv nhiệt tình,thân thiện",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ9WPaZMMKkJ8NUoq5Ukiv__WUGTtvVF_jeYKITT9xz_Q4=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Tuyệt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks đẹp,rộng rãi",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đỗ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi_rcmALYhO6mxZQdKI_QEq8R8WHdFLUI5aMlEF=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Giá rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Ks sạch sẽ,phòng rộng rãi,ngay trung tâm đi đâu cung rất tiện,gần các quán ăn,cf,gần những tiện ích,nhân viên và chủ rất vui vẻ m,thân thiện,",
+                "comment_negative": "Ko có"
+            }
+        }
+    ]
+}

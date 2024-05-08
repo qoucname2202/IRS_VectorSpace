@@ -1,0 +1,188 @@
+{
+    "name": "Ruby Hotel - Tân Uyên - Bình Dương",
+    "address": "Đường số 1, Khu phố 1, Phường Hội Nghĩa, Thị Xã Tân Uyên, Tỉnh Bình Dương, Hoi Nghia, Việt Nam",
+    "description": "Nằm ở Hoi Nghia, cách Trung tâm mua sắm AEON MALL Bình Dương Canary 26 km, Ruby Hotel - Tân Uyên - Bình Dương cung cấp chỗ nghỉ có Wi-Fi miễn phí và chỗ đậu xe riêng miễn phí. Chỗ nghỉ này tọa lạc cách Trung tâm thương mại Vincom Thủ Đức 31 km, Công viên văn hóa Suối Tiên 34 km và Bảo tàng lịch sử Việt Nam 38 km. Chỗ nghỉ này cung cấp dịch vụ phòng và quầy lễ tân 24 giờ cho khách.\n\nTại khách sạn, các phòng được thiết kế có bàn làm việc. Với phòng tắm riêng được trang bị vòi xịt/chậu rửa vệ sinh và đồ vệ sinh cá nhân miễn phí, tất cả các căn tại Ruby Hotel - Tân Uyên - Bình Dương có TV màn hình phẳng và điều hòa, trong đó một số phòng có sân hiên. Tại chỗ nghỉ, tất cả các phòng đều có ga trải giường và khăn tắm.\n\nRuby Hotel - Tân Uyên - Bình Dương cách Trung Tâm Thương Mại Diamond Plaza 39 km và Bưu điện Trung tâm 39 km. Sân bay gần nhất là Sân bay Quốc tế Tân Sơn Nhất, cách khách sạn 38 km.",
+    "rating": "8.7",
+    "total_rating": "10",
+    "evaluation_categories": {
+        "service_staff": 8.8,
+        "amenities": 8.4,
+        "cleanliness": 8.8,
+        "comfort": 8.4,
+        "value_for_money": 8.4,
+        "location": 8.4,
+        "free_wifi": 10.0
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Sạch sẽ, nhân viên thân thiện và nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thai",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/04/2023",
+                "rating": "Tuỵet vời",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi/2 Giường Đơn Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Chủ nhà thân thiện. Hướng dẫn tận tình",
+                "comment_negative": "Không có"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kim",
+                "avatar": "https://graph.facebook.com/v2.9/2455935524423347/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/09/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi/2 Giường Đơn Nhìn Ra Thành Phố",
+                "stay_duration": "1 đêm · tháng 9/2022",
+                "group_type": "Cặp đôi",
+                "comment_positive": "C'est très bien la chambre que j'ai réservé deux grand lit avec balcon très propres. \nConclusion correct",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/06/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 5/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": "https://lh6.googleusercontent.com/-_ZwRlUvyVoo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_9ZEVb3XQMFQ2uciHXOK2rUKQ5Q/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "26/04/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 4/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Cảnh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "30/012/2022",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 12/2022",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Yến",
+                "avatar": "https://graph.facebook.com/v2.9/10210328326417537/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "15/07/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ King",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Radek",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-r.png",
+                "country": "Cộng hoà Séc"
+            },
+            "review": {
+                "date": "24/03/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 3/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Shengting",
+                "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLvRT0Hxy8MLVtLkB6aUAPzic5QHE02nTY9GEq1Z9Cib1dZxjDxsNO9ib9EzfPDS0t4MGNAdoSlZib2WA/132",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/03/2024",
+                "rating": "Kém",
+                "score": 3.0,
+                "room_type": "Phòng Deluxe Có Giường Cỡ King",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "name": "Hoàng Khang Hotel",
+    "address": "99 Đinh Núp,Tân Lập, Buôn Kô Sir, Việt Nam",
+    "description": "Tọa lạc ở Buôn Kô Sir, cách Trung tâm thương mại Vincom Plaza Buôn Ma Thuột 2.4 km, Hoàng Khang Hotel cung cấp chỗ nghỉ có hồ bơi ngoài trời, chỗ đậu xe riêng miễn phí, khu vườn và sân hiên. Chỗ nghỉ này có các tiện nghi như nhà hàng, dịch vụ phòng và quầy lễ tân 24 giờ, cùng với Wi-Fi miễn phí ở toàn bộ chỗ nghỉ. Du khách có thể tận hưởng cảnh khu vườn.\n\nTại khách sạn, phòng nào cũng có điều hòa, tủ quần áo, ban công với view hồ bơi, phòng tắm riêng, TV màn hình phẳng, ga trải giường và khăn tắm. Hoàng Khang Hotel cung cấp một số căn nhìn ra thành phố và tất cả các phòng đều có sân trong. Phòng khách đều có tủ lạnh.\n\nSân bay gần nhất là Sân bay Buôn Ma Thuột, cách chỗ nghỉ 6 km.",
+    "rating": "8.8",
+    "total_rating": "6",
+    "evaluation_categories": {
+        "service_staff": 9.2,
+        "amenities": 8.3,
+        "cleanliness": 9.6,
+        "comfort": 10.0,
+        "value_for_money": 8.8,
+        "location": 9.2,
+        "free_wifi": 2.5
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Đặng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình",
+                "stay_duration": "2 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Sạch sẽ, nhân viên nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Eric",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-e.png",
+                "country": "Canada"
+            },
+            "review": {
+                "date": "18/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Gia đình",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "We just stayed afternoon until morning to get to a morning flight. We loved having a swim on our arrival.\nEveryone was nice and it was well designed and pristine.\nWine would have been great with dinner.",
+                "comment_negative": "Not having access to a bar."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kenneth",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/14938399.jpg?k=95633d91d02cc48c33b8fc58afab8c5f126d9b06394dd6aaeb50b1bfcf7e375d&o=",
+                "country": "Na Uy"
+            },
+            "review": {
+                "date": "7/04/2024",
+                "rating": "Clean and friendly, but noisy to stay",
+                "score": 5.0,
+                "room_type": "Phòng Deluxe Gia đình",
+                "stay_duration": "3 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "New hotel, clean , friendly and helpful people, by the way the hotel is not public opening yet",
+                "comment_negative": "No hot water, no sitting table, no chairs, noisy, party all the time, no drikking cups, I don't fell comfortable and privacy to use the swimmingpool when they have private entertaiment beside the pool. Difficult to find the way to hotel for taxi driver"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dũng",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Gia đình",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương",
+                "avatar": "https://graph.facebook.com/v2.9/1629505773900371/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dũng",
+                "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJj7kgO7EfkwguRNWTWOtNR2c-AywkT4YgaCfwpRGMI=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/03/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

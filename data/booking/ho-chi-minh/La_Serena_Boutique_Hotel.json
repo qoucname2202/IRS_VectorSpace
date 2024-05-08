@@ -1,0 +1,698 @@
+{
+    "name": "La Serena Boutique Hotel",
+    "address": "16 Hưng Phước 4, Quận 7, TP. Hồ Chí Minh, Việt Nam",
+    "description": "Nằm tại vị trí thuận tiện ở Quận 7, TP. Hồ Chí Minh, La Serena Boutique Hotel nằm cách Bến cảng Nhà Rồng 6 km, Bảo tàng Mỹ thuật 6.2 km và Trung tâm mua sắm Takashimaya Việt Nam 6.6 km. Ngoài Wi-Fi miễn phí, khách sạn 2 sao này còn cung cấp dịch vụ phòng và quầy lễ tân 24 giờ. Đây là chỗ nghỉ không hút thuốc và tọa lạc cách Trung tâm Triển lãm và Hội nghị Sài Gòn 1.9 km.\n\nKhách sạn cách Chợ Bến Thành 6.6 km và Công viên Tao Đàn 6.7 km. Sân bay gần nhất là Sân bay Quốc tế Tân Sơn Nhất, cách La Serena Boutique Hotel 13 km.",
+    "rating": "9.8",
+    "total_rating": "31",
+    "evaluation_categories": {
+        "service_staff": 9.8,
+        "amenities": 9.8,
+        "cleanliness": 9.8,
+        "comfort": 9.8,
+        "value_for_money": 9.8,
+        "location": 9.9,
+        "free_wifi": 10.0
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/01/2024",
+                "rating": "Căn phòng rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Khách sạn có vị trí rất tốt và có tất cả các tiện nghi. Giường rất thoải mái. không ồn ào, dịch vụ tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/02/2024",
+                "rating": "Vị trí rất tuyệt vời.",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn thực tế có vị trí rất tốt. Xung quanh có rất nhiều nhà hàng và quán cà phê",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/02/2024",
+                "rating": "Nơi tuyệt vời để ở và vị trí tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí, Nhân viên, Tiện nghi, tất cả những yếu tố mà chúng tôi đang tìm kiếm đều tuyệt vời!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Paprocki",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Ba Lan"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Staff was very nice and polite. The room was silent and cozy. Coffee and hot drinks available all the time. Every second day, room was cleaned.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amanda",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Peru"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Nice place at the city centre!",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Localization perfect, in the middle of the city center",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Singapore"
+            },
+            "review": {
+                "date": "28/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Great staff, always helpful.\nRoom was clean and functional.\nEverything was provided as expected\nGood location.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Blokhin",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Ghc_JsvIzEcYizAgoFzq2348XllK29YPzaI_esW=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Awesome staff. The receptionist lady is always smiling and ready to help 24/7. Cozy room and nice location. Good value for the price, and will come again. Thanks!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Costa",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Brazil"
+            },
+            "review": {
+                "date": "27/01/2024",
+                "rating": "Location,",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Panoramic Viewlines and Bed quality. Great location, comfortable room and good value for money",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Angelia",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "23/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Perfect location, clean, well equiped, clear instructions.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Đài Loan"
+            },
+            "review": {
+                "date": "17/04/2024",
+                "rating": "愉快，充滿感謝",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "很方便安排各種行程。",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/01/2024",
+                "rating": "Căn phòng rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Khách sạn có vị trí rất tốt và có tất cả các tiện nghi. Giường rất thoải mái. không ồn ào, dịch vụ tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/02/2024",
+                "rating": "Vị trí rất tuyệt vời.",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn thực tế có vị trí rất tốt. Xung quanh có rất nhiều nhà hàng và quán cà phê",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/02/2024",
+                "rating": "Nơi tuyệt vời để ở và vị trí tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí, Nhân viên, Tiện nghi, tất cả những yếu tố mà chúng tôi đang tìm kiếm đều tuyệt vời!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Paprocki",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Ba Lan"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Staff was very nice and polite. The room was silent and cozy. Coffee and hot drinks available all the time. Every second day, room was cleaned.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amanda",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Peru"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Nice place at the city centre!",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Localization perfect, in the middle of the city center",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Singapore"
+            },
+            "review": {
+                "date": "28/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Great staff, always helpful.\nRoom was clean and functional.\nEverything was provided as expected\nGood location.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Blokhin",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Ghc_JsvIzEcYizAgoFzq2348XllK29YPzaI_esW=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Awesome staff. The receptionist lady is always smiling and ready to help 24/7. Cozy room and nice location. Good value for the price, and will come again. Thanks!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Costa",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Brazil"
+            },
+            "review": {
+                "date": "27/01/2024",
+                "rating": "Location,",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Panoramic Viewlines and Bed quality. Great location, comfortable room and good value for money",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Angelia",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "23/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Perfect location, clean, well equiped, clear instructions.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Đài Loan"
+            },
+            "review": {
+                "date": "17/04/2024",
+                "rating": "愉快，充滿感謝",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "很方便安排各種行程。",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/01/2024",
+                "rating": "Căn phòng rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Khách sạn có vị trí rất tốt và có tất cả các tiện nghi. Giường rất thoải mái. không ồn ào, dịch vụ tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/02/2024",
+                "rating": "Vị trí rất tuyệt vời.",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn thực tế có vị trí rất tốt. Xung quanh có rất nhiều nhà hàng và quán cà phê",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/02/2024",
+                "rating": "Nơi tuyệt vời để ở và vị trí tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí, Nhân viên, Tiện nghi, tất cả những yếu tố mà chúng tôi đang tìm kiếm đều tuyệt vời!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Paprocki",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Ba Lan"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Staff was very nice and polite. The room was silent and cozy. Coffee and hot drinks available all the time. Every second day, room was cleaned.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amanda",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Peru"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Nice place at the city centre!",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Localization perfect, in the middle of the city center",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Singapore"
+            },
+            "review": {
+                "date": "28/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Great staff, always helpful.\nRoom was clean and functional.\nEverything was provided as expected\nGood location.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Blokhin",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Ghc_JsvIzEcYizAgoFzq2348XllK29YPzaI_esW=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Awesome staff. The receptionist lady is always smiling and ready to help 24/7. Cozy room and nice location. Good value for the price, and will come again. Thanks!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Costa",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Brazil"
+            },
+            "review": {
+                "date": "27/01/2024",
+                "rating": "Location,",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Panoramic Viewlines and Bed quality. Great location, comfortable room and good value for money",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Angelia",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "23/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Perfect location, clean, well equiped, clear instructions.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Đài Loan"
+            },
+            "review": {
+                "date": "17/04/2024",
+                "rating": "愉快，充滿感謝",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "很方便安排各種行程。",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thi",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/01/2024",
+                "rating": "Căn phòng rất tốt",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Khách sạn có vị trí rất tốt và có tất cả các tiện nghi. Giường rất thoải mái. không ồn ào, dịch vụ tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/02/2024",
+                "rating": "Vị trí rất tuyệt vời.",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Khách sạn thực tế có vị trí rất tốt. Xung quanh có rất nhiều nhà hàng và quán cà phê",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/02/2024",
+                "rating": "Nơi tuyệt vời để ở và vị trí tuyệt vời",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Vị trí, Nhân viên, Tiện nghi, tất cả những yếu tố mà chúng tôi đang tìm kiếm đều tuyệt vời!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Paprocki",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Ba Lan"
+            },
+            "review": {
+                "date": "11/04/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Staff was very nice and polite. The room was silent and cozy. Coffee and hot drinks available all the time. Every second day, room was cleaned.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Amanda",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Peru"
+            },
+            "review": {
+                "date": "9/04/2024",
+                "rating": "Nice place at the city centre!",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Localization perfect, in the middle of the city center",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anna",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Singapore"
+            },
+            "review": {
+                "date": "28/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Great staff, always helpful.\nRoom was clean and functional.\nEverything was provided as expected\nGood location.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Blokhin",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Ghc_JsvIzEcYizAgoFzq2348XllK29YPzaI_esW=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Superior Giường Đôi",
+                "stay_duration": "2 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Awesome staff. The receptionist lady is always smiling and ready to help 24/7. Cozy room and nice location. Good value for the price, and will come again. Thanks!",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Costa",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Brazil"
+            },
+            "review": {
+                "date": "27/01/2024",
+                "rating": "Location,",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Panoramic Viewlines and Bed quality. Great location, comfortable room and good value for money",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Angelia",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Mỹ"
+            },
+            "review": {
+                "date": "23/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "Perfect location, clean, well equiped, clear instructions.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Đài Loan"
+            },
+            "review": {
+                "date": "17/04/2024",
+                "rating": "愉快，充滿感謝",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Giường Đôi",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "很方便安排各種行程。",
+                "comment_negative": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,698 @@
+{
+    "name": "HOMESTAY THIÊN CÂM",
+    "address": "Thiên Cầm, Cẩm Xuyên, Việt Nam",
+    "description": "HOMESTAY THIÊN CÂM nằm ở Cẩm Xuyên và có khu vườn. Khách sạn 3 sao này có dịch vụ phòng và quầy lễ tân 24 giờ. Tại đây có sân hiên và khách có thể sử dụng Wi-Fi miễn phí và chỗ đậu xe riêng miễn phí.\n\nSân bay gần nhất là Sân bay quốc tế Vinh, cách khách sạn 80 km.",
+    "rating": "8.8",
+    "total_rating": "33",
+    "evaluation_categories": {
+        "service_staff": 9.0,
+        "amenities": 9.1,
+        "cleanliness": 9.0,
+        "comfort": 8.9,
+        "value_for_money": 9.0,
+        "location": 8.0,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hữu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ông chủ thân thiện, hiếu khách rất nhiệt tình vui vẻ!",
+                "comment_negative": "Sự thân thiện, hiếu khách."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoa",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/02/2024",
+                "rating": "Quá tuyệt vời, sẽ quay lại",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bạn lễ tân siêu nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/012/2023",
+                "rating": "Nhân viên nhiệt tình, rất hài lòng, sẽ ghé lại và hy vọng sẽ được bơi trong hồ bơi sạch sẽ nhé",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khuôn viên và Phòng ốc quá sạch sẽ sang trọng, tôi rất thích",
+                "comment_negative": "Hồ bơi bị đục nên vệ sinh thay nước thường xuyên để khách có thể sử dụng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/6255705567774785/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ, tiện nghi, chị chủ nhiệt tình, rất đáng tiền.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "OK",
+                "comment_negative": "OK"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Saralen",
+                "avatar": "https://lh4.googleusercontent.com/-A2aSJPIwLxU/AAAAAAAAAAI/AAAAAAAAAi4/lf5UYbvCLAA/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It is a new building, walking distance from the beach. It is was a good drop by during our road trip.",
+                "comment_negative": "The bathroom set up is uncomfortable."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jenny",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "22/01/2024",
+                "rating": "Fantastic place",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "This is probably the best place in terms of cleanliness we have stayed in. For us the location was perfect as we are cycling and so literally needed a place to stay and it was just off the main road junction - but still very quiet. It was only a 15 walk to the beach and they are doing loads of road building so it will soon be an amazing place to stop off on",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Simon",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Ireland (Ai Len)"
+            },
+            "review": {
+                "date": "8/01/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "The lady at reception was excellent. She went out of her way to ensure my stay was enjoyable.",
+                "comment_negative": "Google maps isn't accurate. Took me to the rear entrance."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Meintjes",
+                "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=5881809038532690&height=256&width=256&ext=1679299849&hash=AeQPo11hZVOFitilNNM",
+                "country": "Nam Phi"
+            },
+            "review": {
+                "date": "25/09/2023",
+                "rating": "5-star facilities with 5-star treatment a well deserved rating of 10",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "3 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The room, bathroom, swimming pool and the entire building is super clean and luxurious. Nothing short of 5-star quality! The beds, the bedding, the pillows and even the curtains are from super high quality material and very stylish. The owner, Mr Nguyen is an obvious  perfectionist with a lot of self pride. He treated us like royals and even spoiled us with a complimentary feast meal with him and his friends under the moonlight next to the sparkling clean swimming pool. Staying at his homestay was a momentous event.",
+                "comment_negative": "Thien Cam is a little coastal town a few kms outside Ha Tinh with some nice hotels on the beach front. But unfortunately the beach itself is littered and it is for this very reason I rated the location of the homestay 10 as it is a few kms away from the beach (although walking distance) which is a better option in this town."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kromhout",
+                "avatar": null,
+                "country": "Hà Lan"
+            },
+            "review": {
+                "date": "23/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Heerlijk rustige homestay met zwembad en bewaakte parkeerplaatst voor (motor)fietsen. Gastvrije ontvangst. Goede warme douche en comfortabele bedden. Erg stille omgeving.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hữu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ông chủ thân thiện, hiếu khách rất nhiệt tình vui vẻ!",
+                "comment_negative": "Sự thân thiện, hiếu khách."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoa",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/02/2024",
+                "rating": "Quá tuyệt vời, sẽ quay lại",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bạn lễ tân siêu nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/012/2023",
+                "rating": "Nhân viên nhiệt tình, rất hài lòng, sẽ ghé lại và hy vọng sẽ được bơi trong hồ bơi sạch sẽ nhé",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khuôn viên và Phòng ốc quá sạch sẽ sang trọng, tôi rất thích",
+                "comment_negative": "Hồ bơi bị đục nên vệ sinh thay nước thường xuyên để khách có thể sử dụng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/6255705567774785/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ, tiện nghi, chị chủ nhiệt tình, rất đáng tiền.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "OK",
+                "comment_negative": "OK"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Saralen",
+                "avatar": "https://lh4.googleusercontent.com/-A2aSJPIwLxU/AAAAAAAAAAI/AAAAAAAAAi4/lf5UYbvCLAA/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It is a new building, walking distance from the beach. It is was a good drop by during our road trip.",
+                "comment_negative": "The bathroom set up is uncomfortable."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jenny",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "22/01/2024",
+                "rating": "Fantastic place",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "This is probably the best place in terms of cleanliness we have stayed in. For us the location was perfect as we are cycling and so literally needed a place to stay and it was just off the main road junction - but still very quiet. It was only a 15 walk to the beach and they are doing loads of road building so it will soon be an amazing place to stop off on",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Simon",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Ireland (Ai Len)"
+            },
+            "review": {
+                "date": "8/01/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "The lady at reception was excellent. She went out of her way to ensure my stay was enjoyable.",
+                "comment_negative": "Google maps isn't accurate. Took me to the rear entrance."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Meintjes",
+                "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=5881809038532690&height=256&width=256&ext=1679299849&hash=AeQPo11hZVOFitilNNM",
+                "country": "Nam Phi"
+            },
+            "review": {
+                "date": "25/09/2023",
+                "rating": "5-star facilities with 5-star treatment a well deserved rating of 10",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "3 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The room, bathroom, swimming pool and the entire building is super clean and luxurious. Nothing short of 5-star quality! The beds, the bedding, the pillows and even the curtains are from super high quality material and very stylish. The owner, Mr Nguyen is an obvious  perfectionist with a lot of self pride. He treated us like royals and even spoiled us with a complimentary feast meal with him and his friends under the moonlight next to the sparkling clean swimming pool. Staying at his homestay was a momentous event.",
+                "comment_negative": "Thien Cam is a little coastal town a few kms outside Ha Tinh with some nice hotels on the beach front. But unfortunately the beach itself is littered and it is for this very reason I rated the location of the homestay 10 as it is a few kms away from the beach (although walking distance) which is a better option in this town."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kromhout",
+                "avatar": null,
+                "country": "Hà Lan"
+            },
+            "review": {
+                "date": "23/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Heerlijk rustige homestay met zwembad en bewaakte parkeerplaatst voor (motor)fietsen. Gastvrije ontvangst. Goede warme douche en comfortabele bedden. Erg stille omgeving.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hữu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ông chủ thân thiện, hiếu khách rất nhiệt tình vui vẻ!",
+                "comment_negative": "Sự thân thiện, hiếu khách."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoa",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/02/2024",
+                "rating": "Quá tuyệt vời, sẽ quay lại",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bạn lễ tân siêu nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/012/2023",
+                "rating": "Nhân viên nhiệt tình, rất hài lòng, sẽ ghé lại và hy vọng sẽ được bơi trong hồ bơi sạch sẽ nhé",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khuôn viên và Phòng ốc quá sạch sẽ sang trọng, tôi rất thích",
+                "comment_negative": "Hồ bơi bị đục nên vệ sinh thay nước thường xuyên để khách có thể sử dụng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/6255705567774785/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ, tiện nghi, chị chủ nhiệt tình, rất đáng tiền.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "OK",
+                "comment_negative": "OK"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Saralen",
+                "avatar": "https://lh4.googleusercontent.com/-A2aSJPIwLxU/AAAAAAAAAAI/AAAAAAAAAi4/lf5UYbvCLAA/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It is a new building, walking distance from the beach. It is was a good drop by during our road trip.",
+                "comment_negative": "The bathroom set up is uncomfortable."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jenny",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "22/01/2024",
+                "rating": "Fantastic place",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "This is probably the best place in terms of cleanliness we have stayed in. For us the location was perfect as we are cycling and so literally needed a place to stay and it was just off the main road junction - but still very quiet. It was only a 15 walk to the beach and they are doing loads of road building so it will soon be an amazing place to stop off on",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Simon",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Ireland (Ai Len)"
+            },
+            "review": {
+                "date": "8/01/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "The lady at reception was excellent. She went out of her way to ensure my stay was enjoyable.",
+                "comment_negative": "Google maps isn't accurate. Took me to the rear entrance."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Meintjes",
+                "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=5881809038532690&height=256&width=256&ext=1679299849&hash=AeQPo11hZVOFitilNNM",
+                "country": "Nam Phi"
+            },
+            "review": {
+                "date": "25/09/2023",
+                "rating": "5-star facilities with 5-star treatment a well deserved rating of 10",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "3 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The room, bathroom, swimming pool and the entire building is super clean and luxurious. Nothing short of 5-star quality! The beds, the bedding, the pillows and even the curtains are from super high quality material and very stylish. The owner, Mr Nguyen is an obvious  perfectionist with a lot of self pride. He treated us like royals and even spoiled us with a complimentary feast meal with him and his friends under the moonlight next to the sparkling clean swimming pool. Staying at his homestay was a momentous event.",
+                "comment_negative": "Thien Cam is a little coastal town a few kms outside Ha Tinh with some nice hotels on the beach front. But unfortunately the beach itself is littered and it is for this very reason I rated the location of the homestay 10 as it is a few kms away from the beach (although walking distance) which is a better option in this town."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kromhout",
+                "avatar": null,
+                "country": "Hà Lan"
+            },
+            "review": {
+                "date": "23/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Heerlijk rustige homestay met zwembad en bewaakte parkeerplaatst voor (motor)fietsen. Gastvrije ontvangst. Goede warme douche en comfortabele bedden. Erg stille omgeving.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hữu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/02/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ông chủ thân thiện, hiếu khách rất nhiệt tình vui vẻ!",
+                "comment_negative": "Sự thân thiện, hiếu khách."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hoa",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/02/2024",
+                "rating": "Quá tuyệt vời, sẽ quay lại",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bạn lễ tân siêu nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Le",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/012/2023",
+                "rating": "Nhân viên nhiệt tình, rất hài lòng, sẽ ghé lại và hy vọng sẽ được bơi trong hồ bơi sạch sẽ nhé",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Khuôn viên và Phòng ốc quá sạch sẽ sang trọng, tôi rất thích",
+                "comment_negative": "Hồ bơi bị đục nên vệ sinh thay nước thường xuyên để khách có thể sử dụng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc",
+                "avatar": "https://graph.facebook.com/v2.9/6255705567774785/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "21/08/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Phòng sạch sẽ, tiện nghi, chị chủ nhiệt tình, rất đáng tiền.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-a.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "8/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "OK",
+                "comment_negative": "OK"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Saralen",
+                "avatar": "https://lh4.googleusercontent.com/-A2aSJPIwLxU/AAAAAAAAAAI/AAAAAAAAAi4/lf5UYbvCLAA/photo.jpg?sz=50",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/04/2024",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "It is a new building, walking distance from the beach. It is was a good drop by during our road trip.",
+                "comment_negative": "The bathroom set up is uncomfortable."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jenny",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "22/01/2024",
+                "rating": "Fantastic place",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "This is probably the best place in terms of cleanliness we have stayed in. For us the location was perfect as we are cycling and so literally needed a place to stay and it was just off the main road junction - but still very quiet. It was only a 15 walk to the beach and they are doing loads of road building so it will soon be an amazing place to stop off on",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Simon",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Ireland (Ai Len)"
+            },
+            "review": {
+                "date": "8/01/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "The lady at reception was excellent. She went out of her way to ensure my stay was enjoyable.",
+                "comment_negative": "Google maps isn't accurate. Took me to the rear entrance."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Meintjes",
+                "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=5881809038532690&height=256&width=256&ext=1679299849&hash=AeQPo11hZVOFitilNNM",
+                "country": "Nam Phi"
+            },
+            "review": {
+                "date": "25/09/2023",
+                "rating": "5-star facilities with 5-star treatment a well deserved rating of 10",
+                "score": 10.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "3 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The room, bathroom, swimming pool and the entire building is super clean and luxurious. Nothing short of 5-star quality! The beds, the bedding, the pillows and even the curtains are from super high quality material and very stylish. The owner, Mr Nguyen is an obvious  perfectionist with a lot of self pride. He treated us like royals and even spoiled us with a complimentary feast meal with him and his friends under the moonlight next to the sparkling clean swimming pool. Staying at his homestay was a momentous event.",
+                "comment_negative": "Thien Cam is a little coastal town a few kms outside Ha Tinh with some nice hotels on the beach front. But unfortunately the beach itself is littered and it is for this very reason I rated the location of the homestay 10 as it is a few kms away from the beach (although walking distance) which is a better option in this town."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Kromhout",
+                "avatar": null,
+                "country": "Hà Lan"
+            },
+            "review": {
+                "date": "23/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Heerlijk rustige homestay met zwembad en bewaakte parkeerplaatst voor (motor)fietsen. Gastvrije ontvangst. Goede warme douche en comfortabele bedden. Erg stille omgeving.",
+                "comment_negative": null
+            }
+        }
+    ]
+}

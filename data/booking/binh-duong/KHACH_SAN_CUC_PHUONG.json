@@ -1,0 +1,103 @@
+{
+    "name": "KHÁCH SẠN CÚC PHƯƠNG",
+    "address": "28 Đường GS02 Khu TMDV Quảng Trường Xanh, Đông Hòa, Dĩ An, Việt Nam",
+    "description": "Tọa lạc ở Dĩ An, cách Trung tâm thương mại Vincom Thủ Đức 5.8 km và Công viên văn hóa Suối Tiên 7.7 km, KHÁCH SẠN CÚC PHƯƠNG cung cấp chỗ nghỉ có sân hiên và Wi-Fi miễn phí ở toàn bộ chỗ nghỉ cũng như chỗ đậu xe riêng miễn phí cho khách lái xe. Chỗ nghỉ cách Trung tâm mua sắm AEON MALL Bình Dương Canary khoảng 13 km, Bảo tàng lịch sử Việt Nam 17 km và Trung Tâm Thương Mại Diamond Plaza 18 km. Chỗ nghỉ này cung cấp dịch vụ phòng, quầy lễ tân 24 giờ và phòng giữ hành lý cho khách.\n\nTại khách sạn, mỗi phòng đều có bàn làm việc, TV màn hình phẳng, phòng tắm riêng, ga trải giường và khăn tắm. Các phòng tại KHÁCH SẠN CÚC PHƯƠNG có điều hòa và tủ quần áo.\n\nChỗ nghỉ cách Bưu điện Trung tâm 18 km và Chợ Tân Định 18 km. Sân bay gần nhất là Sân bay Quốc tế Tân Sơn Nhất, cách KHÁCH SẠN CÚC PHƯƠNG 16 km.",
+    "rating": "8.6",
+    "total_rating": "5",
+    "evaluation_categories": {
+        "service_staff": 9.0,
+        "amenities": 8.5,
+        "cleanliness": 9.0,
+        "comfort": 9.0,
+        "value_for_money": 9.0,
+        "location": 9.0,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Tien",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/03/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Deluxe Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ks năm gần siêu thị và nhiều quán ăn nên rất tiện lợi\nGiá rẻ khi ks năm ở khu vực trung tâm dĩ an",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Han",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "18/01/2024",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 1/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Ông bà chủ nhiệt tình, phòng sạch sẽ thơm tho",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ozdc",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/09/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng Deluxe Giường Đôi",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Phòng sạch",
+                "comment_negative": "Cửa hở rất to"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Linh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "27/010/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 10/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/01/2024",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Phòng Tiêu Chuẩn Có Giường Cỡ Queen",
+                "stay_duration": "3 đêm · tháng 12/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}

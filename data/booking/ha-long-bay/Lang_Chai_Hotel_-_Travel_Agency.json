@@ -1,0 +1,528 @@
+{
+    "name": "Lang Chai Hotel - Travel Agency",
+    "address": "257 Đường 1/4, Đảo Cát Bà, Việt Nam",
+    "description": "Nằm ở Đảo Cát Bà, Lang Chai Hotel - Travel Agency cung cấp chỗ nghỉ 3 sao có sân hiên riêng. Chỗ nghỉ cách Cannon Fort khoảng 1.7 km, Ben Beo Harbour 2 km và Hospital Cave 8.6 km. Một số căn tại chỗ nghỉ có ban công với view biển.\n\nTất cả các căn đi kèm điều hòa, TV màn hình phẳng có truyền hình vệ tinh, tủ lạnh, ấm đun nước, vòi xịt/chậu rửa vệ sinh, đồ vệ sinh cá nhân miễn phí và bàn làm việc. Ngoài phòng tắm riêng với vòi sen và máy sấy tóc, một số phòng tại khách sạn cũng có view thành phố. Tại Lang Chai Hotel - Travel Agency, tất cả các phòng đều có ga trải giường và khăn tắm.\n\nChỗ nghỉ có phục vụ bữa sáng thực đơn buffet, thực đơn à la carte hoặc kiểu lục địa mỗi sáng.\n\nCác điểm tham quan nổi tiếng gần chỗ nghỉ bao gồm Bãi biển Cat Co 1, Bãi biển Cát Cò 2 và Bãi biển Cat Co 3. Sân bay gần nhất là Sân bay Quốc tế Cát Bi, cách Lang Chai Hotel - Travel Agency 50 km.",
+    "rating": "9.6",
+    "total_rating": "22",
+    "evaluation_categories": {
+        "service_staff": 9.8,
+        "amenities": 9.8,
+        "cleanliness": 9.7,
+        "comfort": 9.7,
+        "value_for_money": 9.8,
+        "location": 10.0,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Triet",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/03/2024",
+                "rating": "tuyệt vời cho 1 ngày nghỉ Cát Bà",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "khách sạn ở rất gần bãi biển, phòng rộng và sạch sẽ, anh chủ nhà và nhân viên rất nhiệt tình và chu đáo. mình có cất lời nhờ mượn 1 chiếc xe đi quanh thị trấn anh ấy cho mượn luôn. rất nhiêt tình lắm ấy. bữa sáng kiểu tây tây với mini buffet và memu đa dạng món. mình ăn 1 cepe chuối còn được nhân viên cho thêm 2 quả trứng ốp la\nmình sẽ quay lại những lần tiếp theo ra cát bà",
+                "comment_negative": "không có j phải nói"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Elino",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-e.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "kỳ nghỉ tuyệt vời ngày cuối tuần",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng rất tuyệt vời có cả buffet và menu tự chọn. nhân viên rất ân cần hỏi han.thích ăn thêm vẫn vui vẻ ok.:D\nphòng nghỉ cũng xây dựng được vài năm  nên thiết bị có phần chưa được mới. nhưng với 400k/ đêm. mình nghĩ là hợp lý\ntầng 1 có hải sản, tha hồ gọi món nhưng giá cũng tương đối ấy nhé",
+                "comment_negative": "về cơ bản là không có gì. mình ra giữa hôm trời nồm nên hơi ẩm ướt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ballard",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-b.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Great place to stay",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Location is great, right on the front near all bars and restaurants.\nBeds are comfortable and very big.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Manh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Great hotel !",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Breakfast was great with many food. Good location and helpful staffs all.",
+                "comment_negative": "Have a little bit smell on hall"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Natilio",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Very good",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Have breakfast very nice. The staff here are very enthusiastic and friendly. Michael often cares and asks questions",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trina",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Tây Ban Nha"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Beautiful hotel",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Good location and helpful staffs.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Zimmermann",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-z.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "30/03/2024",
+                "rating": "good hotel",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Great value in cat ba. Much cheaper than nearby hotels. Large rooms, basic but clean. For the price I have no complaints. Enough hot water for a shower.",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jolanta",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Singapore"
+            },
+            "review": {
+                "date": "28/03/2024",
+                "rating": "Beautiful hotel",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The Hotel near the beach in central location. Very spacious and clean room, enthusiastic staff",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Schatzchen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "the value of money",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "room was clean\nnice sea view \nthe staffs was helpful",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Schnucki",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "21/03/2024",
+                "rating": "nice place",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "The staff was super nice and helpful. we even got to shower after we checked out and went hiking\ngood location. breakfast was very good with trong coffee",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Triet",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/03/2024",
+                "rating": "tuyệt vời cho 1 ngày nghỉ Cát Bà",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "khách sạn ở rất gần bãi biển, phòng rộng và sạch sẽ, anh chủ nhà và nhân viên rất nhiệt tình và chu đáo. mình có cất lời nhờ mượn 1 chiếc xe đi quanh thị trấn anh ấy cho mượn luôn. rất nhiêt tình lắm ấy. bữa sáng kiểu tây tây với mini buffet và memu đa dạng món. mình ăn 1 cepe chuối còn được nhân viên cho thêm 2 quả trứng ốp la\nmình sẽ quay lại những lần tiếp theo ra cát bà",
+                "comment_negative": "không có j phải nói"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Elino",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-e.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "kỳ nghỉ tuyệt vời ngày cuối tuần",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng rất tuyệt vời có cả buffet và menu tự chọn. nhân viên rất ân cần hỏi han.thích ăn thêm vẫn vui vẻ ok.:D\nphòng nghỉ cũng xây dựng được vài năm  nên thiết bị có phần chưa được mới. nhưng với 400k/ đêm. mình nghĩ là hợp lý\ntầng 1 có hải sản, tha hồ gọi món nhưng giá cũng tương đối ấy nhé",
+                "comment_negative": "về cơ bản là không có gì. mình ra giữa hôm trời nồm nên hơi ẩm ướt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ballard",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-b.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Great place to stay",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Location is great, right on the front near all bars and restaurants.\nBeds are comfortable and very big.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Manh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Great hotel !",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Breakfast was great with many food. Good location and helpful staffs all.",
+                "comment_negative": "Have a little bit smell on hall"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Natilio",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Very good",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Have breakfast very nice. The staff here are very enthusiastic and friendly. Michael often cares and asks questions",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trina",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Tây Ban Nha"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Beautiful hotel",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Good location and helpful staffs.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Zimmermann",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-z.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "30/03/2024",
+                "rating": "good hotel",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Great value in cat ba. Much cheaper than nearby hotels. Large rooms, basic but clean. For the price I have no complaints. Enough hot water for a shower.",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jolanta",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Singapore"
+            },
+            "review": {
+                "date": "28/03/2024",
+                "rating": "Beautiful hotel",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The Hotel near the beach in central location. Very spacious and clean room, enthusiastic staff",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Schatzchen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "the value of money",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "room was clean\nnice sea view \nthe staffs was helpful",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Schnucki",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "21/03/2024",
+                "rating": "nice place",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "The staff was super nice and helpful. we even got to shower after we checked out and went hiking\ngood location. breakfast was very good with trong coffee",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Triet",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "24/03/2024",
+                "rating": "tuyệt vời cho 1 ngày nghỉ Cát Bà",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "khách sạn ở rất gần bãi biển, phòng rộng và sạch sẽ, anh chủ nhà và nhân viên rất nhiệt tình và chu đáo. mình có cất lời nhờ mượn 1 chiếc xe đi quanh thị trấn anh ấy cho mượn luôn. rất nhiêt tình lắm ấy. bữa sáng kiểu tây tây với mini buffet và memu đa dạng món. mình ăn 1 cepe chuối còn được nhân viên cho thêm 2 quả trứng ốp la\nmình sẽ quay lại những lần tiếp theo ra cát bà",
+                "comment_negative": "không có j phải nói"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Elino",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-e.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "kỳ nghỉ tuyệt vời ngày cuối tuần",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Nhóm",
+                "comment_positive": "bữa sáng rất tuyệt vời có cả buffet và menu tự chọn. nhân viên rất ân cần hỏi han.thích ăn thêm vẫn vui vẻ ok.:D\nphòng nghỉ cũng xây dựng được vài năm  nên thiết bị có phần chưa được mới. nhưng với 400k/ đêm. mình nghĩ là hợp lý\ntầng 1 có hải sản, tha hồ gọi món nhưng giá cũng tương đối ấy nhé",
+                "comment_negative": "về cơ bản là không có gì. mình ra giữa hôm trời nồm nên hơi ẩm ướt"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ballard",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-b.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "5/04/2024",
+                "rating": "Great place to stay",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Location is great, right on the front near all bars and restaurants.\nBeds are comfortable and very big.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Manh",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Great hotel !",
+                "score": 9.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Breakfast was great with many food. Good location and helpful staffs all.",
+                "comment_negative": "Have a little bit smell on hall"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Natilio",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Úc"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Very good",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Have breakfast very nice. The staff here are very enthusiastic and friendly. Michael often cares and asks questions",
+                "comment_negative": "Nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trina",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Tây Ban Nha"
+            },
+            "review": {
+                "date": "3/04/2024",
+                "rating": "Beautiful hotel",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 4/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Good location and helpful staffs.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Zimmermann",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-z.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "30/03/2024",
+                "rating": "good hotel",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Great value in cat ba. Much cheaper than nearby hotels. Large rooms, basic but clean. For the price I have no complaints. Enough hot water for a shower.",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jolanta",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-j.png",
+                "country": "Singapore"
+            },
+            "review": {
+                "date": "28/03/2024",
+                "rating": "Beautiful hotel",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "The Hotel near the beach in central location. Very spacious and clean room, enthusiastic staff",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Schatzchen",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "27/03/2024",
+                "rating": "the value of money",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn 4 Người",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "room was clean\nnice sea view \nthe staffs was helpful",
+                "comment_negative": "nothing"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Schnucki",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-s.png",
+                "country": "Đức"
+            },
+            "review": {
+                "date": "21/03/2024",
+                "rating": "nice place",
+                "score": 10.0,
+                "room_type": "Phòng Tiêu Chuẩn Có 2 Giường Cỡ Queen",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "The staff was super nice and helpful. we even got to shower after we checked out and went hiking\ngood location. breakfast was very good with trong coffee",
+                "comment_negative": null
+            }
+        }
+    ]
+}

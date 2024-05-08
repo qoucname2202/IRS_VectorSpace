@@ -1,0 +1,1718 @@
+{
+    "name": "Phương Thuỷ Hotel",
+    "address": "19 Hồ Xuân Hương, Sầm Sơn, Việt Nam",
+    "description": "Phương Thuỷ Hotel nằm giáp biển ở Sầm Sơn, cách Bãi biển Sầm Sơn chỉ vài bước chân và Bãi biển Trường Lệ 18 phút đi bộ. Ngoài quầy lễ tân 24 giờ, chỗ nghỉ này còn có nhà hàng và sân hiên để phục vụ du khách. Wi-Fi miễn phí có và chỗ nghỉ nằm cáchBãi biển Vinh Sơn 2.2 km.\n\nTại khách sạn, mỗi phòng đều có ban công. Phòng tắm riêng được trang bị vòi xịt/chậu rửa vệ sinh, đồ vệ sinh cá nhân miễn phí và máy sấy tóc. Tại Phương Thuỷ Hotel, các phòng đều đi kèm với điều hòa và TV màn hình phẳng.\n\nSân bay gần nhất là Sân bay Thọ Xuân, cách chỗ nghỉ 52 km.",
+    "rating": "8.1",
+    "total_rating": "92",
+    "evaluation_categories": {
+        "service_staff": 8.5,
+        "amenities": 7.3,
+        "cleanliness": 8.0,
+        "comfort": 8.0,
+        "value_for_money": 7.9,
+        "location": 8.9,
+        "free_wifi": 8.8
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn đối diện biển. Phòng rộng, mới sơn lại. \nView hướng ra biển rất đẹp. \nChủ nhà vui vẻ, thân thiện, chu đáo",
+                "comment_negative": "Nên decor lại phòng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hữu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ thân thiện, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/08/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên nhiệt tình. Đồ ăn ổn",
+                "comment_negative": "Trang thiết bị cũ. Đệm cứng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không bắt buộc ăn tại nhà nghỉ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngắm biển ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bác chủ nhà rất tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/06/2023",
+                "rating": "Kỳ nghỉ thú vị, lần đầu mình ở phòng gần biển đến vậy!",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khung cảnh nhìn từ phòng ra biển rất tốt, vừa trong phòng vừa ngắm biển không có gì để phàn nàn.",
+                "comment_negative": "Cải thiện thêm về tín hiệu của tivi, tín hiệu mạng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/06/2023",
+                "rating": "Kỳ nghỉ thú vị. Hẹn gặp lại!",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Tôi rất thích phòng view ra biển",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Happinesslighthouse",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ nghỉ khá tốt, tiện nghi đầy đủ, giá cả phải chăng, đồ ăn tươi giá hợp lí, chủ nhà thân thiện",
+                "comment_negative": "Wifi hơi chập chờn , nên khắc phục triệt để"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/06/2023",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "View biển cực đẹp, chủ rất nhiệt tình, vui vẻ, đồ ăn ok. Giá thành rất hợp lý mọi người nên lựa chọn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn đối diện biển. Phòng rộng, mới sơn lại. \nView hướng ra biển rất đẹp. \nChủ nhà vui vẻ, thân thiện, chu đáo",
+                "comment_negative": "Nên decor lại phòng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hữu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ thân thiện, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/08/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên nhiệt tình. Đồ ăn ổn",
+                "comment_negative": "Trang thiết bị cũ. Đệm cứng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không bắt buộc ăn tại nhà nghỉ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngắm biển ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bác chủ nhà rất tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/06/2023",
+                "rating": "Kỳ nghỉ thú vị, lần đầu mình ở phòng gần biển đến vậy!",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khung cảnh nhìn từ phòng ra biển rất tốt, vừa trong phòng vừa ngắm biển không có gì để phàn nàn.",
+                "comment_negative": "Cải thiện thêm về tín hiệu của tivi, tín hiệu mạng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/06/2023",
+                "rating": "Kỳ nghỉ thú vị. Hẹn gặp lại!",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Tôi rất thích phòng view ra biển",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Happinesslighthouse",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ nghỉ khá tốt, tiện nghi đầy đủ, giá cả phải chăng, đồ ăn tươi giá hợp lí, chủ nhà thân thiện",
+                "comment_negative": "Wifi hơi chập chờn , nên khắc phục triệt để"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/06/2023",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "View biển cực đẹp, chủ rất nhiệt tình, vui vẻ, đồ ăn ok. Giá thành rất hợp lý mọi người nên lựa chọn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn đối diện biển. Phòng rộng, mới sơn lại. \nView hướng ra biển rất đẹp. \nChủ nhà vui vẻ, thân thiện, chu đáo",
+                "comment_negative": "Nên decor lại phòng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hữu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ thân thiện, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/08/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên nhiệt tình. Đồ ăn ổn",
+                "comment_negative": "Trang thiết bị cũ. Đệm cứng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không bắt buộc ăn tại nhà nghỉ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngắm biển ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bác chủ nhà rất tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/06/2023",
+                "rating": "Kỳ nghỉ thú vị, lần đầu mình ở phòng gần biển đến vậy!",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khung cảnh nhìn từ phòng ra biển rất tốt, vừa trong phòng vừa ngắm biển không có gì để phàn nàn.",
+                "comment_negative": "Cải thiện thêm về tín hiệu của tivi, tín hiệu mạng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/06/2023",
+                "rating": "Kỳ nghỉ thú vị. Hẹn gặp lại!",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Tôi rất thích phòng view ra biển",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Happinesslighthouse",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ nghỉ khá tốt, tiện nghi đầy đủ, giá cả phải chăng, đồ ăn tươi giá hợp lí, chủ nhà thân thiện",
+                "comment_negative": "Wifi hơi chập chờn , nên khắc phục triệt để"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/06/2023",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "View biển cực đẹp, chủ rất nhiệt tình, vui vẻ, đồ ăn ok. Giá thành rất hợp lý mọi người nên lựa chọn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn đối diện biển. Phòng rộng, mới sơn lại. \nView hướng ra biển rất đẹp. \nChủ nhà vui vẻ, thân thiện, chu đáo",
+                "comment_negative": "Nên decor lại phòng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hữu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ thân thiện, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/08/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên nhiệt tình. Đồ ăn ổn",
+                "comment_negative": "Trang thiết bị cũ. Đệm cứng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không bắt buộc ăn tại nhà nghỉ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngắm biển ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bác chủ nhà rất tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/06/2023",
+                "rating": "Kỳ nghỉ thú vị, lần đầu mình ở phòng gần biển đến vậy!",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khung cảnh nhìn từ phòng ra biển rất tốt, vừa trong phòng vừa ngắm biển không có gì để phàn nàn.",
+                "comment_negative": "Cải thiện thêm về tín hiệu của tivi, tín hiệu mạng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/06/2023",
+                "rating": "Kỳ nghỉ thú vị. Hẹn gặp lại!",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Tôi rất thích phòng view ra biển",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Happinesslighthouse",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ nghỉ khá tốt, tiện nghi đầy đủ, giá cả phải chăng, đồ ăn tươi giá hợp lí, chủ nhà thân thiện",
+                "comment_negative": "Wifi hơi chập chờn , nên khắc phục triệt để"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/06/2023",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "View biển cực đẹp, chủ rất nhiệt tình, vui vẻ, đồ ăn ok. Giá thành rất hợp lý mọi người nên lựa chọn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn đối diện biển. Phòng rộng, mới sơn lại. \nView hướng ra biển rất đẹp. \nChủ nhà vui vẻ, thân thiện, chu đáo",
+                "comment_negative": "Nên decor lại phòng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hữu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ thân thiện, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/08/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên nhiệt tình. Đồ ăn ổn",
+                "comment_negative": "Trang thiết bị cũ. Đệm cứng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không bắt buộc ăn tại nhà nghỉ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngắm biển ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bác chủ nhà rất tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/06/2023",
+                "rating": "Kỳ nghỉ thú vị, lần đầu mình ở phòng gần biển đến vậy!",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khung cảnh nhìn từ phòng ra biển rất tốt, vừa trong phòng vừa ngắm biển không có gì để phàn nàn.",
+                "comment_negative": "Cải thiện thêm về tín hiệu của tivi, tín hiệu mạng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/06/2023",
+                "rating": "Kỳ nghỉ thú vị. Hẹn gặp lại!",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Tôi rất thích phòng view ra biển",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Happinesslighthouse",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ nghỉ khá tốt, tiện nghi đầy đủ, giá cả phải chăng, đồ ăn tươi giá hợp lí, chủ nhà thân thiện",
+                "comment_negative": "Wifi hơi chập chờn , nên khắc phục triệt để"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/06/2023",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "View biển cực đẹp, chủ rất nhiệt tình, vui vẻ, đồ ăn ok. Giá thành rất hợp lý mọi người nên lựa chọn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn đối diện biển. Phòng rộng, mới sơn lại. \nView hướng ra biển rất đẹp. \nChủ nhà vui vẻ, thân thiện, chu đáo",
+                "comment_negative": "Nên decor lại phòng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hữu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ thân thiện, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/08/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên nhiệt tình. Đồ ăn ổn",
+                "comment_negative": "Trang thiết bị cũ. Đệm cứng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không bắt buộc ăn tại nhà nghỉ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngắm biển ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bác chủ nhà rất tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/06/2023",
+                "rating": "Kỳ nghỉ thú vị, lần đầu mình ở phòng gần biển đến vậy!",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khung cảnh nhìn từ phòng ra biển rất tốt, vừa trong phòng vừa ngắm biển không có gì để phàn nàn.",
+                "comment_negative": "Cải thiện thêm về tín hiệu của tivi, tín hiệu mạng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/06/2023",
+                "rating": "Kỳ nghỉ thú vị. Hẹn gặp lại!",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Tôi rất thích phòng view ra biển",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Happinesslighthouse",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ nghỉ khá tốt, tiện nghi đầy đủ, giá cả phải chăng, đồ ăn tươi giá hợp lí, chủ nhà thân thiện",
+                "comment_negative": "Wifi hơi chập chờn , nên khắc phục triệt để"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/06/2023",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "View biển cực đẹp, chủ rất nhiệt tình, vui vẻ, đồ ăn ok. Giá thành rất hợp lý mọi người nên lựa chọn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn đối diện biển. Phòng rộng, mới sơn lại. \nView hướng ra biển rất đẹp. \nChủ nhà vui vẻ, thân thiện, chu đáo",
+                "comment_negative": "Nên decor lại phòng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hữu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ thân thiện, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/08/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên nhiệt tình. Đồ ăn ổn",
+                "comment_negative": "Trang thiết bị cũ. Đệm cứng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không bắt buộc ăn tại nhà nghỉ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngắm biển ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bác chủ nhà rất tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/06/2023",
+                "rating": "Kỳ nghỉ thú vị, lần đầu mình ở phòng gần biển đến vậy!",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khung cảnh nhìn từ phòng ra biển rất tốt, vừa trong phòng vừa ngắm biển không có gì để phàn nàn.",
+                "comment_negative": "Cải thiện thêm về tín hiệu của tivi, tín hiệu mạng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/06/2023",
+                "rating": "Kỳ nghỉ thú vị. Hẹn gặp lại!",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Tôi rất thích phòng view ra biển",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Happinesslighthouse",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ nghỉ khá tốt, tiện nghi đầy đủ, giá cả phải chăng, đồ ăn tươi giá hợp lí, chủ nhà thân thiện",
+                "comment_negative": "Wifi hơi chập chờn , nên khắc phục triệt để"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/06/2023",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "View biển cực đẹp, chủ rất nhiệt tình, vui vẻ, đồ ăn ok. Giá thành rất hợp lý mọi người nên lựa chọn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn đối diện biển. Phòng rộng, mới sơn lại. \nView hướng ra biển rất đẹp. \nChủ nhà vui vẻ, thân thiện, chu đáo",
+                "comment_negative": "Nên decor lại phòng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hữu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ thân thiện, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/08/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên nhiệt tình. Đồ ăn ổn",
+                "comment_negative": "Trang thiết bị cũ. Đệm cứng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không bắt buộc ăn tại nhà nghỉ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngắm biển ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bác chủ nhà rất tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/06/2023",
+                "rating": "Kỳ nghỉ thú vị, lần đầu mình ở phòng gần biển đến vậy!",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khung cảnh nhìn từ phòng ra biển rất tốt, vừa trong phòng vừa ngắm biển không có gì để phàn nàn.",
+                "comment_negative": "Cải thiện thêm về tín hiệu của tivi, tín hiệu mạng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/06/2023",
+                "rating": "Kỳ nghỉ thú vị. Hẹn gặp lại!",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Tôi rất thích phòng view ra biển",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Happinesslighthouse",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ nghỉ khá tốt, tiện nghi đầy đủ, giá cả phải chăng, đồ ăn tươi giá hợp lí, chủ nhà thân thiện",
+                "comment_negative": "Wifi hơi chập chờn , nên khắc phục triệt để"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/06/2023",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "View biển cực đẹp, chủ rất nhiệt tình, vui vẻ, đồ ăn ok. Giá thành rất hợp lý mọi người nên lựa chọn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn đối diện biển. Phòng rộng, mới sơn lại. \nView hướng ra biển rất đẹp. \nChủ nhà vui vẻ, thân thiện, chu đáo",
+                "comment_negative": "Nên decor lại phòng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hữu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ thân thiện, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/08/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên nhiệt tình. Đồ ăn ổn",
+                "comment_negative": "Trang thiết bị cũ. Đệm cứng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không bắt buộc ăn tại nhà nghỉ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngắm biển ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bác chủ nhà rất tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/06/2023",
+                "rating": "Kỳ nghỉ thú vị, lần đầu mình ở phòng gần biển đến vậy!",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khung cảnh nhìn từ phòng ra biển rất tốt, vừa trong phòng vừa ngắm biển không có gì để phàn nàn.",
+                "comment_negative": "Cải thiện thêm về tín hiệu của tivi, tín hiệu mạng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/06/2023",
+                "rating": "Kỳ nghỉ thú vị. Hẹn gặp lại!",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Tôi rất thích phòng view ra biển",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Happinesslighthouse",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ nghỉ khá tốt, tiện nghi đầy đủ, giá cả phải chăng, đồ ăn tươi giá hợp lí, chủ nhà thân thiện",
+                "comment_negative": "Wifi hơi chập chờn , nên khắc phục triệt để"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/06/2023",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "View biển cực đẹp, chủ rất nhiệt tình, vui vẻ, đồ ăn ok. Giá thành rất hợp lý mọi người nên lựa chọn.",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngoc",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-n.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/05/2022",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 5/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn đối diện biển. Phòng rộng, mới sơn lại. \nView hướng ra biển rất đẹp. \nChủ nhà vui vẻ, thân thiện, chu đáo",
+                "comment_negative": "Nên decor lại phòng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hữu",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/02/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chủ thân thiện, nhiệt tình",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lieu",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-l.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "19/08/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Nhân viên nhiệt tình. Đồ ăn ổn",
+                "comment_negative": "Trang thiết bị cũ. Đệm cứng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Long",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "13/08/2023",
+                "rating": "Tốt",
+                "score": 7.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không bắt buộc ăn tại nhà nghỉ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Vũ",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/07/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Ngắm biển ok",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Sinh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "17/07/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 7/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Bác chủ nhà rất tốt",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hung",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "29/06/2023",
+                "rating": "Kỳ nghỉ thú vị, lần đầu mình ở phòng gần biển đến vậy!",
+                "score": 8.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khung cảnh nhìn từ phòng ra biển rất tốt, vừa trong phòng vừa ngắm biển không có gì để phàn nàn.",
+                "comment_negative": "Cải thiện thêm về tín hiệu của tivi, tín hiệu mạng."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "28/06/2023",
+                "rating": "Kỳ nghỉ thú vị. Hẹn gặp lại!",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Tôi rất thích phòng view ra biển",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Happinesslighthouse",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-h.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/06/2023",
+                "rating": "Tuyệt hảo",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Chỗ nghỉ khá tốt, tiện nghi đầy đủ, giá cả phải chăng, đồ ăn tươi giá hợp lí, chủ nhà thân thiện",
+                "comment_negative": "Wifi hơi chập chờn , nên khắc phục triệt để"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Tran",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-t.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "1/06/2023",
+                "rating": "Tuyệt vời",
+                "score": 9.0,
+                "room_type": "Phòng 2 Giường Đơn Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 6/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "View biển cực đẹp, chủ rất nhiệt tình, vui vẻ, đồ ăn ok. Giá thành rất hợp lý mọi người nên lựa chọn.",
+                "comment_negative": null
+            }
+        }
+    ]
+}

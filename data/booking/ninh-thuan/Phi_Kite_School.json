@@ -1,0 +1,868 @@
+{
+    "name": "Phi Kite School",
+    "address": "Vĩnh Hải, Ninh Hải District, Ninh Thuan Province, Phan Rang, Việt Nam",
+    "description": "Nằm giáp biển, Phi Kite School cung cấp chỗ nghỉ 3 sao ở Phan Rang, đồng thời có khu vườn, sân hiên và nhà hàng. Chỗ nghỉ này có các tiện nghi như quầy bar và khu vực bãi biển riêng. Chỗ nghỉ cung cấp lễ tân 24/24, dịch vụ đưa đón sân bay, dịch vụ phòng và Wi-Fi miễn phí ở toàn bộ chỗ nghỉ.\n\nTại khách sạn, mỗi phòng đều có ban công. Với phòng tắm riêng được trang bị vòi xịt/chậu rửa vệ sinh và máy sấy tóc, một số phòng tại Phi Kite School cũng có view biển. Tại chỗ nghỉ, tất cả các phòng có ga trải giường và khăn tắm.\n\nPhi Kite School có sân chơi trẻ em. Khách tại khách sạn sẽ có thể tận hưởng các hoạt động ở trong Phan Rang và khu vực xung quanh, như leo núi và lướt ván buồm.\n\nSân bay gần nhất là Sân bay Liên Khương, cách Phi Kite School 131 km.",
+    "rating": "8.5",
+    "total_rating": "",
+    "evaluation_categories": {
+        "service_staff": 9.2,
+        "amenities": 8.4,
+        "cleanliness": 8.6,
+        "comfort": 8.6,
+        "value_for_money": 8.5,
+        "location": 8.6,
+        "free_wifi": 8.8
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Chau",
+                "avatar": "https://graph.facebook.com/v2.9/10207890418953191/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Bungalow",
+                "stay_duration": "3 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Có hàng cây mát mẻ,sát biển, có hẳn giường nằm ngủ trưa nhìn ra biển, bar,bàn bida sát biển. Có thể vừa nghỉ trưa vừa xem kite surfing. Thuận tiện đi phượt qua Vĩnh Hy,Hang rái,Núi Đá với những chỗ check in đẹp.",
+                "comment_negative": "Mình ở Bungalow nhỏ hơi nóng,lần sau rút kinh nghiệm ở phòng bình thường."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuan",
+                "avatar": "https://lh3.googleusercontent.com/-M_VP8SlbSHY/AAAAAAAAAAI/AAAAAAAABR8/kptX5EO32LM/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn gần biển, yên tĩnh, sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trungnt2317",
+                "avatar": "https://graph.facebook.com/v2.9/2211196442451710/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian bên ngoài thoải mái, mát mẻ và yên tĩnh.  Phòng gỗ tuy nhỏ nhưng tiên nghi đầy đủ. Nhân viên nhiệt tình",
+                "comment_negative": "Quan điểm cá nhân thì thấy giá ăn sáng hơi cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": "https://graph.facebook.com/v2.9/2207504092739608/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/08/2023",
+                "rating": "Khá tốt",
+                "score": 9.0,
+                "room_type": "Bungalow",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chủ ks rất nhiệt tình",
+                "comment_negative": "Mặc dù không liên quan đến ks nhưng bãi biển không sạch lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": "https://lh5.googleusercontent.com/-ZKSR_wDoGmM/AAAAAAAAAAI/AAAAAAAABlA/UTWd4QiUl6w/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Chill chill cùng Phi kite school",
+                "score": 9.0,
+                "room_type": "Phòng 4 người nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng sạch và rộng rãi, đồ ăn nấu ngon, có nhiều trò chơi vui như chèo thuyền Kayak, lướt ván dù .... nhân viên phục vụ nhiệt tình tạo cảm giác thân thiện như đang ở nhà của mình",
+                "comment_negative": "Nên trang bị thêm sữa tắm và thêm dịch vụ cho thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ  nghĩ cảnh đẹp yên tịnh",
+                "comment_negative": "Không có chỗ nấu ăn nên hơi bất tiện"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi-2QUEWrz5dkhn4eTFY2v37vZW44yVKKi0q91Vtw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Không như kì vọng",
+                "score": 7.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Gần vịnh Vĩnh Hy",
+                "comment_negative": "Khách sạn có nhiều chó,thả ra bãi biển ị bậy rất dơ nên không\ndám tắm.Phòng ốc bình thường không như mong đợi,\ngiá cao hơn so với giá trị mang lại.Không có ăn sáng.\nChất lượng phòng ốc kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huệ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GhhF7kNa9mLkYQat62wrPc1bERvbAfiaaHFyF4XXA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/04/2021",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 người nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 3/2021",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sân vườn xinh xắn. Chủ nhà rất dễ thương 😍",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thao",
+                "avatar": "https://lh3.googleusercontent.com/a-/AFdZucroRqdZSw1ryreVZvO6V7ArNKpVKEEfKqFSJ_SBow=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Bungalow Deluxe Nhìn Ra Khu Vườn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phù hợp với các bạn thích chơi/ học dù lượn",
+                "comment_negative": "Không có nhiều sự lựa chọn về món ăn sáng/ trưa/ tối. Muốn ăn hải sản phải đi ra khu dân cư bên ngoài. Biển nhiều gió, nhiều rong biển và bờ biển nhiều xác san hô, vỏ ốc"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Không tên",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/09/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow",
+                "stay_duration": "2 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chủ chỗ nghỉ rất vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chau",
+                "avatar": "https://graph.facebook.com/v2.9/10207890418953191/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Bungalow",
+                "stay_duration": "3 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Có hàng cây mát mẻ,sát biển, có hẳn giường nằm ngủ trưa nhìn ra biển, bar,bàn bida sát biển. Có thể vừa nghỉ trưa vừa xem kite surfing. Thuận tiện đi phượt qua Vĩnh Hy,Hang rái,Núi Đá với những chỗ check in đẹp.",
+                "comment_negative": "Mình ở Bungalow nhỏ hơi nóng,lần sau rút kinh nghiệm ở phòng bình thường."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuan",
+                "avatar": "https://lh3.googleusercontent.com/-M_VP8SlbSHY/AAAAAAAAAAI/AAAAAAAABR8/kptX5EO32LM/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn gần biển, yên tĩnh, sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trungnt2317",
+                "avatar": "https://graph.facebook.com/v2.9/2211196442451710/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian bên ngoài thoải mái, mát mẻ và yên tĩnh.  Phòng gỗ tuy nhỏ nhưng tiên nghi đầy đủ. Nhân viên nhiệt tình",
+                "comment_negative": "Quan điểm cá nhân thì thấy giá ăn sáng hơi cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": "https://graph.facebook.com/v2.9/2207504092739608/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/08/2023",
+                "rating": "Khá tốt",
+                "score": 9.0,
+                "room_type": "Bungalow",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chủ ks rất nhiệt tình",
+                "comment_negative": "Mặc dù không liên quan đến ks nhưng bãi biển không sạch lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": "https://lh5.googleusercontent.com/-ZKSR_wDoGmM/AAAAAAAAAAI/AAAAAAAABlA/UTWd4QiUl6w/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Chill chill cùng Phi kite school",
+                "score": 9.0,
+                "room_type": "Phòng 4 người nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng sạch và rộng rãi, đồ ăn nấu ngon, có nhiều trò chơi vui như chèo thuyền Kayak, lướt ván dù .... nhân viên phục vụ nhiệt tình tạo cảm giác thân thiện như đang ở nhà của mình",
+                "comment_negative": "Nên trang bị thêm sữa tắm và thêm dịch vụ cho thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ  nghĩ cảnh đẹp yên tịnh",
+                "comment_negative": "Không có chỗ nấu ăn nên hơi bất tiện"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi-2QUEWrz5dkhn4eTFY2v37vZW44yVKKi0q91Vtw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Không như kì vọng",
+                "score": 7.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Gần vịnh Vĩnh Hy",
+                "comment_negative": "Khách sạn có nhiều chó,thả ra bãi biển ị bậy rất dơ nên không\ndám tắm.Phòng ốc bình thường không như mong đợi,\ngiá cao hơn so với giá trị mang lại.Không có ăn sáng.\nChất lượng phòng ốc kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huệ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GhhF7kNa9mLkYQat62wrPc1bERvbAfiaaHFyF4XXA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/04/2021",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 người nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 3/2021",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sân vườn xinh xắn. Chủ nhà rất dễ thương 😍",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thao",
+                "avatar": "https://lh3.googleusercontent.com/a-/AFdZucroRqdZSw1ryreVZvO6V7ArNKpVKEEfKqFSJ_SBow=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Bungalow Deluxe Nhìn Ra Khu Vườn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phù hợp với các bạn thích chơi/ học dù lượn",
+                "comment_negative": "Không có nhiều sự lựa chọn về món ăn sáng/ trưa/ tối. Muốn ăn hải sản phải đi ra khu dân cư bên ngoài. Biển nhiều gió, nhiều rong biển và bờ biển nhiều xác san hô, vỏ ốc"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Không tên",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/09/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow",
+                "stay_duration": "2 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chủ chỗ nghỉ rất vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chau",
+                "avatar": "https://graph.facebook.com/v2.9/10207890418953191/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Bungalow",
+                "stay_duration": "3 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Có hàng cây mát mẻ,sát biển, có hẳn giường nằm ngủ trưa nhìn ra biển, bar,bàn bida sát biển. Có thể vừa nghỉ trưa vừa xem kite surfing. Thuận tiện đi phượt qua Vĩnh Hy,Hang rái,Núi Đá với những chỗ check in đẹp.",
+                "comment_negative": "Mình ở Bungalow nhỏ hơi nóng,lần sau rút kinh nghiệm ở phòng bình thường."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuan",
+                "avatar": "https://lh3.googleusercontent.com/-M_VP8SlbSHY/AAAAAAAAAAI/AAAAAAAABR8/kptX5EO32LM/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn gần biển, yên tĩnh, sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trungnt2317",
+                "avatar": "https://graph.facebook.com/v2.9/2211196442451710/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian bên ngoài thoải mái, mát mẻ và yên tĩnh.  Phòng gỗ tuy nhỏ nhưng tiên nghi đầy đủ. Nhân viên nhiệt tình",
+                "comment_negative": "Quan điểm cá nhân thì thấy giá ăn sáng hơi cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": "https://graph.facebook.com/v2.9/2207504092739608/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/08/2023",
+                "rating": "Khá tốt",
+                "score": 9.0,
+                "room_type": "Bungalow",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chủ ks rất nhiệt tình",
+                "comment_negative": "Mặc dù không liên quan đến ks nhưng bãi biển không sạch lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": "https://lh5.googleusercontent.com/-ZKSR_wDoGmM/AAAAAAAAAAI/AAAAAAAABlA/UTWd4QiUl6w/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Chill chill cùng Phi kite school",
+                "score": 9.0,
+                "room_type": "Phòng 4 người nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng sạch và rộng rãi, đồ ăn nấu ngon, có nhiều trò chơi vui như chèo thuyền Kayak, lướt ván dù .... nhân viên phục vụ nhiệt tình tạo cảm giác thân thiện như đang ở nhà của mình",
+                "comment_negative": "Nên trang bị thêm sữa tắm và thêm dịch vụ cho thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ  nghĩ cảnh đẹp yên tịnh",
+                "comment_negative": "Không có chỗ nấu ăn nên hơi bất tiện"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi-2QUEWrz5dkhn4eTFY2v37vZW44yVKKi0q91Vtw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Không như kì vọng",
+                "score": 7.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Gần vịnh Vĩnh Hy",
+                "comment_negative": "Khách sạn có nhiều chó,thả ra bãi biển ị bậy rất dơ nên không\ndám tắm.Phòng ốc bình thường không như mong đợi,\ngiá cao hơn so với giá trị mang lại.Không có ăn sáng.\nChất lượng phòng ốc kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huệ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GhhF7kNa9mLkYQat62wrPc1bERvbAfiaaHFyF4XXA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/04/2021",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 người nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 3/2021",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sân vườn xinh xắn. Chủ nhà rất dễ thương 😍",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thao",
+                "avatar": "https://lh3.googleusercontent.com/a-/AFdZucroRqdZSw1ryreVZvO6V7ArNKpVKEEfKqFSJ_SBow=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Bungalow Deluxe Nhìn Ra Khu Vườn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phù hợp với các bạn thích chơi/ học dù lượn",
+                "comment_negative": "Không có nhiều sự lựa chọn về món ăn sáng/ trưa/ tối. Muốn ăn hải sản phải đi ra khu dân cư bên ngoài. Biển nhiều gió, nhiều rong biển và bờ biển nhiều xác san hô, vỏ ốc"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Không tên",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/09/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow",
+                "stay_duration": "2 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chủ chỗ nghỉ rất vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chau",
+                "avatar": "https://graph.facebook.com/v2.9/10207890418953191/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Bungalow",
+                "stay_duration": "3 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Có hàng cây mát mẻ,sát biển, có hẳn giường nằm ngủ trưa nhìn ra biển, bar,bàn bida sát biển. Có thể vừa nghỉ trưa vừa xem kite surfing. Thuận tiện đi phượt qua Vĩnh Hy,Hang rái,Núi Đá với những chỗ check in đẹp.",
+                "comment_negative": "Mình ở Bungalow nhỏ hơi nóng,lần sau rút kinh nghiệm ở phòng bình thường."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuan",
+                "avatar": "https://lh3.googleusercontent.com/-M_VP8SlbSHY/AAAAAAAAAAI/AAAAAAAABR8/kptX5EO32LM/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn gần biển, yên tĩnh, sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trungnt2317",
+                "avatar": "https://graph.facebook.com/v2.9/2211196442451710/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian bên ngoài thoải mái, mát mẻ và yên tĩnh.  Phòng gỗ tuy nhỏ nhưng tiên nghi đầy đủ. Nhân viên nhiệt tình",
+                "comment_negative": "Quan điểm cá nhân thì thấy giá ăn sáng hơi cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": "https://graph.facebook.com/v2.9/2207504092739608/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/08/2023",
+                "rating": "Khá tốt",
+                "score": 9.0,
+                "room_type": "Bungalow",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chủ ks rất nhiệt tình",
+                "comment_negative": "Mặc dù không liên quan đến ks nhưng bãi biển không sạch lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": "https://lh5.googleusercontent.com/-ZKSR_wDoGmM/AAAAAAAAAAI/AAAAAAAABlA/UTWd4QiUl6w/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Chill chill cùng Phi kite school",
+                "score": 9.0,
+                "room_type": "Phòng 4 người nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng sạch và rộng rãi, đồ ăn nấu ngon, có nhiều trò chơi vui như chèo thuyền Kayak, lướt ván dù .... nhân viên phục vụ nhiệt tình tạo cảm giác thân thiện như đang ở nhà của mình",
+                "comment_negative": "Nên trang bị thêm sữa tắm và thêm dịch vụ cho thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ  nghĩ cảnh đẹp yên tịnh",
+                "comment_negative": "Không có chỗ nấu ăn nên hơi bất tiện"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi-2QUEWrz5dkhn4eTFY2v37vZW44yVKKi0q91Vtw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Không như kì vọng",
+                "score": 7.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Gần vịnh Vĩnh Hy",
+                "comment_negative": "Khách sạn có nhiều chó,thả ra bãi biển ị bậy rất dơ nên không\ndám tắm.Phòng ốc bình thường không như mong đợi,\ngiá cao hơn so với giá trị mang lại.Không có ăn sáng.\nChất lượng phòng ốc kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huệ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GhhF7kNa9mLkYQat62wrPc1bERvbAfiaaHFyF4XXA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/04/2021",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 người nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 3/2021",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sân vườn xinh xắn. Chủ nhà rất dễ thương 😍",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thao",
+                "avatar": "https://lh3.googleusercontent.com/a-/AFdZucroRqdZSw1ryreVZvO6V7ArNKpVKEEfKqFSJ_SBow=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Bungalow Deluxe Nhìn Ra Khu Vườn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phù hợp với các bạn thích chơi/ học dù lượn",
+                "comment_negative": "Không có nhiều sự lựa chọn về món ăn sáng/ trưa/ tối. Muốn ăn hải sản phải đi ra khu dân cư bên ngoài. Biển nhiều gió, nhiều rong biển và bờ biển nhiều xác san hô, vỏ ốc"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Không tên",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/09/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow",
+                "stay_duration": "2 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chủ chỗ nghỉ rất vui vẻ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chau",
+                "avatar": "https://graph.facebook.com/v2.9/10207890418953191/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "2/05/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Bungalow",
+                "stay_duration": "3 đêm · tháng 5/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Có hàng cây mát mẻ,sát biển, có hẳn giường nằm ngủ trưa nhìn ra biển, bar,bàn bida sát biển. Có thể vừa nghỉ trưa vừa xem kite surfing. Thuận tiện đi phượt qua Vĩnh Hy,Hang rái,Núi Đá với những chỗ check in đẹp.",
+                "comment_negative": "Mình ở Bungalow nhỏ hơi nóng,lần sau rút kinh nghiệm ở phòng bình thường."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuan",
+                "avatar": "https://lh3.googleusercontent.com/-M_VP8SlbSHY/AAAAAAAAAAI/AAAAAAAABR8/kptX5EO32LM/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "10/09/2023",
+                "rating": "Xuất sắc",
+                "score": 10.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 9/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Khách sạn gần biển, yên tĩnh, sạch sẽ",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trungnt2317",
+                "avatar": "https://graph.facebook.com/v2.9/2211196442451710/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "3/09/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow Nhìn ra vườn",
+                "stay_duration": "1 đêm · tháng 9/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Không gian bên ngoài thoải mái, mát mẻ và yên tĩnh.  Phòng gỗ tuy nhỏ nhưng tiên nghi đầy đủ. Nhân viên nhiệt tình",
+                "comment_negative": "Quan điểm cá nhân thì thấy giá ăn sáng hơi cao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh",
+                "avatar": "https://graph.facebook.com/v2.9/2207504092739608/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "14/08/2023",
+                "rating": "Khá tốt",
+                "score": 9.0,
+                "room_type": "Bungalow",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Cặp đôi",
+                "comment_positive": "Chủ ks rất nhiệt tình",
+                "comment_negative": "Mặc dù không liên quan đến ks nhưng bãi biển không sạch lắm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thị",
+                "avatar": "https://lh5.googleusercontent.com/-ZKSR_wDoGmM/AAAAAAAAAAI/AAAAAAAABlA/UTWd4QiUl6w/s96-c/photo.jpg",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/08/2023",
+                "rating": "Chill chill cùng Phi kite school",
+                "score": 9.0,
+                "room_type": "Phòng 4 người nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 8/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Phòng sạch và rộng rãi, đồ ăn nấu ngon, có nhiều trò chơi vui như chèo thuyền Kayak, lướt ván dù .... nhân viên phục vụ nhiệt tình tạo cảm giác thân thiện như đang ở nhà của mình",
+                "comment_negative": "Nên trang bị thêm sữa tắm và thêm dịch vụ cho thuê xe máy"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Mai",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-m.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/04/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Deluxe Giường Đôi Nhìn Ra Biển",
+                "stay_duration": "2 đêm · tháng 3/2023",
+                "group_type": "Nhóm",
+                "comment_positive": "Chỗ  nghĩ cảnh đẹp yên tịnh",
+                "comment_negative": "Không có chỗ nấu ăn nên hơi bất tiện"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Quang",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14Gi-2QUEWrz5dkhn4eTFY2v37vZW44yVKKi0q91Vtw=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "23/08/2022",
+                "rating": "Không như kì vọng",
+                "score": 7.0,
+                "room_type": "Phòng 4 Người Nhìn Ra Biển",
+                "stay_duration": "1 đêm · tháng 8/2022",
+                "group_type": "Nhóm",
+                "comment_positive": "Gần vịnh Vĩnh Hy",
+                "comment_negative": "Khách sạn có nhiều chó,thả ra bãi biển ị bậy rất dơ nên không\ndám tắm.Phòng ốc bình thường không như mong đợi,\ngiá cao hơn so với giá trị mang lại.Không có ăn sáng.\nChất lượng phòng ốc kém."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huệ",
+                "avatar": "https://lh3.googleusercontent.com/a-/AOh14GhhF7kNa9mLkYQat62wrPc1bERvbAfiaaHFyF4XXA=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "25/04/2021",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng 4 người nhìn ra vườn",
+                "stay_duration": "2 đêm · tháng 3/2021",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Sân vườn xinh xắn. Chủ nhà rất dễ thương 😍",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thao",
+                "avatar": "https://lh3.googleusercontent.com/a-/AFdZucroRqdZSw1ryreVZvO6V7ArNKpVKEEfKqFSJ_SBow=s96-c",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "4/05/2023",
+                "rating": "Dễ chịu",
+                "score": 6.0,
+                "room_type": "Bungalow Deluxe Nhìn Ra Khu Vườn",
+                "stay_duration": "1 đêm · tháng 4/2023",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "Phù hợp với các bạn thích chơi/ học dù lượn",
+                "comment_negative": "Không có nhiều sự lựa chọn về món ăn sáng/ trưa/ tối. Muốn ăn hải sản phải đi ra khu dân cư bên ngoài. Biển nhiều gió, nhiều rong biển và bờ biển nhiều xác san hô, vỏ ốc"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Không tên",
+                "avatar": null,
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "9/09/2022",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Bungalow",
+                "stay_duration": "2 đêm · tháng 8/2022",
+                "group_type": "Phòng gia đình",
+                "comment_positive": "chủ chỗ nghỉ rất vui vẻ",
+                "comment_negative": null
+            }
+        }
+    ]
+}

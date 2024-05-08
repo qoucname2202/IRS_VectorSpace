@@ -1,0 +1,120 @@
+{
+    "name": "Manh Hung Hotel",
+    "address": "48 Trần Huy Liệu, Buôn Ma Thuột, Việt Nam",
+    "description": "Nằm ở Buôn Ma Thuột, cách Trung tâm thương mại Vincom Plaza Buôn Ma Thuột 2.4 km, Manh Hung Hotel cung cấp chỗ nghỉ có nhà hàng, chỗ đậu xe riêng miễn phí và quầy bar. Khách sạn 2 sao này cung cấp dịch vụ phòng, quầy lễ tân 24 giờ và Wi-Fi miễn phí. Một số phòng tại chỗ nghỉ có ban công với view thành phố.\n\nSân bay gần nhất là Sân bay Buôn Ma Thuột, cách khách sạn 10 km.",
+    "rating": "8.3",
+    "total_rating": "6",
+    "evaluation_categories": {
+        "service_staff": 10.0,
+        "amenities": 7.9,
+        "cleanliness": 8.8,
+        "comfort": 9.2,
+        "value_for_money": 9.2,
+        "location": 8.8,
+        "free_wifi": null
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyen",
+                "avatar": "https://graph.facebook.com/v2.9/5643050429038522/picture?type=square&height=64&width=64",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "6/02/2024",
+                "rating": "Trải nghiệm tốt",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Có Ban Công",
+                "stay_duration": "3 đêm · tháng 1/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Rộng rãi, chủ nhà hỗ trợ rất tốt",
+                "comment_negative": "Không"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thương",
+                "avatar": "https://xx.bstatic.com/xdata/images/xphoto/square64/290965177.jpg?k=3fe98dd81835ab7d51757ea94b78decb366bf706fe0862c179a31909a03d41d4&o=",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "11/08/2023",
+                "rating": "Mọi thứ khá ổn trong tầm giá, chỗ nghỉ quen thuộc của mình khi về đây",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 8/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Có quầy uống rooftop trên sân thượng, quán ăn cũng gần, cô chú dễ thương, gần trung tâm tiện đi lại.",
+                "comment_negative": "Wifi hơi bị lag"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Brad",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-b.png",
+                "country": "Vương Quốc Anh"
+            },
+            "review": {
+                "date": "16/03/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Khách lẻ",
+                "comment_positive": "Very Friendly Hosts, \nCheap & Cheerful accommodation",
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Jisun",
+                "avatar": "https://graph.facebook.com/v2.9/1652042654864286/picture?type=square&height=64&width=64",
+                "country": "Hàn Quốc"
+            },
+            "review": {
+                "date": "26/02/2024",
+                "rating": "좋아요",
+                "score": 9.0,
+                "room_type": "Phòng Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · Tháng 2/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": "깨끗하고 발코니도 좋고 사람들도 늘 잘 웃고 잘해주셨어요",
+                "comment_negative": "조금 시끄러운것?!"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Chan",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-c.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "16/04/2024",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Ban Công",
+                "stay_duration": "1 đêm · tháng 3/2024",
+                "group_type": "Cặp đôi",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phuong",
+                "avatar": "https://xx.bstatic.com/static/img/review/avatars/ava-p.png",
+                "country": "Việt Nam"
+            },
+            "review": {
+                "date": "12/011/2023",
+                "rating": "Rất tốt",
+                "score": 8.0,
+                "room_type": "Phòng Giường Đôi Có Ban Công",
+                "stay_duration": "2 đêm · tháng 11/2023",
+                "group_type": "Khách lẻ",
+                "comment_positive": null,
+                "comment_negative": null
+            }
+        }
+    ]
+}
